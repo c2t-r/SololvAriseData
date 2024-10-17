@@ -1,0 +1,812 @@
+[
+  {
+    "ID": 100100001,
+    "RandomOptID": 100100,
+    "Level": 1,
+    "StatType": "AddAtt",
+    "OptMinValue": 40,
+    "OptMaxValue": 405,
+    "Prob": 100
+  },
+  {
+    "ID": 100100002,
+    "RandomOptID": 100100,
+    "Level": 1,
+    "StatType": "AttR",
+    "OptMinValue": 25,
+    "OptMaxValue": 233,
+    "Prob": 100
+  },
+  {
+    "ID": 100110001,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 100110002,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 100110003,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 100110004,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 100110005,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 100110006,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 10,
+    "OptMaxValue": 86,
+    "Prob": 100
+  },
+  {
+    "ID": 100110007,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 100110008,
+    "RandomOptID": 100110,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 10,
+    "OptMaxValue": 116,
+    "Prob": 100
+  },
+  {
+    "ID": 100101001,
+    "RandomOptID": 100101,
+    "Level": 1,
+    "StatType": "AddAtt",
+    "OptMinValue": 80,
+    "OptMaxValue": 811,
+    "Prob": 100
+  },
+  {
+    "ID": 100101002,
+    "RandomOptID": 100101,
+    "Level": 1,
+    "StatType": "AttR",
+    "OptMinValue": 45,
+    "OptMaxValue": 466,
+    "Prob": 100
+  },
+  {
+    "ID": 100111001,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 100111002,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 100111003,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 100111004,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 100111005,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 35,
+    "OptMaxValue": 347,
+    "Prob": 100
+  },
+  {
+    "ID": 100111006,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 100111007,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 35,
+    "OptMaxValue": 347,
+    "Prob": 100
+  },
+  {
+    "ID": 100111008,
+    "RandomOptID": 100111,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 25,
+    "OptMaxValue": 233,
+    "Prob": 100
+  },
+  {
+    "ID": 100102001,
+    "RandomOptID": 100102,
+    "Level": 1,
+    "StatType": "AddAtt",
+    "OptMinValue": 120,
+    "OptMaxValue": 1217,
+    "Prob": 100
+  },
+  {
+    "ID": 100102002,
+    "RandomOptID": 100102,
+    "Level": 1,
+    "StatType": "AttR",
+    "OptMinValue": 70,
+    "OptMaxValue": 700,
+    "Prob": 100
+  },
+  {
+    "ID": 100112001,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 100112002,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 100112003,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 100112004,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 100112005,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 50,
+    "OptMaxValue": 521,
+    "Prob": 100
+  },
+  {
+    "ID": 100112006,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 25,
+    "OptMaxValue": 260,
+    "Prob": 100
+  },
+  {
+    "ID": 100112007,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 50,
+    "OptMaxValue": 521,
+    "Prob": 100
+  },
+  {
+    "ID": 100112008,
+    "RandomOptID": 100112,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 35,
+    "OptMaxValue": 350,
+    "Prob": 100
+  },
+  {
+    "ID": 101100001,
+    "RandomOptID": 101100,
+    "Level": 1,
+    "StatType": "AddArm",
+    "OptMinValue": 40,
+    "OptMaxValue": 405,
+    "Prob": 100
+  },
+  {
+    "ID": 101100002,
+    "RandomOptID": 101100,
+    "Level": 1,
+    "StatType": "ArmR",
+    "OptMinValue": 25,
+    "OptMaxValue": 233,
+    "Prob": 100
+  },
+  {
+    "ID": 101110001,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 101110002,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 101110003,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 101110004,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 101110005,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 101110006,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 10,
+    "OptMaxValue": 86,
+    "Prob": 100
+  },
+  {
+    "ID": 101110007,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 101110008,
+    "RandomOptID": 101110,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 10,
+    "OptMaxValue": 116,
+    "Prob": 100
+  },
+  {
+    "ID": 101101001,
+    "RandomOptID": 101101,
+    "Level": 1,
+    "StatType": "AddArm",
+    "OptMinValue": 80,
+    "OptMaxValue": 811,
+    "Prob": 100
+  },
+  {
+    "ID": 101101002,
+    "RandomOptID": 101101,
+    "Level": 1,
+    "StatType": "ArmR",
+    "OptMinValue": 45,
+    "OptMaxValue": 466,
+    "Prob": 100
+  },
+  {
+    "ID": 101111001,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 101111002,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 101111003,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 101111004,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 101111005,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 35,
+    "OptMaxValue": 347,
+    "Prob": 100
+  },
+  {
+    "ID": 101111006,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 101111007,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 35,
+    "OptMaxValue": 347,
+    "Prob": 100
+  },
+  {
+    "ID": 101111008,
+    "RandomOptID": 101111,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 25,
+    "OptMaxValue": 233,
+    "Prob": 100
+  },
+  {
+    "ID": 101102001,
+    "RandomOptID": 101102,
+    "Level": 1,
+    "StatType": "AddArm",
+    "OptMinValue": 120,
+    "OptMaxValue": 1217,
+    "Prob": 100
+  },
+  {
+    "ID": 101102002,
+    "RandomOptID": 101102,
+    "Level": 1,
+    "StatType": "ArmR",
+    "OptMinValue": 70,
+    "OptMaxValue": 700,
+    "Prob": 100
+  },
+  {
+    "ID": 101112001,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 101112002,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 101112003,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 101112004,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 101112005,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 50,
+    "OptMaxValue": 521,
+    "Prob": 100
+  },
+  {
+    "ID": 101112006,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 25,
+    "OptMaxValue": 260,
+    "Prob": 100
+  },
+  {
+    "ID": 101112007,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 50,
+    "OptMaxValue": 521,
+    "Prob": 100
+  },
+  {
+    "ID": 101112008,
+    "RandomOptID": 101112,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 35,
+    "OptMaxValue": 350,
+    "Prob": 100
+  },
+  {
+    "ID": 102100001,
+    "RandomOptID": 102100,
+    "Level": 1,
+    "StatType": "AddMHP",
+    "OptMinValue": 80,
+    "OptMaxValue": 811,
+    "Prob": 100
+  },
+  {
+    "ID": 102100002,
+    "RandomOptID": 102100,
+    "Level": 1,
+    "StatType": "MHPR",
+    "OptMinValue": 25,
+    "OptMaxValue": 233,
+    "Prob": 100
+  },
+  {
+    "ID": 102110001,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 102110002,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 102110003,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 102110004,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 50,
+    "OptMaxValue": 492,
+    "Prob": 100
+  },
+  {
+    "ID": 102110005,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 102110006,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 10,
+    "OptMaxValue": 86,
+    "Prob": 100
+  },
+  {
+    "ID": 102110007,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 102110008,
+    "RandomOptID": 102110,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 10,
+    "OptMaxValue": 116,
+    "Prob": 100
+  },
+  {
+    "ID": 102101001,
+    "RandomOptID": 102101,
+    "Level": 1,
+    "StatType": "AddMHP",
+    "OptMinValue": 160,
+    "OptMaxValue": 1622,
+    "Prob": 100
+  },
+  {
+    "ID": 102101002,
+    "RandomOptID": 102101,
+    "Level": 1,
+    "StatType": "MHPR",
+    "OptMinValue": 45,
+    "OptMaxValue": 466,
+    "Prob": 100
+  },
+  {
+    "ID": 102111001,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 102111002,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 102111003,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 102111004,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 100,
+    "OptMaxValue": 985,
+    "Prob": 100
+  },
+  {
+    "ID": 102111005,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 35,
+    "OptMaxValue": 347,
+    "Prob": 100
+  },
+  {
+    "ID": 102111006,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 15,
+    "OptMaxValue": 173,
+    "Prob": 100
+  },
+  {
+    "ID": 102111007,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 35,
+    "OptMaxValue": 347,
+    "Prob": 100
+  },
+  {
+    "ID": 102111008,
+    "RandomOptID": 102111,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 25,
+    "OptMaxValue": 233,
+    "Prob": 100
+  },
+  {
+    "ID": 102102001,
+    "RandomOptID": 102102,
+    "Level": 1,
+    "StatType": "AddMHP",
+    "OptMinValue": 245,
+    "OptMaxValue": 2434,
+    "Prob": 100
+  },
+  {
+    "ID": 102102002,
+    "RandomOptID": 102102,
+    "Level": 1,
+    "StatType": "MHPR",
+    "OptMinValue": 70,
+    "OptMaxValue": 700,
+    "Prob": 100
+  },
+  {
+    "ID": 102112001,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "Critical",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 102112002,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "CriDam",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 102112003,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "Dam",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 102112004,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "ArmPen",
+    "OptMinValue": 150,
+    "OptMaxValue": 1478,
+    "Prob": 100
+  },
+  {
+    "ID": 102112005,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "DamRedu",
+    "OptMinValue": 50,
+    "OptMaxValue": 521,
+    "Prob": 100
+  },
+  {
+    "ID": 102112006,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "AddMMP",
+    "OptMinValue": 25,
+    "OptMaxValue": 260,
+    "Prob": 100
+  },
+  {
+    "ID": 102112007,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "MPCostRedu",
+    "OptMinValue": 50,
+    "OptMaxValue": 521,
+    "Prob": 100
+  },
+  {
+    "ID": 102112008,
+    "RandomOptID": 102112,
+    "Level": 1,
+    "StatType": "MPRegenR",
+    "OptMinValue": 35,
+    "OptMaxValue": 350,
+    "Prob": 100
+  }
+]

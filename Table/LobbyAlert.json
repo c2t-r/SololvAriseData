@@ -98,5 +98,45 @@
     "TopAlertString": "",
     "MoveTarget": 52,
     "CharObjcetID": 0
+  },
+  {
+    "ID": 11,
+    "RedDotType": "TimeAttack_RankReward",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 5402,
+    "CharObjcetID": 0
+  },
+  {
+    "ID": 12,
+    "RedDotType": "TimeAttack_BossOpen",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 5401,
+    "CharObjcetID": 0
+  },
+  {
+    "ID": 13,
+    "RedDotType": "TimeAttack_Reward_Any",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 5402,
+    "CharObjcetID": 0
+  },
+  {
+    "ID": 14,
+    "RedDotType": "TimeAttack_BossOpen_Any",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 5401,
+    "CharObjcetID": 0
   }
 ]

@@ -326,5 +326,197 @@
     "StoragePeriodMin": 129600,
     "Name": "SysPost.Name.ID45",
     "Desc": "SysPost.Desc.ID45"
+  },
+  {
+    "ID": 46,
+    "PostID": "ShopTabBonus",
+    "Type": "General",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID46",
+    "Desc": "SysPost.Desc.ID46"
+  },
+  {
+    "ID": 47,
+    "PostID": "UnusualPlaySanctions",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.UnusualPlay",
+    "Desc": "SysPost.Desc.UnusualPlay"
+  },
+  {
+    "ID": 48,
+    "PostID": "Promotion",
+    "Type": "General",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID47",
+    "Desc": "SysPost.Desc.ID47"
+  },
+  {
+    "ID": 50,
+    "PostID": "MissionPackageReward",
+    "Type": "General",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID50",
+    "Desc": "SysPost.Desc.ID50"
+  },
+  {
+    "ID": 51,
+    "PostID": "UnusualPlaySanctions02",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.UnusualPlay",
+    "Desc": "SysPost.Desc.UnusualPlay_2"
+  },
+  {
+    "ID": 52,
+    "PostID": "WeeklyCouponMail",
+    "Type": "General",
+    "StoragePeriodMin": 4320,
+    "Name": "SysPost.WeeklyRewardCouponTitle",
+    "Desc": "SysPost.WeeklyRewardCouponDesc"
+  },
+  {
+    "ID": 53,
+    "PostID": "SubScribeCouponMail",
+    "Type": "IAP",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.SubscribeRewardCouponTitle",
+    "Desc": "SysPost.SubscribeRewardCouponDesc"
+  },
+  {
+    "ID": 54,
+    "PostID": "ThemeMission",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.ThemeMissionReward.Title",
+    "Desc": "SysPost.ThemeMissionReward.Desc"
+  },
+  {
+    "ID": 55,
+    "PostID": "MiniGameRanking_All",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.MiniGameRanking_All.Title",
+    "Desc": "SysPost.MiniGameRanking_All.Desc"
+  },
+  {
+    "ID": 56,
+    "PostID": "MiniGameRanking_Group",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.MiniGameRanking_Group.Title",
+    "Desc": "SysPost.MiniGameRanking_Group.Desc"
+  },
+  {
+    "ID": 57,
+    "PostID": "MiniGameDailyRecord",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.MiniGameDailyRecord.Title",
+    "Desc": "SysPost.MiniGameDailyRecord.Desc"
+  },
+  {
+    "ID": 58,
+    "PostID": "GuildBossPersonalReward",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.GuildBossPersonalReward.Title",
+    "Desc": "SysPost.GuildBossPersonalReward.Desc"
+  },
+  {
+    "ID": 59,
+    "PostID": "GuildBossCooperationReward",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.GuildBossCooperationReward.Title",
+    "Desc": "SysPost.GuildBossCooperationReward.Desc"
+  },
+  {
+    "ID": 60,
+    "PostID": "GuildBossBattleRankReward",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.GuildBossBattleRankReward.Title",
+    "Desc": "SysPost.GuildBossBattleRankReward.Desc"
+  },
+  {
+    "ID": 61,
+    "PostID": "EventLuckyClover",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID61",
+    "Desc": "SysPost.Desc.ID61"
+  },
+  {
+    "ID": 62,
+    "PostID": "EventLastChance",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID62",
+    "Desc": "SysPost.Desc.ID62"
+  },
+  {
+    "ID": 63,
+    "PostID": "UnusualGuildPlaySanctions",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.UnusualGuildPlay",
+    "Desc": "SysPost.Desc.UnusualGuildPlay"
+  },
+  {
+    "ID": 64,
+    "PostID": "MigrationReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID64",
+    "Desc": "SysPost.Desc.ID64"
+  },
+  {
+    "ID": 65,
+    "PostID": "GuildMiniGameReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID65",
+    "Desc": "SysPost.Desc.ID65"
+  },
+  {
+    "ID": 66,
+    "PostID": "GuildRankUpReward",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.GuildRankUpReward.Title",
+    "Desc": "SysPost.GuildRankUpReward.Desc"
+  },
+  {
+    "ID": 67,
+    "PostID": "GuildCooperationMission",
+    "Type": "General",
+    "StoragePeriodMin": 8640,
+    "Name": "SysPost.GuildCooperationMission.Title",
+    "Desc": "SysPost.GuildCooperationMission.Desc"
+  },
+  {
+    "ID": 68,
+    "PostID": "GPPShop",
+    "Type": "General",
+    "StoragePeriodMin": 43200,
+    "Name": "SysPost.Name.GPPShop",
+    "Desc": "SysPost.Desc.GPPShop"
+  },
+  {
+    "ID": 69,
+    "PostID": "UnusualPlaySanctions03",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.UnusualPlay",
+    "Desc": "SysPost.Desc.UnusualPlay_3"
+  },
+  {
+    "ID": 70,
+    "PostID": "UnusualPlaySanctions04",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.UnusualPlay",
+    "Desc": "SysPost.Desc.UnusualPlay_4"
   }
 ]

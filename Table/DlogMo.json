@@ -754,8 +754,8 @@
     "CharID": 910072,
     "MotionType": "Special",
     "Index": 1,
-    "Start": "",
-    "Loop": "Dialog_ChoiJongIn_Special_01_Once",
+    "Start": "Dialog_ChoiJongIn_Special_01_Once",
+    "Loop": "",
     "End": "",
     "Facial": true
   },
@@ -3087,6 +3087,1756 @@
     "Start": "",
     "Loop": "Dialog_SeoLin_Leftlook_01",
     "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 313,
+    "CharID": 910254,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SeoJiWoo_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 314,
+    "CharID": 910254,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_SeoJiWoo_Worries_01_Start",
+    "Loop": "Dialog_SeoJiWoo_Worries_01_Loop",
+    "End": "Dialog_SeoJiWoo_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 315,
+    "CharID": 910146,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_MinByungGu_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 316,
+    "CharID": 910146,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_MinByungGu_Worries_01_Start",
+    "Loop": "Dialog_MinByungGu_Worries_01_Loop",
+    "End": "Dialog_MinByungGu_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 317,
+    "CharID": 910146,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_MinByungGu_Special_01_Start",
+    "Loop": "Dialog_MinByungGu_Special_01_Loop",
+    "End": "Dialog_MinByungGu_Special_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 318,
+    "CharID": 910146,
+    "MotionType": "ClenchFist",
+    "Index": 0,
+    "Start": "Dialog_MinByungGu_ClenchFist_01_Start",
+    "Loop": "Dialog_MinByungGu_ClenchFist_01_Loop",
+    "End": "Dialog_MinByungGu_ClenchFist_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 319,
+    "CharID": 910263,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_MeilinFisher_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 320,
+    "CharID": 910263,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_MeilinFisher_Worries_01_Start",
+    "Loop": "Dialog_MeilinFisher_Worries_01_Loop",
+    "End": "Dialog_MeilinFisher_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 321,
+    "CharID": 910263,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_MeilinFisher_WaistHand_01_Start",
+    "Loop": "Dialog_MeilinFisher_WaistHand_01_Loop",
+    "End": "Dialog_MeilinFisher_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 322,
+    "CharID": 910263,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_MeilinFisher_Special_01",
+    "Loop": "",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 323,
+    "CharID": 910264,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_YooSoohyun_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 324,
+    "CharID": 910264,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_YooSoohyun_Special_01_Start",
+    "Loop": "Dialog_YooSoohyun_Special_01_Loop",
+    "End": "Dialog_YooSoohyun_Special_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 325,
+    "CharID": 910264,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_YooSoohyun_WaistHand_01_Start",
+    "Loop": "Dialog_YooSoohyun_WaistHand_01_Loop",
+    "End": "Dialog_YooSoohyun_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 326,
+    "CharID": 910264,
+    "MotionType": "Special",
+    "Index": 1,
+    "Start": "Dialog_YooSoohyun_Special_02_Start",
+    "Loop": "Dialog_YooSoohyun_Special_02_Loop",
+    "End": "Dialog_YooSoohyun_Special_02_End",
+    "Facial": true
+  },
+  {
+    "ID": 327,
+    "CharID": 910264,
+    "MotionType": "Special",
+    "Index": 2,
+    "Start": "",
+    "Loop": "Dialog_YooSoohyun_Blink_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 328,
+    "CharID": 910276,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_AmamiyaMirei_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 329,
+    "CharID": 910276,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_CrossArmed_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_CrossArmed_01_Loop",
+    "End": "Dialog_AmamiyaMirei_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 330,
+    "CharID": 910276,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_Worries_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_Worries_01_Loop",
+    "End": "Dialog_AmamiyaMirei_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 331,
+    "CharID": 910276,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_WaistHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_WaistHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 332,
+    "CharID": 910276,
+    "MotionType": "ChestHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_ChestHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_ChestHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 333,
+    "CharID": 910265,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 334,
+    "CharID": 910266,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult_Muscular1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 335,
+    "CharID": 910283,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_AmamiyaMirei_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 336,
+    "CharID": 910283,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_CrossArmed_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_CrossArmed_01_Loop",
+    "End": "Dialog_AmamiyaMirei_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 337,
+    "CharID": 910283,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_Worries_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_Worries_01_Loop",
+    "End": "Dialog_AmamiyaMirei_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 338,
+    "CharID": 910283,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_WaistHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_WaistHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 339,
+    "CharID": 910283,
+    "MotionType": "ChestHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_ChestHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_ChestHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 340,
+    "CharID": 910225,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SeoJiWoo_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 341,
+    "CharID": 910274,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult3_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 358,
+    "CharID": 910309,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 359,
+    "CharID": 910307,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Doctor1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 375,
+    "CharID": 900014,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_EmmaLaurent_Blink_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 363,
+    "CharID": 910236,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Ranger_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 364,
+    "CharID": 910237,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 365,
+    "CharID": 910238,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Fighter1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 366,
+    "CharID": 910239,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 367,
+    "CharID": 910269,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Tanker_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 368,
+    "CharID": 910270,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Magician_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 369,
+    "CharID": 910330,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 370,
+    "CharID": 910327,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_AmamiyaMirei_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 371,
+    "CharID": 910327,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_CrossArmed_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_CrossArmed_01_Loop",
+    "End": "Dialog_AmamiyaMirei_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 372,
+    "CharID": 910327,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_Worries_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_Worries_01_Loop",
+    "End": "Dialog_AmamiyaMirei_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 373,
+    "CharID": 910327,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_WaistHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_WaistHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 374,
+    "CharID": 910327,
+    "MotionType": "ChestHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_ChestHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_ChestHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 376,
+    "CharID": 910334,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Leebora_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 377,
+    "CharID": 910334,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_Leebora_CrossArmed_01_Start",
+    "Loop": "Dialog_Leebora_CrossArmed_01_Loop",
+    "End": "Dialog_Leebora_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 378,
+    "CharID": 910335,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HanSeMi_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 379,
+    "CharID": 910335,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_HanSeMi_Nervous_01_Start",
+    "Loop": "Dialog_HanSeMi_Nervous_01_Loop",
+    "End": "Dialog_HanSeMi_Nervous_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 380,
+    "CharID": 910336,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SeoJiWoo_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 381,
+    "CharID": 910336,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_SeoJiWoo_Worries_01_Start",
+    "Loop": "Dialog_SeoJiWoo_Worries_01_Loop",
+    "End": "Dialog_SeoJiWoo_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 382,
+    "CharID": 910337,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_ChaHaeIn_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 383,
+    "CharID": 910337,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_ChaHaeIn_Worries_01_Start",
+    "Loop": "Dialog_ChaHaeIn_Worries_01_Loop",
+    "End": "Dialog_ChaHaeIn_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 384,
+    "CharID": 910337,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_ChaHaeIn_ChestHand_01_Start",
+    "Loop": "Dialog_ChaHaeIn_ChestHand_01_Loop",
+    "End": "Dialog_ChaHaeIn_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 385,
+    "CharID": 910337,
+    "MotionType": "Special",
+    "Index": 1,
+    "Start": "Dialog_ChaHaeIn_Special_01_Start",
+    "Loop": "Dialog_ChaHaeIn_Special_01_Loop",
+    "End": "Dialog_ChaHaeIn_Special_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 386,
+    "CharID": 910336,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SeoJiWoo_Blink_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 387,
+    "CharID": 910254,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SeoJiWoo_Blink_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 388,
+    "CharID": 910159,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_Iron_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 389,
+    "CharID": 910160,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_Igris_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 390,
+    "CharID": 910162,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_IceBear_Boss_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 342,
+    "CharID": 910311,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_AliciaBlanchet_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 343,
+    "CharID": 910311,
+    "MotionType": "ChestHand",
+    "Index": 0,
+    "Start": "Dialog_AliciaBlanchet_ChestHand_01_Start",
+    "Loop": "Dialog_AliciaBlanchet_ChestHand_01_Loop",
+    "End": "Dialog_AliciaBlanchet_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 344,
+    "CharID": 910311,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_AliciaBlanchet_CrossArmed_01_Start",
+    "Loop": "Dialog_AliciaBlanchet_CrossArmed_01_Loop",
+    "End": "Dialog_AliciaBlanchet_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 345,
+    "CharID": 910311,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_AliciaBlanchet_Call_01_Start",
+    "Loop": "Dialog_AliciaBlanchet_Call_01_Loop",
+    "End": "Dialog_AliciaBlanchet_Call_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 346,
+    "CharID": 910312,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_EmmaLaurent_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 347,
+    "CharID": 910312,
+    "MotionType": "Huh",
+    "Index": 0,
+    "Start": "Dialog_EmmaLaurent_Huh_01_Start",
+    "Loop": "Dialog_EmmaLaurent_Huh_01_Loop",
+    "End": "Dialog_EmmaLaurent_Huh_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 348,
+    "CharID": 910312,
+    "MotionType": "Surprised",
+    "Index": 0,
+    "Start": "Dialog_EmmaLaurent_Surprised_01_Start",
+    "Loop": "Dialog_EmmaLaurent_Surprised_01_Loop",
+    "End": "Dialog_EmmaLaurent_Surprised_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 349,
+    "CharID": 910313,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_AmamiyaMirei_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 350,
+    "CharID": 910313,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_CrossArmed_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_CrossArmed_01_Loop",
+    "End": "Dialog_AmamiyaMirei_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 351,
+    "CharID": 910313,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_Worries_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_Worries_01_Loop",
+    "End": "Dialog_AmamiyaMirei_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 352,
+    "CharID": 910313,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_WaistHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_WaistHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 353,
+    "CharID": 910313,
+    "MotionType": "ChestHand",
+    "Index": 0,
+    "Start": "Dialog_AmamiyaMirei_ChestHand_01_Start",
+    "Loop": "Dialog_AmamiyaMirei_ChestHand_01_Loop",
+    "End": "Dialog_AmamiyaMirei_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 354,
+    "CharID": 910314,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SungJinWoo_Crank_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 355,
+    "CharID": 910314,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_SungJinWoo_Crank_Wrist_01_Start",
+    "Loop": "Dialog_SungJinWoo_Crank_Wrist_01_Loop",
+    "End": "Dialog_SungJinWoo_Crank_Wrist_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 356,
+    "CharID": 910314,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_SungJinWoo_Crank_Worries_01_Start",
+    "Loop": "Dialog_SungJinWoo_Crank_Worries_01_Loop",
+    "End": "Dialog_SungJinWoo_Crank_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 357,
+    "CharID": 910314,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_SungJinWoo_Crank_CrossArmed_01_Start",
+    "Loop": "Dialog_SungJinWoo_Crank_CrossArmed_01_Loop",
+    "End": "Dialog_SungJinWoo_Crank_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 394,
+    "CharID": 910369,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HanSeMi_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 395,
+    "CharID": 910369,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_HanSeMi_Nervous_01_Start",
+    "Loop": "Dialog_HanSeMi_Nervous_01_Loop",
+    "End": "Dialog_HanSeMi_Nervous_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 360,
+    "CharID": 910317,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult3_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 361,
+    "CharID": 910319,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 362,
+    "CharID": 910320,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult_Muscular1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 400,
+    "CharID": 910322,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 396,
+    "CharID": 910070,
+    "MotionType": "Special",
+    "Index": 1,
+    "Start": "Dialog_GoGunHee_Special_01_Start",
+    "Loop": "Dialog_GoGunHee_Special_01_Loop",
+    "End": "Dialog_GoGunHee_Special_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 397,
+    "CharID": 910070,
+    "MotionType": "Special",
+    "Index": 2,
+    "Start": "Dialog_GoGunHee_Special_02_Start",
+    "Loop": "Dialog_GoGunHee_Special_02_Loop",
+    "End": "Dialog_GoGunHee_Special_02_End",
+    "Facial": true
+  },
+  {
+    "ID": 398,
+    "CharID": 910070,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_GoGunHee_Worries_01_Start",
+    "Loop": "Dialog_GoGunHee_Worries_01_Loop",
+    "End": "Dialog_GoGunHee_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 399,
+    "CharID": 910070,
+    "MotionType": "CombatReady",
+    "Index": 0,
+    "Start": "Dialog_GoGunHee_CombatReady_01_Start",
+    "Loop": "Dialog_GoGunHee_CombatReady_01_Loop",
+    "End": "Dialog_GoGunHee_CombatReady_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 401,
+    "CharID": 910207,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_LimTaeGyu_Special_02_Start",
+    "Loop": "Dialog_LimTaeGyu_Special_02_Loop",
+    "End": "Dialog_LimTaeGyu_Special_02_End",
+    "Facial": true
+  },
+  {
+    "ID": 402,
+    "CharID": 910341,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Fighter1_Idle_01",
+    "End": "",
+    "Facial": false
+  },
+  {
+    "ID": 403,
+    "CharID": 910342,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 404,
+    "CharID": 910343,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 405,
+    "CharID": 910345,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 406,
+    "CharID": 910345,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_Female_Magician2_Worries_01_Start",
+    "Loop": "Dialog_Female_Magician2_Worries_01_Loop",
+    "End": "Dialog_Female_Magician2_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 407,
+    "CharID": 910345,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_Female_Magician2_WaistHand_01_Start",
+    "Loop": "Dialog_Female_Magician2_WaistHand_01_Loop",
+    "End": "Dialog_Female_Magician2_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 408,
+    "CharID": 910345,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_Female_Magician2_Special_01_Start",
+    "Loop": "Dialog_Female_Magician2_Special_01_Loop",
+    "End": "Dialog_Female_Magician2_Special_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 409,
+    "CharID": 910346,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 410,
+    "CharID": 910347,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 411,
+    "CharID": 910348,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Ranger_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 412,
+    "CharID": 910352,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult_Muscular1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 413,
+    "CharID": 910353,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 414,
+    "CharID": 910361,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_Npcgate_ChestHand_01_Start",
+    "Loop": "Dialog_Npcgate_ChestHand_01_Loop",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 415,
+    "CharID": 910361,
+    "MotionType": "Special",
+    "Index": 1,
+    "Start": "Dialog_Npcgate_Turn_01",
+    "Loop": "Dialog_Npcgate_Turn_01_Loop",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 416,
+    "CharID": 910362,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult3_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 417,
+    "CharID": 910365,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 418,
+    "CharID": 910366,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 419,
+    "CharID": 910367,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 420,
+    "CharID": 910371,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Adult3_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 421,
+    "CharID": 910372,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 422,
+    "CharID": 910372,
+    "MotionType": "Talk",
+    "Index": 0,
+    "Start": "Dialog_HwangDongSuk_Member_Fighter_Talk_01_Start",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_Talk_01_Loop",
+    "End": "Dialog_HwangDongSuk_Member_Fighter_Talk_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 423,
+    "CharID": 910372,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_HwangDongSuk_Member_Fighter_WaistHand_01_Start",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_WaistHand_01_Loop",
+    "End": "Dialog_HwangDongSuk_Member_Fighter_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 424,
+    "CharID": 910373,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Magician_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 425,
+    "CharID": 910374,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 426,
+    "CharID": 910376,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 427,
+    "CharID": 910377,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_MiddleAge1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 428,
+    "CharID": 910378,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Tanker_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 429,
+    "CharID": 910379,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Magician_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 430,
+    "CharID": 910380,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Ranger_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 431,
+    "CharID": 910389,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult_Muscular1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 432,
+    "CharID": 910390,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 433,
+    "CharID": 910391,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_BodyguardDialog_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 434,
+    "CharID": 910392,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult3_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 435,
+    "CharID": 910393,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Ranger_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 436,
+    "CharID": 910394,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_MiddleAge1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 437,
+    "CharID": 910398,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Charlotte_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 438,
+    "CharID": 910398,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_Charlotte_CrossArmed_01_Start",
+    "Loop": "Dialog_Charlotte_CrossArmed_01_Loop",
+    "End": "Dialog_Charlotte_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 439,
+    "CharID": 910398,
+    "MotionType": "GatheringHands",
+    "Index": 0,
+    "Start": "Dialog_Charlotte_GatheringHands_01_Start",
+    "Loop": "Dialog_Charlotte_GatheringHands_01_Loop",
+    "End": "Dialog_Charlotte_GatheringHands_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 440,
+    "CharID": 910398,
+    "MotionType": "Talk",
+    "Index": 0,
+    "Start": "Dialog_Charlotte_Talk_01_Start",
+    "Loop": "Dialog_Charlotte_Talk_01_Loop",
+    "End": "Dialog_Charlotte_Talk_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 441,
+    "CharID": 910399,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Harper_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 442,
+    "CharID": 910399,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_Harper_WaistHand_01_Start",
+    "Loop": "Dialog_Harper_WaistHand_01_Loop",
+    "End": "Dialog_Harper_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 443,
+    "CharID": 910399,
+    "MotionType": "CutePose",
+    "Index": 0,
+    "Start": "Dialog_Harper_CutePose_01_Start",
+    "Loop": "Dialog_Harper_CutePose_01_Loop",
+    "End": "Dialog_Harper_CutePose_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 444,
+    "CharID": 910399,
+    "MotionType": "ClenchFist",
+    "Index": 0,
+    "Start": "Dialog_Harper_ClenchFist_01_Start",
+    "Loop": "Dialog_Harper_ClenchFist_01_Loop",
+    "End": "Dialog_Harper_ClenchFist_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 445,
+    "CharID": 910401,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_AnnaRuiz_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 446,
+    "CharID": 910401,
+    "MotionType": "Talk",
+    "Index": 0,
+    "Start": "Dialog_AnnaRuiz_Talk_01_Start",
+    "Loop": "Dialog_AnnaRuiz_Talk_01_Loop",
+    "End": "Dialog_AnnaRuiz_Talk_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 447,
+    "CharID": 910383,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_IceEIF_LongSword_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 448,
+    "CharID": 910171,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_EsilRadiru_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 449,
+    "CharID": 910171,
+    "MotionType": "GrabbingArm",
+    "Index": 0,
+    "Start": "Dialog_EsilRadiru_GrabbingArm_01_Start",
+    "Loop": "Dialog_EsilRadiru_GrabbingArm_01_Loop",
+    "End": "Dialog_EsilRadiru_GrabbingArm_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 450,
+    "CharID": 910171,
+    "MotionType": "GatheringHands",
+    "Index": 0,
+    "Start": "Dialog_EsilRadiru_GatheringHands_01_Start",
+    "Loop": "Dialog_EsilRadiru_GatheringHands_01_Loop",
+    "End": "Dialog_EsilRadiru_GatheringHands_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 451,
+    "CharID": 910174,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_FatherOfEsil_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 452,
+    "CharID": 910170,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_Tusk_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 453,
+    "CharID": 910170,
+    "MotionType": "Nodding2",
+    "Index": 0,
+    "Start": "Dialog_Shadow_Tusk_Nodding2_01",
+    "Loop": "",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 454,
+    "CharID": 910407,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_Tusk_Guard1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 455,
+    "CharID": 910407,
+    "MotionType": "Nodding2",
+    "Index": 0,
+    "Start": "Dialog_Shadow_Tusk_Guard1_Nodding2_01",
+    "Loop": "",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 456,
+    "CharID": 910408,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_HighOrc_GreatSword_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 457,
+    "CharID": 910409,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_HighOrc_Doubleaxe_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 458,
+    "CharID": 910410,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Shadow_HighOrc_Bow_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 459,
+    "CharID": 910411,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HigherGradeDemon_A_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 460,
+    "CharID": 910412,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HigherGradeDemon_B_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 461,
+    "CharID": 910413,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HigherGradeDemon_C_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 462,
+    "CharID": 910414,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SuperiorGradeDemon_A_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 463,
+    "CharID": 910415,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SuperiorGradeDemon_B_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 464,
+    "CharID": 910416,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SuperiorGradeDemon_C_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 465,
+    "CharID": 910172,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_DemonKnight_SwordShield_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 466,
+    "CharID": 910172,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_DemonKnight_SwordShield_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 467,
+    "CharID": 910173,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_DemonKnight_GreatSword_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 468,
+    "CharID": 910173,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_DemonKnight_GreatSword_Dead_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 469,
+    "CharID": 910417,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Kaisellin_Baran_Boss_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 470,
+    "CharID": 910420,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_DemonKnight_Bow_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 471,
+    "CharID": 910421,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_DemonSoldier_CrossBow_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 472,
+    "CharID": 910376,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Adult2_Idle",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 473,
+    "CharID": 910355,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 474,
+    "CharID": 910399,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Harper_Blink_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 475,
+    "CharID": 910076,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_Gina_Worries_01_Start",
+    "Loop": "Dialog_Gina_Worries_01_Loop",
+    "End": "Dialog_Gina_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 476,
+    "CharID": 910076,
+    "MotionType": "ChestHand",
+    "Index": 0,
+    "Start": "Dialog_Gina_ChestHand_01_Start",
+    "Loop": "Dialog_Gina_ChestHand_01_Loop",
+    "End": "Dialog_Gina_ChestHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 477,
+    "CharID": 910424,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 478,
+    "CharID": 910347,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_WaistHand_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 479,
+    "CharID": 910348,
+    "MotionType": "HeadScratch",
+    "Index": 0,
+    "Start": "Dialog_HwangDongSuk_Member_Ranger_HeadScratch_01_Start",
+    "Loop": "Dialog_HwangDongSuk_Member_Ranger_HeadScratch_01_Loop",
+    "End": "Dialog_HwangDongSuk_Member_Ranger_HeadScratch_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 480,
+    "CharID": 910348,
+    "MotionType": "CrossArmed",
+    "Index": 0,
+    "Start": "Dialog_HwangDongSuk_Member_Ranger_CrossArmed_01_Start",
+    "Loop": "Dialog_HwangDongSuk_Member_Ranger_CrossArmed_01_Loop",
+    "End": "Dialog_HwangDongSuk_Member_Ranger_CrossArmed_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 481,
+    "CharID": 910349,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 482,
+    "CharID": 910349,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult2_Worries_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 483,
+    "CharID": 910350,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Male_Adult_Muscular1_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 484,
+    "CharID": 910351,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 485,
+    "CharID": 910351,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_special_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 486,
+    "CharID": 910351,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_WaistHand_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 487,
+    "CharID": 910351,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Worries_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 488,
+    "CharID": 910423,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Npcinfo_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 489,
+    "CharID": 910074,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_SonKiHoon_WaistHand_01_Start",
+    "Loop": "Dialog_SonKiHoon_WaistHand_01_Loop",
+    "End": "Dialog_SonKiHoon_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 490,
+    "CharID": 910074,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_SonKiHoon_Worries_01_Start",
+    "Loop": "Dialog_SonKiHoon_Worries_01_Loop",
+    "End": "Dialog_SonKiHoon_Worries_01_End",
     "Facial": true
   }
 ]

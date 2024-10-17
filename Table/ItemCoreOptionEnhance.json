@@ -1,0 +1,296 @@
+[
+  {
+    "ID": 1,
+    "ItemRarity": "Rare",
+    "StatType": "AddAtt",
+    "OptMinValue": 10,
+    "OptMaxValue": 55
+  },
+  {
+    "ID": 2,
+    "ItemRarity": "Epic",
+    "StatType": "AddAtt",
+    "OptMinValue": 20,
+    "OptMaxValue": 110
+  },
+  {
+    "ID": 3,
+    "ItemRarity": "Legendary",
+    "StatType": "AddAtt",
+    "OptMinValue": 35,
+    "OptMaxValue": 165
+  },
+  {
+    "ID": 4,
+    "ItemRarity": "Rare",
+    "StatType": "AttR",
+    "OptMinValue": 10,
+    "OptMaxValue": 50
+  },
+  {
+    "ID": 5,
+    "ItemRarity": "Epic",
+    "StatType": "AttR",
+    "OptMinValue": 20,
+    "OptMaxValue": 100
+  },
+  {
+    "ID": 6,
+    "ItemRarity": "Legendary",
+    "StatType": "AttR",
+    "OptMinValue": 30,
+    "OptMaxValue": 155
+  },
+  {
+    "ID": 7,
+    "ItemRarity": "Rare",
+    "StatType": "AddArm",
+    "OptMinValue": 10,
+    "OptMaxValue": 55
+  },
+  {
+    "ID": 8,
+    "ItemRarity": "Epic",
+    "StatType": "AddArm",
+    "OptMinValue": 20,
+    "OptMaxValue": 110
+  },
+  {
+    "ID": 9,
+    "ItemRarity": "Legendary",
+    "StatType": "AddArm",
+    "OptMinValue": 35,
+    "OptMaxValue": 165
+  },
+  {
+    "ID": 10,
+    "ItemRarity": "Rare",
+    "StatType": "ArmR",
+    "OptMinValue": 10,
+    "OptMaxValue": 50
+  },
+  {
+    "ID": 11,
+    "ItemRarity": "Epic",
+    "StatType": "ArmR",
+    "OptMinValue": 20,
+    "OptMaxValue": 100
+  },
+  {
+    "ID": 12,
+    "ItemRarity": "Legendary",
+    "StatType": "ArmR",
+    "OptMinValue": 30,
+    "OptMaxValue": 155
+  },
+  {
+    "ID": 13,
+    "ItemRarity": "Rare",
+    "StatType": "AddMHP",
+    "OptMinValue": 20,
+    "OptMaxValue": 110
+  },
+  {
+    "ID": 14,
+    "ItemRarity": "Epic",
+    "StatType": "AddMHP",
+    "OptMinValue": 45,
+    "OptMaxValue": 220
+  },
+  {
+    "ID": 15,
+    "ItemRarity": "Legendary",
+    "StatType": "AddMHP",
+    "OptMinValue": 65,
+    "OptMaxValue": 330
+  },
+  {
+    "ID": 16,
+    "ItemRarity": "Rare",
+    "StatType": "MHPR",
+    "OptMinValue": 10,
+    "OptMaxValue": 50
+  },
+  {
+    "ID": 17,
+    "ItemRarity": "Epic",
+    "StatType": "MHPR",
+    "OptMinValue": 20,
+    "OptMaxValue": 100
+  },
+  {
+    "ID": 18,
+    "ItemRarity": "Legendary",
+    "StatType": "MHPR",
+    "OptMinValue": 30,
+    "OptMaxValue": 155
+  },
+  {
+    "ID": 19,
+    "ItemRarity": "Rare",
+    "StatType": "Critical",
+    "OptMinValue": 15,
+    "OptMaxValue": 65
+  },
+  {
+    "ID": 20,
+    "ItemRarity": "Epic",
+    "StatType": "Critical",
+    "OptMinValue": 25,
+    "OptMaxValue": 135
+  },
+  {
+    "ID": 21,
+    "ItemRarity": "Legendary",
+    "StatType": "Critical",
+    "OptMinValue": 40,
+    "OptMaxValue": 200
+  },
+  {
+    "ID": 22,
+    "ItemRarity": "Rare",
+    "StatType": "CriDam",
+    "OptMinValue": 15,
+    "OptMaxValue": 65
+  },
+  {
+    "ID": 23,
+    "ItemRarity": "Epic",
+    "StatType": "CriDam",
+    "OptMinValue": 25,
+    "OptMaxValue": 135
+  },
+  {
+    "ID": 24,
+    "ItemRarity": "Legendary",
+    "StatType": "CriDam",
+    "OptMinValue": 40,
+    "OptMaxValue": 200
+  },
+  {
+    "ID": 25,
+    "ItemRarity": "Rare",
+    "StatType": "Dam",
+    "OptMinValue": 15,
+    "OptMaxValue": 65
+  },
+  {
+    "ID": 26,
+    "ItemRarity": "Epic",
+    "StatType": "Dam",
+    "OptMinValue": 25,
+    "OptMaxValue": 135
+  },
+  {
+    "ID": 27,
+    "ItemRarity": "Legendary",
+    "StatType": "Dam",
+    "OptMinValue": 40,
+    "OptMaxValue": 200
+  },
+  {
+    "ID": 28,
+    "ItemRarity": "Rare",
+    "StatType": "ArmPen",
+    "OptMinValue": 15,
+    "OptMaxValue": 65
+  },
+  {
+    "ID": 29,
+    "ItemRarity": "Epic",
+    "StatType": "ArmPen",
+    "OptMinValue": 25,
+    "OptMaxValue": 135
+  },
+  {
+    "ID": 30,
+    "ItemRarity": "Legendary",
+    "StatType": "ArmPen",
+    "OptMinValue": 40,
+    "OptMaxValue": 200
+  },
+  {
+    "ID": 31,
+    "ItemRarity": "Rare",
+    "StatType": "DamRedu",
+    "OptMinValue": 5,
+    "OptMaxValue": 25
+  },
+  {
+    "ID": 32,
+    "ItemRarity": "Epic",
+    "StatType": "DamRedu",
+    "OptMinValue": 10,
+    "OptMaxValue": 45
+  },
+  {
+    "ID": 33,
+    "ItemRarity": "Legendary",
+    "StatType": "DamRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 70
+  },
+  {
+    "ID": 34,
+    "ItemRarity": "Rare",
+    "StatType": "AddMMP",
+    "OptMinValue": 2,
+    "OptMaxValue": 12
+  },
+  {
+    "ID": 35,
+    "ItemRarity": "Epic",
+    "StatType": "AddMMP",
+    "OptMinValue": 4,
+    "OptMaxValue": 24
+  },
+  {
+    "ID": 36,
+    "ItemRarity": "Legendary",
+    "StatType": "AddMMP",
+    "OptMinValue": 8,
+    "OptMaxValue": 36
+  },
+  {
+    "ID": 37,
+    "ItemRarity": "Rare",
+    "StatType": "MPCostRedu",
+    "OptMinValue": 6,
+    "OptMaxValue": 24
+  },
+  {
+    "ID": 38,
+    "ItemRarity": "Epic",
+    "StatType": "MPCostRedu",
+    "OptMinValue": 9,
+    "OptMaxValue": 48
+  },
+  {
+    "ID": 39,
+    "ItemRarity": "Legendary",
+    "StatType": "MPCostRedu",
+    "OptMinValue": 15,
+    "OptMaxValue": 72
+  },
+  {
+    "ID": 40,
+    "ItemRarity": "Rare",
+    "StatType": "MPRegenR",
+    "OptMinValue": 3,
+    "OptMaxValue": 15
+  },
+  {
+    "ID": 41,
+    "ItemRarity": "Epic",
+    "StatType": "MPRegenR",
+    "OptMinValue": 6,
+    "OptMaxValue": 30
+  },
+  {
+    "ID": 42,
+    "ItemRarity": "Legendary",
+    "StatType": "MPRegenR",
+    "OptMinValue": 9,
+    "OptMaxValue": 48
+  }
+]

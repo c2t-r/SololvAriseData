@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 100001,
+    "ControllerID": 1,
+    "Name": "GuildLobby_Default",
+    "BgImage": "BG_GuildLobby_Default",
+    "DecoImage": "BG_GuildLobby_Default",
+    "AudioSet": "",
+    "UnlockType": "DefaultOpen",
+    "Value": 0
+  },
+  {
+    "ID": 100002,
+    "ControllerID": 1,
+    "Name": "GuildLobby_Default_Night",
+    "BgImage": "BG_GuildLobby_Default_Night",
+    "DecoImage": "BG_GuildLobby_Default_Night",
+    "AudioSet": "",
+    "UnlockType": "DefaultOpen",
+    "Value": 0
+  },
+  {
+    "ID": 100004,
+    "ControllerID": 6,
+    "Name": "GuildLobby_Corridor",
+    "BgImage": "BG_GuildLobby_Corridor",
+    "DecoImage": "BG_GuildLobby_Corridor",
+    "AudioSet": "",
+    "UnlockType": "DefaultOpen",
+    "Value": 0
+  },
+  {
+    "ID": 100006,
+    "ControllerID": 6,
+    "Name": "GuildLobby_Rooftop",
+    "BgImage": "BG_GuildLobby_Rooftop",
+    "DecoImage": "BG_GuildLobby_Rooftop",
+    "AudioSet": "",
+    "UnlockType": "LevelGuild",
+    "Value": 6
+  }
+]

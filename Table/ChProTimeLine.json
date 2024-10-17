@@ -4,3107 +4,4823 @@
     "GroupID": 1,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 2,
     "GroupID": 1,
     "Type": "SocialMotion",
     "Index": 1,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 3,
     "GroupID": 1,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Win_ShadowLord"
+    "TimeLinePrefab": "SungJinWoo_Win_ShadowLord",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 4,
     "GroupID": 1,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Fail"
+    "TimeLinePrefab": "SungJinWoo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 5,
     "GroupID": 1,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 6,
     "GroupID": 1,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 7,
     "GroupID": 61,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_SocialMotion"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 8,
     "GroupID": 61,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_Win"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 9,
     "GroupID": 61,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_Fail"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 10,
     "GroupID": 61,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_LobbyIdle"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 11,
     "GroupID": 2,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_SocialMotion"
+    "TimeLinePrefab": "SungJinWoo_E_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 12,
     "GroupID": 2,
     "Type": "SocialMotion",
     "Index": 1,
-    "TimeLinePrefab": "SungJinWoo_E_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_E_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 13,
     "GroupID": 2,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_Win"
+    "TimeLinePrefab": "SungJinWoo_E_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 14,
     "GroupID": 2,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_Fail"
+    "TimeLinePrefab": "SungJinWoo_E_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 15,
     "GroupID": 2,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_LobbySpawn"
+    "TimeLinePrefab": "SungJinWoo_E_LobbySpawn",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 16,
     "GroupID": 11,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_SocialMotion"
+    "TimeLinePrefab": "ChaHaeIn_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 17,
     "GroupID": 11,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_Win"
+    "TimeLinePrefab": "ChaHaeIn_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 18,
     "GroupID": 11,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_Fail"
+    "TimeLinePrefab": "ChaHaeIn_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 19,
     "GroupID": 11,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_LobbyIdle"
+    "TimeLinePrefab": "ChaHaeIn_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 20,
     "GroupID": 71,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_SocialMotion"
+    "TimeLinePrefab": "LimTaeGyu_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 21,
     "GroupID": 71,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_Win"
+    "TimeLinePrefab": "LimTaeGyu_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 22,
     "GroupID": 71,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_Fail"
+    "TimeLinePrefab": "LimTaeGyu_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 23,
     "GroupID": 71,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_LobbyIdle"
+    "TimeLinePrefab": "LimTaeGyu_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 24,
     "GroupID": 91,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_SocialMotion"
+    "TimeLinePrefab": "SongChiYul_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 25,
     "GroupID": 91,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_Win"
+    "TimeLinePrefab": "SongChiYul_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 26,
     "GroupID": 91,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_Fail"
+    "TimeLinePrefab": "SongChiYul_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 27,
     "GroupID": 91,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_LobbyIdle"
+    "TimeLinePrefab": "SongChiYul_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 28,
     "GroupID": 10601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Kargalgan_Boss_Intro_A"
+    "TimeLinePrefab": "Kargalgan_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 29,
     "GroupID": 10901,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BluePoisonFangRasaka_Boss_Intro_A"
+    "TimeLinePrefab": "BluePoisonFangRasaka_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 30,
     "GroupID": 31701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "RazorClawedBriga_Elite_Intro_A"
+    "TimeLinePrefab": "RazorClawedBriga_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 31,
     "GroupID": 30201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "IceElf_LongSword_Intro_A"
+    "TimeLinePrefab": "IceElf_LongSword_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 32,
     "GroupID": 30101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HighOrc_LongSword_Elite_Intro_A"
+    "TimeLinePrefab": "HighOrc_LongSword_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 33,
     "GroupID": 30301,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "IceElf_Elite_Intro"
+    "TimeLinePrefab": "IceElf_Elite_Intro",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 34,
     "GroupID": 10101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "IceBear_Boss_Intro_A"
+    "TimeLinePrefab": "IceBear_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 35,
     "GroupID": 10201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "CaveBear_Boss_Intro_A"
+    "TimeLinePrefab": "CaveBear_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 36,
     "GroupID": 11301,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "GatekeeperCerberus_Boss_Intro_A"
+    "TimeLinePrefab": "GatekeeperCerberus_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 37,
     "GroupID": 30401,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "IceBear_Elite_Intro_A"
+    "TimeLinePrefab": "IceBear_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 38,
     "GroupID": 30501,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "CaveBear_Elite_Intro_A"
+    "TimeLinePrefab": "CaveBear_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 39,
     "GroupID": 32401,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "StoneGolem_Elite_Intro"
+    "TimeLinePrefab": "StoneGolem_Elite_Intro",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 40,
     "GroupID": 54601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BlueGolem_BlueBead_Spawn_Dummy"
+    "TimeLinePrefab": "BlueGolem_BlueBead_Spawn_Dummy",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 41,
     "GroupID": 11401,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Blue_Golem_Boss_Intro_A"
+    "TimeLinePrefab": "Blue_Golem_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 42,
     "GroupID": 54401,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Summon_Bomb_Spawn_Dummy"
+    "TimeLinePrefab": "Summon_Bomb_Spawn_Dummy",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 43,
     "GroupID": 11501,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "GiantArachne_Boss_Intro"
+    "TimeLinePrefab": "GiantArachne_Boss_Intro",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 44,
     "GroupID": 31501,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Goblin_Club_Elite_Intro_A"
+    "TimeLinePrefab": "Goblin_Club_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 45,
     "GroupID": 31601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Goblin_Staff_Elite_Intro_A"
+    "TimeLinePrefab": "Goblin_Staff_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 46,
     "GroupID": 11201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HobgoblinChief_Boss_Intro_A"
+    "TimeLinePrefab": "HobgoblinChief_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 47,
     "GroupID": 31401,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "LizardMan_Elite_Intro_A"
+    "TimeLinePrefab": "LizardMan_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 48,
     "GroupID": 32201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Scorpion_Elite_Intro_A"
+    "TimeLinePrefab": "Scorpion_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 49,
     "GroupID": 30801,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Werewolf_Elite_Intro_A"
+    "TimeLinePrefab": "Werewolf_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 50,
     "GroupID": 32301,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Spider_Elite_Intro_A"
+    "TimeLinePrefab": "Spider_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 51,
     "GroupID": 32101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "KnightGolem_Elite_Intro_A"
+    "TimeLinePrefab": "KnightGolem_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 52,
     "GroupID": 21,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_SocialMotion"
+    "TimeLinePrefab": "KimChul_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 53,
     "GroupID": 21,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_Win"
+    "TimeLinePrefab": "KimChul_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 54,
     "GroupID": 21,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_Fail"
+    "TimeLinePrefab": "KimChul_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 55,
     "GroupID": 21,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_LobbyIdle"
+    "TimeLinePrefab": "KimChul_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 56,
     "GroupID": 31,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_SocialMotion"
+    "TimeLinePrefab": "ParkHeeJin_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 57,
     "GroupID": 31,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_Win"
+    "TimeLinePrefab": "ParkHeeJin_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 58,
     "GroupID": 31,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_Fail"
+    "TimeLinePrefab": "ParkHeeJin_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 59,
     "GroupID": 31,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_LobbyIdle"
+    "TimeLinePrefab": "ParkHeeJin_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 60,
     "GroupID": 41,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_SocialMotion"
+    "TimeLinePrefab": "KangTaeShik_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 61,
     "GroupID": 41,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_Win"
+    "TimeLinePrefab": "KangTaeShik_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 62,
     "GroupID": 41,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_Fail"
+    "TimeLinePrefab": "KangTaeShik_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 63,
     "GroupID": 41,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_LobbyIdle"
+    "TimeLinePrefab": "KangTaeShik_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 64,
     "GroupID": 51,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_SocialMotion"
+    "TimeLinePrefab": "YooJinHo_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 65,
     "GroupID": 51,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_Win"
+    "TimeLinePrefab": "YooJinHo_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 66,
     "GroupID": 51,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_Fail"
+    "TimeLinePrefab": "YooJinHo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 67,
     "GroupID": 51,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_LobbyIdle"
+    "TimeLinePrefab": "YooJinHo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 68,
     "GroupID": 81,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_SocialMotion"
+    "TimeLinePrefab": "LeeJuHee_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 69,
     "GroupID": 81,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_Win"
+    "TimeLinePrefab": "LeeJuHee_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 70,
     "GroupID": 81,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_Fail"
+    "TimeLinePrefab": "LeeJuHee_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 71,
     "GroupID": 81,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_LobbyIdle"
+    "TimeLinePrefab": "LeeJuHee_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 72,
     "GroupID": 32801,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SteelFangedRaikan_Elite_Intro_A"
+    "TimeLinePrefab": "SteelFangedRaikan_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 73,
     "GroupID": 32802,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SteelFangedRaikan_Elite_Intro_B"
+    "TimeLinePrefab": "SteelFangedRaikan_Elite_Intro_B",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 74,
     "GroupID": 33001,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BlackShadowRazan_Elite_Intro_A"
+    "TimeLinePrefab": "BlackShadowRazan_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 75,
     "GroupID": 33102,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BlackShadowRazan_Elite_Intro_B"
+    "TimeLinePrefab": "BlackShadowRazan_Elite_Intro_B",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 76,
     "GroupID": 33201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "DungeonJackals_Elite_Intro_A"
+    "TimeLinePrefab": "DungeonJackals_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 77,
     "GroupID": 100004,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Igris_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 78,
     "GroupID": 33601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Undead_Elite_A_Intro_A"
+    "TimeLinePrefab": "Undead_Elite_A_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 79,
     "GroupID": 12701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Undead_EldHelm_Boss_Intro_A"
+    "TimeLinePrefab": "Undead_EldHelm_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 80,
     "GroupID": 10903,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BluePoisonFangRasaka_Boss_Intro_B"
+    "TimeLinePrefab": "BluePoisonFangRasaka_Boss_Intro_B",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 81,
     "GroupID": 101,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_SocialMotion"
+    "TimeLinePrefab": "ChoGyuHwan_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 82,
     "GroupID": 101,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_Win"
+    "TimeLinePrefab": "ChoGyuHwan_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 83,
     "GroupID": 101,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_Fail"
+    "TimeLinePrefab": "ChoGyuHwan_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 84,
     "GroupID": 101,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_LobbyIdle"
+    "TimeLinePrefab": "ChoGyuHwan_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 85,
     "GroupID": 111,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_SocialMotion"
+    "TimeLinePrefab": "HwangDongSuk_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 86,
     "GroupID": 111,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_Win"
+    "TimeLinePrefab": "HwangDongSuk_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 87,
     "GroupID": 111,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_Fail"
+    "TimeLinePrefab": "HwangDongSuk_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 88,
     "GroupID": 111,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_LobbyIdle"
+    "TimeLinePrefab": "HwangDongSuk_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 89,
     "GroupID": 121,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_SocialMotion"
+    "TimeLinePrefab": "HanSongI_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 90,
     "GroupID": 121,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_Win"
+    "TimeLinePrefab": "HanSongI_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 91,
     "GroupID": 121,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_Fail"
+    "TimeLinePrefab": "HanSongI_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 92,
     "GroupID": 121,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_LobbyIdle"
+    "TimeLinePrefab": "HanSongI_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 93,
     "GroupID": 131,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 94,
     "GroupID": 131,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 95,
     "GroupID": 131,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 96,
     "GroupID": 131,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 97,
     "GroupID": 141,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_SocialMotion"
+    "TimeLinePrefab": "KimSangShik_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 98,
     "GroupID": 141,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_Win"
+    "TimeLinePrefab": "KimSangShik_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 99,
     "GroupID": 141,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_Fail"
+    "TimeLinePrefab": "KimSangShik_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 100,
     "GroupID": 141,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_LobbyIdle"
+    "TimeLinePrefab": "KimSangShik_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 101,
     "GroupID": 151,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_SocialMotion"
+    "TimeLinePrefab": "WooJinChul_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 102,
     "GroupID": 151,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_Win"
+    "TimeLinePrefab": "WooJinChul_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 103,
     "GroupID": 151,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_Fail"
+    "TimeLinePrefab": "WooJinChul_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 104,
     "GroupID": 151,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_LobbyIdle"
+    "TimeLinePrefab": "WooJinChul_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 105,
     "GroupID": 161,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_SocialMotion"
+    "TimeLinePrefab": "MinByungGu_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 106,
     "GroupID": 161,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_Win"
+    "TimeLinePrefab": "MinByungGu_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 107,
     "GroupID": 161,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_Fail"
+    "TimeLinePrefab": "MinByungGu_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 108,
     "GroupID": 161,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_LobbyIdle"
+    "TimeLinePrefab": "MinByungGu_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 109,
     "GroupID": 11001,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Baruka_Boss_Intro_A"
+    "TimeLinePrefab": "Baruka_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 110,
     "GroupID": 33901,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "DemonKnight_Pike_Elite_Intro_A"
+    "TimeLinePrefab": "DemonKnight_Pike_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 111,
     "GroupID": 33801,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Ant_Fly_Elite_A_Intro_A"
+    "TimeLinePrefab": "Ant_Fly_Elite_A_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 112,
     "GroupID": 171,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_SocialMotion"
+    "TimeLinePrefab": "HwangDongSu_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 113,
     "GroupID": 171,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_Win"
+    "TimeLinePrefab": "HwangDongSu_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 114,
     "GroupID": 171,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_Fail"
+    "TimeLinePrefab": "HwangDongSu_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 115,
     "GroupID": 171,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_LobbyIdle"
+    "TimeLinePrefab": "HwangDongSu_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 116,
     "GroupID": 11,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_TagOut"
+    "TimeLinePrefab": "ChaHaeIn_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 117,
     "GroupID": 71,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_TagOut"
+    "TimeLinePrefab": "LimTaeGyu_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 118,
     "GroupID": 21,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_TagOut"
+    "TimeLinePrefab": "KimChul_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 119,
     "GroupID": 31,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_TagOut"
+    "TimeLinePrefab": "ParkHeeJin_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 120,
     "GroupID": 41,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_TagOut"
+    "TimeLinePrefab": "KangTaeShik_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 121,
     "GroupID": 181,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_SocialMotion"
+    "TimeLinePrefab": "LeeBoRa_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 122,
     "GroupID": 181,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_Win"
+    "TimeLinePrefab": "LeeBoRa_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 123,
     "GroupID": 181,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_Fail"
+    "TimeLinePrefab": "LeeBoRa_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 124,
     "GroupID": 181,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_LobbyIdle"
+    "TimeLinePrefab": "LeeBoRa_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 125,
     "GroupID": 181,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_TagOut"
+    "TimeLinePrefab": "LeeBoRa_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 126,
     "GroupID": 10801,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Vulcan_Boss_Intro_A"
+    "TimeLinePrefab": "Vulcan_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 127,
     "GroupID": 32601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Soldier_Mace_Elite_Intro_A"
+    "TimeLinePrefab": "Soldier_Mace_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 128,
     "GroupID": 32701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Soldier_Unarmed_Elite_Intro_A"
+    "TimeLinePrefab": "Soldier_Unarmed_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 129,
     "GroupID": 5,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 130,
     "GroupID": 5,
     "Type": "SocialMotion",
     "Index": 1,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 131,
     "GroupID": 5,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Win"
+    "TimeLinePrefab": "SungJinWoo_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 132,
     "GroupID": 5,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Fail"
+    "TimeLinePrefab": "SungJinWoo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 133,
     "GroupID": 5,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 134,
     "GroupID": 5,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 135,
     "GroupID": 6,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 136,
     "GroupID": 6,
     "Type": "SocialMotion",
     "Index": 1,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 137,
     "GroupID": 6,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Win"
+    "TimeLinePrefab": "SungJinWoo_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 138,
     "GroupID": 6,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Fail"
+    "TimeLinePrefab": "SungJinWoo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 139,
     "GroupID": 6,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 140,
     "GroupID": 6,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 141,
     "GroupID": 33701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "LowGradeDemon_Elite_Intro_A"
+    "TimeLinePrefab": "LowGradeDemon_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 142,
     "GroupID": 34101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "IntermediateGradeDemon_Elite_Intro_A"
+    "TimeLinePrefab": "IntermediateGradeDemon_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 143,
     "GroupID": 34001,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "DemonSoldier_Trident_Elite_Intro_A"
+    "TimeLinePrefab": "DemonSoldier_Trident_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 144,
     "GroupID": 111,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_TagOut"
+    "TimeLinePrefab": "HwangDongSuk_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 145,
     "GroupID": 51,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_TagOut"
+    "TimeLinePrefab": "YooJinHo_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 146,
     "GroupID": 61,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_TagOut"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 147,
     "GroupID": 81,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_TagOut"
+    "TimeLinePrefab": "LeeJuHee_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 148,
     "GroupID": 91,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_TagOut"
+    "TimeLinePrefab": "SongChiYul_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 149,
     "GroupID": 101,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_TagOut"
+    "TimeLinePrefab": "ChoGyuHwan_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 150,
     "GroupID": 121,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_TagOut"
+    "TimeLinePrefab": "HanSongI_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 151,
     "GroupID": 131,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 152,
     "GroupID": 141,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_TagOut"
+    "TimeLinePrefab": "KimSangShik_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 153,
     "GroupID": 151,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_TagOut"
+    "TimeLinePrefab": "WooJinChul_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 154,
     "GroupID": 161,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_TagOut"
+    "TimeLinePrefab": "MinByungGu_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 155,
     "GroupID": 171,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_TagOut"
+    "TimeLinePrefab": "HwangDongSu_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 156,
     "GroupID": 13001,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Kaisellin_Boss_Intro_A"
+    "TimeLinePrefab": "Kaisellin_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 157,
     "GroupID": 1,
     "Type": "DungeonBreakIntro",
     "Index": 0,
-    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss"
+    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 158,
     "GroupID": 2,
     "Type": "DungeonBreakIntro",
     "Index": 0,
-    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss"
+    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 159,
     "GroupID": 3,
     "Type": "DungeonBreakIntro",
     "Index": 0,
-    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss"
+    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 160,
     "GroupID": 5,
     "Type": "DungeonBreakIntro",
     "Index": 0,
-    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss"
+    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 161,
     "GroupID": 6,
     "Type": "DungeonBreakIntro",
     "Index": 0,
-    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss"
+    "TimeLinePrefab": "Cutscene_DungeonBreak_Intro_BlueGolem_Boss",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 162,
     "GroupID": 11901,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Metus_Boss_Intro_A"
+    "TimeLinePrefab": "Metus_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 163,
     "GroupID": 13101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Soldier_Axe_Kaisa_Boss_Intro_A"
+    "TimeLinePrefab": "Soldier_Axe_Kaisa_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 164,
     "GroupID": 13201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Soldier_Mace_Forcione_Boss_Intro_A"
+    "TimeLinePrefab": "Soldier_Mace_Forcione_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 165,
     "GroupID": 13701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SevenNightsFireEnnio_Boss_Intro_A"
+    "TimeLinePrefab": "SevenNightsFireEnnio_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 166,
     "GroupID": 13801,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Scorpion_Elite_Intro_A"
+    "TimeLinePrefab": "Scorpion_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 167,
     "GroupID": 34201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "RedAnt_3rd_Fly_Elite_Intro_A"
+    "TimeLinePrefab": "RedAnt_3rd_Fly_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 168,
     "GroupID": 2,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_ERank_StartAction"
+    "TimeLinePrefab": "SungJinWoo_ERank_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 169,
     "GroupID": 3,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_StartAction"
+    "TimeLinePrefab": "SungJinWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 170,
     "GroupID": 3,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 171,
     "GroupID": 3,
     "Type": "SocialMotion",
     "Index": 1,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 172,
     "GroupID": 3,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Win"
+    "TimeLinePrefab": "SungJinWoo_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 173,
     "GroupID": 3,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Fail"
+    "TimeLinePrefab": "SungJinWoo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 174,
     "GroupID": 3,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_SocialMotion_2"
+    "TimeLinePrefab": "SungJinWoo_SocialMotion_2",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 175,
     "GroupID": 3,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 176,
     "GroupID": 81,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_StartAction"
+    "TimeLinePrefab": "LeeJuHee_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 177,
     "GroupID": 141,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_StartAction"
+    "TimeLinePrefab": "KimSangShik_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 178,
     "GroupID": 11601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "EsilRadiru_Boss@Intro_A"
+    "TimeLinePrefab": "EsilRadiru_Boss@Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 179,
     "GroupID": 14001,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Soldier_Hammer_Helder_Boss_Intro_A"
+    "TimeLinePrefab": "Soldier_Hammer_Helder_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 180,
-    "GroupID": 100022,
-    "Type": "ShadowOut",
+    "GroupID": 191,
+    "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_BlueGolem_Boss_Spawn_Skill_Out"
+    "TimeLinePrefab": "AliciaBlanchet_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 181,
     "GroupID": 191,
-    "Type": "SocialMotion",
+    "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_SocialMotion"
+    "TimeLinePrefab": "AliciaBlanchet_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 182,
     "GroupID": 191,
-    "Type": "Win",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win"
+    "TimeLinePrefab": "AliciaBlanchet_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 183,
     "GroupID": 191,
-    "Type": "Fail",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail"
+    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 184,
     "GroupID": 191,
-    "Type": "LobbySpawn",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "AliciaBlanchet_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 185,
-    "GroupID": 191,
-    "Type": "TagOut",
+    "GroupID": 1,
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_TagOut"
+    "TimeLinePrefab": "SungJinWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 186,
-    "GroupID": 1,
-    "Type": "Intro",
-    "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_StartAction"
-  },
-  {
-    "ID": 187,
     "GroupID": 11,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_LobbyIdle"
+    "TimeLinePrefab": "ChaHaeIn_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 187,
+    "GroupID": 71,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "LimTaeGyu_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 188,
-    "GroupID": 71,
+    "GroupID": 21,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_LobbyIdle"
+    "TimeLinePrefab": "KimChul_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 189,
-    "GroupID": 21,
+    "GroupID": 31,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_LobbyIdle"
+    "TimeLinePrefab": "ParkHeeJin_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 190,
-    "GroupID": 31,
+    "GroupID": 41,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_LobbyIdle"
+    "TimeLinePrefab": "KangTaeShik_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 191,
-    "GroupID": 41,
+    "GroupID": 181,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_LobbyIdle"
+    "TimeLinePrefab": "LeeBoRa_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 192,
-    "GroupID": 181,
+    "GroupID": 111,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_LobbyIdle"
+    "TimeLinePrefab": "HwangDongSuk_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 193,
-    "GroupID": 111,
-    "Type": "LobbyIdle",
-    "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_LobbyIdle"
-  },
-  {
-    "ID": 194,
     "GroupID": 51,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_LobbyIdle"
+    "TimeLinePrefab": "YooJinHo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 194,
+    "GroupID": 61,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 195,
-    "GroupID": 61,
-    "Type": "LobbyIdle",
-    "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_LobbyIdle"
-  },
-  {
-    "ID": 196,
     "GroupID": 81,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_LobbyIdle"
+    "TimeLinePrefab": "LeeJuHee_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 197,
+    "ID": 196,
     "GroupID": 91,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_LobbyIdle"
+    "TimeLinePrefab": "SongChiYul_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 197,
+    "GroupID": 101,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "ChoGyuHwan_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 198,
-    "GroupID": 101,
+    "GroupID": 121,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_LobbyIdle"
+    "TimeLinePrefab": "HanSongI_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 199,
-    "GroupID": 121,
+    "GroupID": 131,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_LobbyIdle"
+    "TimeLinePrefab": "ChoiJongIn_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 200,
-    "GroupID": 131,
-    "Type": "LobbyIdle",
-    "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
-  },
-  {
-    "ID": 201,
     "GroupID": 141,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_LobbyIdle"
+    "TimeLinePrefab": "KimSangShik_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 202,
+    "ID": 201,
     "GroupID": 151,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_LobbyIdle"
+    "TimeLinePrefab": "WooJinChul_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 203,
+    "ID": 202,
     "GroupID": 161,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_LobbyIdle"
+    "TimeLinePrefab": "MinByungGu_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 203,
+    "GroupID": 171,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "HwangDongSu_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 204,
-    "GroupID": 171,
-    "Type": "LobbyIdle",
-    "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_LobbyIdle"
-  },
-  {
-    "ID": 205,
     "GroupID": 191,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 206,
-    "GroupID": 100020,
-    "Type": "ShadowOut",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_GatekeeperCerberus_Spawn_Skill_Out"
-  },
-  {
-    "ID": 207,
+    "ID": 205,
     "GroupID": 100021,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceBear_Boss_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 208,
+    "ID": 206,
     "GroupID": 100004,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_Spawn_Skill_01_Out"
+    "TimeLinePrefab": "Shadow_Igris_Spawn_Skill_01_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 209,
+    "ID": 207,
     "GroupID": 100015,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Soldier_Assassin_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Soldier_Assassin_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 210,
+    "ID": 208,
     "GroupID": 100017,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Soldier_Archer_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Soldier_Archer_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 211,
+    "ID": 209,
     "GroupID": 100010,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Soldier_Longsword_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Soldier_Longsword_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 212,
+    "ID": 210,
     "GroupID": 100011,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Soldier_Unarmed_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Soldier_Unarmed_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 211,
+    "GroupID": 2,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "SungJinWoo_E_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 212,
+    "GroupID": 2,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "SungJinWoo_E_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 213,
-    "GroupID": 2,
+    "GroupID": 1,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_Win_Endloop"
+    "TimeLinePrefab": "SungJinWoo_Win_ShadowLord_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 214,
-    "GroupID": 2,
+    "GroupID": 1,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_Fail_Endloop"
+    "TimeLinePrefab": "SungJinWoo_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 215,
-    "GroupID": 1,
-    "Type": "WinIdle",
-    "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Win_ShadowLord_Endloop"
-  },
-  {
-    "ID": 216,
-    "GroupID": 1,
-    "Type": "FailIdle",
-    "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Fail_Endloop"
-  },
-  {
-    "ID": 217,
     "GroupID": 101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_StartAction"
+    "TimeLinePrefab": "ChoGyuHwan_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 218,
+    "ID": 216,
     "GroupID": 171,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_StartAction"
+    "TimeLinePrefab": "HwangDongSu_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 219,
+    "ID": 217,
     "GroupID": 111,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_StartAction"
+    "TimeLinePrefab": "HwangDongSuk_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 220,
+    "ID": 218,
     "GroupID": 41,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_StartAction"
+    "TimeLinePrefab": "KangTaeShik_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 221,
+    "ID": 219,
     "GroupID": 21,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_StartAction"
+    "TimeLinePrefab": "KimChul_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 222,
+    "ID": 220,
     "GroupID": 181,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_StartAction"
+    "TimeLinePrefab": "LeeBoRa_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 223,
+    "ID": 221,
     "GroupID": 71,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_StartAction"
+    "TimeLinePrefab": "LimTaeGyu_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 224,
+    "ID": 222,
     "GroupID": 31,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_StartAction"
+    "TimeLinePrefab": "ParkHeeJin_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 225,
+    "ID": 223,
     "GroupID": 121,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_StartAction"
+    "TimeLinePrefab": "HanSongI_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 226,
+    "ID": 224,
     "GroupID": 131,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 227,
+    "ID": 225,
     "GroupID": 61,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_StartAction"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 228,
+    "ID": 226,
     "GroupID": 201,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_LobbyIdle"
+    "TimeLinePrefab": "EmmaLaurent_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 229,
+    "ID": 227,
     "GroupID": 201,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_LobbyIdle"
+    "TimeLinePrefab": "EmmaLaurent_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 228,
+    "GroupID": 62,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "BaekYoonHo_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 229,
+    "GroupID": 62,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "BaekYoonHo_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 230,
     "GroupID": 62,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_SocialMotion"
+    "TimeLinePrefab": "BaekYoonHo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 231,
     "GroupID": 62,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_Win"
+    "TimeLinePrefab": "BaekYoonHo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 232,
     "GroupID": 62,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_Fail"
+    "TimeLinePrefab": "BaekYoonHo_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 233,
     "GroupID": 62,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_LobbyIdle"
+    "TimeLinePrefab": "BaekYoonHo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 234,
     "GroupID": 62,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_TagOut"
+    "TimeLinePrefab": "BaekYoonHo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 235,
-    "GroupID": 62,
-    "Type": "LobbyIdle",
+    "GroupID": 201,
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_LobbyIdle"
+    "TimeLinePrefab": "EmmaLaurent_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 236,
-    "GroupID": 62,
-    "Type": "Intro",
-    "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_StartAction"
-  },
-  {
-    "ID": 237,
-    "GroupID": 201,
-    "Type": "Intro",
-    "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_StartAction"
-  },
-  {
-    "ID": 238,
     "GroupID": 100074,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Kargalgan_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 239,
+    "ID": 237,
     "GroupID": 100075,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_HighOrc_Greatsword_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_HighOrc_Greatsword_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 240,
+    "ID": 238,
     "GroupID": 100077,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_HighOrc_Doubleaxe_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_HighOrc_Doubleaxe_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 241,
+    "ID": 239,
     "GroupID": 100079,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_HighOrc_Bow_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_HighOrc_Bow_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 240,
+    "GroupID": 51,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "YooJinHo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 241,
+    "GroupID": 191,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "AliciaBlanchet_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 242,
-    "GroupID": 51,
+    "GroupID": 91,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_StartAction"
+    "TimeLinePrefab": "SongChiYul_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 243,
-    "GroupID": 191,
-    "Type": "Intro",
-    "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_StartAction"
-  },
-  {
-    "ID": 244,
-    "GroupID": 91,
-    "Type": "Intro",
-    "Index": 0,
-    "TimeLinePrefab": "SongChiYul_StartAction"
-  },
-  {
-    "ID": 245,
     "GroupID": 100080,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceElf_Dagger_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceElf_Dagger_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 244,
+    "GroupID": 41,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "KangTaeShik_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 245,
+    "GroupID": 41,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "KangTaeShik_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 246,
-    "GroupID": 41,
+    "GroupID": 81,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_Win_Endloop"
+    "TimeLinePrefab": "LeeJuHee_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 247,
-    "GroupID": 41,
+    "GroupID": 81,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_Fail_Endloop"
+    "TimeLinePrefab": "LeeJuHee_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 248,
-    "GroupID": 81,
-    "Type": "WinIdle",
-    "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_Win_Endloop"
-  },
-  {
-    "ID": 249,
-    "GroupID": 81,
-    "Type": "FailIdle",
-    "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_Fail_Endloop"
-  },
-  {
-    "ID": 250,
     "GroupID": 12101,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_Boss_Intro"
+    "TimeLinePrefab": "KangTaeShik_Boss_Intro",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 249,
+    "GroupID": 131,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "ChoiJongIn_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 250,
+    "GroupID": 131,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "ChoiJongIn_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 251,
-    "GroupID": 131,
+    "GroupID": 171,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "HwangDongSu_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 252,
-    "GroupID": 131,
+    "GroupID": 171,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "HwangDongSu_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 253,
-    "GroupID": 171,
+    "GroupID": 21,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_Win_Endloop"
+    "TimeLinePrefab": "KimChul_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 254,
-    "GroupID": 171,
+    "GroupID": 21,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_Fail_Endloop"
+    "TimeLinePrefab": "KimChul_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 255,
-    "GroupID": 21,
+    "GroupID": 161,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_Win_Endloop"
+    "TimeLinePrefab": "MinByungGu_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 256,
-    "GroupID": 21,
+    "GroupID": 161,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_Fail_Endloop"
+    "TimeLinePrefab": "MinByungGu_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 257,
-    "GroupID": 161,
+    "GroupID": 91,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_Win_Endloop"
+    "TimeLinePrefab": "SongChiYul_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 258,
-    "GroupID": 161,
+    "GroupID": 91,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_Fail_Endloop"
+    "TimeLinePrefab": "SongChiYul_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 259,
-    "GroupID": 91,
+    "GroupID": 151,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_Win_Endloop"
+    "TimeLinePrefab": "WooJinChul_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 260,
-    "GroupID": 91,
+    "GroupID": 151,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_Fail_Endloop"
+    "TimeLinePrefab": "WooJinChul_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 261,
-    "GroupID": 151,
+    "GroupID": 51,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_Win_Endloop"
+    "TimeLinePrefab": "YooJinHo_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 262,
-    "GroupID": 151,
+    "GroupID": 51,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_Fail_Endloop"
+    "TimeLinePrefab": "YooJinHo_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 263,
-    "GroupID": 51,
+    "GroupID": 3,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_Win_Endloop"
+    "TimeLinePrefab": "SungJinWoo_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 264,
-    "GroupID": 51,
+    "GroupID": 3,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_Fail_Endloop"
+    "TimeLinePrefab": "SungJinWoo_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 265,
-    "GroupID": 3,
+    "GroupID": 101,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Win_Endloop"
+    "TimeLinePrefab": "ChoGyuHwan_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 266,
-    "GroupID": 3,
+    "GroupID": 101,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_Fail_Endloop"
+    "TimeLinePrefab": "ChoGyuHwan_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 267,
-    "GroupID": 101,
+    "GroupID": 181,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_Win_Endloop"
+    "TimeLinePrefab": "LeeBoRa_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 268,
-    "GroupID": 101,
+    "GroupID": 181,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_Fail_Endloop"
+    "TimeLinePrefab": "LeeBoRa_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 269,
-    "GroupID": 181,
+    "GroupID": 31,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_Win_Endloop"
+    "TimeLinePrefab": "ParkHeeJin_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 270,
-    "GroupID": 181,
+    "GroupID": 31,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_Fail_Endloop"
+    "TimeLinePrefab": "ParkHeeJin_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 271,
-    "GroupID": 31,
+    "GroupID": 61,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_Win_Endloop"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 272,
-    "GroupID": 31,
+    "GroupID": 61,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_Fail_Endloop"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 273,
-    "GroupID": 61,
+    "GroupID": 62,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_Win_Endloop"
+    "TimeLinePrefab": "BaekYoonHo_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 274,
-    "GroupID": 61,
+    "GroupID": 62,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_Fail_Endloop"
+    "TimeLinePrefab": "BaekYoonHo_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 275,
-    "GroupID": 62,
+    "GroupID": 11,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_Win_Endloop"
+    "TimeLinePrefab": "ChaHaeIn_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 276,
-    "GroupID": 62,
+    "GroupID": 11,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_Fail_Endloop"
+    "TimeLinePrefab": "ChaHaeIn_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 277,
-    "GroupID": 11,
+    "GroupID": 141,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_Win_Endloop"
+    "TimeLinePrefab": "KimSangShik_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 278,
-    "GroupID": 11,
+    "GroupID": 141,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_Fail_Endloop"
+    "TimeLinePrefab": "KimSangShik_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 279,
-    "GroupID": 141,
+    "GroupID": 71,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_Win_Endloop"
+    "TimeLinePrefab": "LimTaeGyu_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 280,
-    "GroupID": 141,
+    "GroupID": 71,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_Fail_Endloop"
+    "TimeLinePrefab": "LimTaeGyu_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 281,
-    "GroupID": 71,
+    "GroupID": 191,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_Win_Endloop"
+    "TimeLinePrefab": "AliciaBlanchet_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 282,
-    "GroupID": 71,
+    "GroupID": 191,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_Fail_Endloop"
+    "TimeLinePrefab": "AliciaBlanchet_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 283,
-    "GroupID": 191,
+    "GroupID": 121,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win_Endloop"
+    "TimeLinePrefab": "HanSongI_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 284,
-    "GroupID": 191,
+    "GroupID": 121,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail_Endloop"
+    "TimeLinePrefab": "HanSongI_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 285,
-    "GroupID": 121,
+    "GroupID": 111,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_Win_Endloop"
+    "TimeLinePrefab": "HwangDongSuk_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 286,
-    "GroupID": 121,
+    "GroupID": 111,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_Fail_Endloop"
+    "TimeLinePrefab": "HwangDongSuk_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 287,
-    "GroupID": 111,
+    "GroupID": 201,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_Win_Endloop"
+    "TimeLinePrefab": "EmmaLaurent_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 288,
-    "GroupID": 111,
+    "GroupID": 201,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_Fail_Endloop"
+    "TimeLinePrefab": "EmmaLaurent_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 289,
-    "GroupID": 201,
-    "Type": "WinIdle",
-    "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_Win_Endloop"
-  },
-  {
-    "ID": 290,
-    "GroupID": 201,
-    "Type": "FailIdle",
-    "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_Fail_Endloop"
-  },
-  {
-    "ID": 291,
     "GroupID": 5,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_StartAction"
+    "TimeLinePrefab": "SungJinWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 292,
+    "ID": 290,
     "GroupID": 6,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_StartAction"
+    "TimeLinePrefab": "SungJinWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 293,
+    "ID": 291,
     "GroupID": 11,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_StartAction"
+    "TimeLinePrefab": "ChaHaeIn_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 294,
+    "ID": 292,
     "GroupID": 151,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_StartAction"
+    "TimeLinePrefab": "WooJinChul_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 295,
+    "ID": 293,
     "GroupID": 161,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_StartAction"
+    "TimeLinePrefab": "MinByungGu_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 296,
+    "ID": 294,
     "GroupID": 100115,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_WerewolfNadan_Boss_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_WerewolfNadan_Boss_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 297,
+    "ID": 295,
     "GroupID": 100116,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Werewolf_B_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Werewolf_B_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 298,
+    "ID": 296,
     "GroupID": 100001,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Iron_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 299,
+    "ID": 297,
     "GroupID": 100081,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Knight_ShieldAxe_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Knight_ShieldAxe_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 298,
+    "GroupID": 211,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "AnnaRuiz_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 299,
+    "GroupID": 211,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "AnnaRuiz_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 300,
     "GroupID": 211,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_SocialMotion"
+    "TimeLinePrefab": "AnnaRuiz_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 301,
     "GroupID": 211,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_Win"
+    "TimeLinePrefab": "AnnaRuiz_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 302,
     "GroupID": 211,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_Fail"
+    "TimeLinePrefab": "AnnaRuiz_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 303,
     "GroupID": 211,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_LobbyIdle"
+    "TimeLinePrefab": "AnnaRuiz_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 304,
     "GroupID": 211,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_TagOut"
+    "TimeLinePrefab": "AnnaRuiz_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 305,
     "GroupID": 211,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_LobbyIdle"
+    "TimeLinePrefab": "AnnaRuiz_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 306,
     "GroupID": 211,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_StartAction"
+    "TimeLinePrefab": "AnnaRuiz_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 307,
-    "GroupID": 211,
-    "Type": "WinIdle",
-    "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_Win_Endloop"
-  },
-  {
-    "ID": 308,
-    "GroupID": 211,
-    "Type": "FailIdle",
-    "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_Fail_Endloop"
-  },
-  {
-    "ID": 309,
     "GroupID": 2,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_E_LobbyIdle"
+    "TimeLinePrefab": "SungJinWoo_E_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 310,
+    "ID": 308,
     "GroupID": 31001,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "PoisonFangedGiantCentipede_Elite_A_PFV_Intro_A"
+    "TimeLinePrefab": "PoisonFangedGiantCentipede_Elite_A_PFV_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 311,
+    "ID": 309,
     "GroupID": 100001,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Iron_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 312,
+    "ID": 310,
     "GroupID": 100001,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Iron_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 313,
+    "ID": 311,
     "GroupID": 13701,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "SevenNightsFireEnnio_Boss@Skill_14"
+    "TimeLinePrefab": "SevenNightsFireEnnio_Boss@Skill_14",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 314,
+    "ID": 312,
     "GroupID": 34301,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_Monster_Intro"
+    "TimeLinePrefab": "HwangDongSuk_Monster_Intro",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 315,
+    "ID": 313,
     "GroupID": 10701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Igris_Boss_Intro_A"
+    "TimeLinePrefab": "Igris_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 316,
+    "ID": 314,
     "GroupID": 11,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "ChaHaeIn_Evolve"
+    "TimeLinePrefab": "ChaHaeIn_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 317,
+    "ID": 315,
     "GroupID": 21,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "KimChul_Evolve"
+    "TimeLinePrefab": "KimChul_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 318,
+    "ID": 316,
     "GroupID": 31,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "ParkHeeJin_Evolve"
+    "TimeLinePrefab": "ParkHeeJin_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 319,
+    "ID": 317,
     "GroupID": 41,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "KangTaeShik_Evolve"
+    "TimeLinePrefab": "KangTaeShik_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 320,
+    "ID": 318,
     "GroupID": 51,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "YooJinHo_Evolve"
+    "TimeLinePrefab": "YooJinHo_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 321,
+    "ID": 319,
     "GroupID": 61,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_BeastForm_Evolve"
+    "TimeLinePrefab": "BaekYoonHo_BeastForm_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 322,
+    "ID": 320,
     "GroupID": 62,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "BaekYoonHo_Evolve"
+    "TimeLinePrefab": "BaekYoonHo_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 323,
+    "ID": 321,
     "GroupID": 71,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "LimTaeGyu_Evolve"
+    "TimeLinePrefab": "LimTaeGyu_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 324,
+    "ID": 322,
     "GroupID": 81,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "LeeJuHee_Evolve"
+    "TimeLinePrefab": "LeeJuHee_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 325,
+    "ID": 323,
     "GroupID": 91,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "SongChiYul_Evolve"
+    "TimeLinePrefab": "SongChiYul_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 326,
+    "ID": 324,
     "GroupID": 101,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "ChoGyuHwan_Evolve"
+    "TimeLinePrefab": "ChoGyuHwan_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 327,
+    "ID": 325,
     "GroupID": 111,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSuk_Evolve"
+    "TimeLinePrefab": "HwangDongSuk_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 328,
+    "ID": 326,
     "GroupID": 121,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "HanSongI_Evolve"
+    "TimeLinePrefab": "HanSongI_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 329,
+    "ID": 327,
     "GroupID": 131,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
+    "TimeLinePrefab": "ChoiJongIn_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 330,
+    "ID": 328,
     "GroupID": 141,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "KimSangShik_Evolve"
+    "TimeLinePrefab": "KimSangShik_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 331,
+    "ID": 329,
     "GroupID": 151,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "WooJinChul_Evolve"
+    "TimeLinePrefab": "WooJinChul_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 332,
+    "ID": 330,
     "GroupID": 161,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "MinByungGu_Evolve"
+    "TimeLinePrefab": "MinByungGu_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 333,
+    "ID": 331,
     "GroupID": 171,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "HwangDongSu_Evolve"
+    "TimeLinePrefab": "HwangDongSu_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 334,
+    "ID": 332,
     "GroupID": 181,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "LeeBoRa_Evolve"
+    "TimeLinePrefab": "LeeBoRa_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 335,
+    "ID": 333,
     "GroupID": 191,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Evolve"
+    "TimeLinePrefab": "AliciaBlanchet_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 336,
+    "ID": 334,
     "GroupID": 201,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_Evolve"
+    "TimeLinePrefab": "EmmaLaurent_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 337,
+    "ID": 335,
     "GroupID": 211,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "AnnaRuiz_Evolve"
+    "TimeLinePrefab": "AnnaRuiz_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 336,
+    "GroupID": 221,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "ParkBeomSik_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 337,
+    "GroupID": 221,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "ParkBeomSik_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 338,
     "GroupID": 221,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_SocialMotion"
+    "TimeLinePrefab": "ParkBeomSik_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 339,
     "GroupID": 221,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_Win"
+    "TimeLinePrefab": "ParkBeomSik_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 340,
     "GroupID": 221,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_Fail"
+    "TimeLinePrefab": "ParkBeomSik_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 341,
     "GroupID": 221,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_LobbyIdle"
+    "TimeLinePrefab": "ParkBeomSik_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 342,
     "GroupID": 221,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_TagOut"
+    "TimeLinePrefab": "ParkBeomSik_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 343,
     "GroupID": 221,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_LobbyIdle"
+    "TimeLinePrefab": "ParkBeomSik_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 344,
     "GroupID": 221,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_StartAction"
+    "TimeLinePrefab": "ParkBeomSik_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 345,
     "GroupID": 221,
-    "Type": "WinIdle",
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_Win_Endloop"
+    "TimeLinePrefab": "ParkBeomSik_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 346,
-    "GroupID": 221,
-    "Type": "FailIdle",
+    "GroupID": 231,
+    "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_Fail_Endloop"
+    "TimeLinePrefab": "NamChaeYeong_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 347,
-    "GroupID": 221,
-    "Type": "Evolve",
+    "GroupID": 231,
+    "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "ParkBeomSik_Evolve"
+    "TimeLinePrefab": "NamChaeYeong_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 348,
     "GroupID": 231,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_SocialMotion"
+    "TimeLinePrefab": "NamChaeYeong_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 349,
     "GroupID": 231,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_Win"
+    "TimeLinePrefab": "NamChaeYeong_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 350,
     "GroupID": 231,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_Fail"
+    "TimeLinePrefab": "NamChaeYeong_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 351,
     "GroupID": 231,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_LobbyIdle"
+    "TimeLinePrefab": "NamChaeYeong_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 352,
     "GroupID": 231,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_TagOut"
+    "TimeLinePrefab": "NamChaeYeong_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 353,
     "GroupID": 231,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_LobbyIdle"
+    "TimeLinePrefab": "NamChaeYeong_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 354,
     "GroupID": 231,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_StartAction"
+    "TimeLinePrefab": "NamChaeYeong_Fail_Loop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 355,
     "GroupID": 231,
-    "Type": "WinIdle",
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_Win_Endloop"
+    "TimeLinePrefab": "NamChaeYeong_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 356,
-    "GroupID": 231,
-    "Type": "FailIdle",
+    "GroupID": 241,
+    "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_Fail_Loop"
+    "TimeLinePrefab": "Gina_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 357,
-    "GroupID": 231,
-    "Type": "Evolve",
+    "GroupID": 241,
+    "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "NamChaeYeong_Evolve"
+    "TimeLinePrefab": "Gina_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 358,
     "GroupID": 241,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_SocialMotion"
+    "TimeLinePrefab": "Gina_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 359,
     "GroupID": 241,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win"
+    "TimeLinePrefab": "Gina_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 360,
     "GroupID": 241,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail"
+    "TimeLinePrefab": "Gina_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 361,
     "GroupID": 241,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "Gina_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 362,
     "GroupID": 241,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_TagOut"
+    "TimeLinePrefab": "Gina_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 363,
     "GroupID": 241,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "Gina_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 364,
     "GroupID": 241,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_StartAction"
+    "TimeLinePrefab": "Gina_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 365,
     "GroupID": 241,
-    "Type": "WinIdle",
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win_Endloop"
+    "TimeLinePrefab": "Gina_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 366,
-    "GroupID": 241,
-    "Type": "FailIdle",
+    "GroupID": 251,
+    "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail_Endloop"
+    "TimeLinePrefab": "SeoJiWoo_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 367,
-    "GroupID": 241,
-    "Type": "Evolve",
+    "GroupID": 251,
+    "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Evolve"
+    "TimeLinePrefab": "SeoJiWoo_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 368,
     "GroupID": 251,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_SocialMotion"
+    "TimeLinePrefab": "SeoJiWoo_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 369,
     "GroupID": 251,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_Win"
+    "TimeLinePrefab": "SeoJiWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 370,
     "GroupID": 251,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_Fail"
+    "TimeLinePrefab": "SeoJiWoo_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 371,
     "GroupID": 251,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_LobbyIdle"
+    "TimeLinePrefab": "SeoJiWoo_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 372,
     "GroupID": 251,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_TagOut"
+    "TimeLinePrefab": "SeoJiWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 373,
     "GroupID": 251,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_LobbyIdle"
+    "TimeLinePrefab": "SeoJiWoo_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 374,
     "GroupID": 251,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_StartAction"
+    "TimeLinePrefab": "SeoJiWoo_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 375,
     "GroupID": 251,
-    "Type": "WinIdle",
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_Win_Endloop"
+    "TimeLinePrefab": "SeoJiWoo_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 376,
-    "GroupID": 251,
-    "Type": "FailIdle",
+    "GroupID": 261,
+    "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_Fail_Endloop"
+    "TimeLinePrefab": "YooSooHyun_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 377,
-    "GroupID": 251,
-    "Type": "Evolve",
+    "GroupID": 261,
+    "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "SeoJiWoo_Evolve"
+    "TimeLinePrefab": "YooSooHyun_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 378,
     "GroupID": 261,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_SocialMotion"
+    "TimeLinePrefab": "YooSooHyun_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 379,
     "GroupID": 261,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_Win"
+    "TimeLinePrefab": "YooSooHyun_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 380,
     "GroupID": 261,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_Fail"
+    "TimeLinePrefab": "YooSooHyun_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 381,
     "GroupID": 261,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_LobbyIdle"
+    "TimeLinePrefab": "YooSooHyun_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 382,
     "GroupID": 261,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_TagOut"
+    "TimeLinePrefab": "YooSooHyun_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 383,
     "GroupID": 261,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_LobbyIdle"
+    "TimeLinePrefab": "YooSooHyun_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 384,
     "GroupID": 261,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_StartAction"
+    "TimeLinePrefab": "YooSooHyun_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 385,
     "GroupID": 261,
-    "Type": "WinIdle",
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_Win_Endloop"
+    "TimeLinePrefab": "YooSooHyun_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 386,
-    "GroupID": 261,
-    "Type": "FailIdle",
+    "GroupID": 271,
+    "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_Fail_Endloop"
+    "TimeLinePrefab": "MeilinFisher_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 387,
-    "GroupID": 261,
-    "Type": "Evolve",
+    "GroupID": 271,
+    "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "YooSooHyun_Evolve"
+    "TimeLinePrefab": "MeilinFisher_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 388,
     "GroupID": 271,
-    "Type": "SocialMotion",
+    "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_SocialMotion"
+    "TimeLinePrefab": "MeilinFisher_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 389,
     "GroupID": 271,
-    "Type": "Win",
+    "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win"
+    "TimeLinePrefab": "MeilinFisher_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 390,
     "GroupID": 271,
-    "Type": "Fail",
+    "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail"
+    "TimeLinePrefab": "MeilinFisher_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 391,
     "GroupID": 271,
-    "Type": "LobbySpawn",
+    "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "MeilinFisher_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 392,
     "GroupID": 271,
-    "Type": "TagOut",
+    "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_TagOut"
+    "TimeLinePrefab": "MeilinFisher_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 393,
     "GroupID": 271,
-    "Type": "LobbyIdle",
+    "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "MeilinFisher_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 394,
     "GroupID": 271,
-    "Type": "Intro",
+    "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_StartAction"
+    "TimeLinePrefab": "MeilinFisher_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 395,
     "GroupID": 271,
-    "Type": "WinIdle",
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win_Endloop"
+    "TimeLinePrefab": "MeilinFisher_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 396,
-    "GroupID": 271,
-    "Type": "FailIdle",
-    "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail_Endloop"
-  },
-  {
-    "ID": 397,
-    "GroupID": 271,
-    "Type": "Evolve",
-    "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Evolve"
-  },
-  {
-    "ID": 398,
     "GroupID": 14401,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_ERank_StartAction"
+    "TimeLinePrefab": "SungJinWoo_ERank_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 399,
+    "ID": 397,
     "GroupID": 14501,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_StartAction"
+    "TimeLinePrefab": "SungJinWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 400,
+    "ID": 398,
     "GroupID": 201,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_Win"
+    "TimeLinePrefab": "EmmaLaurent_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 401,
+    "ID": 399,
     "GroupID": 201,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_Fail"
+    "TimeLinePrefab": "EmmaLaurent_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 400,
+    "GroupID": 100004,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Igris_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 401,
+    "GroupID": 100004,
+    "Type": "EvolveStart",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Igris_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 402,
     "GroupID": 100004,
-    "Type": "Evolve",
+    "Type": "EvolveEnd",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_Evolve"
+    "TimeLinePrefab": "Shadow_Igris_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 403,
-    "GroupID": 100004,
-    "Type": "EvolveStart",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_Evolve_Start"
-  },
-  {
-    "ID": 404,
-    "GroupID": 100004,
-    "Type": "EvolveEnd",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_Evolve_End"
-  },
-  {
-    "ID": 405,
     "GroupID": 14601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "SungJinWoo_StartAction"
+    "TimeLinePrefab": "SungJinWoo_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 406,
+    "ID": 404,
     "GroupID": 201,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "EmmaLaurent_SocialMotion"
+    "TimeLinePrefab": "EmmaLaurent_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 405,
+    "GroupID": 100001,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Iron_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 406,
+    "GroupID": 100001,
+    "Type": "EvolveStart",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Iron_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 407,
     "GroupID": 100001,
-    "Type": "Evolve",
+    "Type": "EvolveEnd",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_Evolve"
+    "TimeLinePrefab": "Shadow_Iron_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 408,
-    "GroupID": 100001,
-    "Type": "EvolveStart",
+    "GroupID": 100021,
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_Evolve_Start"
+    "TimeLinePrefab": "Shadow_IceBear_Boss_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 409,
-    "GroupID": 100001,
-    "Type": "EvolveEnd",
+    "GroupID": 100021,
+    "Type": "EvolveStart",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_Evolve_End"
+    "TimeLinePrefab": "Shadow_IceBear_Boss_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 410,
     "GroupID": 100021,
-    "Type": "Evolve",
+    "Type": "EvolveEnd",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_Evolve"
+    "TimeLinePrefab": "Shadow_IceBear_Boss_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 411,
-    "GroupID": 100021,
-    "Type": "EvolveStart",
+    "GroupID": 100073,
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_Evolve_Start"
+    "TimeLinePrefab": "Shadow_Baruka_Boss_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 412,
-    "GroupID": 100021,
-    "Type": "EvolveEnd",
+    "GroupID": 100073,
+    "Type": "EvolveStart",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_Evolve_End"
+    "TimeLinePrefab": "Shadow_Baruka_Boss_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 413,
     "GroupID": 100073,
-    "Type": "Evolve",
+    "Type": "EvolveEnd",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Boss_Evolve"
+    "TimeLinePrefab": "Shadow_Baruka_Boss_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 414,
-    "GroupID": 100073,
-    "Type": "EvolveStart",
+    "GroupID": 100074,
+    "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Boss_Evolve_Start"
+    "TimeLinePrefab": "Shadow_Kargalgan_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 415,
-    "GroupID": 100073,
-    "Type": "EvolveEnd",
+    "GroupID": 100074,
+    "Type": "EvolveStart",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Boss_Evolve_End"
+    "TimeLinePrefab": "Shadow_Kargalgan_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 416,
     "GroupID": 100074,
-    "Type": "Evolve",
+    "Type": "EvolveEnd",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_Evolve"
+    "TimeLinePrefab": "Shadow_Kargalgan_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 417,
-    "GroupID": 100074,
-    "Type": "EvolveStart",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_Evolve_Start"
-  },
-  {
-    "ID": 418,
-    "GroupID": 100074,
-    "Type": "EvolveEnd",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_Evolve_End"
-  },
-  {
-    "ID": 419,
     "GroupID": 100004,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_SocialMotion"
+    "TimeLinePrefab": "Shadow_Igris_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 420,
+    "ID": 418,
     "GroupID": 100001,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Iron_SocialMotion"
+    "TimeLinePrefab": "Shadow_Iron_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 419,
+    "GroupID": 100021,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_IceBear_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 420,
+    "GroupID": 100021,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_IceBear_Boss_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 421,
-    "GroupID": 100021,
+    "GroupID": 100073,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Baruka_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 422,
-    "GroupID": 100021,
+    "GroupID": 100073,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_SocialMotion"
+    "TimeLinePrefab": "Shadow_Baruka_Boss_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 423,
-    "GroupID": 100073,
+    "GroupID": 100074,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Boss_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Kargalgan_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 424,
-    "GroupID": 100073,
+    "GroupID": 100074,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Boss_SocialMotion"
+    "TimeLinePrefab": "Shadow_Kargalgan_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 425,
-    "GroupID": 100074,
-    "Type": "LobbyIdle",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_LobbyIdle"
-  },
-  {
-    "ID": 426,
-    "GroupID": 100074,
-    "Type": "SocialMotion",
-    "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_SocialMotion"
-  },
-  {
-    "ID": 427,
     "GroupID": 14801,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "GrimReaper_Scythe_Boss_Intro_A"
+    "TimeLinePrefab": "GrimReaper_Scythe_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 428,
+    "ID": 426,
     "GroupID": 34901,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "GrimReaper_DoubleGreatSword_Elite@Intro_A"
+    "TimeLinePrefab": "GrimReaper_DoubleGreatSword_Elite@Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 429,
+    "ID": 427,
     "GroupID": 100170,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceElf_SwordShield_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceElf_SwordShield_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 430,
+    "ID": 428,
     "GroupID": 100180,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceElf_Staff_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceElf_Staff_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 431,
+    "ID": 429,
     "GroupID": 100190,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceElf_Bow_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceElf_Bow_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 432,
+    "ID": 430,
     "GroupID": 100200,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceElf_LongSword_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceElf_LongSword_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 433,
+    "ID": 431,
     "GroupID": 100210,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceElf_DualWield_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceElf_DualWield_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 434,
+    "ID": 432,
     "GroupID": 100211,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_A_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_IceBear_A_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 435,
+    "ID": 433,
     "GroupID": 100073,
     "Type": "ShadowOut",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Spawn_Skill_Out"
+    "TimeLinePrefab": "Shadow_Baruka_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 436,
+    "ID": 434,
     "GroupID": 34601,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HighOrc_Doubleaxe_Elite_Intro_A"
+    "TimeLinePrefab": "HighOrc_Doubleaxe_Elite_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 437,
+    "ID": 435,
     "GroupID": 34701,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "HighOrc_Unarmed_Elite_B_Intro_A"
+    "TimeLinePrefab": "HighOrc_Unarmed_Elite_B_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
-    "ID": 438,
+    "ID": 436,
+    "GroupID": 14101,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "Kaisellin_Baran_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 437,
     "GroupID": 14201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Baran_Boss_2_Intro_A"
+    "TimeLinePrefab": "Baran_Boss_2_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 438,
+    "GroupID": 14202,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "WSofBrilliantLight_BaranBoss_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 439,
     "GroupID": 14301,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Baran_Boss_3_Intro_A"
+    "TimeLinePrefab": "Baran_Boss_3_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 440,
     "GroupID": 100021,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_IceBear_Boss_LobbyIdle"
+    "TimeLinePrefab": "Shadow_IceBear_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 441,
     "GroupID": 100073,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Baruka_Boss_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Baruka_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 442,
     "GroupID": 100074,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Kargalgan_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Kargalgan_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 443,
     "GroupID": 100004,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "Shadow_Igris_LobbyIdle"
+    "TimeLinePrefab": "Shadow_Igris_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   },
   {
     "ID": 444,
     "GroupID": 35201,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "Centauros_Spear_Intro_A"
+    "TimeLinePrefab": "Centauros_Spear_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 445,
+    "GroupID": 291,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 446,
+    "GroupID": 291,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 447,
+    "GroupID": 291,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 448,
+    "GroupID": 291,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 449,
+    "GroupID": 291,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 450,
+    "GroupID": 291,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 451,
+    "GroupID": 291,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 452,
+    "GroupID": 291,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 453,
+    "GroupID": 291,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 454,
+    "GroupID": 291,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "AmamiyaMirei_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 455,
+    "GroupID": 15801,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "CursedGiant_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 456,
+    "GroupID": 15701,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "DesertDragon_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 457,
+    "GroupID": 281,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 458,
+    "GroupID": 281,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 459,
+    "GroupID": 281,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 460,
+    "GroupID": 281,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 461,
+    "GroupID": 281,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 462,
+    "GroupID": 281,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 463,
+    "GroupID": 281,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 464,
+    "GroupID": 281,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 465,
+    "GroupID": 281,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 466,
+    "GroupID": 281,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "GoGunHee_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 467,
+    "GroupID": 301,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 468,
+    "GroupID": 301,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 469,
+    "GroupID": 301,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 470,
+    "GroupID": 301,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 471,
+    "GroupID": 301,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 472,
+    "GroupID": 301,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 473,
+    "GroupID": 301,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 474,
+    "GroupID": 301,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 475,
+    "GroupID": 301,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 476,
+    "GroupID": 301,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "HanSeMi_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 477,
+    "GroupID": 10501,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "PoisonFangedGiantCentipede_Boss_B_PFV_Intro_B",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 478,
+    "GroupID": 100020,
+    "Type": "ShadowOut",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 479,
+    "GroupID": 100020,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 480,
+    "GroupID": 100020,
+    "Type": "EvolveStart",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 481,
+    "GroupID": 100020,
+    "Type": "EvolveEnd",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 482,
+    "GroupID": 100020,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 483,
+    "GroupID": 100020,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 484,
+    "GroupID": 100020,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_GatekeeperCerberus_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 485,
+    "GroupID": 100022,
+    "Type": "ShadowOut",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 486,
+    "GroupID": 100022,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 487,
+    "GroupID": 100022,
+    "Type": "EvolveStart",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 488,
+    "GroupID": 100022,
+    "Type": "EvolveEnd",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 489,
+    "GroupID": 100022,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 490,
+    "GroupID": 100022,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 491,
+    "GroupID": 100022,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_BlueGolem_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 492,
+    "GroupID": 100400,
+    "Type": "ShadowOut",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 493,
+    "GroupID": 100400,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 494,
+    "GroupID": 100400,
+    "Type": "EvolveStart",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 495,
+    "GroupID": 100400,
+    "Type": "EvolveEnd",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 496,
+    "GroupID": 100400,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 497,
+    "GroupID": 100400,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 498,
+    "GroupID": 100400,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_Kaisellin_Boss_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 499,
+    "GroupID": 311,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 500,
+    "GroupID": 311,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 501,
+    "GroupID": 311,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 502,
+    "GroupID": 311,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 503,
+    "GroupID": 311,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 504,
+    "GroupID": 311,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 505,
+    "GroupID": 311,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 506,
+    "GroupID": 311,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 507,
+    "GroupID": 311,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 508,
+    "GroupID": 311,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Harper_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 509,
+    "GroupID": 321,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 510,
+    "GroupID": 321,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 511,
+    "GroupID": 321,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 512,
+    "GroupID": 321,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 513,
+    "GroupID": 321,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 514,
+    "GroupID": 321,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 515,
+    "GroupID": 321,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 516,
+    "GroupID": 321,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 517,
+    "GroupID": 321,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 518,
+    "GroupID": 321,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Charlotte_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 519,
+    "GroupID": 16001,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "IceWitch_Beste_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 520,
+    "GroupID": 100220,
+    "Type": "ShadowOut",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_Spawn_Skill_Out",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 521,
+    "GroupID": 100220,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 522,
+    "GroupID": 100220,
+    "Type": "EvolveStart",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_Evolve_Start",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 523,
+    "GroupID": 100220,
+    "Type": "EvolveEnd",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_Evolve_End",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 524,
+    "GroupID": 100220,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 525,
+    "GroupID": 100220,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 526,
+    "GroupID": 100220,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "Shadow_StoneGolem_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 527,
+    "GroupID": 331,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 528,
+    "GroupID": 331,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 529,
+    "GroupID": 331,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 530,
+    "GroupID": 331,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 531,
+    "GroupID": 331,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 532,
+    "GroupID": 331,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 533,
+    "GroupID": 331,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 534,
+    "GroupID": 331,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 535,
+    "GroupID": 331,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 536,
+    "GroupID": 331,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "IslaWright_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   }
 ]

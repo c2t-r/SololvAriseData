@@ -1008,6 +1008,24 @@
     "AwakeActive": true
   },
   {
+    "ID": 114,
+    "GroupID": 251,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "SeoJiWoo_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 115,
+    "GroupID": 251,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "SeoJiWoo_Weapon02_PFV",
+    "AttachParentName": "Bip001 Prop2",
+    "AwakeActive": true
+  },
+  {
     "ID": 116,
     "GroupID": 261,
     "CharPartsType": "Weapon",
@@ -1039,7 +1057,7 @@
     "GroupID": 271,
     "CharPartsType": "Weapon",
     "Index": 1,
-    "PartsPrefName": "MeilinFisher_Weapon02_PFV",
+    "PartsPrefName": "MeilinFisher_Weapon03_PFV",
     "AttachParentName": "Point_Wp_1",
     "AwakeActive": true
   },
@@ -1113,6 +1131,249 @@
     "Index": 52,
     "PartsPrefName": "GSWeapon_SSR_DemonKnightSpear_01_PFV",
     "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 128,
+    "GroupID": 833,
+    "CharPartsType": "GSWeapon",
+    "Index": 52,
+    "PartsPrefName": "GSWeapon_SSR_DemonKnightSpear_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 129,
+    "GroupID": 272,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "MeilinFisherSkinEpicMagician_Weapon0_PFV",
+    "AttachParentName": "Prop_Weapon_Sword_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 130,
+    "GroupID": 272,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "MeilinFisherSkinEpicMagician_Weapon1_PFV",
+    "AttachParentName": "Point_Wp_1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 131,
+    "GroupID": 291,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "AmamiyaMirei_Weapon0_PFV",
+    "AttachParentName": "Bone_Weapon_01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 132,
+    "GroupID": 291,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "AmamiyaMirei_Weapon1_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 133,
+    "GroupID": 291,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "AmamiyaMirei_Weapon2_PFV",
+    "AttachParentName": "Weapon_Equip_Root_A",
+    "AwakeActive": true
+  },
+  {
+    "ID": 134,
+    "GroupID": 291,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "AmamiyaMirei_Weapon3_PFV",
+    "AttachParentName": "Bip001 Head",
+    "AwakeActive": true
+  },
+  {
+    "ID": 135,
+    "GroupID": 291,
+    "CharPartsType": "Weapon",
+    "Index": 4,
+    "PartsPrefName": "AmamiyaMirei_Weapon4_PFV",
+    "AttachParentName": "Bip001 Head",
+    "AwakeActive": true
+  },
+  {
+    "ID": 136,
+    "GroupID": 292,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "ParkHeeJin_Skin_Rare_Weapon01_PFV",
+    "AttachParentName": "Bone_Weapon_01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 137,
+    "GroupID": 292,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "ParkHeeJin_Skin_Rare_Weapon02_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 138,
+    "GroupID": 837,
+    "CharPartsType": "GSWeapon",
+    "Index": 44,
+    "PartsPrefName": "GSWeapon_IceStripedMarlinSurfboard_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 139,
+    "GroupID": 838,
+    "CharPartsType": "GSWeapon",
+    "Index": 61,
+    "PartsPrefName": "GSWeapon_JuicyGrilledSkewers_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 140,
+    "GroupID": 311,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "Harper_Weapon0_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 141,
+    "GroupID": 311,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "Harper_Weapon1_PFV",
+    "AttachParentName": "Point_Harper_Weapon",
+    "AwakeActive": true
+  },
+  {
+    "ID": 142,
+    "GroupID": 321,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "Charlotte_Weapon0_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 143,
+    "GroupID": 321,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "Charlotte_Weapon1_PFV",
+    "AttachParentName": "Bip001 Prop2",
+    "AwakeActive": true
+  },
+  {
+    "ID": 144,
+    "GroupID": 321,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "Charlotte_Weapon2_PFV",
+    "AttachParentName": "Bip001 Prop3",
+    "AwakeActive": true
+  },
+  {
+    "ID": 145,
+    "GroupID": 833,
+    "CharPartsType": "GSWeapon",
+    "Index": 52,
+    "PartsPrefName": "GSWeapon_SSR_DemonKnightSpear_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 146,
+    "GroupID": 836,
+    "CharPartsType": "GSWeapon",
+    "Index": 59,
+    "PartsPrefName": "GSWeapon_SSR_PieceOfSieg_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 147,
+    "GroupID": 312,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "Harper_Skin_Rare_Weapon0_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 148,
+    "GroupID": 312,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "Harper_Skin_Rare_Weapon1_PFV",
+    "AttachParentName": "Point_Harper_Weapon",
+    "AwakeActive": true
+  },
+  {
+    "ID": 149,
+    "GroupID": 322,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "Charlotte_Skin_Rare_Weapon0_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 150,
+    "GroupID": 322,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "Charlotte_Weapon1_PFV",
+    "AttachParentName": "Bip001 Prop2",
+    "AwakeActive": true
+  },
+  {
+    "ID": 151,
+    "GroupID": 322,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "Charlotte_Weapon2_PFV",
+    "AttachParentName": "Bip001 Prop3",
+    "AwakeActive": true
+  },
+  {
+    "ID": 152,
+    "GroupID": 839,
+    "CharPartsType": "GSWeapon",
+    "Index": 62,
+    "PartsPrefName": "GSWeapon_DemonKingDagger_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 153,
+    "GroupID": 839,
+    "CharPartsType": "GSWeapon",
+    "Index": 63,
+    "PartsPrefName": "GSWeapon_DemonKingDagger_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 154,
+    "GroupID": 331,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "IslaWright_Weapon01_PFV",
+    "AttachParentName": "Bone_Weapon_Dummy_01",
     "AwakeActive": true
   }
 ]

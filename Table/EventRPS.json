@@ -5,11 +5,11 @@
     "WinRewardGroupID": 803,
     "DrawRewardGroupID": 804,
     "LoseRewardGroupID": 805,
-    "SeriesRewardGroupID": 10001,
     "RankRewardGroupID": 10001,
     "RecordRewardGroupID": 600,
     "RankGroup": 600,
     "NpcID": 500177,
+    "EventSubTitle": "Event.RPS_Title1",
     "ExchangeMoveTargetID": 30018
   },
   {
@@ -18,11 +18,37 @@
     "WinRewardGroupID": 2001003,
     "DrawRewardGroupID": 2001004,
     "LoseRewardGroupID": 2001005,
-    "SeriesRewardGroupID": 10001,
     "RankRewardGroupID": 10001,
     "RecordRewardGroupID": 600,
     "RankGroup": 600,
     "NpcID": 500177,
+    "EventSubTitle": "Event.RPS_Title1",
     "ExchangeMoveTargetID": 30018
+  },
+  {
+    "ID": 10003,
+    "Unused": true,
+    "WinRewardGroupID": 2016305,
+    "DrawRewardGroupID": 2016306,
+    "LoseRewardGroupID": 2016307,
+    "RankRewardGroupID": 0,
+    "RecordRewardGroupID": 0,
+    "RankGroup": 0,
+    "NpcID": 500240,
+    "EventSubTitle": "Event.100Anni.RPS.Desc",
+    "ExchangeMoveTargetID": 30018
+  },
+  {
+    "ID": 20001,
+    "Unused": true,
+    "WinRewardGroupID": 74100605,
+    "DrawRewardGroupID": 74100606,
+    "LoseRewardGroupID": 74100607,
+    "RankRewardGroupID": 10001,
+    "RecordRewardGroupID": 601,
+    "RankGroup": 600,
+    "NpcID": 500240,
+    "EventSubTitle": "Event.100Anni.RPS.Desc",
+    "ExchangeMoveTargetID": 30045
   }
 ]

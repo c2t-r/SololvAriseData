@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 1,
+    "IsMobile": true,
+    "ContentsType": "GuildBoss",
+    "CharacterType": "Monster",
+    "OptimizeIdentifyType": "ID",
+    "CheckValue": "15701",
+    "ExceptSkillType": "[None]",
+    "SkillEffectLimit": true,
+    "SkillSoundtLimit": true,
+    "LODForceDown": true,
+    "AIBTUpdateInterval": true,
+    "BuffEffectLimit": true,
+    "ProductionTimeLineLimit": true,
+    "ReactionTimeLineLimit": true
+  },
+  {
+    "ID": 2,
+    "IsMobile": true,
+    "ContentsType": "GuildBoss",
+    "CharacterType": "Hunter",
+    "OptimizeIdentifyType": "None",
+    "CheckValue": "",
+    "ExceptSkillType": "[]",
+    "SkillEffectLimit": true,
+    "SkillSoundtLimit": true,
+    "LODForceDown": true,
+    "AIBTUpdateInterval": true,
+    "BuffEffectLimit": true,
+    "ProductionTimeLineLimit": true,
+    "ReactionTimeLineLimit": true
+  },
+  {
+    "ID": 3,
+    "IsMobile": true,
+    "ContentsType": "GuildBoss",
+    "CharacterType": "MainPC",
+    "OptimizeIdentifyType": "ID",
+    "CheckValue": "1",
+    "ExceptSkillType": "[UltimateSkill]",
+    "SkillEffectLimit": true,
+    "SkillSoundtLimit": true,
+    "LODForceDown": true,
+    "AIBTUpdateInterval": true,
+    "BuffEffectLimit": true,
+    "ProductionTimeLineLimit": true,
+    "ReactionTimeLineLimit": true
+  }
+]

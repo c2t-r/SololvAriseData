@@ -3,6 +3,14 @@
     "ID": 1001,
     "SelectPickupGrade": 5,
     "SelectPickupNumber": 4,
-    "FixedProbability": 1250
+    "FixedProbability": 1250,
+    "SelectPickupPolicy": " SysConstStr.SelectPickUp_SelectGuide_Policy"
+  },
+  {
+    "ID": 1002,
+    "SelectPickupGrade": 5,
+    "SelectPickupNumber": 2,
+    "FixedProbability": 2500,
+    "SelectPickupPolicy": " SysConstStr.SelectPickUp_SelectGuide_Policy_01"
   }
 ]

@@ -2,6 +2,7 @@
   {
     "ID": 1,
     "TabOrder": 1,
+    "TabType": 1,
     "TabIcon": "Icon_Tab_Craft_All",
     "TabNameString": "",
     "EventDataID": 0
@@ -9,14 +10,16 @@
   {
     "ID": 2,
     "TabOrder": 2,
-    "TabIcon": "Icon_Tab_Craft_Weapon",
+    "TabType": 2,
+    "TabIcon": "Icon_Tab_Craft_Hunter_SSR",
     "TabNameString": "",
     "EventDataID": 0
   },
   {
     "ID": 3,
     "TabOrder": 3,
-    "TabIcon": "Icon_Tab_Craft_Hunter",
+    "TabType": 2,
+    "TabIcon": "Icon_Tab_Craft_Hunter_SR",
     "TabNameString": "",
     "EventDataID": 0
   }

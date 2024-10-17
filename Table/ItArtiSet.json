@@ -6,7 +6,8 @@
     "Name": "ArtifactSet.Name101",
     "PassiveBuff": "[64001011]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Toughness"
   },
   {
     "ID": 10102,
@@ -15,7 +16,8 @@
     "Name": "ArtifactSet.Name101",
     "PassiveBuff": "[64001012]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Toughness"
   },
   {
     "ID": 10201,
@@ -24,7 +26,8 @@
     "Name": "ArtifactSet.Name102",
     "PassiveBuff": "[64001021]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_SolidAnalysis"
   },
   {
     "ID": 10202,
@@ -33,7 +36,8 @@
     "Name": "ArtifactSet.Name102",
     "PassiveBuff": "[64001022]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_SolidAnalysis"
   },
   {
     "ID": 10301,
@@ -42,7 +46,8 @@
     "Name": "ArtifactSet.Name103",
     "PassiveBuff": "[64001031]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 10302,
@@ -51,7 +56,8 @@
     "Name": "ArtifactSet.Name103",
     "PassiveBuff": "[64001032]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 10401,
@@ -60,7 +66,8 @@
     "Name": "ArtifactSet.Name104",
     "PassiveBuff": "[64001041]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Guardian"
   },
   {
     "ID": 10402,
@@ -69,25 +76,28 @@
     "Name": "ArtifactSet.Name104",
     "PassiveBuff": "[64001042]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Guardian"
   },
   {
     "ID": 10501,
     "ArtifactSetID": 105,
     "Condition": 2,
     "Name": "ArtifactSet.Name105",
-    "PassiveBuff": "[64001051]",
+    "PassiveBuff": "[64003051]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_AngelinWhite"
   },
   {
     "ID": 10502,
     "ArtifactSetID": 105,
     "Condition": 4,
     "Name": "ArtifactSet.Name105",
-    "PassiveBuff": "[64001052]",
+    "PassiveBuff": "[64003052, 64003053]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_AngelinWhite"
   },
   {
     "ID": 10601,
@@ -96,7 +106,8 @@
     "Name": "ArtifactSet.Name106",
     "PassiveBuff": "[64001061]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_NobleSacrifice"
   },
   {
     "ID": 10602,
@@ -105,7 +116,8 @@
     "Name": "ArtifactSet.Name106",
     "PassiveBuff": "[64001062, 64001063]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_NobleSacrifice"
   },
   {
     "ID": 10701,
@@ -114,7 +126,8 @@
     "Name": "ArtifactSet.Name107",
     "PassiveBuff": "[64001071]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 10702,
@@ -123,7 +136,8 @@
     "Name": "ArtifactSet.Name107",
     "PassiveBuff": "[64001073]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 10801,
@@ -132,7 +146,8 @@
     "Name": "ArtifactSet.Name108",
     "PassiveBuff": "[64001081]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 10802,
@@ -141,7 +156,8 @@
     "Name": "ArtifactSet.Name108",
     "PassiveBuff": "[64001082]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 10901,
@@ -150,7 +166,8 @@
     "Name": "ArtifactSet.Name109",
     "PassiveBuff": "[64001091]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_One-hitKill"
   },
   {
     "ID": 10902,
@@ -159,7 +176,8 @@
     "Name": "ArtifactSet.Name109",
     "PassiveBuff": "[64001092]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_One-hitKill"
   },
   {
     "ID": 11001,
@@ -168,7 +186,8 @@
     "Name": "ArtifactSet.Name110",
     "PassiveBuff": "[64001101]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 11002,
@@ -177,7 +196,8 @@
     "Name": "ArtifactSet.Name110",
     "PassiveBuff": "[64001102]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 11101,
@@ -186,7 +206,8 @@
     "Name": "ArtifactSet.Name111",
     "PassiveBuff": "[64001111]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Armed"
   },
   {
     "ID": 11102,
@@ -195,7 +216,8 @@
     "Name": "ArtifactSet.Name111",
     "PassiveBuff": "[64001112]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Armed"
   },
   {
     "ID": 11201,
@@ -204,7 +226,8 @@
     "Name": "ArtifactSet.Name112",
     "PassiveBuff": "[64001121]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_SolidFoundation"
   },
   {
     "ID": 11202,
@@ -213,7 +236,8 @@
     "Name": "ArtifactSet.Name112",
     "PassiveBuff": "[64001122]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_SolidFoundation"
   },
   {
     "ID": 11301,
@@ -222,7 +246,8 @@
     "Name": "ArtifactSet.Name113",
     "PassiveBuff": "[64001131]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 11302,
@@ -231,7 +256,8 @@
     "Name": "ArtifactSet.Name113",
     "PassiveBuff": "[64001132]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 11401,
@@ -240,7 +266,8 @@
     "Name": "ArtifactSet.Name114",
     "PassiveBuff": "[64001141]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Destroyer"
   },
   {
     "ID": 11402,
@@ -249,25 +276,28 @@
     "Name": "ArtifactSet.Name114",
     "PassiveBuff": "[64001142, 64001143]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Destroyer"
   },
   {
     "ID": 11501,
     "ArtifactSetID": 115,
     "Condition": 2,
     "Name": "ArtifactSet.Name115",
-    "PassiveBuff": "[64001151]",
+    "PassiveBuff": "[64003041]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Warmonger"
   },
   {
     "ID": 11502,
     "ArtifactSetID": 115,
     "Condition": 4,
     "Name": "ArtifactSet.Name115",
-    "PassiveBuff": "[64001152]",
+    "PassiveBuff": "[64003042]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Warmonger"
   },
   {
     "ID": 30101,
@@ -276,7 +306,8 @@
     "Name": "ArtifactSet.Name301",
     "PassiveBuff": "[64002011]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_ChampionontheField"
   },
   {
     "ID": 30102,
@@ -285,7 +316,8 @@
     "Name": "ArtifactSet.Name301",
     "PassiveBuff": "[64002013]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_ChampionontheField"
   },
   {
     "ID": 30201,
@@ -294,7 +326,8 @@
     "Name": "ArtifactSet.Name302",
     "PassiveBuff": "[64002021]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Executioner"
   },
   {
     "ID": 30202,
@@ -303,7 +336,8 @@
     "Name": "ArtifactSet.Name302",
     "PassiveBuff": "[64002022]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Executioner"
   },
   {
     "ID": 30301,
@@ -312,7 +346,8 @@
     "Name": "ArtifactSet.Name303",
     "PassiveBuff": "[64002031]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Berserker"
   },
   {
     "ID": 30302,
@@ -321,25 +356,28 @@
     "Name": "ArtifactSet.Name303",
     "PassiveBuff": "[64002033]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Berserker"
   },
   {
     "ID": 30401,
     "ArtifactSetID": 304,
     "Condition": 2,
     "Name": "ArtifactSet.Name304",
-    "PassiveBuff": "[64002041]",
+    "PassiveBuff": "[64003071]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_OutstandingAbility"
   },
   {
     "ID": 30402,
     "ArtifactSetID": 304,
     "Condition": 4,
     "Name": "ArtifactSet.Name304",
-    "PassiveBuff": "[64002043]",
+    "PassiveBuff": "[64013071]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_OutstandingAbility"
   },
   {
     "ID": 30501,
@@ -348,7 +386,8 @@
     "Name": "ArtifactSet.Name305",
     "PassiveBuff": "[64002051]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 30502,
@@ -357,7 +396,8 @@
     "Name": "ArtifactSet.Name305",
     "PassiveBuff": "[64002052]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 30601,
@@ -366,7 +406,8 @@
     "Name": "ArtifactSet.Name306",
     "PassiveBuff": "[64002061]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_Expert"
   },
   {
     "ID": 30602,
@@ -375,7 +416,8 @@
     "Name": "ArtifactSet.Name306",
     "PassiveBuff": "[64002063]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_Expert"
   },
   {
     "ID": 30701,
@@ -384,7 +426,8 @@
     "Name": "ArtifactSet.Name307",
     "PassiveBuff": "[64002071]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 30702,
@@ -393,7 +436,8 @@
     "Name": "ArtifactSet.Name307",
     "PassiveBuff": "[64002072]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 30801,
@@ -402,7 +446,8 @@
     "Name": "ArtifactSet.Name308",
     "PassiveBuff": "[64002081, 64002082]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 30802,
@@ -411,7 +456,8 @@
     "Name": "ArtifactSet.Name308",
     "PassiveBuff": "[64002083, 64002084]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 30901,
@@ -420,7 +466,8 @@
     "Name": "ArtifactSet.Name309",
     "PassiveBuff": "[64002091]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 30902,
@@ -429,7 +476,8 @@
     "Name": "ArtifactSet.Name309",
     "PassiveBuff": "[64002092]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 31001,
@@ -438,7 +486,8 @@
     "Name": "ArtifactSet.Name310",
     "PassiveBuff": "[64002101]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 31002,
@@ -447,25 +496,28 @@
     "Name": "ArtifactSet.Name310",
     "PassiveBuff": "[64002102]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 31101,
     "ArtifactSetID": 311,
     "Condition": 2,
     "Name": "ArtifactSet.Name311",
-    "PassiveBuff": "[64002111]",
+    "PassiveBuff": "[64003061]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_SylphBlessing"
   },
   {
     "ID": 31102,
     "ArtifactSetID": 311,
     "Condition": 4,
     "Name": "ArtifactSet.Name311",
-    "PassiveBuff": "[64002113]",
+    "PassiveBuff": "[64013061]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_SylphBlessing"
   },
   {
     "ID": 31201,
@@ -474,7 +526,8 @@
     "Name": "ArtifactSet.Name312",
     "PassiveBuff": "[64002121]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_OutstandingConnection"
   },
   {
     "ID": 31202,
@@ -483,7 +536,8 @@
     "Name": "ArtifactSet.Name312",
     "PassiveBuff": "[64002123]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_OutstandingConnection"
   },
   {
     "ID": 31301,
@@ -492,7 +546,8 @@
     "Name": "ArtifactSet.Name313",
     "PassiveBuff": "[64002131]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 31302,
@@ -501,7 +556,8 @@
     "Name": "ArtifactSet.Name313",
     "PassiveBuff": "[64002132]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   },
   {
     "ID": 31401,
@@ -510,7 +566,8 @@
     "Name": "ArtifactSet.Name314",
     "PassiveBuff": "[64002141]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_ConcentrationofFirepower"
   },
   {
     "ID": 31402,
@@ -519,7 +576,8 @@
     "Name": "ArtifactSet.Name314",
     "PassiveBuff": "[64002142]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_ConcentrationofFirepower"
   },
   {
     "ID": 31501,
@@ -528,7 +586,8 @@
     "Name": "ArtifactSet.Name315",
     "PassiveBuff": "[64002151]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
   },
   {
     "ID": 31502,
@@ -537,7 +596,8 @@
     "Name": "ArtifactSet.Name315",
     "PassiveBuff": "[64002153]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
   },
   {
     "ID": 50101,
@@ -546,16 +606,18 @@
     "Name": "ArtifactSet.Name501",
     "PassiveBuff": "[64003011]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.04500000178813934
+    "AddBattlePowerR": 0.04500000178813934,
+    "SetBannerResource": "Img_Artifact_Set_BurningCurse"
   },
   {
     "ID": 50102,
     "ArtifactSetID": 501,
     "Condition": 4,
     "Name": "ArtifactSet.Name501",
-    "PassiveBuff": "[64003014]",
+    "PassiveBuff": "[64003019, 64003014]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.13500000536441803
+    "AddBattlePowerR": 0.13500000536441803,
+    "SetBannerResource": "Img_Artifact_Set_BurningCurse"
   },
   {
     "ID": 50103,
@@ -564,7 +626,8 @@
     "Name": "ArtifactSet.Name501",
     "PassiveBuff": "[64003017]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.1897200047969818
+    "AddBattlePowerR": 0.1897200047969818,
+    "SetBannerResource": "Img_Artifact_Set_BurningCurse"
   },
   {
     "ID": 50201,
@@ -573,7 +636,8 @@
     "Name": "ArtifactSet.Name502",
     "PassiveBuff": "[64003021]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.04500000178813934
+    "AddBattlePowerR": 0.04500000178813934,
+    "SetBannerResource": "Img_Artifact_Set_BurningGreed"
   },
   {
     "ID": 50202,
@@ -582,16 +646,18 @@
     "Name": "ArtifactSet.Name502",
     "PassiveBuff": "[64003024]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.13500000536441803
+    "AddBattlePowerR": 0.13500000536441803,
+    "SetBannerResource": "Img_Artifact_Set_BurningGreed"
   },
   {
     "ID": 50203,
     "ArtifactSetID": 502,
     "Condition": 8,
     "Name": "ArtifactSet.Name502",
-    "PassiveBuff": "[64003027]",
+    "PassiveBuff": "[64003027, 64003029]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.1897200047969818
+    "AddBattlePowerR": 0.1897200047969818,
+    "SetBannerResource": "Img_Artifact_Set_BurningGreed"
   },
   {
     "ID": 50301,
@@ -600,7 +666,8 @@
     "Name": "ArtifactSet.Name503",
     "PassiveBuff": "[64003031, 64003032]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.04500000178813934
+    "AddBattlePowerR": 0.04500000178813934,
+    "SetBannerResource": "Img_Artifact_Set_BurningBlessing"
   },
   {
     "ID": 50302,
@@ -609,15 +676,57 @@
     "Name": "ArtifactSet.Name503",
     "PassiveBuff": "[64003035, 64003036]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.13500000536441803
+    "AddBattlePowerR": 0.13500000536441803,
+    "SetBannerResource": "Img_Artifact_Set_BurningBlessing"
   },
   {
     "ID": 50303,
     "ArtifactSetID": 503,
     "Condition": 8,
     "Name": "ArtifactSet.Name503",
-    "PassiveBuff": "[64013031, 64013032]",
+    "PassiveBuff": "[64013031, 64013032, 64013038]",
     "AddBattlePower": 0,
-    "AddBattlePowerR": 0.1897200047969818
+    "AddBattlePowerR": 0.1897200047969818,
+    "SetBannerResource": "Img_Artifact_Set_BurningBlessing"
+  },
+  {
+    "ID": 60101,
+    "ArtifactSetID": 601,
+    "Condition": 2,
+    "Name": "ArtifactSet.Name601",
+    "PassiveBuff": "[64001011]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+  },
+  {
+    "ID": 60102,
+    "ArtifactSetID": 601,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name601",
+    "PassiveBuff": "[64001012]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+  },
+  {
+    "ID": 60201,
+    "ArtifactSetID": 602,
+    "Condition": 2,
+    "Name": "ArtifactSet.Name602",
+    "PassiveBuff": "[64002061]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+  },
+  {
+    "ID": 60202,
+    "ArtifactSetID": 602,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name602",
+    "PassiveBuff": "[64002063]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
   }
 ]

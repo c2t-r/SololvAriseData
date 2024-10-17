@@ -60,7 +60,7 @@
     "Unused": true,
     "EntryPopupType": "EtcOnceLogin",
     "PopupDisplayType": "OnceLogin",
-    "DisplayOrder": 41
+    "DisplayOrder": 998
   },
   {
     "ID": 10,
@@ -68,5 +68,40 @@
     "EntryPopupType": "SmartPopup",
     "PopupDisplayType": "OnceDaily",
     "DisplayOrder": 33
+  },
+  {
+    "ID": 11,
+    "Unused": true,
+    "EntryPopupType": "PersonalPackage",
+    "PopupDisplayType": "Always",
+    "DisplayOrder": 36
+  },
+  {
+    "ID": 12,
+    "Unused": true,
+    "EntryPopupType": "SmartPopupDelay",
+    "PopupDisplayType": "Always",
+    "DisplayOrder": 37
+  },
+  {
+    "ID": 13,
+    "Unused": true,
+    "EntryPopupType": "EtcOnceDaily",
+    "PopupDisplayType": "OnceDaily",
+    "DisplayOrder": 997
+  },
+  {
+    "ID": 14,
+    "Unused": true,
+    "EntryPopupType": "RewardSubscribeSelect",
+    "PopupDisplayType": "OnceDaily",
+    "DisplayOrder": 38
+  },
+  {
+    "ID": 15,
+    "Unused": true,
+    "EntryPopupType": "InstantSelectBox",
+    "PopupDisplayType": "Always",
+    "DisplayOrder": 45
   }
 ]

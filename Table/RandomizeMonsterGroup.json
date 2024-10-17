@@ -2522,6 +2522,15 @@
   {
     "ID": 281,
     "MonterGroupID": 40100,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31702,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 282,
+    "MonterGroupID": 40100,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12001,
     "NormalIdleState": "NormalIdle1",
@@ -2529,7 +2538,16 @@
     "Prob": 10000
   },
   {
-    "ID": 282,
+    "ID": 283,
+    "MonterGroupID": 40101,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 32202,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 284,
     "MonterGroupID": 40101,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10401,
@@ -2538,7 +2556,7 @@
     "Prob": 10000
   },
   {
-    "ID": 283,
+    "ID": 285,
     "MonterGroupID": 40101,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 10501,
@@ -2547,7 +2565,16 @@
     "Prob": 10000
   },
   {
-    "ID": 284,
+    "ID": 286,
+    "MonterGroupID": 40102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31702,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 287,
     "MonterGroupID": 40102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12001,
@@ -2556,7 +2583,25 @@
     "Prob": 10000
   },
   {
-    "ID": 285,
+    "ID": 288,
+    "MonterGroupID": 40103,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30301,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 289,
+    "MonterGroupID": 40103,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30201,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 290,
     "MonterGroupID": 40103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11002,
@@ -2565,7 +2610,16 @@
     "Prob": 10000
   },
   {
-    "ID": 286,
+    "ID": 291,
+    "MonterGroupID": 40104,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32509,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 292,
     "MonterGroupID": 40104,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13301,
@@ -2574,7 +2628,16 @@
     "Prob": 10000
   },
   {
-    "ID": 287,
+    "ID": 293,
+    "MonterGroupID": 40105,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31201,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 294,
     "MonterGroupID": 40105,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13801,
@@ -2583,7 +2646,16 @@
     "Prob": 10000
   },
   {
-    "ID": 288,
+    "ID": 295,
+    "MonterGroupID": 40106,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30402,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 296,
     "MonterGroupID": 40106,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10101,
@@ -2592,7 +2664,16 @@
     "Prob": 10000
   },
   {
-    "ID": 289,
+    "ID": 297,
+    "MonterGroupID": 40107,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32508,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 298,
     "MonterGroupID": 40107,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13401,
@@ -2601,7 +2682,16 @@
     "Prob": 10000
   },
   {
-    "ID": 290,
+    "ID": 299,
+    "MonterGroupID": 40108,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32004,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 300,
     "MonterGroupID": 40108,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11204,
@@ -2610,7 +2700,16 @@
     "Prob": 10000
   },
   {
-    "ID": 291,
+    "ID": 301,
+    "MonterGroupID": 40109,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30905,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 302,
     "MonterGroupID": 40109,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13601,
@@ -2619,7 +2718,16 @@
     "Prob": 10000
   },
   {
-    "ID": 292,
+    "ID": 303,
+    "MonterGroupID": 40110,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31201,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 304,
     "MonterGroupID": 40110,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13801,
@@ -2628,7 +2736,16 @@
     "Prob": 10000
   },
   {
-    "ID": 293,
+    "ID": 305,
+    "MonterGroupID": 40111,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33712,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 306,
     "MonterGroupID": 40111,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12610,
@@ -2637,7 +2754,16 @@
     "Prob": 10000
   },
   {
-    "ID": 294,
+    "ID": 307,
+    "MonterGroupID": 40112,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30802,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 308,
     "MonterGroupID": 40112,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13503,
@@ -2646,7 +2772,16 @@
     "Prob": 10000
   },
   {
-    "ID": 295,
+    "ID": 309,
+    "MonterGroupID": 50101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31302,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 310,
     "MonterGroupID": 50101,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12401,
@@ -2655,7 +2790,16 @@
     "Prob": 10000
   },
   {
-    "ID": 296,
+    "ID": 311,
+    "MonterGroupID": 50102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33701,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 312,
     "MonterGroupID": 50102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 34105,
@@ -2664,7 +2808,16 @@
     "Prob": 10000
   },
   {
-    "ID": 297,
+    "ID": 313,
+    "MonterGroupID": 50103,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30501,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 314,
     "MonterGroupID": 50103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10203,
@@ -2673,7 +2826,16 @@
     "Prob": 10000
   },
   {
-    "ID": 298,
+    "ID": 315,
+    "MonterGroupID": 50104,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34001,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 316,
     "MonterGroupID": 50104,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33901,
@@ -2682,7 +2844,16 @@
     "Prob": 10000
   },
   {
-    "ID": 299,
+    "ID": 317,
+    "MonterGroupID": 50105,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32402,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 318,
     "MonterGroupID": 50105,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12301,
@@ -2691,7 +2862,16 @@
     "Prob": 10000
   },
   {
-    "ID": 300,
+    "ID": 319,
+    "MonterGroupID": 50106,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33604,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 320,
     "MonterGroupID": 50106,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12702,
@@ -2700,7 +2880,16 @@
     "Prob": 10000
   },
   {
-    "ID": 301,
+    "ID": 321,
+    "MonterGroupID": 50107,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33801,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 322,
     "MonterGroupID": 50107,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12801,
@@ -2709,7 +2898,16 @@
     "Prob": 10000
   },
   {
-    "ID": 302,
+    "ID": 323,
+    "MonterGroupID": 50108,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32502,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 324,
     "MonterGroupID": 50108,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11402,
@@ -2718,7 +2916,16 @@
     "Prob": 10000
   },
   {
-    "ID": 303,
+    "ID": 325,
+    "MonterGroupID": 50109,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31802,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 326,
     "MonterGroupID": 50109,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12202,
@@ -2727,7 +2934,16 @@
     "Prob": 10000
   },
   {
-    "ID": 304,
+    "ID": 327,
+    "MonterGroupID": 50110,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32002,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 328,
     "MonterGroupID": 50110,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11203,
@@ -2736,7 +2952,16 @@
     "Prob": 10000
   },
   {
-    "ID": 305,
+    "ID": 329,
+    "MonterGroupID": 50111,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32708,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 330,
     "MonterGroupID": 50111,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13102,
@@ -2745,7 +2970,16 @@
     "Prob": 10000
   },
   {
-    "ID": 306,
+    "ID": 331,
+    "MonterGroupID": 50112,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32102,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 332,
     "MonterGroupID": 50112,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13902,
@@ -2754,7 +2988,16 @@
     "Prob": 10000
   },
   {
-    "ID": 307,
+    "ID": 333,
+    "MonterGroupID": 50113,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 334,
     "MonterGroupID": 50113,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13502,
@@ -2763,7 +3006,16 @@
     "Prob": 10000
   },
   {
-    "ID": 308,
+    "ID": 335,
+    "MonterGroupID": 50114,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32708,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 336,
     "MonterGroupID": 50114,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13205,
@@ -2772,7 +3024,16 @@
     "Prob": 10000
   },
   {
-    "ID": 309,
+    "ID": 337,
+    "MonterGroupID": 50115,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 62107,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 338,
     "MonterGroupID": 50115,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12507,
@@ -2781,7 +3042,16 @@
     "Prob": 10000
   },
   {
-    "ID": 310,
+    "ID": 339,
+    "MonterGroupID": 50116,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30125,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 340,
     "MonterGroupID": 50116,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 34708,
@@ -2790,7 +3060,7 @@
     "Prob": 10000
   },
   {
-    "ID": 311,
+    "ID": 341,
     "MonterGroupID": 60101,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32801,
@@ -2799,7 +3069,7 @@
     "Prob": 10000
   },
   {
-    "ID": 312,
+    "ID": 342,
     "MonterGroupID": 60101,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32901,
@@ -2808,7 +3078,7 @@
     "Prob": 10000
   },
   {
-    "ID": 313,
+    "ID": 343,
     "MonterGroupID": 60103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10701,
@@ -2817,16 +3087,34 @@
     "Prob": 10000
   },
   {
-    "ID": 314,
+    "ID": 344,
     "MonterGroupID": 60104,
     "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10601,
+    "CharacterID": 10602,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
-    "ID": 315,
+    "ID": 345,
+    "MonterGroupID": 60111,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13603,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 346,
+    "MonterGroupID": 60112,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 16001,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 347,
     "MonterGroupID": 60202,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10901,
@@ -2835,7 +3123,7 @@
     "Prob": 10000
   },
   {
-    "ID": 316,
+    "ID": 348,
     "MonterGroupID": 60206,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11301,
@@ -2844,7 +3132,7 @@
     "Prob": 10000
   },
   {
-    "ID": 317,
+    "ID": 349,
     "MonterGroupID": 60208,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12902,
@@ -2853,7 +3141,7 @@
     "Prob": 10000
   },
   {
-    "ID": 318,
+    "ID": 350,
     "MonterGroupID": 60205,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11504,
@@ -2862,7 +3150,52 @@
     "Prob": 10000
   },
   {
-    "ID": 319,
+    "ID": 351,
+    "MonterGroupID": 60210,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 15801,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 352,
+    "MonterGroupID": 60211,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12307,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 353,
+    "MonterGroupID": 60212,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 15801,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 354,
+    "MonterGroupID": 60213,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13805,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 355,
+    "MonterGroupID": 60214,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13001,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 356,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57305,
@@ -2871,7 +3204,7 @@
     "Prob": 1562
   },
   {
-    "ID": 320,
+    "ID": 357,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57405,
@@ -2880,7 +3213,7 @@
     "Prob": 1562
   },
   {
-    "ID": 321,
+    "ID": 358,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57505,
@@ -2889,7 +3222,7 @@
     "Prob": 1562
   },
   {
-    "ID": 322,
+    "ID": 359,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53612,
@@ -2898,7 +3231,7 @@
     "Prob": 1562
   },
   {
-    "ID": 323,
+    "ID": 360,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53710,
@@ -2907,7 +3240,7 @@
     "Prob": 312
   },
   {
-    "ID": 324,
+    "ID": 361,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53806,
@@ -2916,7 +3249,7 @@
     "Prob": 1562
   },
   {
-    "ID": 325,
+    "ID": 362,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53911,
@@ -2925,7 +3258,7 @@
     "Prob": 1562
   },
   {
-    "ID": 326,
+    "ID": 363,
     "MonterGroupID": 90001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54014,
@@ -2934,7 +3267,7 @@
     "Prob": 316
   },
   {
-    "ID": 327,
+    "ID": 364,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57605,
@@ -2943,7 +3276,7 @@
     "Prob": 1562
   },
   {
-    "ID": 328,
+    "ID": 365,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57705,
@@ -2952,7 +3285,7 @@
     "Prob": 1562
   },
   {
-    "ID": 329,
+    "ID": 366,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57805,
@@ -2961,7 +3294,7 @@
     "Prob": 1562
   },
   {
-    "ID": 330,
+    "ID": 367,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53612,
@@ -2970,7 +3303,7 @@
     "Prob": 1562
   },
   {
-    "ID": 331,
+    "ID": 368,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53710,
@@ -2979,7 +3312,7 @@
     "Prob": 312
   },
   {
-    "ID": 332,
+    "ID": 369,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53806,
@@ -2988,7 +3321,7 @@
     "Prob": 1562
   },
   {
-    "ID": 333,
+    "ID": 370,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53911,
@@ -2997,7 +3330,7 @@
     "Prob": 1562
   },
   {
-    "ID": 334,
+    "ID": 371,
     "MonterGroupID": 90002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54014,
@@ -3006,7 +3339,7 @@
     "Prob": 316
   },
   {
-    "ID": 335,
+    "ID": 372,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57904,
@@ -3015,7 +3348,7 @@
     "Prob": 1562
   },
   {
-    "ID": 336,
+    "ID": 373,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58004,
@@ -3024,7 +3357,7 @@
     "Prob": 1562
   },
   {
-    "ID": 337,
+    "ID": 374,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58104,
@@ -3033,7 +3366,7 @@
     "Prob": 1562
   },
   {
-    "ID": 338,
+    "ID": 375,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53612,
@@ -3042,7 +3375,7 @@
     "Prob": 1562
   },
   {
-    "ID": 339,
+    "ID": 376,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53710,
@@ -3051,7 +3384,7 @@
     "Prob": 312
   },
   {
-    "ID": 340,
+    "ID": 377,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53806,
@@ -3060,7 +3393,7 @@
     "Prob": 1562
   },
   {
-    "ID": 341,
+    "ID": 378,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53911,
@@ -3069,7 +3402,7 @@
     "Prob": 1562
   },
   {
-    "ID": 342,
+    "ID": 379,
     "MonterGroupID": 90003,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54014,
@@ -3078,7 +3411,7 @@
     "Prob": 316
   },
   {
-    "ID": 343,
+    "ID": 380,
     "MonterGroupID": 90004,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54107,
@@ -3087,7 +3420,7 @@
     "Prob": 4545
   },
   {
-    "ID": 344,
+    "ID": 381,
     "MonterGroupID": 90004,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54207,
@@ -3096,7 +3429,7 @@
     "Prob": 909
   },
   {
-    "ID": 345,
+    "ID": 382,
     "MonterGroupID": 90004,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54307,
@@ -3105,7 +3438,7 @@
     "Prob": 4546
   },
   {
-    "ID": 346,
+    "ID": 383,
     "MonterGroupID": 90005,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56204,
@@ -3114,7 +3447,7 @@
     "Prob": 476
   },
   {
-    "ID": 347,
+    "ID": 384,
     "MonterGroupID": 90005,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56304,
@@ -3123,7 +3456,7 @@
     "Prob": 2380
   },
   {
-    "ID": 348,
+    "ID": 385,
     "MonterGroupID": 90005,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56405,
@@ -3132,7 +3465,7 @@
     "Prob": 2380
   },
   {
-    "ID": 349,
+    "ID": 386,
     "MonterGroupID": 90005,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 59408,
@@ -3141,7 +3474,7 @@
     "Prob": 2380
   },
   {
-    "ID": 350,
+    "ID": 387,
     "MonterGroupID": 90005,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 59709,
@@ -3150,7 +3483,7 @@
     "Prob": 2384
   },
   {
-    "ID": 351,
+    "ID": 388,
     "MonterGroupID": 90006,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55905,
@@ -3159,7 +3492,7 @@
     "Prob": 2380
   },
   {
-    "ID": 352,
+    "ID": 389,
     "MonterGroupID": 90006,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56004,
@@ -3168,7 +3501,7 @@
     "Prob": 2380
   },
   {
-    "ID": 353,
+    "ID": 390,
     "MonterGroupID": 90006,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56104,
@@ -3177,7 +3510,7 @@
     "Prob": 476
   },
   {
-    "ID": 354,
+    "ID": 391,
     "MonterGroupID": 90006,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 59408,
@@ -3186,7 +3519,7 @@
     "Prob": 2380
   },
   {
-    "ID": 355,
+    "ID": 392,
     "MonterGroupID": 90006,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 59709,
@@ -3195,7 +3528,7 @@
     "Prob": 2384
   },
   {
-    "ID": 356,
+    "ID": 393,
     "MonterGroupID": 90007,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56506,
@@ -3204,7 +3537,7 @@
     "Prob": 500
   },
   {
-    "ID": 357,
+    "ID": 394,
     "MonterGroupID": 90007,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56606,
@@ -3213,7 +3546,7 @@
     "Prob": 1500
   },
   {
-    "ID": 358,
+    "ID": 395,
     "MonterGroupID": 90007,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56706,
@@ -3222,7 +3555,7 @@
     "Prob": 2500
   },
   {
-    "ID": 359,
+    "ID": 396,
     "MonterGroupID": 90007,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55603,
@@ -3231,7 +3564,7 @@
     "Prob": 2500
   },
   {
-    "ID": 360,
+    "ID": 397,
     "MonterGroupID": 90007,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55703,
@@ -3240,7 +3573,7 @@
     "Prob": 2500
   },
   {
-    "ID": 361,
+    "ID": 398,
     "MonterGroupID": 90007,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55803,
@@ -3249,7 +3582,7 @@
     "Prob": 500
   },
   {
-    "ID": 362,
+    "ID": 399,
     "MonterGroupID": 90008,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53305,
@@ -3258,7 +3591,7 @@
     "Prob": 4545
   },
   {
-    "ID": 363,
+    "ID": 400,
     "MonterGroupID": 90008,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53406,
@@ -3267,7 +3600,7 @@
     "Prob": 4545
   },
   {
-    "ID": 364,
+    "ID": 401,
     "MonterGroupID": 90008,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53505,
@@ -3276,7 +3609,7 @@
     "Prob": 910
   },
   {
-    "ID": 365,
+    "ID": 402,
     "MonterGroupID": 90009,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53006,
@@ -3285,7 +3618,7 @@
     "Prob": 4545
   },
   {
-    "ID": 366,
+    "ID": 403,
     "MonterGroupID": 90009,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53105,
@@ -3294,7 +3627,7 @@
     "Prob": 4545
   },
   {
-    "ID": 367,
+    "ID": 404,
     "MonterGroupID": 90009,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53206,
@@ -3303,7 +3636,7 @@
     "Prob": 910
   },
   {
-    "ID": 368,
+    "ID": 405,
     "MonterGroupID": 90010,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58803,
@@ -3312,7 +3645,7 @@
     "Prob": 4545
   },
   {
-    "ID": 369,
+    "ID": 406,
     "MonterGroupID": 90010,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58903,
@@ -3321,7 +3654,7 @@
     "Prob": 4545
   },
   {
-    "ID": 370,
+    "ID": 407,
     "MonterGroupID": 90010,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 59003,
@@ -3330,7 +3663,7 @@
     "Prob": 910
   },
   {
-    "ID": 371,
+    "ID": 408,
     "MonterGroupID": 90011,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55005,
@@ -3339,7 +3672,7 @@
     "Prob": 2941
   },
   {
-    "ID": 372,
+    "ID": 409,
     "MonterGroupID": 90011,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55105,
@@ -3348,7 +3681,7 @@
     "Prob": 588
   },
   {
-    "ID": 373,
+    "ID": 410,
     "MonterGroupID": 90011,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55205,
@@ -3357,7 +3690,7 @@
     "Prob": 2941
   },
   {
-    "ID": 374,
+    "ID": 411,
     "MonterGroupID": 90011,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55305,
@@ -3366,7 +3699,7 @@
     "Prob": 2941
   },
   {
-    "ID": 375,
+    "ID": 412,
     "MonterGroupID": 90011,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55405,
@@ -3375,7 +3708,7 @@
     "Prob": 589
   },
   {
-    "ID": 376,
+    "ID": 413,
     "MonterGroupID": 90012,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 50104,
@@ -3384,7 +3717,7 @@
     "Prob": 833
   },
   {
-    "ID": 377,
+    "ID": 414,
     "MonterGroupID": 90012,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 50404,
@@ -3393,7 +3726,7 @@
     "Prob": 4166
   },
   {
-    "ID": 378,
+    "ID": 415,
     "MonterGroupID": 90012,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 50805,
@@ -3402,7 +3735,7 @@
     "Prob": 833
   },
   {
-    "ID": 379,
+    "ID": 416,
     "MonterGroupID": 90012,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51202,
@@ -3411,7 +3744,7 @@
     "Prob": 4168
   },
   {
-    "ID": 380,
+    "ID": 417,
     "MonterGroupID": 90013,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51303,
@@ -3420,7 +3753,7 @@
     "Prob": 2941
   },
   {
-    "ID": 381,
+    "ID": 418,
     "MonterGroupID": 90013,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51403,
@@ -3429,7 +3762,7 @@
     "Prob": 588
   },
   {
-    "ID": 382,
+    "ID": 419,
     "MonterGroupID": 90013,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51504,
@@ -3438,7 +3771,7 @@
     "Prob": 588
   },
   {
-    "ID": 383,
+    "ID": 420,
     "MonterGroupID": 90013,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51603,
@@ -3447,7 +3780,7 @@
     "Prob": 2941
   },
   {
-    "ID": 384,
+    "ID": 421,
     "MonterGroupID": 90013,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51703,
@@ -3456,7 +3789,7 @@
     "Prob": 2942
   },
   {
-    "ID": 385,
+    "ID": 422,
     "MonterGroupID": 90014,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56804,
@@ -3465,7 +3798,7 @@
     "Prob": 2941
   },
   {
-    "ID": 386,
+    "ID": 423,
     "MonterGroupID": 90014,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56904,
@@ -3474,7 +3807,7 @@
     "Prob": 2941
   },
   {
-    "ID": 387,
+    "ID": 424,
     "MonterGroupID": 90014,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57004,
@@ -3483,7 +3816,7 @@
     "Prob": 588
   },
   {
-    "ID": 388,
+    "ID": 425,
     "MonterGroupID": 90014,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57104,
@@ -3492,7 +3825,7 @@
     "Prob": 2941
   },
   {
-    "ID": 389,
+    "ID": 426,
     "MonterGroupID": 90014,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57204,
@@ -3501,7 +3834,7 @@
     "Prob": 589
   },
   {
-    "ID": 390,
+    "ID": 427,
     "MonterGroupID": 90015,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 53909,
@@ -3510,7 +3843,7 @@
     "Prob": 10000
   },
   {
-    "ID": 391,
+    "ID": 428,
     "MonterGroupID": 90015,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53612,
@@ -3519,7 +3852,7 @@
     "Prob": 2941
   },
   {
-    "ID": 392,
+    "ID": 429,
     "MonterGroupID": 90015,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53710,
@@ -3528,7 +3861,7 @@
     "Prob": 588
   },
   {
-    "ID": 393,
+    "ID": 430,
     "MonterGroupID": 90015,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53806,
@@ -3537,7 +3870,7 @@
     "Prob": 2941
   },
   {
-    "ID": 394,
+    "ID": 431,
     "MonterGroupID": 90015,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53911,
@@ -3546,7 +3879,7 @@
     "Prob": 2941
   },
   {
-    "ID": 395,
+    "ID": 432,
     "MonterGroupID": 90015,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54014,
@@ -3555,7 +3888,7 @@
     "Prob": 589
   },
   {
-    "ID": 396,
+    "ID": 433,
     "MonterGroupID": 90016,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 54011,
@@ -3564,7 +3897,7 @@
     "Prob": 10000
   },
   {
-    "ID": 397,
+    "ID": 434,
     "MonterGroupID": 90016,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53612,
@@ -3573,7 +3906,7 @@
     "Prob": 2941
   },
   {
-    "ID": 398,
+    "ID": 435,
     "MonterGroupID": 90016,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53710,
@@ -3582,7 +3915,7 @@
     "Prob": 588
   },
   {
-    "ID": 399,
+    "ID": 436,
     "MonterGroupID": 90016,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53806,
@@ -3591,7 +3924,7 @@
     "Prob": 2941
   },
   {
-    "ID": 400,
+    "ID": 437,
     "MonterGroupID": 90016,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53911,
@@ -3600,7 +3933,7 @@
     "Prob": 2941
   },
   {
-    "ID": 401,
+    "ID": 438,
     "MonterGroupID": 90016,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54014,
@@ -3609,7 +3942,7 @@
     "Prob": 589
   },
   {
-    "ID": 402,
+    "ID": 439,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30106,
@@ -3618,7 +3951,7 @@
     "Prob": 370
   },
   {
-    "ID": 403,
+    "ID": 440,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30204,
@@ -3627,7 +3960,7 @@
     "Prob": 370
   },
   {
-    "ID": 404,
+    "ID": 441,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30303,
@@ -3636,7 +3969,7 @@
     "Prob": 370
   },
   {
-    "ID": 405,
+    "ID": 442,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30805,
@@ -3645,7 +3978,7 @@
     "Prob": 370
   },
   {
-    "ID": 406,
+    "ID": 443,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30904,
@@ -3654,7 +3987,7 @@
     "Prob": 370
   },
   {
-    "ID": 407,
+    "ID": 444,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31304,
@@ -3663,7 +3996,7 @@
     "Prob": 370
   },
   {
-    "ID": 408,
+    "ID": 445,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31403,
@@ -3672,7 +4005,7 @@
     "Prob": 370
   },
   {
-    "ID": 409,
+    "ID": 446,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31509,
@@ -3681,7 +4014,7 @@
     "Prob": 370
   },
   {
-    "ID": 410,
+    "ID": 447,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31604,
@@ -3690,7 +4023,7 @@
     "Prob": 370
   },
   {
-    "ID": 411,
+    "ID": 448,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31704,
@@ -3699,7 +4032,7 @@
     "Prob": 370
   },
   {
-    "ID": 412,
+    "ID": 449,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31804,
@@ -3708,7 +4041,7 @@
     "Prob": 370
   },
   {
-    "ID": 413,
+    "ID": 450,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31905,
@@ -3717,7 +4050,7 @@
     "Prob": 370
   },
   {
-    "ID": 414,
+    "ID": 451,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32006,
@@ -3726,7 +4059,7 @@
     "Prob": 370
   },
   {
-    "ID": 415,
+    "ID": 452,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32106,
@@ -3735,7 +4068,7 @@
     "Prob": 370
   },
   {
-    "ID": 416,
+    "ID": 453,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32205,
@@ -3744,7 +4077,7 @@
     "Prob": 370
   },
   {
-    "ID": 417,
+    "ID": 454,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32303,
@@ -3753,7 +4086,7 @@
     "Prob": 370
   },
   {
-    "ID": 418,
+    "ID": 455,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32404,
@@ -3762,7 +4095,7 @@
     "Prob": 370
   },
   {
-    "ID": 419,
+    "ID": 456,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32506,
@@ -3771,7 +4104,7 @@
     "Prob": 370
   },
   {
-    "ID": 420,
+    "ID": 457,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32605,
@@ -3780,7 +4113,7 @@
     "Prob": 370
   },
   {
-    "ID": 421,
+    "ID": 458,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32707,
@@ -3789,7 +4122,7 @@
     "Prob": 370
   },
   {
-    "ID": 422,
+    "ID": 459,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33002,
@@ -3798,7 +4131,7 @@
     "Prob": 370
   },
   {
-    "ID": 423,
+    "ID": 460,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33104,
@@ -3807,7 +4140,7 @@
     "Prob": 370
   },
   {
-    "ID": 424,
+    "ID": 461,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33204,
@@ -3816,7 +4149,7 @@
     "Prob": 370
   },
   {
-    "ID": 425,
+    "ID": 462,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33303,
@@ -3825,7 +4158,7 @@
     "Prob": 370
   },
   {
-    "ID": 426,
+    "ID": 463,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33603,
@@ -3834,7 +4167,7 @@
     "Prob": 370
   },
   {
-    "ID": 427,
+    "ID": 464,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33804,
@@ -3843,7 +4176,7 @@
     "Prob": 370
   },
   {
-    "ID": 428,
+    "ID": 465,
     "MonterGroupID": 90017,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33805,
@@ -3852,7 +4185,7 @@
     "Prob": 380
   },
   {
-    "ID": 429,
+    "ID": 466,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10102,
@@ -3861,7 +4194,7 @@
     "Prob": 1111
   },
   {
-    "ID": 430,
+    "ID": 467,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11003,
@@ -3870,7 +4203,7 @@
     "Prob": 1111
   },
   {
-    "ID": 431,
+    "ID": 468,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11205,
@@ -3879,7 +4212,7 @@
     "Prob": 1111
   },
   {
-    "ID": 432,
+    "ID": 469,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11405,
@@ -3888,7 +4221,7 @@
     "Prob": 1111
   },
   {
-    "ID": 433,
+    "ID": 470,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12002,
@@ -3897,7 +4230,7 @@
     "Prob": 1111
   },
   {
-    "ID": 434,
+    "ID": 471,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12203,
@@ -3906,7 +4239,7 @@
     "Prob": 1111
   },
   {
-    "ID": 435,
+    "ID": 472,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12302,
@@ -3915,7 +4248,7 @@
     "Prob": 1111
   },
   {
-    "ID": 436,
+    "ID": 473,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12402,
@@ -3924,7 +4257,7 @@
     "Prob": 1111
   },
   {
-    "ID": 437,
+    "ID": 474,
     "MonterGroupID": 90018,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12802,
@@ -3933,7 +4266,61 @@
     "Prob": 1112
   },
   {
-    "ID": 438,
+    "ID": 475,
+    "MonterGroupID": 165000,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 155011,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 476,
+    "MonterGroupID": 165000,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 155021,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 477,
+    "MonterGroupID": 165000,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 155031,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 478,
+    "MonterGroupID": 165100,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 155041,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 479,
+    "MonterGroupID": 165100,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 155051,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 480,
+    "MonterGroupID": 165100,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 155061,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 481,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51303,
@@ -3942,7 +4329,7 @@
     "Prob": 3500
   },
   {
-    "ID": 439,
+    "ID": 482,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51603,
@@ -3951,7 +4338,7 @@
     "Prob": 3500
   },
   {
-    "ID": 440,
+    "ID": 483,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51703,
@@ -3960,7 +4347,7 @@
     "Prob": 2000
   },
   {
-    "ID": 441,
+    "ID": 484,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51504,
@@ -3969,7 +4356,7 @@
     "Prob": 500
   },
   {
-    "ID": 442,
+    "ID": 485,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51403,
@@ -3978,7 +4365,7 @@
     "Prob": 500
   },
   {
-    "ID": 443,
+    "ID": 486,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30303,
@@ -3987,7 +4374,7 @@
     "Prob": 2000
   },
   {
-    "ID": 444,
+    "ID": 487,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30204,
@@ -3996,7 +4383,7 @@
     "Prob": 8000
   },
   {
-    "ID": 445,
+    "ID": 488,
     "MonterGroupID": 40001,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11003,
@@ -4005,7 +4392,7 @@
     "Prob": 10000
   },
   {
-    "ID": 446,
+    "ID": 489,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51802,
@@ -4014,7 +4401,7 @@
     "Prob": 3300
   },
   {
-    "ID": 447,
+    "ID": 490,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51902,
@@ -4023,7 +4410,7 @@
     "Prob": 3300
   },
   {
-    "ID": 448,
+    "ID": 491,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 52002,
@@ -4032,7 +4419,7 @@
     "Prob": 3400
   },
   {
-    "ID": 449,
+    "ID": 492,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30404,
@@ -4041,7 +4428,7 @@
     "Prob": 3300
   },
   {
-    "ID": 450,
+    "ID": 493,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34402,
@@ -4050,7 +4437,7 @@
     "Prob": 3300
   },
   {
-    "ID": 451,
+    "ID": 494,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34502,
@@ -4059,7 +4446,7 @@
     "Prob": 3400
   },
   {
-    "ID": 452,
+    "ID": 495,
     "MonterGroupID": 40002,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10104,
@@ -4068,7 +4455,7 @@
     "Prob": 10000
   },
   {
-    "ID": 453,
+    "ID": 496,
     "MonterGroupID": 100101,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57301,
@@ -4077,7 +4464,7 @@
     "Prob": 3334
   },
   {
-    "ID": 454,
+    "ID": 497,
     "MonterGroupID": 100101,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57401,
@@ -4086,7 +4473,7 @@
     "Prob": 3333
   },
   {
-    "ID": 455,
+    "ID": 498,
     "MonterGroupID": 100101,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57501,
@@ -4095,7 +4482,7 @@
     "Prob": 3333
   },
   {
-    "ID": 456,
+    "ID": 499,
     "MonterGroupID": 100101,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32902,
@@ -4104,7 +4491,7 @@
     "Prob": 10000
   },
   {
-    "ID": 457,
+    "ID": 500,
     "MonterGroupID": 100102,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54101,
@@ -4113,7 +4500,7 @@
     "Prob": 3334
   },
   {
-    "ID": 458,
+    "ID": 501,
     "MonterGroupID": 100102,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54201,
@@ -4122,7 +4509,7 @@
     "Prob": 3333
   },
   {
-    "ID": 459,
+    "ID": 502,
     "MonterGroupID": 100102,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54301,
@@ -4131,7 +4518,7 @@
     "Prob": 3333
   },
   {
-    "ID": 460,
+    "ID": 503,
     "MonterGroupID": 100102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31705,
@@ -4140,7 +4527,7 @@
     "Prob": 10000
   },
   {
-    "ID": 461,
+    "ID": 504,
     "MonterGroupID": 100104,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56501,
@@ -4149,7 +4536,7 @@
     "Prob": 3334
   },
   {
-    "ID": 462,
+    "ID": 505,
     "MonterGroupID": 100104,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56601,
@@ -4158,7 +4545,7 @@
     "Prob": 3333
   },
   {
-    "ID": 463,
+    "ID": 506,
     "MonterGroupID": 100104,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56701,
@@ -4167,7 +4554,7 @@
     "Prob": 3333
   },
   {
-    "ID": 464,
+    "ID": 507,
     "MonterGroupID": 100104,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32503,
@@ -4176,7 +4563,7 @@
     "Prob": 10000
   },
   {
-    "ID": 465,
+    "ID": 508,
     "MonterGroupID": 100105,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11401,
@@ -4185,7 +4572,7 @@
     "Prob": 10000
   },
   {
-    "ID": 466,
+    "ID": 509,
     "MonterGroupID": 100106,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57901,
@@ -4194,7 +4581,7 @@
     "Prob": 3334
   },
   {
-    "ID": 467,
+    "ID": 510,
     "MonterGroupID": 100106,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58001,
@@ -4203,7 +4590,7 @@
     "Prob": 3333
   },
   {
-    "ID": 468,
+    "ID": 511,
     "MonterGroupID": 100106,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58101,
@@ -4212,7 +4599,7 @@
     "Prob": 3333
   },
   {
-    "ID": 469,
+    "ID": 512,
     "MonterGroupID": 100106,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33301,
@@ -4221,7 +4608,7 @@
     "Prob": 10000
   },
   {
-    "ID": 470,
+    "ID": 513,
     "MonterGroupID": 100108,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56201,
@@ -4230,7 +4617,7 @@
     "Prob": 3334
   },
   {
-    "ID": 471,
+    "ID": 514,
     "MonterGroupID": 100108,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56301,
@@ -4239,7 +4626,7 @@
     "Prob": 3333
   },
   {
-    "ID": 472,
+    "ID": 515,
     "MonterGroupID": 100108,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56401,
@@ -4248,7 +4635,7 @@
     "Prob": 3333
   },
   {
-    "ID": 473,
+    "ID": 516,
     "MonterGroupID": 100108,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32307,
@@ -4257,7 +4644,7 @@
     "Prob": 10000
   },
   {
-    "ID": 474,
+    "ID": 517,
     "MonterGroupID": 100109,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55901,
@@ -4266,7 +4653,7 @@
     "Prob": 3334
   },
   {
-    "ID": 475,
+    "ID": 518,
     "MonterGroupID": 100109,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56001,
@@ -4275,7 +4662,7 @@
     "Prob": 3333
   },
   {
-    "ID": 476,
+    "ID": 519,
     "MonterGroupID": 100109,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56101,
@@ -4284,7 +4671,7 @@
     "Prob": 3333
   },
   {
-    "ID": 477,
+    "ID": 520,
     "MonterGroupID": 100109,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32201,
@@ -4293,7 +4680,7 @@
     "Prob": 10000
   },
   {
-    "ID": 478,
+    "ID": 521,
     "MonterGroupID": 100111,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58501,
@@ -4302,7 +4689,7 @@
     "Prob": 3334
   },
   {
-    "ID": 479,
+    "ID": 522,
     "MonterGroupID": 100111,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58601,
@@ -4311,7 +4698,7 @@
     "Prob": 3333
   },
   {
-    "ID": 480,
+    "ID": 523,
     "MonterGroupID": 100111,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58701,
@@ -4320,7 +4707,7 @@
     "Prob": 3333
   },
   {
-    "ID": 481,
+    "ID": 524,
     "MonterGroupID": 100111,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31006,
@@ -4329,7 +4716,7 @@
     "Prob": 10000
   },
   {
-    "ID": 482,
+    "ID": 525,
     "MonterGroupID": 100112,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11508,
@@ -4338,7 +4725,7 @@
     "Prob": 10000
   },
   {
-    "ID": 483,
+    "ID": 526,
     "MonterGroupID": 100113,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53601,
@@ -4347,7 +4734,7 @@
     "Prob": 2000
   },
   {
-    "ID": 484,
+    "ID": 527,
     "MonterGroupID": 100113,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53701,
@@ -4356,7 +4743,7 @@
     "Prob": 2000
   },
   {
-    "ID": 485,
+    "ID": 528,
     "MonterGroupID": 100113,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53801,
@@ -4365,7 +4752,7 @@
     "Prob": 2000
   },
   {
-    "ID": 486,
+    "ID": 529,
     "MonterGroupID": 100113,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53901,
@@ -4374,7 +4761,7 @@
     "Prob": 2000
   },
   {
-    "ID": 487,
+    "ID": 530,
     "MonterGroupID": 100113,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54001,
@@ -4383,7 +4770,7 @@
     "Prob": 2000
   },
   {
-    "ID": 488,
+    "ID": 531,
     "MonterGroupID": 100113,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31502,
@@ -4392,7 +4779,7 @@
     "Prob": 10000
   },
   {
-    "ID": 489,
+    "ID": 532,
     "MonterGroupID": 100115,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53601,
@@ -4401,7 +4788,7 @@
     "Prob": 2000
   },
   {
-    "ID": 490,
+    "ID": 533,
     "MonterGroupID": 100115,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53701,
@@ -4410,7 +4797,7 @@
     "Prob": 2000
   },
   {
-    "ID": 491,
+    "ID": 534,
     "MonterGroupID": 100115,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53801,
@@ -4419,7 +4806,7 @@
     "Prob": 2000
   },
   {
-    "ID": 492,
+    "ID": 535,
     "MonterGroupID": 100115,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53901,
@@ -4428,7 +4815,7 @@
     "Prob": 2000
   },
   {
-    "ID": 493,
+    "ID": 536,
     "MonterGroupID": 100115,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 54001,
@@ -4437,7 +4824,7 @@
     "Prob": 2000
   },
   {
-    "ID": 494,
+    "ID": 537,
     "MonterGroupID": 100115,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31612,
@@ -4446,7 +4833,7 @@
     "Prob": 10000
   },
   {
-    "ID": 495,
+    "ID": 538,
     "MonterGroupID": 100116,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12004,
@@ -4455,7 +4842,7 @@
     "Prob": 10000
   },
   {
-    "ID": 496,
+    "ID": 539,
     "MonterGroupID": 100117,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56801,
@@ -4464,7 +4851,7 @@
     "Prob": 2000
   },
   {
-    "ID": 497,
+    "ID": 540,
     "MonterGroupID": 100117,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 56901,
@@ -4473,7 +4860,7 @@
     "Prob": 2000
   },
   {
-    "ID": 498,
+    "ID": 541,
     "MonterGroupID": 100117,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57001,
@@ -4482,7 +4869,7 @@
     "Prob": 2000
   },
   {
-    "ID": 499,
+    "ID": 542,
     "MonterGroupID": 100117,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57101,
@@ -4491,7 +4878,7 @@
     "Prob": 2000
   },
   {
-    "ID": 500,
+    "ID": 543,
     "MonterGroupID": 100117,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 57201,
@@ -4500,7 +4887,7 @@
     "Prob": 2000
   },
   {
-    "ID": 501,
+    "ID": 544,
     "MonterGroupID": 100117,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32608,
@@ -4509,7 +4896,7 @@
     "Prob": 10000
   },
   {
-    "ID": 502,
+    "ID": 545,
     "MonterGroupID": 100119,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55601,
@@ -4518,7 +4905,7 @@
     "Prob": 3334
   },
   {
-    "ID": 503,
+    "ID": 546,
     "MonterGroupID": 100119,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55701,
@@ -4527,7 +4914,7 @@
     "Prob": 3333
   },
   {
-    "ID": 504,
+    "ID": 547,
     "MonterGroupID": 100119,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55801,
@@ -4536,7 +4923,7 @@
     "Prob": 3333
   },
   {
-    "ID": 505,
+    "ID": 548,
     "MonterGroupID": 100119,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32104,
@@ -4545,7 +4932,7 @@
     "Prob": 10000
   },
   {
-    "ID": 506,
+    "ID": 549,
     "MonterGroupID": 100120,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11207,
@@ -4554,7 +4941,7 @@
     "Prob": 10000
   },
   {
-    "ID": 507,
+    "ID": 550,
     "MonterGroupID": 100121,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55001,
@@ -4563,7 +4950,7 @@
     "Prob": 2000
   },
   {
-    "ID": 508,
+    "ID": 551,
     "MonterGroupID": 100121,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55101,
@@ -4572,7 +4959,7 @@
     "Prob": 2000
   },
   {
-    "ID": 509,
+    "ID": 552,
     "MonterGroupID": 100121,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55201,
@@ -4581,7 +4968,7 @@
     "Prob": 2000
   },
   {
-    "ID": 510,
+    "ID": 553,
     "MonterGroupID": 100121,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55301,
@@ -4590,7 +4977,7 @@
     "Prob": 2000
   },
   {
-    "ID": 511,
+    "ID": 554,
     "MonterGroupID": 100121,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55401,
@@ -4599,7 +4986,7 @@
     "Prob": 2000
   },
   {
-    "ID": 512,
+    "ID": 555,
     "MonterGroupID": 100121,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31901,
@@ -4608,7 +4995,7 @@
     "Prob": 10000
   },
   {
-    "ID": 513,
+    "ID": 556,
     "MonterGroupID": 100123,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55001,
@@ -4617,7 +5004,7 @@
     "Prob": 2000
   },
   {
-    "ID": 514,
+    "ID": 557,
     "MonterGroupID": 100123,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55101,
@@ -4626,7 +5013,7 @@
     "Prob": 2000
   },
   {
-    "ID": 515,
+    "ID": 558,
     "MonterGroupID": 100123,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55201,
@@ -4635,7 +5022,7 @@
     "Prob": 2000
   },
   {
-    "ID": 516,
+    "ID": 559,
     "MonterGroupID": 100123,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55301,
@@ -4644,7 +5031,7 @@
     "Prob": 2000
   },
   {
-    "ID": 517,
+    "ID": 560,
     "MonterGroupID": 100123,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 55401,
@@ -4653,7 +5040,7 @@
     "Prob": 2000
   },
   {
-    "ID": 518,
+    "ID": 561,
     "MonterGroupID": 100123,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 32007,
@@ -4662,7 +5049,7 @@
     "Prob": 10000
   },
   {
-    "ID": 519,
+    "ID": 562,
     "MonterGroupID": 100124,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 52101,
@@ -4671,7 +5058,7 @@
     "Prob": 3334
   },
   {
-    "ID": 520,
+    "ID": 563,
     "MonterGroupID": 100124,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 52201,
@@ -4680,7 +5067,7 @@
     "Prob": 3333
   },
   {
-    "ID": 521,
+    "ID": 564,
     "MonterGroupID": 100124,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 52301,
@@ -4689,7 +5076,7 @@
     "Prob": 3333
   },
   {
-    "ID": 522,
+    "ID": 565,
     "MonterGroupID": 100124,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30602,
@@ -4698,7 +5085,7 @@
     "Prob": 10000
   },
   {
-    "ID": 523,
+    "ID": 566,
     "MonterGroupID": 100125,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10202,
@@ -4707,7 +5094,7 @@
     "Prob": 10000
   },
   {
-    "ID": 524,
+    "ID": 567,
     "MonterGroupID": 100127,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51802,
@@ -4716,7 +5103,7 @@
     "Prob": 3334
   },
   {
-    "ID": 525,
+    "ID": 568,
     "MonterGroupID": 100127,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 51902,
@@ -4725,7 +5112,7 @@
     "Prob": 3333
   },
   {
-    "ID": 526,
+    "ID": 569,
     "MonterGroupID": 100127,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 52002,
@@ -4734,7 +5121,7 @@
     "Prob": 3333
   },
   {
-    "ID": 527,
+    "ID": 570,
     "MonterGroupID": 100127,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 34401,
@@ -4743,7 +5130,7 @@
     "Prob": 10000
   },
   {
-    "ID": 528,
+    "ID": 571,
     "MonterGroupID": 100129,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10103,
@@ -4752,7 +5139,7 @@
     "Prob": 10000
   },
   {
-    "ID": 529,
+    "ID": 572,
     "MonterGroupID": 100131,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53301,
@@ -4761,7 +5148,7 @@
     "Prob": 3334
   },
   {
-    "ID": 530,
+    "ID": 573,
     "MonterGroupID": 100131,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53401,
@@ -4770,7 +5157,7 @@
     "Prob": 3333
   },
   {
-    "ID": 531,
+    "ID": 574,
     "MonterGroupID": 100131,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53501,
@@ -4779,7 +5166,7 @@
     "Prob": 3333
   },
   {
-    "ID": 532,
+    "ID": 575,
     "MonterGroupID": 100131,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 31402,
@@ -4788,7 +5175,7 @@
     "Prob": 10000
   },
   {
-    "ID": 533,
+    "ID": 576,
     "MonterGroupID": 100132,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12204,
@@ -4797,7 +5184,7 @@
     "Prob": 10000
   },
   {
-    "ID": 534,
+    "ID": 577,
     "MonterGroupID": 100133,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53001,
@@ -4806,7 +5193,7 @@
     "Prob": 3334
   },
   {
-    "ID": 535,
+    "ID": 578,
     "MonterGroupID": 100133,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53101,
@@ -4815,7 +5202,7 @@
     "Prob": 3333
   },
   {
-    "ID": 536,
+    "ID": 579,
     "MonterGroupID": 100133,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 53201,
@@ -4824,7 +5211,7 @@
     "Prob": 3333
   },
   {
-    "ID": 537,
+    "ID": 580,
     "MonterGroupID": 100133,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 30902,
@@ -4833,7 +5220,7 @@
     "Prob": 10000
   },
   {
-    "ID": 538,
+    "ID": 581,
     "MonterGroupID": 100135,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12804,
@@ -4842,7 +5229,7 @@
     "Prob": 10000
   },
   {
-    "ID": 539,
+    "ID": 582,
     "MonterGroupID": 100136,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 60201,
@@ -4851,7 +5238,7 @@
     "Prob": 2500
   },
   {
-    "ID": 540,
+    "ID": 583,
     "MonterGroupID": 100136,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 60301,
@@ -4860,7 +5247,7 @@
     "Prob": 2500
   },
   {
-    "ID": 541,
+    "ID": 584,
     "MonterGroupID": 100136,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 60401,
@@ -4869,7 +5256,7 @@
     "Prob": 2500
   },
   {
-    "ID": 542,
+    "ID": 585,
     "MonterGroupID": 100136,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 60501,
@@ -4878,7 +5265,7 @@
     "Prob": 2500
   },
   {
-    "ID": 543,
+    "ID": 586,
     "MonterGroupID": 100136,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 34008,
@@ -4887,7 +5274,7 @@
     "Prob": 10000
   },
   {
-    "ID": 544,
+    "ID": 587,
     "MonterGroupID": 100138,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58801,
@@ -4896,7 +5283,7 @@
     "Prob": 3334
   },
   {
-    "ID": 545,
+    "ID": 588,
     "MonterGroupID": 100138,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 58901,
@@ -4905,7 +5292,7 @@
     "Prob": 3333
   },
   {
-    "ID": 546,
+    "ID": 589,
     "MonterGroupID": 100138,
     "SpawnMonsterGrade": "Normal",
     "CharacterID": 59001,
@@ -4914,7 +5301,7 @@
     "Prob": 3333
   },
   {
-    "ID": 547,
+    "ID": 590,
     "MonterGroupID": 100138,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 33607,
@@ -4923,7 +5310,7 @@
     "Prob": 10000
   },
   {
-    "ID": 548,
+    "ID": 591,
     "MonterGroupID": 100139,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12703,
@@ -4932,511 +5319,835 @@
     "Prob": 10000
   },
   {
-    "ID": 549,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 31613,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 550,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 31514,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 551,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 31806,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 552,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 31308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 553,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 554,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33709,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 555,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30209,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 556,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 557,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30809,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 558,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 31906,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 559,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32009,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 560,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 561,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 562,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 563,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 564,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 565,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 566,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 567,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 568,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32306,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 569,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 32211,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 570,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 33106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 571,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 33206,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 572,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 30112,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 573,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 34609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 574,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 34707,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 575,
-    "MonterGroupID": 190101,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 34808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 576,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31613,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 577,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31514,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 578,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31806,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 579,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 580,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 581,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33709,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 582,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30209,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 583,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 584,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30809,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 585,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31906,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 586,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 32009,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 587,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 588,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 589,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 590,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 591,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
     "ID": 592,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
+    "MonterGroupID": 100141,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 53001,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 3334
   },
   {
     "ID": 593,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
+    "MonterGroupID": 100141,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 53101,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
   },
   {
     "ID": 594,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
+    "MonterGroupID": 100141,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 53201,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
   },
   {
     "ID": 595,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
+    "MonterGroupID": 100141,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 30902,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 596,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32211,
+    "MonterGroupID": 100142,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 52101,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 3334
   },
   {
     "ID": 597,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33106,
+    "MonterGroupID": 100142,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 52201,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
   },
   {
     "ID": 598,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33206,
+    "MonterGroupID": 100142,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 52301,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
   },
   {
     "ID": 599,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30112,
+    "MonterGroupID": 100142,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 30601,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 600,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34609,
+    "MonterGroupID": 100144,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 60201,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
   },
   {
     "ID": 601,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34707,
+    "MonterGroupID": 100144,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 60301,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
   },
   {
     "ID": 602,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34808,
+    "MonterGroupID": 100144,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 60401,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
   },
   {
     "ID": 603,
-    "MonterGroupID": 190102,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12605,
+    "MonterGroupID": 100144,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 60501,
     "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
   },
   {
     "ID": 604,
-    "MonterGroupID": 190102,
+    "MonterGroupID": 100144,
     "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12903,
+    "CharacterID": 34008,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 605,
+    "MonterGroupID": 100145,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 55001,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2000
+  },
+  {
+    "ID": 606,
+    "MonterGroupID": 100145,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 55101,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2000
+  },
+  {
+    "ID": 607,
+    "MonterGroupID": 100145,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 55201,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2000
+  },
+  {
+    "ID": 608,
+    "MonterGroupID": 100145,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 55301,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2000
+  },
+  {
+    "ID": 609,
+    "MonterGroupID": 100145,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 55401,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2000
+  },
+  {
+    "ID": 610,
+    "MonterGroupID": 100145,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32007,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 611,
+    "MonterGroupID": 100147,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 57901,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3334
+  },
+  {
+    "ID": 612,
+    "MonterGroupID": 100147,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 58001,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
+  },
+  {
+    "ID": 613,
+    "MonterGroupID": 100147,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 58101,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
+  },
+  {
+    "ID": 614,
+    "MonterGroupID": 100147,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 33301,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 615,
+    "MonterGroupID": 100148,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56501,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3334
+  },
+  {
+    "ID": 616,
+    "MonterGroupID": 100148,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56601,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
+  },
+  {
+    "ID": 617,
+    "MonterGroupID": 100148,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56701,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
+  },
+  {
+    "ID": 618,
+    "MonterGroupID": 100148,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32503,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 619,
+    "MonterGroupID": 100150,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13505,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 1084,
+    "MonterGroupID": 100151,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56814,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 1085,
+    "MonterGroupID": 100151,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56913,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 1086,
+    "MonterGroupID": 100151,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 57014,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 1087,
+    "MonterGroupID": 100151,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 57115,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 1088,
+    "MonterGroupID": 100151,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 625,
+    "MonterGroupID": 100152,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 626,
+    "MonterGroupID": 100155,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32716,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 627,
+    "MonterGroupID": 100160,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13804,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 628,
+    "MonterGroupID": 110406,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 14203,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 629,
+    "MonterGroupID": 110406,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 14303,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 630,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31613,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 631,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31514,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 632,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 633,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 634,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 635,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 636,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 637,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 638,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30809,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 639,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 640,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32009,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 641,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 642,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 643,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 644,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 645,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 646,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 647,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 648,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 649,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 650,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 651,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 652,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 653,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 654,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 655,
+    "MonterGroupID": 190101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 656,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31613,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 657,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31514,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 658,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 659,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 660,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 661,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 662,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 663,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 664,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30809,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 665,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 666,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 32009,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 667,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 668,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 669,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 670,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 671,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 672,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 673,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 674,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 675,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 676,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 677,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 678,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 679,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 680,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 681,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 682,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12605,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 683,
+    "MonterGroupID": 190102,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12903,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 684,
     "MonterGroupID": 190102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10106,
@@ -5445,7 +6156,7 @@
     "Prob": 10000
   },
   {
-    "ID": 606,
+    "ID": 685,
     "MonterGroupID": 190102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13204,
@@ -5454,7 +6165,7 @@
     "Prob": 10000
   },
   {
-    "ID": 607,
+    "ID": 686,
     "MonterGroupID": 190102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11407,
@@ -5463,7 +6174,7 @@
     "Prob": 10000
   },
   {
-    "ID": 608,
+    "ID": 687,
     "MonterGroupID": 190102,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11507,
@@ -5472,7 +6183,7 @@
     "Prob": 10000
   },
   {
-    "ID": 609,
+    "ID": 688,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34110,
@@ -5481,7 +6192,7 @@
     "Prob": 10000
   },
   {
-    "ID": 610,
+    "ID": 689,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30408,
@@ -5490,7 +6201,7 @@
     "Prob": 10000
   },
   {
-    "ID": 611,
+    "ID": 690,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32711,
@@ -5499,7 +6210,7 @@
     "Prob": 10000
   },
   {
-    "ID": 612,
+    "ID": 691,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32108,
@@ -5508,7 +6219,7 @@
     "Prob": 10000
   },
   {
-    "ID": 613,
+    "ID": 692,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33608,
@@ -5517,7 +6228,7 @@
     "Prob": 10000
   },
   {
-    "ID": 614,
+    "ID": 693,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32609,
@@ -5526,7 +6237,7 @@
     "Prob": 10000
   },
   {
-    "ID": 615,
+    "ID": 694,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32407,
@@ -5535,16 +6246,7 @@
     "Prob": 10000
   },
   {
-    "ID": 616,
-    "MonterGroupID": 190103,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 617,
+    "ID": 695,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32306,
@@ -5553,7 +6255,7 @@
     "Prob": 10000
   },
   {
-    "ID": 618,
+    "ID": 696,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32211,
@@ -5562,7 +6264,7 @@
     "Prob": 10000
   },
   {
-    "ID": 619,
+    "ID": 697,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33106,
@@ -5571,7 +6273,7 @@
     "Prob": 10000
   },
   {
-    "ID": 620,
+    "ID": 698,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33206,
@@ -5580,7 +6282,7 @@
     "Prob": 10000
   },
   {
-    "ID": 621,
+    "ID": 699,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30112,
@@ -5589,7 +6291,7 @@
     "Prob": 10000
   },
   {
-    "ID": 622,
+    "ID": 700,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34609,
@@ -5598,7 +6300,7 @@
     "Prob": 10000
   },
   {
-    "ID": 623,
+    "ID": 701,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34707,
@@ -5607,7 +6309,7 @@
     "Prob": 10000
   },
   {
-    "ID": 624,
+    "ID": 702,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34808,
@@ -5616,7 +6318,7 @@
     "Prob": 10000
   },
   {
-    "ID": 625,
+    "ID": 703,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12605,
@@ -5625,7 +6327,7 @@
     "Prob": 10000
   },
   {
-    "ID": 626,
+    "ID": 704,
     "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12903,
@@ -5634,818 +6336,17 @@
     "Prob": 10000
   },
   {
-    "ID": 627,
-    "MonterGroupID": 190103,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 628,
-    "MonterGroupID": 190103,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 13204,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 629,
-    "MonterGroupID": 190103,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 11407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 630,
-    "MonterGroupID": 190103,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 11507,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 631,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31613,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 632,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31514,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 633,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31806,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 634,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 635,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 636,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33709,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 637,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30209,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 638,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 639,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30809,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 640,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31906,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 641,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 32009,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 642,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 643,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 644,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 645,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 646,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 647,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 648,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 649,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 650,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 651,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32211,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 652,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 653,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33206,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 654,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30112,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 655,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 656,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34707,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 657,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 658,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12705,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 659,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 13105,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 660,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10205,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 661,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10402,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 662,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12003,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 663,
-    "MonterGroupID": 190202,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 664,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 665,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 666,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 667,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 668,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 669,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 670,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 671,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 672,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 673,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32211,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 674,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 675,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33206,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 676,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30112,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 677,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 678,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34707,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 679,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 680,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12705,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 681,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 13105,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 682,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10205,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 683,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10402,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 684,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12003,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 685,
-    "MonterGroupID": 190203,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 10106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 686,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31613,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 687,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31514,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 688,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31806,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 689,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 690,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 691,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33709,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 692,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30209,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 693,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 694,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30809,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 695,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31906,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 696,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 32009,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 697,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 698,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 699,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 700,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 701,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 702,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 703,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 704,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
     "ID": 705,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
+    "MonterGroupID": 190103,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10106,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 706,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32211,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 707,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 708,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33206,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 709,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30112,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 710,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 711,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34707,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 712,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 713,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12705,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 714,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 11407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 715,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12002,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 716,
-    "MonterGroupID": 190302,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12605,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 717,
-    "MonterGroupID": 190302,
+    "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13204,
     "NormalIdleState": "NormalIdle1",
@@ -6453,8 +6354,17 @@
     "Prob": 10000
   },
   {
-    "ID": 718,
-    "MonterGroupID": 190302,
+    "ID": 707,
+    "MonterGroupID": 190103,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 708,
+    "MonterGroupID": 190103,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11507,
     "NormalIdleState": "NormalIdle1",
@@ -6462,8 +6372,107 @@
     "Prob": 10000
   },
   {
+    "ID": 709,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31613,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 710,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31514,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 711,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 712,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 713,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 714,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 715,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 716,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 717,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30809,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 718,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
     "ID": 719,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 32009,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 720,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34110,
     "NormalIdleState": "NormalIdle1",
@@ -6471,8 +6480,8 @@
     "Prob": 10000
   },
   {
-    "ID": 720,
-    "MonterGroupID": 190303,
+    "ID": 721,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30408,
     "NormalIdleState": "NormalIdle1",
@@ -6480,8 +6489,8 @@
     "Prob": 10000
   },
   {
-    "ID": 721,
-    "MonterGroupID": 190303,
+    "ID": 722,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32711,
     "NormalIdleState": "NormalIdle1",
@@ -6489,8 +6498,8 @@
     "Prob": 10000
   },
   {
-    "ID": 722,
-    "MonterGroupID": 190303,
+    "ID": 723,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32108,
     "NormalIdleState": "NormalIdle1",
@@ -6498,8 +6507,8 @@
     "Prob": 10000
   },
   {
-    "ID": 723,
-    "MonterGroupID": 190303,
+    "ID": 724,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33608,
     "NormalIdleState": "NormalIdle1",
@@ -6507,8 +6516,8 @@
     "Prob": 10000
   },
   {
-    "ID": 724,
-    "MonterGroupID": 190303,
+    "ID": 725,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32609,
     "NormalIdleState": "NormalIdle1",
@@ -6516,8 +6525,8 @@
     "Prob": 10000
   },
   {
-    "ID": 725,
-    "MonterGroupID": 190303,
+    "ID": 726,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32407,
     "NormalIdleState": "NormalIdle1",
@@ -6525,17 +6534,8 @@
     "Prob": 10000
   },
   {
-    "ID": 726,
-    "MonterGroupID": 190303,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
     "ID": 727,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32306,
     "NormalIdleState": "NormalIdle1",
@@ -6544,7 +6544,7 @@
   },
   {
     "ID": 728,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32211,
     "NormalIdleState": "NormalIdle1",
@@ -6553,7 +6553,7 @@
   },
   {
     "ID": 729,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33106,
     "NormalIdleState": "NormalIdle1",
@@ -6562,7 +6562,7 @@
   },
   {
     "ID": 730,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33206,
     "NormalIdleState": "NormalIdle1",
@@ -6571,7 +6571,7 @@
   },
   {
     "ID": 731,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30112,
     "NormalIdleState": "NormalIdle1",
@@ -6580,7 +6580,7 @@
   },
   {
     "ID": 732,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34609,
     "NormalIdleState": "NormalIdle1",
@@ -6589,7 +6589,7 @@
   },
   {
     "ID": 733,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34707,
     "NormalIdleState": "NormalIdle1",
@@ -6598,7 +6598,7 @@
   },
   {
     "ID": 734,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34808,
     "NormalIdleState": "NormalIdle1",
@@ -6607,7 +6607,7 @@
   },
   {
     "ID": 735,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12705,
     "NormalIdleState": "NormalIdle1",
@@ -6616,42 +6616,708 @@
   },
   {
     "ID": 736,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Boss",
-    "CharacterID": 11407,
+    "CharacterID": 13105,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 737,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12002,
+    "CharacterID": 10205,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 738,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12605,
+    "CharacterID": 10402,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 739,
-    "MonterGroupID": 190303,
+    "MonterGroupID": 190202,
     "SpawnMonsterGrade": "Boss",
-    "CharacterID": 13204,
+    "CharacterID": 12003,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 740,
+    "MonterGroupID": 190202,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 741,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 742,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 743,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 744,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 745,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 746,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 747,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 748,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 749,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 750,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 751,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 752,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 753,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 754,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 755,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 756,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12705,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 757,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13105,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 758,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10205,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 759,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10402,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 760,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12003,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 761,
+    "MonterGroupID": 190203,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 762,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31613,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 763,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31514,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 764,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 765,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 766,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 767,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 768,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 769,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 770,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30809,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 771,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 772,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 32009,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 773,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 774,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 775,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 776,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 777,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 778,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 779,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 780,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 781,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 782,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 783,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 784,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 785,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 786,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 787,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 788,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12705,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 789,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 790,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12003,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 791,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12605,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 792,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13204,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 793,
+    "MonterGroupID": 190302,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11507,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 794,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 795,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 796,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 797,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 798,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 799,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 800,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 801,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 802,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 803,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 804,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 805,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 806,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 807,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 808,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 809,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12705,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 810,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 811,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12003,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 812,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12605,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 813,
+    "MonterGroupID": 190303,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13204,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 814,
     "MonterGroupID": 190303,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11507,
@@ -6660,682 +7326,655 @@
     "Prob": 10000
   },
   {
-    "ID": 741,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31613,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 742,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31514,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 743,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31806,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 744,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 745,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 746,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33709,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 747,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30209,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 748,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 749,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30809,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 750,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31906,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 751,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 32009,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 752,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 753,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 754,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 755,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 756,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 757,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 758,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 759,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 760,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 761,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32211,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 762,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 763,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33206,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 764,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30112,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 765,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 766,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34707,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 767,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 768,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12705,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 769,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12002,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 770,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12605,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 771,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12903,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 772,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 13105,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 773,
-    "MonterGroupID": 190402,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 11407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 774,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 775,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 776,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 777,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 778,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 779,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 780,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 781,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 782,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 783,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32211,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 784,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33106,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 785,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33206,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 786,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30112,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 787,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 788,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34707,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 789,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 790,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12705,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 791,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12002,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 792,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12605,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 793,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 12903,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 794,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 13105,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 795,
-    "MonterGroupID": 190403,
-    "SpawnMonsterGrade": "Boss",
-    "CharacterID": 11407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 796,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31613,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 797,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31514,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 798,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31806,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 799,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 800,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33808,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 801,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 33709,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 802,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30209,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 803,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30308,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 804,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 30809,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 805,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 31906,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 806,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Normal",
-    "CharacterID": 32009,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 807,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 34110,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 808,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 30408,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 809,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32711,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 810,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32108,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 811,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 33608,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 812,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 813,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32407,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 814,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
     "ID": 815,
-    "MonterGroupID": 190502,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32306,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31613,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
   },
   {
     "ID": 816,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31514,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 817,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 818,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 819,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 820,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 821,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 822,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 823,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30809,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 824,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 825,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 32009,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 826,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 827,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 828,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 829,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 830,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 831,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 832,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 833,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 834,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 835,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 836,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 837,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 838,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 839,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 840,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 841,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12705,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 842,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12003,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 843,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12605,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 844,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12903,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 845,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13105,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 846,
+    "MonterGroupID": 190402,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 847,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 848,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 849,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 850,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 851,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 852,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 853,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 854,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 855,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32211,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 856,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33106,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 857,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 858,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30112,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 859,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 860,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34707,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 861,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 862,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12705,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 863,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12003,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 864,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12605,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 865,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12903,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 866,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13105,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 867,
+    "MonterGroupID": 190403,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 868,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31613,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 869,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31514,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 870,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 871,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 872,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33808,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 873,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 33709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 874,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30209,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 875,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 876,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 30809,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 877,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 31906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 878,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 32009,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 879,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34110,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 880,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 881,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 882,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32108,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 883,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 884,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32609,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 885,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 886,
+    "MonterGroupID": 190502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 887,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32211,
@@ -7344,7 +7983,7 @@
     "Prob": 10000
   },
   {
-    "ID": 817,
+    "ID": 888,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33106,
@@ -7353,7 +7992,7 @@
     "Prob": 10000
   },
   {
-    "ID": 818,
+    "ID": 889,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33206,
@@ -7362,7 +8001,7 @@
     "Prob": 10000
   },
   {
-    "ID": 819,
+    "ID": 890,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30112,
@@ -7371,7 +8010,7 @@
     "Prob": 10000
   },
   {
-    "ID": 820,
+    "ID": 891,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34609,
@@ -7380,7 +8019,7 @@
     "Prob": 10000
   },
   {
-    "ID": 821,
+    "ID": 892,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34707,
@@ -7389,7 +8028,7 @@
     "Prob": 10000
   },
   {
-    "ID": 822,
+    "ID": 893,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34808,
@@ -7398,7 +8037,7 @@
     "Prob": 10000
   },
   {
-    "ID": 823,
+    "ID": 894,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10205,
@@ -7407,7 +8046,7 @@
     "Prob": 10000
   },
   {
-    "ID": 824,
+    "ID": 895,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10402,
@@ -7416,7 +8055,7 @@
     "Prob": 10000
   },
   {
-    "ID": 825,
+    "ID": 896,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12003,
@@ -7425,7 +8064,7 @@
     "Prob": 10000
   },
   {
-    "ID": 826,
+    "ID": 897,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10106,
@@ -7434,7 +8073,7 @@
     "Prob": 10000
   },
   {
-    "ID": 827,
+    "ID": 898,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13204,
@@ -7443,7 +8082,7 @@
     "Prob": 10000
   },
   {
-    "ID": 828,
+    "ID": 899,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11407,
@@ -7452,7 +8091,7 @@
     "Prob": 10000
   },
   {
-    "ID": 829,
+    "ID": 900,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11507,
@@ -7461,7 +8100,7 @@
     "Prob": 10000
   },
   {
-    "ID": 830,
+    "ID": 901,
     "MonterGroupID": 190502,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12506,
@@ -7470,7 +8109,7 @@
     "Prob": 10000
   },
   {
-    "ID": 831,
+    "ID": 902,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34110,
@@ -7479,7 +8118,7 @@
     "Prob": 10000
   },
   {
-    "ID": 832,
+    "ID": 903,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30408,
@@ -7488,7 +8127,7 @@
     "Prob": 10000
   },
   {
-    "ID": 833,
+    "ID": 904,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32711,
@@ -7497,7 +8136,7 @@
     "Prob": 10000
   },
   {
-    "ID": 834,
+    "ID": 905,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32108,
@@ -7506,7 +8145,7 @@
     "Prob": 10000
   },
   {
-    "ID": 835,
+    "ID": 906,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33608,
@@ -7515,7 +8154,7 @@
     "Prob": 10000
   },
   {
-    "ID": 836,
+    "ID": 907,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32609,
@@ -7524,7 +8163,7 @@
     "Prob": 10000
   },
   {
-    "ID": 837,
+    "ID": 908,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32407,
@@ -7533,16 +8172,7 @@
     "Prob": 10000
   },
   {
-    "ID": 838,
-    "MonterGroupID": 190503,
-    "SpawnMonsterGrade": "Elite",
-    "CharacterID": 32609,
-    "NormalIdleState": "NormalIdle1",
-    "SpawnAniState": "Intro",
-    "Prob": 10000
-  },
-  {
-    "ID": 839,
+    "ID": 909,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32306,
@@ -7551,7 +8181,7 @@
     "Prob": 10000
   },
   {
-    "ID": 840,
+    "ID": 910,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 32211,
@@ -7560,7 +8190,7 @@
     "Prob": 10000
   },
   {
-    "ID": 841,
+    "ID": 911,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33106,
@@ -7569,7 +8199,7 @@
     "Prob": 10000
   },
   {
-    "ID": 842,
+    "ID": 912,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 33206,
@@ -7578,7 +8208,7 @@
     "Prob": 10000
   },
   {
-    "ID": 843,
+    "ID": 913,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 30112,
@@ -7587,7 +8217,7 @@
     "Prob": 10000
   },
   {
-    "ID": 844,
+    "ID": 914,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34609,
@@ -7596,7 +8226,7 @@
     "Prob": 10000
   },
   {
-    "ID": 845,
+    "ID": 915,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34707,
@@ -7605,7 +8235,7 @@
     "Prob": 10000
   },
   {
-    "ID": 846,
+    "ID": 916,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Elite",
     "CharacterID": 34808,
@@ -7614,7 +8244,7 @@
     "Prob": 10000
   },
   {
-    "ID": 847,
+    "ID": 917,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10205,
@@ -7623,7 +8253,7 @@
     "Prob": 10000
   },
   {
-    "ID": 848,
+    "ID": 918,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10402,
@@ -7632,7 +8262,7 @@
     "Prob": 10000
   },
   {
-    "ID": 849,
+    "ID": 919,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12003,
@@ -7641,7 +8271,7 @@
     "Prob": 10000
   },
   {
-    "ID": 850,
+    "ID": 920,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 10106,
@@ -7650,7 +8280,7 @@
     "Prob": 10000
   },
   {
-    "ID": 851,
+    "ID": 921,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 13204,
@@ -7659,7 +8289,7 @@
     "Prob": 10000
   },
   {
-    "ID": 852,
+    "ID": 922,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11407,
@@ -7668,7 +8298,7 @@
     "Prob": 10000
   },
   {
-    "ID": 853,
+    "ID": 923,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 11507,
@@ -7677,12 +8307,570 @@
     "Prob": 10000
   },
   {
-    "ID": 854,
+    "ID": 924,
     "MonterGroupID": 190503,
     "SpawnMonsterGrade": "Boss",
     "CharacterID": 12506,
     "NormalIdleState": "NormalIdle1",
     "SpawnAniState": "Intro",
     "Prob": 10000
+  },
+  {
+    "ID": 925,
+    "MonterGroupID": 1036,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 34201,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 926,
+    "MonterGroupID": 200101,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12206,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 927,
+    "MonterGroupID": 200102,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10107,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 928,
+    "MonterGroupID": 200103,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12709,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 929,
+    "MonterGroupID": 200104,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13506,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 930,
+    "MonterGroupID": 200105,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12807,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 931,
+    "MonterGroupID": 200106,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12617,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 932,
+    "MonterGroupID": 200107,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 10404,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 933,
+    "MonterGroupID": 200108,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11410,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 934,
+    "MonterGroupID": 200109,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11510,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 935,
+    "MonterGroupID": 200110,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12905,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 936,
+    "MonterGroupID": 200111,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13207,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 937,
+    "MonterGroupID": 200112,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12410,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 938,
+    "MonterGroupID": 200113,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13806,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 939,
+    "MonterGroupID": 200114,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 940,
+    "MonterGroupID": 200115,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13307,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 941,
+    "MonterGroupID": 200116,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13906,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 942,
+    "MonterGroupID": 200117,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 13107,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 943,
+    "MonterGroupID": 200118,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 11210,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 944,
+    "MonterGroupID": 200119,
+    "SpawnMonsterGrade": "Boss",
+    "CharacterID": 12006,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 945,
+    "MonterGroupID": 200301,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31518,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 946,
+    "MonterGroupID": 200302,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32213,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 947,
+    "MonterGroupID": 200303,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32611,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 948,
+    "MonterGroupID": 200304,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30131,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 949,
+    "MonterGroupID": 200305,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30212,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 950,
+    "MonterGroupID": 200306,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 30310,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 951,
+    "MonterGroupID": 200307,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31407,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 952,
+    "MonterGroupID": 200308,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 31614,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 953,
+    "MonterGroupID": 200309,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32011,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 954,
+    "MonterGroupID": 200310,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32516,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 955,
+    "MonterGroupID": 200311,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 32715,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 956,
+    "MonterGroupID": 200312,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33306,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 957,
+    "MonterGroupID": 200313,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 33913,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 958,
+    "MonterGroupID": 200314,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34013,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 959,
+    "MonterGroupID": 200315,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34614,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 960,
+    "MonterGroupID": 200316,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 34711,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Intro",
+    "Prob": 10000
+  },
+  {
+    "ID": 961,
+    "MonterGroupID": 200501,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 57310,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 962,
+    "MonterGroupID": 200501,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 57415,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 963,
+    "MonterGroupID": 200501,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 57512,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 964,
+    "MonterGroupID": 200502,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 54116,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 965,
+    "MonterGroupID": 200502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 54216,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 966,
+    "MonterGroupID": 200502,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 54316,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 967,
+    "MonterGroupID": 200503,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56411,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 968,
+    "MonterGroupID": 200503,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56311,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 969,
+    "MonterGroupID": 200503,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 56210,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 970,
+    "MonterGroupID": 200504,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 55916,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 971,
+    "MonterGroupID": 200504,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56014,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 972,
+    "MonterGroupID": 200504,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 56115,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 5000
+  },
+  {
+    "ID": 973,
+    "MonterGroupID": 200505,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 53922,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 974,
+    "MonterGroupID": 200505,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 53818,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 975,
+    "MonterGroupID": 200505,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 53722,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 976,
+    "MonterGroupID": 200505,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 54024,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 977,
+    "MonterGroupID": 200505,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 53623,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 978,
+    "MonterGroupID": 200506,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 51308,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 979,
+    "MonterGroupID": 200506,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 51408,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 980,
+    "MonterGroupID": 200506,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 51511,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 981,
+    "MonterGroupID": 200506,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 51608,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 982,
+    "MonterGroupID": 200506,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 51708,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 2500
+  },
+  {
+    "ID": 983,
+    "MonterGroupID": 200507,
+    "SpawnMonsterGrade": "Elite",
+    "CharacterID": 50419,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 10000
+  },
+  {
+    "ID": 984,
+    "MonterGroupID": 200507,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 50818,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
+  },
+  {
+    "ID": 985,
+    "MonterGroupID": 200507,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 51212,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3333
+  },
+  {
+    "ID": 986,
+    "MonterGroupID": 200507,
+    "SpawnMonsterGrade": "Normal",
+    "CharacterID": 50123,
+    "NormalIdleState": "NormalIdle1",
+    "SpawnAniState": "Spawn",
+    "Prob": 3334
   }
 ]

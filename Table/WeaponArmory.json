@@ -76,5 +76,83 @@
     "RequiredCount": 200,
     "CurrencyType": "MagicEssence",
     "CurrencyCost": 2000
+  },
+  {
+    "ID": 201,
+    "PageGroup": 2,
+    "SlotIndex": 0,
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "RelatedSlot": 106,
+    "OpenCondition": "BattleClass",
+    "OpenValue": 15,
+    "RequiredItem": 10170001,
+    "RequiredCount": 150,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 1500
+  },
+  {
+    "ID": 202,
+    "PageGroup": 2,
+    "SlotIndex": 1,
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "RelatedSlot": 201,
+    "OpenCondition": "BattleClass",
+    "OpenValue": 20,
+    "RequiredItem": 10170001,
+    "RequiredCount": 200,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 2000
+  },
+  {
+    "ID": 203,
+    "PageGroup": 2,
+    "SlotIndex": 2,
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "RelatedSlot": 202,
+    "OpenCondition": "BattleClass",
+    "OpenValue": 25,
+    "RequiredItem": 10170001,
+    "RequiredCount": 250,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 2500
+  },
+  {
+    "ID": 204,
+    "PageGroup": 2,
+    "SlotIndex": 3,
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "RelatedSlot": 203,
+    "OpenCondition": "BattleClass",
+    "OpenValue": 30,
+    "RequiredItem": 10170002,
+    "RequiredCount": 60,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 3000
+  },
+  {
+    "ID": 205,
+    "PageGroup": 2,
+    "SlotIndex": 4,
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "RelatedSlot": 204,
+    "OpenCondition": "BattleClass",
+    "OpenValue": 35,
+    "RequiredItem": 10170002,
+    "RequiredCount": 75,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 3750
+  },
+  {
+    "ID": 206,
+    "PageGroup": 2,
+    "SlotIndex": 5,
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "RelatedSlot": 205,
+    "OpenCondition": "BattleClass",
+    "OpenValue": 40,
+    "RequiredItem": 10170002,
+    "RequiredCount": 90,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 4500
   }
 ]

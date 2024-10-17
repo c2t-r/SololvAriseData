@@ -392,7 +392,7 @@
     "ShortCutType": "Main",
     "Value1": 0,
     "ShortCutIndexes": "[]",
-    "Title": "",
+    "Title": "MoveTarget.HunterStory_Title",
     "Desc": ""
   },
   {
@@ -459,12 +459,48 @@
     "Desc": ""
   },
   {
+    "ID": 54,
+    "ContentsType": "Story_Reverse",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.Story_Reverse_Title",
+    "Desc": ""
+  },
+  {
+    "ID": 55,
+    "ContentsType": "Achievement_SJW",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.Achievement_SJW_Title",
+    "Desc": ""
+  },
+  {
     "ID": 120,
     "ContentsType": "HunterExperience",
     "ShortCutType": "Main",
     "Value1": 0,
     "ShortCutIndexes": "[]",
     "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 991,
+    "ContentsType": "Combine",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.Inven_Combine_Title",
+    "Desc": ""
+  },
+  {
+    "ID": 992,
+    "ContentsType": "Craft",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.Inven_Craft_Title",
     "Desc": ""
   },
   {
@@ -738,6 +774,15 @@
     "Desc": ""
   },
   {
+    "ID": 1065,
+    "ContentsType": "Artifact",
+    "ShortCutType": "Artifact_Decomposition",
+    "Value1": 0,
+    "ShortCutIndexes": "[0]",
+    "Title": "MoveTarget.ArtifactDecomposition_Title",
+    "Desc": "MoveTarget.ArtifactDecomposition_Short"
+  },
+  {
     "ID": 1071,
     "ContentsType": "Mission",
     "ShortCutType": "  Mission_Daily",
@@ -790,6 +835,24 @@
     "ShortCutIndexes": "[0,3]",
     "Title": "MoveTarget.AchievementDungeon_Title",
     "Desc": ""
+  },
+  {
+    "ID": 1085,
+    "ContentsType": "Core",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[0]",
+    "Title": "MoveTarget.Core_Title",
+    "Desc": "MoveTarget.Core_Desc"
+  },
+  {
+    "ID": 1086,
+    "ContentsType": "Core",
+    "ShortCutType": "Core_Detail",
+    "Value1": 0,
+    "ShortCutIndexes": "[-1]",
+    "Title": "MoveTarget.Core_Title",
+    "Desc": "MoveTarget.Core_Desc"
   },
   {
     "ID": 1091,
@@ -873,6 +936,15 @@
     "Desc": ""
   },
   {
+    "ID": 1109,
+    "ContentsType": "Collection",
+    "ShortCutType": "Collection_Core",
+    "Value1": 0,
+    "ShortCutIndexes": "[9]",
+    "Title": "MoveTarget.CollectionCore_Title",
+    "Desc": ""
+  },
+  {
     "ID": 1111,
     "ContentsType": "Story",
     "ShortCutType": "Story_Next",
@@ -898,6 +970,15 @@
     "ShortCutIndexes": "[1]",
     "Title": "MoveTarget.CraftRelic_Title",
     "Desc": "MoveTarget.CraftRelic_Short"
+  },
+  {
+    "ID": 1123,
+    "ContentsType": "Craft",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[2]",
+    "Title": "MoveTarget.CraftEvent_Title",
+    "Desc": "MoveTarget.CraftEvent_Short"
   },
   {
     "ID": 1131,
@@ -1467,6 +1548,24 @@
     "Desc": ""
   },
   {
+    "ID": 5401,
+    "ContentsType": "TimeAtteck",
+    "ShortCutType": "TimeAttack_Season",
+    "Value1": 0,
+    "ShortCutIndexes": "[0,0]",
+    "Title": "MoveTarget.TimeAttack_Season",
+    "Desc": ""
+  },
+  {
+    "ID": 5402,
+    "ContentsType": "TimeAtteck",
+    "ShortCutType": "TimeAttack_Boss",
+    "Value1": 0,
+    "ShortCutIndexes": "[0,0]",
+    "Title": "MoveTarget.TimeAttack_Boss",
+    "Desc": ""
+  },
+  {
     "ID": 10001,
     "ContentsType": "Story",
     "ShortCutType": "Story_Chapter",
@@ -1634,6 +1733,24 @@
     "ShortCutType": "Story_Chapter",
     "Value1": 1011801,
     "ShortCutIndexes": "[1011801,1011801]",
+    "Title": "MoveTarget.StoryChapter_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 10020,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Chapter",
+    "Value1": 1012201,
+    "ShortCutIndexes": "[1012201,1012201]",
+    "Title": "MoveTarget.StoryChapter_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 10021,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Chapter",
+    "Value1": 1012301,
+    "ShortCutIndexes": "[1012301,1012301]",
     "Title": "MoveTarget.StoryChapter_Normal",
     "Desc": ""
   },
@@ -1967,6 +2084,24 @@
     "ShortCutType": "Story_Chapter",
     "Value1": 2011801,
     "ShortCutIndexes": "[2011801,2011801]",
+    "Title": "MoveTarget.StoryChapter_Hard",
+    "Desc": ""
+  },
+  {
+    "ID": 10137,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Chapter",
+    "Value1": 2012201,
+    "ShortCutIndexes": "[2012201,2012201]",
+    "Title": "MoveTarget.StoryChapter_Hard",
+    "Desc": ""
+  },
+  {
+    "ID": 10138,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Chapter",
+    "Value1": 2012301,
+    "ShortCutIndexes": "[2012301,2012301]",
     "Title": "MoveTarget.StoryChapter_Hard",
     "Desc": ""
   },
@@ -3276,6 +3411,141 @@
     "Desc": ""
   },
   {
+    "ID": 11146,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2201,
+    "ShortCutIndexes": "[1012201,1012201,2201]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11147,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2202,
+    "ShortCutIndexes": "[1012201,1012201,2202]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11148,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2203,
+    "ShortCutIndexes": "[1012201,1012201,2203]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11149,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2204,
+    "ShortCutIndexes": "[1012201,1012201,2204]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11150,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2205,
+    "ShortCutIndexes": "[1012201,1012201,2205]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11151,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2206,
+    "ShortCutIndexes": "[1012201,1012201,2206]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11152,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2207,
+    "ShortCutIndexes": "[1012201,1012201,2207]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11153,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2208,
+    "ShortCutIndexes": "[1012201,1012201,2208]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11154,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2301,
+    "ShortCutIndexes": "[1012301,1012301,2301]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11155,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2302,
+    "ShortCutIndexes": "[1012301,1012301,2302]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11156,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2303,
+    "ShortCutIndexes": "[1012301,1012301,2303]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11157,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2304,
+    "ShortCutIndexes": "[1012301,1012301,2304]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11158,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2305,
+    "ShortCutIndexes": "[1012301,1012301,2305]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11159,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2306,
+    "ShortCutIndexes": "[1012301,1012301,2306]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 11160,
+    "ContentsType": "Story",
+    "ShortCutType": "Story_Mission",
+    "Value1": 2307,
+    "ShortCutIndexes": "[1012301,1012301,2307]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
     "ID": 12001,
     "ContentsType": "Story_Hard",
     "ShortCutType": "Story_Mission",
@@ -4577,6 +4847,141 @@
     "ShortCutType": "Story_Mission",
     "Value1": 31818,
     "ShortCutIndexes": "[2011801,2011801,31818]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12146,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32201,
+    "ShortCutIndexes": "[2012201,2012201,32201]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12147,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32202,
+    "ShortCutIndexes": "[2012201,2012201,32202]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12148,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32203,
+    "ShortCutIndexes": "[2012201,2012201,32203]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12149,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32204,
+    "ShortCutIndexes": "[2012201,2012201,32204]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12150,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32205,
+    "ShortCutIndexes": "[2012201,2012201,32205]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12151,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32206,
+    "ShortCutIndexes": "[2012201,2012201,32206]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12152,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32207,
+    "ShortCutIndexes": "[2012201,2012201,32207]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12153,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32208,
+    "ShortCutIndexes": "[2012201,2012201,32208]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12154,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32301,
+    "ShortCutIndexes": "[2012301,2012301,32301]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12155,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32302,
+    "ShortCutIndexes": "[2012301,2012301,32302]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12156,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32303,
+    "ShortCutIndexes": "[2012301,2012301,32303]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12157,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32304,
+    "ShortCutIndexes": "[2012301,2012301,32304]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12158,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32305,
+    "ShortCutIndexes": "[2012301,2012301,32305]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12159,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32306,
+    "ShortCutIndexes": "[2012301,2012301,32306]",
+    "Title": "MoveTarget.StoryMission_Normal",
+    "Desc": ""
+  },
+  {
+    "ID": 12160,
+    "ContentsType": "Story_Hard",
+    "ShortCutType": "Story_Mission",
+    "Value1": 32307,
+    "ShortCutIndexes": "[2012301,2012301,32307]",
     "Title": "MoveTarget.StoryMission_Normal",
     "Desc": ""
   },
@@ -6601,7 +7006,7 @@
     "ContentsType": "Story_Reverse",
     "ShortCutType": "Story_Mission",
     "Value1": 1000708,
-    "ShortCutIndexes": "[4010601,4010601,1000708]",
+    "ShortCutIndexes": "[4010701,4010701,1000708]",
     "Title": "MoveTarget.StoryMission_Revarse",
     "Desc": ""
   },
@@ -7572,8 +7977,8 @@
     "ID": 30013,
     "ContentsType": "Shop",
     "ShortCutType": "Shop_Tab",
-    "Value1": 10601,
-    "ShortCutIndexes": "[10601]",
+    "Value1": 10606,
+    "ShortCutIndexes": "[10606]",
     "Title": "MoveTarget.Shap_Tap",
     "Desc": "MoveTarget.Shop_Short"
   },
@@ -7617,8 +8022,8 @@
     "ID": 30018,
     "ContentsType": "Shop",
     "ShortCutType": "Shop_Tab",
-    "Value1": 10611,
-    "ShortCutIndexes": "[10611]",
+    "Value1": 10615,
+    "ShortCutIndexes": "[10615]",
     "Title": "MoveTarget.Shap_Tap",
     "Desc": "MoveTarget.Shop_Short"
   },
@@ -7770,8 +8175,8 @@
     "ID": 30035,
     "ContentsType": "Shop",
     "ShortCutType": "Shop_Tab",
-    "Value1": 90001,
-    "ShortCutIndexes": "[90001]",
+    "Value1": 90002,
+    "ShortCutIndexes": "[90002]",
     "Title": "MoveTarget.Shap_Tap",
     "Desc": "MoveTarget.Shop_Short"
   },
@@ -7819,6 +8224,60 @@
     "ShortCutIndexes": "[3330]",
     "Title": "MoveTarget.Shap_Tap",
     "Desc": "MoveTarget.Shop_Short"
+  },
+  {
+    "ID": 30041,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 100001,
+    "ShortCutIndexes": "[100001]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 30042,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 90005,
+    "ShortCutIndexes": "[90005]",
+    "Title": "MoveTarget.Shap_Tap",
+    "Desc": "MoveTarget.Shop_Short"
+  },
+  {
+    "ID": 30043,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 90006,
+    "ShortCutIndexes": "[90006]",
+    "Title": "MoveTarget.Shap_Tap",
+    "Desc": "MoveTarget.Shop_Short"
+  },
+  {
+    "ID": 30044,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 100002,
+    "ShortCutIndexes": "[100002]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 30045,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 100003,
+    "ShortCutIndexes": "[100003]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 30046,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 10609,
+    "ShortCutIndexes": "[10609]",
+    "Title": "",
+    "Desc": ""
   },
   {
     "ID": 31001,
@@ -7983,6 +8442,78 @@
     "Desc": ""
   },
   {
+    "ID": 31019,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 330321,
+    "ShortCutIndexes": "[-1,330321]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31020,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 331203,
+    "ShortCutIndexes": "[-1,331203]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31021,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 331204,
+    "ShortCutIndexes": "[-1,331204]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31022,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 331206,
+    "ShortCutIndexes": "[-1,331206]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31023,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 330360,
+    "ShortCutIndexes": "[-1,330360]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31024,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 330385,
+    "ShortCutIndexes": "[-1,330385]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31025,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 330386,
+    "ShortCutIndexes": "[-1,330386]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31026,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 330409,
+    "ShortCutIndexes": "[-1,330409]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "ContentsType": "Gacha",
     "ShortCutType": "Gacha_Tab",
@@ -8046,6 +8577,123 @@
     "Desc": ""
   },
   {
+    "ID": 40009,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3006,
+    "ShortCutIndexes": "[3006]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40010,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3007,
+    "ShortCutIndexes": "[3007]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40011,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3008,
+    "ShortCutIndexes": "[3008]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40012,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3010,
+    "ShortCutIndexes": "[3010]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40013,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3011,
+    "ShortCutIndexes": "[3011]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40014,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3012,
+    "ShortCutIndexes": "[3012]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40015,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3013,
+    "ShortCutIndexes": "[3013]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40016,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 2000,
+    "ShortCutIndexes": "[2000]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40017,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3014,
+    "ShortCutIndexes": "[3014]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40018,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3015,
+    "ShortCutIndexes": "[3015]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40020,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3016,
+    "ShortCutIndexes": "[3016]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40021,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3017,
+    "ShortCutIndexes": "[3017]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40022,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 2001,
+    "ShortCutIndexes": "[2001]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
     "ID": 50001,
     "ContentsType": "Event",
     "ShortCutType": "Event_Tab",
@@ -8103,8 +8751,8 @@
     "ID": 50007,
     "ContentsType": "Event",
     "ShortCutType": "Event_Tab",
-    "Value1": 501,
-    "ShortCutIndexes": "[501]",
+    "Value1": 522,
+    "ShortCutIndexes": "[522]",
     "Title": "MoveTarget.Event_Tab",
     "Desc": ""
   },
@@ -8112,8 +8760,8 @@
     "ID": 50008,
     "ContentsType": "Event",
     "ShortCutType": "Event_Tab",
-    "Value1": 504,
-    "ShortCutIndexes": "[504]",
+    "Value1": 527,
+    "ShortCutIndexes": "[527]",
     "Title": "MoveTarget.Event_Tab",
     "Desc": ""
   },
@@ -8121,9 +8769,315 @@
     "ID": 50009,
     "ContentsType": "Event",
     "ShortCutType": "Event_Tab",
-    "Value1": 505,
-    "ShortCutIndexes": "[505]",
+    "Value1": 528,
+    "ShortCutIndexes": "[528]",
     "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50010,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 701,
+    "ShortCutIndexes": "[701]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 50011,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 529,
+    "ShortCutIndexes": "[529]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50012,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 511,
+    "ShortCutIndexes": "[511]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50013,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 512,
+    "ShortCutIndexes": "[512]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50015,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 515,
+    "ShortCutIndexes": "[515]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50016,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 516,
+    "ShortCutIndexes": "[516]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50017,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 517,
+    "ShortCutIndexes": "[517]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50018,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 525,
+    "ShortCutIndexes": "[525]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50019,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 524,
+    "ShortCutIndexes": "[524]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50020,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 518,
+    "ShortCutIndexes": "[518]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50021,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 200209,
+    "ShortCutIndexes": "[200209]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50022,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 528,
+    "ShortCutIndexes": "[528]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 55001,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[]",
+    "Title": "Event.24Summer.MainTitle.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55002,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[1]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55003,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[2]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55004,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[3]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55005,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[4]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55006,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[7]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55007,
+    "ContentsType": "Attendance",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[70009]",
+    "Title": "MoveTarget.Attendance_Title",
+    "Desc": ""
+  },
+  {
+    "ID": 55008,
+    "ContentsType": "Craft",
+    "ShortCutType": "Craft_Detail",
+    "Value1": 401030,
+    "ShortCutIndexes": "[1,401030]",
+    "Title": "MoveTarget.Craft_Detail",
+    "Desc": ""
+  },
+  {
+    "ID": 55009,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[1,40101]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55010,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[1,40102]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55011,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[4,80001]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55012,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2407,
+    "ShortCutIndexes": "[4,80002]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55013,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[]",
+    "Title": "Event.100Anni.MainTitle.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55014,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[1]",
+    "Title": "Event.100Anni.Capsule.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55015,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[2]",
+    "Title": "Event.100Anni.Mission.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55016,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[3]",
+    "Title": "Event.100Anni.Boss.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55017,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[4]",
+    "Title": "Event.100Anni.RPS.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55018,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[5]",
+    "Title": "Event.100Anni.StackHigher.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55019,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[6]",
+    "Title": "Event.100Anni.MiniGameDungeon.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55020,
+    "ContentsType": "Attendance",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[70010]",
+    "Title": "MoveTarget.Attendance_Title",
+    "Desc": ""
+  },
+  {
+    "ID": 55021,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[3,80101]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55022,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2408,
+    "ShortCutIndexes": "[3,80102]",
+    "Title": "",
     "Desc": ""
   },
   {
@@ -8556,6 +9510,69 @@
     "Value1": 0,
     "ShortCutIndexes": "[]",
     "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 99001,
+    "ContentsType": "CostumeEncyclopedia",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 100001,
+    "ContentsType": "Guild",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.GuildLobby",
+    "Desc": ""
+  },
+  {
+    "ID": 100002,
+    "ContentsType": "GuildRank",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.GuildRank",
+    "Desc": ""
+  },
+  {
+    "ID": 100003,
+    "ContentsType": "GuildShop",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.GuildShop",
+    "Desc": ""
+  },
+  {
+    "ID": 100004,
+    "ContentsType": "GuildMission",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.GuildMission",
+    "Desc": ""
+  },
+  {
+    "ID": 100005,
+    "ContentsType": "GuildMiniGame",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.GuildMiniGame",
+    "Desc": ""
+  },
+  {
+    "ID": 100006,
+    "ContentsType": "GuildBoss",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[]",
+    "Title": "MoveTarget.GuildBoss",
     "Desc": ""
   }
 ]

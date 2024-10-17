@@ -4,6 +4,7 @@
     "StageID": 3001,
     "BattleSquadID": 7,
     "StageMonsterLelvel": 5,
+    "IngameStatLevel": 5,
     "StageMonsterSkillLevel": 1,
     "RecommendedPower": 3250
   },
@@ -12,6 +13,7 @@
     "StageID": 3002,
     "BattleSquadID": 7,
     "StageMonsterLelvel": 20,
+    "IngameStatLevel": 20,
     "StageMonsterSkillLevel": 1,
     "RecommendedPower": 8000
   },
@@ -20,6 +22,7 @@
     "StageID": 3003,
     "BattleSquadID": 7,
     "StageMonsterLelvel": 32,
+    "IngameStatLevel": 32,
     "StageMonsterSkillLevel": 1,
     "RecommendedPower": 12500
   },
@@ -28,6 +31,7 @@
     "StageID": 3004,
     "BattleSquadID": 7,
     "StageMonsterLelvel": 33,
+    "IngameStatLevel": 33,
     "StageMonsterSkillLevel": 1,
     "RecommendedPower": 13750
   },
@@ -36,7 +40,17 @@
     "StageID": 3005,
     "BattleSquadID": 7,
     "StageMonsterLelvel": 55,
+    "IngameStatLevel": 55,
     "StageMonsterSkillLevel": 1,
     "RecommendedPower": 70000
+  },
+  {
+    "ID": 1006,
+    "StageID": 3006,
+    "BattleSquadID": 7,
+    "StageMonsterLelvel": 70,
+    "IngameStatLevel": 70,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 90000
   }
 ]

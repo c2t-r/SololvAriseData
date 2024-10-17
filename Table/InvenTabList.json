@@ -125,7 +125,7 @@
     "InvenSubType": 1,
     "ItemSubType": "UseItem",
     "ItemGroupType": "HotTime",
-    "Sort": 21
+    "Sort": 22
   },
   {
     "ID": 1120,
@@ -133,7 +133,7 @@
     "InvenSubType": 1,
     "ItemSubType": "UseItem",
     "ItemGroupType": "AdvancedSelectBox",
-    "Sort": 22
+    "Sort": 23
   },
   {
     "ID": 1121,
@@ -149,7 +149,7 @@
     "InvenSubType": 1,
     "ItemSubType": "Material",
     "ItemGroupType": "WeaponArmory",
-    "Sort": 23
+    "Sort": 24
   },
   {
     "ID": 1123,
@@ -165,7 +165,7 @@
     "InvenSubType": 1,
     "ItemSubType": "UseItem",
     "ItemGroupType": "IdleGold",
-    "Sort": 24
+    "Sort": 25
   },
   {
     "ID": 1125,
@@ -173,7 +173,7 @@
     "InvenSubType": 1,
     "ItemSubType": "UseItem",
     "ItemGroupType": "IdleExp",
-    "Sort": 25
+    "Sort": 26
   },
   {
     "ID": 1126,
@@ -181,7 +181,7 @@
     "InvenSubType": 1,
     "ItemSubType": "UseItem",
     "ItemGroupType": "HotTime_Day",
-    "Sort": 26
+    "Sort": 27
   },
   {
     "ID": 1127,
@@ -198,6 +198,22 @@
     "ItemSubType": "Material",
     "ItemGroupType": "ShadowUpgrade",
     "Sort": 9
+  },
+  {
+    "ID": 1129,
+    "InvenType": "Inven",
+    "InvenSubType": 1,
+    "ItemSubType": "Material",
+    "ItemGroupType": "SkinCoin",
+    "Sort": 28
+  },
+  {
+    "ID": 1130,
+    "InvenType": "Inven",
+    "InvenSubType": 1,
+    "ItemSubType": "Material",
+    "ItemGroupType": "CoreMaterial",
+    "Sort": 21
   },
   {
     "ID": 1201,
@@ -376,11 +392,43 @@
     "Sort": 1
   },
   {
+    "ID": 1811,
+    "InvenType": "Inven",
+    "InvenSubType": 8,
+    "ItemSubType": "ChaosEnterPoint",
+    "ItemGroupType": "",
+    "Sort": 10
+  },
+  {
     "ID": 1819,
     "InvenType": "Inven",
     "InvenSubType": 8,
     "ItemSubType": "Except",
     "ItemGroupType": "TimeAttackMedal",
     "Sort": 10
+  },
+  {
+    "ID": 1821,
+    "InvenType": "Inven",
+    "InvenSubType": 8,
+    "ItemSubType": "Except",
+    "ItemGroupType": "EventPuzzle25Ticket",
+    "Sort": 8
+  },
+  {
+    "ID": 6101,
+    "InvenType": "Coupon",
+    "InvenSubType": 0,
+    "ItemSubType": "Coupon",
+    "ItemGroupType": "",
+    "Sort": 1
+  },
+  {
+    "ID": 7101,
+    "InvenType": "Core",
+    "InvenSubType": 0,
+    "ItemSubType": "Core",
+    "ItemGroupType": "",
+    "Sort": 1
   }
 ]

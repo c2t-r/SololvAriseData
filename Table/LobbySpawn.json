@@ -131,7 +131,7 @@
     "ID": 18,
     "PlaceName": "Lobby",
     "SpotPoint": "NPC_Spawn_12",
-    "PointType": "Random",
+    "PointType": "Fixed",
     "MoveType": "Fixed",
     "AnimationState": ""
   },
@@ -147,6 +147,14 @@
     "ID": 20,
     "PlaceName": "Lobby",
     "SpotPoint": "Ranking_NPC_Spawn",
+    "PointType": "Fixed",
+    "MoveType": "Fixed",
+    "AnimationState": ""
+  },
+  {
+    "ID": 21,
+    "PlaceName": "Lobby",
+    "SpotPoint": "EventCake_Spawn",
     "PointType": "Fixed",
     "MoveType": "Fixed",
     "AnimationState": ""

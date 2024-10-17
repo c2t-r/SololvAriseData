@@ -30,6 +30,26 @@
     "GuaranteeValue": 1
   },
   {
+    "ID": 20011,
+    "CountSetGroup": 2001,
+    "Count": 1,
+    "CostItemid": 10100009,
+    "CostItemValue": 1,
+    "CurrencyValue": 250,
+    "GradeGuarantee": 0,
+    "GuaranteeValue": 0
+  },
+  {
+    "ID": 20012,
+    "CountSetGroup": 2001,
+    "Count": 10,
+    "CostItemid": 10100009,
+    "CostItemValue": 10,
+    "CurrencyValue": 250,
+    "GradeGuarantee": 4,
+    "GuaranteeValue": 1
+  },
+  {
     "ID": 30001,
     "CountSetGroup": 3000,
     "Count": 1,
@@ -58,6 +78,16 @@
     "CurrencyValue": 0,
     "GradeGuarantee": 4,
     "GuaranteeValue": 1
+  },
+  {
+    "ID": 90001,
+    "CountSetGroup": 9001,
+    "Count": 10,
+    "CostItemid": 0,
+    "CostItemValue": 0,
+    "CurrencyValue": 0,
+    "GradeGuarantee": 5,
+    "GuaranteeValue": 2
   },
   {
     "ID": 100001,

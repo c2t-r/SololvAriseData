@@ -10,9 +10,7 @@
     "BossResourceName": "Boss_Texture_BluePoisonFangRasaka",
     "RequiredStoryMission": 503,
     "RequiredAccountLevel": 1,
-    "RewardDisplayGroup": 119701,
-    "PositionX": 178.0,
-    "PositionY": 476.0
+    "RewardDisplayGroup": 119701
   },
   {
     "ID": 2,
@@ -23,11 +21,9 @@
     "BattleSquadID": 31,
     "BGResourceName": "InstanceDungeonThumbnail_Soldier_Unarmed_Forres_Boss",
     "BossResourceName": "Boss_Texture_Soldier_Unarmed_Forres",
-    "RequiredStoryMission": 611,
+    "RequiredStoryMission": 503,
     "RequiredAccountLevel": 1,
-    "RewardDisplayGroup": 119801,
-    "PositionX": 739.0,
-    "PositionY": 157.0
+    "RewardDisplayGroup": 119801
   },
   {
     "ID": 3,
@@ -38,11 +34,9 @@
     "BattleSquadID": 31,
     "BGResourceName": "InstanceDungeonThumbnail_GatekeeperCerberus_Boss",
     "BossResourceName": "Boss_Texture_GatekeeperCerberus",
-    "RequiredStoryMission": 806,
+    "RequiredStoryMission": 503,
     "RequiredAccountLevel": 1,
-    "RewardDisplayGroup": 119701,
-    "PositionX": 1337.0,
-    "PositionY": 418.0
+    "RewardDisplayGroup": 119701
   },
   {
     "ID": 4,
@@ -53,10 +47,47 @@
     "BattleSquadID": 31,
     "BGResourceName": "InstanceDungeonThumbnail_GiantArachne_Boss",
     "BossResourceName": "Boss_Texture_Spider_Elite",
-    "RequiredStoryMission": 806,
+    "RequiredStoryMission": 503,
     "RequiredAccountLevel": 1,
-    "RewardDisplayGroup": 119801,
-    "PositionX": 2014.0,
-    "PositionY": 594.0
+    "RewardDisplayGroup": 119801
+  },
+  {
+    "ID": 7,
+    "TitleStringID": "DunStage.StageMainText.30123",
+    "SubTitleStringID": "DunStage.StageMainText.30123",
+    "AdventDungeonGroupID": 7000,
+    "StageID": 60211,
+    "BattleSquadID": 31,
+    "BGResourceName": "InstanceDungeonThumbnail_GolemLabanStoner",
+    "BossResourceName": "Boss_Texture_Igris",
+    "RequiredStoryMission": 503,
+    "RequiredAccountLevel": 1,
+    "RewardDisplayGroup": 119701
+  },
+  {
+    "ID": 8,
+    "TitleStringID": "DunStage.StageMainText.40108",
+    "SubTitleStringID": "DunStage.StageMainText.40108",
+    "AdventDungeonGroupID": 8000,
+    "StageID": 60212,
+    "BattleSquadID": 31,
+    "BGResourceName": "InstanceDungeonThumbnail_ScorpionDeathStalker",
+    "BossResourceName": "Boss_Texture_Igris",
+    "RequiredStoryMission": 503,
+    "RequiredAccountLevel": 1,
+    "RewardDisplayGroup": 119801
+  },
+  {
+    "ID": 9,
+    "TitleStringID": "DunStage.StageMainText.13001",
+    "SubTitleStringID": "DunStage.StageMainText.13001",
+    "AdventDungeonGroupID": 9000,
+    "StageID": 60213,
+    "BattleSquadID": 31,
+    "BGResourceName": "InstanceDungeonThumbnail_Kaisellin_Boss",
+    "BossResourceName": "Boss_Texture_BluePoisonFangRasaka",
+    "RequiredStoryMission": 503,
+    "RequiredAccountLevel": 1,
+    "RewardDisplayGroup": 119701
   }
 ]

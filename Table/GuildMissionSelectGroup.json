@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 11001,
+    "GuildMissionConditionMinLevel": 1,
+    "GuildMissionConditionMaxLevel": 999,
+    "GuildMissionType": "Personal",
+    "GuildMissionPeriodType": "Daily",
+    "LimitMinGuildLevel": 1,
+    "LimitMaxGuildLevel": 30,
+    "GuildMissionGroup": 11001
+  },
+  {
+    "ID": 12001,
+    "GuildMissionConditionMinLevel": 1,
+    "GuildMissionConditionMaxLevel": 999,
+    "GuildMissionType": "Personal",
+    "GuildMissionPeriodType": "Weekly",
+    "LimitMinGuildLevel": 1,
+    "LimitMaxGuildLevel": 30,
+    "GuildMissionGroup": 12001
+  },
+  {
+    "ID": 13001,
+    "GuildMissionConditionMinLevel": 1,
+    "GuildMissionConditionMaxLevel": 999,
+    "GuildMissionType": "Cooperation",
+    "GuildMissionPeriodType": "Weekly",
+    "LimitMinGuildLevel": 1,
+    "LimitMaxGuildLevel": 30,
+    "GuildMissionGroup": 13001
+  }
+]

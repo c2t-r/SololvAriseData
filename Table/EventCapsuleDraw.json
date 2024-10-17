@@ -11,7 +11,8 @@
     "DailyPlayLimit2": 0,
     "DailyBuyLimit": 0,
     "DailyFreeTicket": 0,
-    "RewardGroupID": 90010001
+    "RewardGroupID": 90010001,
+    "CapsuleGroup": 0
   },
   {
     "ID": 2,
@@ -25,6 +26,52 @@
     "DailyPlayLimit2": 0,
     "DailyBuyLimit": 0,
     "DailyFreeTicket": 0,
-    "RewardGroupID": 2000801
+    "RewardGroupID": 2000801,
+    "CapsuleGroup": 0
+  },
+  {
+    "ID": 3,
+    "CapsuleDrawNeedItemType1": "Except",
+    "CapsuleDrawNeedItemIndex1": 30002007,
+    "CapsuleDrawNeedItemCount1": 1,
+    "CapsuleDrawNeedItemType2": "MagicEssence",
+    "CapsuleDrawNeedItemIndex2": 1000016,
+    "CapsuleDrawNeedItemCount2": 30,
+    "DailyPlayLimit": 999,
+    "DailyPlayLimit2": 0,
+    "DailyBuyLimit": 0,
+    "DailyFreeTicket": 0,
+    "RewardGroupID": 2001701,
+    "CapsuleGroup": 0
+  },
+  {
+    "ID": 4,
+    "CapsuleDrawNeedItemType1": "Except",
+    "CapsuleDrawNeedItemIndex1": 10160115,
+    "CapsuleDrawNeedItemCount1": 1,
+    "CapsuleDrawNeedItemType2": "MagicEssence",
+    "CapsuleDrawNeedItemIndex2": 1000016,
+    "CapsuleDrawNeedItemCount2": 30,
+    "DailyPlayLimit": 999,
+    "DailyPlayLimit2": 0,
+    "DailyBuyLimit": 0,
+    "DailyFreeTicket": 0,
+    "RewardGroupID": 2001808,
+    "CapsuleGroup": 104
+  },
+  {
+    "ID": 5,
+    "CapsuleDrawNeedItemType1": "Except",
+    "CapsuleDrawNeedItemIndex1": 30002015,
+    "CapsuleDrawNeedItemCount1": 1,
+    "CapsuleDrawNeedItemType2": "MagicEssence",
+    "CapsuleDrawNeedItemIndex2": 1000016,
+    "CapsuleDrawNeedItemCount2": 30,
+    "DailyPlayLimit": 999,
+    "DailyPlayLimit2": 0,
+    "DailyBuyLimit": 0,
+    "DailyFreeTicket": 0,
+    "RewardGroupID": 2016101,
+    "CapsuleGroup": 105
   }
 ]

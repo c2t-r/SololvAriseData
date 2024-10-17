@@ -10,9 +10,7 @@
     "BossResourceName": "Boss_Texture_SteelFangedRaikan_Elite_A",
     "RequiredStoryMission": 904,
     "RequiredAccountLevel": 1,
-    "RewardDisplayGroup": 119501,
-    "PositionX": 178.0,
-    "PositionY": 476.0
+    "RewardDisplayGroup": 119501
   },
   {
     "ID": 2,
@@ -23,10 +21,47 @@
     "BattleSquadID": 21,
     "BGResourceName": "InstanceDungeonThumbnail_Igris_Boss",
     "BossResourceName": "Boss_Texture_Igris",
-    "RequiredStoryMission": 1210,
+    "RequiredStoryMission": 904,
     "RequiredAccountLevel": 1,
-    "RewardDisplayGroup": 119601,
-    "PositionX": 739.0,
-    "PositionY": 157.0
+    "RewardDisplayGroup": 119601
+  },
+  {
+    "ID": 4,
+    "TitleStringID": "DunStage.StageSubText.60104",
+    "SubTitleStringID": "DunStage.StageSubText.60104",
+    "InstanceDungeonGroupID": 4000,
+    "StageID": 60104,
+    "BattleSquadID": 21,
+    "BGResourceName": "InstanceDungeonThumbnail_Kargalgan_Boss",
+    "BossResourceName": "Boss_Texture_Kargalgan",
+    "RequiredStoryMission": 904,
+    "RequiredAccountLevel": 1,
+    "RewardDisplayGroup": 119501
+  },
+  {
+    "ID": 5,
+    "TitleStringID": "SysConstStr.ChName.CursedGiantBoss",
+    "SubTitleStringID": "SysConstStr.ChName.CursedGiantBoss",
+    "InstanceDungeonGroupID": 5000,
+    "StageID": 60110,
+    "BattleSquadID": 21,
+    "BGResourceName": "InstanceDungeonThumbnail_CursedGiant_Boss",
+    "BossResourceName": "Boss_Texture_Igris",
+    "RequiredStoryMission": 904,
+    "RequiredAccountLevel": 1,
+    "RewardDisplayGroup": 119601
+  },
+  {
+    "ID": 6,
+    "TitleStringID": "SysConstStr.ChName.IceWitchBesteBoss",
+    "SubTitleStringID": "SysConstStr.ChName.IceWitchBesteBoss",
+    "InstanceDungeonGroupID": 6000,
+    "StageID": 60112,
+    "BattleSquadID": 21,
+    "BGResourceName": "InstanceDungeonThumbnail_IceWitch_Beste_Boss",
+    "BossResourceName": "Boss_Texture_Igris",
+    "RequiredStoryMission": 904,
+    "RequiredAccountLevel": 1,
+    "RewardDisplayGroup": 119501
   }
 ]

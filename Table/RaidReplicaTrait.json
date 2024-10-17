@@ -1,0 +1,123 @@
+[
+  {
+    "ID": 1,
+    "TraitGroup": 1,
+    "TraitType": "Skill",
+    "StatType": "",
+    "TraitValue": 99999997,
+    "RequireTraitPoint": 0,
+    "PreviousTrait": "",
+    "Position1": 1,
+    "Position2": 0
+  },
+  {
+    "ID": 2,
+    "TraitGroup": 1,
+    "TraitType": "Stat",
+    "StatType": "AddAtt",
+    "TraitValue": 5,
+    "RequireTraitPoint": 1,
+    "PreviousTrait": "[1]",
+    "Position1": 2,
+    "Position2": 1
+  },
+  {
+    "ID": 3,
+    "TraitGroup": 1,
+    "TraitType": "Stat",
+    "StatType": "AddArm",
+    "TraitValue": 5,
+    "RequireTraitPoint": 1,
+    "PreviousTrait": "[1]",
+    "Position1": 2,
+    "Position2": 0
+  },
+  {
+    "ID": 4,
+    "TraitGroup": 1,
+    "TraitType": "Stat",
+    "StatType": "AddMHP",
+    "TraitValue": 5,
+    "RequireTraitPoint": 1,
+    "PreviousTrait": "[1]",
+    "Position1": 2,
+    "Position2": 4294967295
+  },
+  {
+    "ID": 5,
+    "TraitGroup": 1,
+    "TraitType": "Stat",
+    "StatType": "AddAtt",
+    "TraitValue": 5,
+    "RequireTraitPoint": 1,
+    "PreviousTrait": "[2]",
+    "Position1": 3,
+    "Position2": 1
+  },
+  {
+    "ID": 6,
+    "TraitGroup": 1,
+    "TraitType": "Stat",
+    "StatType": "AddArm",
+    "TraitValue": 5,
+    "RequireTraitPoint": 1,
+    "PreviousTrait": "[3]",
+    "Position1": 3,
+    "Position2": 0
+  },
+  {
+    "ID": 7,
+    "TraitGroup": 1,
+    "TraitType": "Stat",
+    "StatType": "AddMHP",
+    "TraitValue": 5,
+    "RequireTraitPoint": 1,
+    "PreviousTrait": "[4]",
+    "Position1": 3,
+    "Position2": 4294967295
+  },
+  {
+    "ID": 8,
+    "TraitGroup": 1,
+    "TraitType": "ActiveBuff",
+    "StatType": "",
+    "TraitValue": 234000006,
+    "RequireTraitPoint": 2,
+    "PreviousTrait": "[5,6,7]",
+    "Position1": 4,
+    "Position2": 0
+  },
+  {
+    "ID": 9,
+    "TraitGroup": 1,
+    "TraitType": "ActiveBuff",
+    "StatType": "",
+    "TraitValue": 234000006,
+    "RequireTraitPoint": 2,
+    "PreviousTrait": "[8]",
+    "Position1": 5,
+    "Position2": 0
+  },
+  {
+    "ID": 10,
+    "TraitGroup": 1,
+    "TraitType": "PassiveBuff",
+    "StatType": "",
+    "TraitValue": 234000001,
+    "RequireTraitPoint": 2,
+    "PreviousTrait": "[9]",
+    "Position1": 6,
+    "Position2": 0
+  },
+  {
+    "ID": 11,
+    "TraitGroup": 1,
+    "TraitType": "Skill",
+    "StatType": "",
+    "TraitValue": 99999998,
+    "RequireTraitPoint": 3,
+    "PreviousTrait": "[10]",
+    "Position1": 7,
+    "Position2": 0
+  }
+]

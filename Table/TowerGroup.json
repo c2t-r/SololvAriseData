@@ -2,6 +2,7 @@
   {
     "ID": 1,
     "TowerType": "Player",
+    "EventID": 0,
     "TowerGroup": 1,
     "TowerName": "SysConstStr.JobName.Player",
     "BgImageResource": "BG_TowerPage",
@@ -9,11 +10,12 @@
     "EnterPointUse": true,
     "EnterPointType": "PlayerTowerEnterPoint",
     "EnterPointItemID": 0,
-    "MaxFloor": 40
+    "MaxFloor": 60
   },
   {
     "ID": 2,
     "TowerType": "Hunter",
+    "EventID": 0,
     "TowerGroup": 2,
     "TowerName": "SysConstStr.Glossary.Hunter",
     "BgImageResource": "BG_TowerPage_Hunter",
@@ -21,6 +23,84 @@
     "EnterPointUse": true,
     "EnterPointType": "HunterTowerEnterPoint",
     "EnterPointItemID": 0,
-    "MaxFloor": 40
+    "MaxFloor": 60
+  },
+  {
+    "ID": 5,
+    "TowerType": "ChallengeTower_Player",
+    "EventID": 50000,
+    "TowerGroup": 5,
+    "TowerName": "SysConstStr.JobName.Player",
+    "BgImageResource": "BG_ChallengeTowerPage",
+    "BtnIconResource": "Icon_TowerChallenge_Player",
+    "EnterPointUse": true,
+    "EnterPointType": "PlayerTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 15
+  },
+  {
+    "ID": 6,
+    "TowerType": "ChallengeTower_Hunter",
+    "EventID": 50100,
+    "TowerGroup": 6,
+    "TowerName": "SysConstStr.Glossary.Hunter",
+    "BgImageResource": "BG_ChallengeTowerPage_Hunter",
+    "BtnIconResource": "Icon_TowerChallenge_Hunter",
+    "EnterPointUse": true,
+    "EnterPointType": "HunterTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 15
+  },
+  {
+    "ID": 7,
+    "TowerType": "ChallengeTower_Player",
+    "EventID": 51000,
+    "TowerGroup": 7,
+    "TowerName": "SysConstStr.JobName.Player",
+    "BgImageResource": "BG_ChallengeTowerPage",
+    "BtnIconResource": "Icon_TowerChallenge_Player",
+    "EnterPointUse": true,
+    "EnterPointType": "PlayerTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 15
+  },
+  {
+    "ID": 8,
+    "TowerType": "ChallengeTower_Hunter",
+    "EventID": 51100,
+    "TowerGroup": 8,
+    "TowerName": "SysConstStr.Glossary.Hunter",
+    "BgImageResource": "BG_ChallengeTowerPage_Hunter",
+    "BtnIconResource": "Icon_TowerChallenge_Hunter",
+    "EnterPointUse": true,
+    "EnterPointType": "HunterTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 15
+  },
+  {
+    "ID": 9,
+    "TowerType": "ChallengeTower_Player",
+    "EventID": 52000,
+    "TowerGroup": 9,
+    "TowerName": "SysConstStr.JobName.Player",
+    "BgImageResource": "BG_ChallengeTowerPage",
+    "BtnIconResource": "Icon_TowerChallenge_Player",
+    "EnterPointUse": true,
+    "EnterPointType": "PlayerTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 15
+  },
+  {
+    "ID": 10,
+    "TowerType": "ChallengeTower_Hunter",
+    "EventID": 52100,
+    "TowerGroup": 10,
+    "TowerName": "SysConstStr.Glossary.Hunter",
+    "BgImageResource": "BG_ChallengeTowerPage_Hunter",
+    "BtnIconResource": "Icon_TowerChallenge_Hunter",
+    "EnterPointUse": true,
+    "EnterPointType": "HunterTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 15
   }
 ]
