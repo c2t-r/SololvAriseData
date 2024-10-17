@@ -1003,17 +1003,8 @@
     "GroupID": 241,
     "CharPartsType": "Weapon",
     "Index": 0,
-    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
+    "PartsPrefName": "Gina_Weapon1_PFV",
     "AttachParentName": "Bip001 Prop1",
-    "AwakeActive": true
-  },
-  {
-    "ID": 113,
-    "GroupID": 241,
-    "CharPartsType": "Weapon",
-    "Index": 1,
-    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
-    "AttachParentName": "Weapon_Equip_Root",
     "AwakeActive": true
   },
   {
@@ -1021,7 +1012,7 @@
     "GroupID": 261,
     "CharPartsType": "Weapon",
     "Index": 0,
-    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
+    "PartsPrefName": "YooSooHyun_Weapon01_PFV",
     "AttachParentName": "Bip001 Prop1",
     "AwakeActive": true
   },
@@ -1030,7 +1021,7 @@
     "GroupID": 261,
     "CharPartsType": "Weapon",
     "Index": 1,
-    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
+    "PartsPrefName": "YooSooHyun_Weapon02_PFV",
     "AttachParentName": "Weapon_Equip_Root",
     "AwakeActive": true
   },
@@ -1039,8 +1030,8 @@
     "GroupID": 271,
     "CharPartsType": "Weapon",
     "Index": 0,
-    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
-    "AttachParentName": "Bip001 Prop1",
+    "PartsPrefName": "MeilinFisher_Weapon01_PFV",
+    "AttachParentName": "Prop_Weapon_Sword_01_R",
     "AwakeActive": true
   },
   {
@@ -1048,8 +1039,8 @@
     "GroupID": 271,
     "CharPartsType": "Weapon",
     "Index": 1,
-    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
-    "AttachParentName": "Weapon_Equip_Root",
+    "PartsPrefName": "MeilinFisher_Weapon02_PFV",
+    "AttachParentName": "Point_Wp_1",
     "AwakeActive": true
   },
   {
@@ -1077,6 +1068,51 @@
     "Index": 47,
     "PartsPrefName": "GSWeapon_MoonShadow_01_PFV",
     "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 123,
+    "GroupID": 831,
+    "CharPartsType": "GSWeapon",
+    "Index": 48,
+    "PartsPrefName": "GSWeapon_Skadi_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 124,
+    "GroupID": 831,
+    "CharPartsType": "GSWeapon",
+    "Index": 49,
+    "PartsPrefName": "GSWeapon_Skadi_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 125,
+    "GroupID": 832,
+    "CharPartsType": "GSWeapon",
+    "Index": 50,
+    "PartsPrefName": "GSWeapon_SSR_KasakaVenomFang_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 126,
+    "GroupID": 832,
+    "CharPartsType": "GSWeapon",
+    "Index": 51,
+    "PartsPrefName": "GSWeapon_SSR_KasakaVenomFang_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 127,
+    "GroupID": 833,
+    "CharPartsType": "GSWeapon",
+    "Index": 52,
+    "PartsPrefName": "GSWeapon_SSR_DemonKnightSpear_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
     "AwakeActive": true
   }
 ]

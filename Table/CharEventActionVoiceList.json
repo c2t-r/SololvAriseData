@@ -33,19 +33,55 @@
     "FadeOut": 200,
     "VoiceText": "",
     "VoiceTextDuration": 1.5,
-    "VoiceProb": 100
+    "VoiceProb": 34
   },
   {
     "ID": 5,
+    "GroupID": 1004,
+    "VoiceSoundName": "Dia_SungJinWooS_Enemy_Encounter_1_2",
+    "FadeOut": 200,
+    "VoiceText": "",
+    "VoiceTextDuration": 1.5,
+    "VoiceProb": 33
+  },
+  {
+    "ID": 6,
+    "GroupID": 1004,
+    "VoiceSoundName": "Dia_SungJinWooS_Enemy_Encounter_1_3",
+    "FadeOut": 200,
+    "VoiceText": "",
+    "VoiceTextDuration": 1.5,
+    "VoiceProb": 33
+  },
+  {
+    "ID": 7,
     "GroupID": 1005,
     "VoiceSoundName": "Dia_SungJinWooS_Boss_Encounter_1_1",
     "FadeOut": 200,
     "VoiceText": "",
     "VoiceTextDuration": 1.5,
-    "VoiceProb": 100
+    "VoiceProb": 34
   },
   {
-    "ID": 6,
+    "ID": 8,
+    "GroupID": 1005,
+    "VoiceSoundName": "Dia_SungJinWooS_Boss_Encounter_1_2",
+    "FadeOut": 200,
+    "VoiceText": "",
+    "VoiceTextDuration": 1.5,
+    "VoiceProb": 33
+  },
+  {
+    "ID": 9,
+    "GroupID": 1005,
+    "VoiceSoundName": "Dia_SungJinWooS_Boss_Encounter_1_3",
+    "FadeOut": 200,
+    "VoiceText": "",
+    "VoiceTextDuration": 1.5,
+    "VoiceProb": 33
+  },
+  {
+    "ID": 10,
     "GroupID": 1006,
     "VoiceSoundName": "Dia_SungJinWooS_Move_1_1",
     "FadeOut": 200,
@@ -54,7 +90,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 7,
+    "ID": 11,
     "GroupID": 1006,
     "VoiceSoundName": "Dia_SungJinWooS_Move_1_2",
     "FadeOut": 200,
@@ -63,7 +99,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 8,
+    "ID": 12,
     "GroupID": 1007,
     "VoiceSoundName": "Dia_SungJinWooS_Risk_1_1",
     "FadeOut": 200,
@@ -72,7 +108,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 9,
+    "ID": 13,
     "GroupID": 2001,
     "VoiceSoundName": "Dia_SungJinWooE_Sprint_1_1",
     "FadeOut": 200,
@@ -81,7 +117,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 10,
+    "ID": 14,
     "GroupID": 2002,
     "VoiceSoundName": "Dia_SungJinWooE_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -90,7 +126,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 11,
+    "ID": 15,
     "GroupID": 2003,
     "VoiceSoundName": "Dia_SungJinWooE_Low_HP_1_1",
     "FadeOut": 200,
@@ -99,7 +135,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 12,
+    "ID": 16,
     "GroupID": 2004,
     "VoiceSoundName": "Dia_SungJinWooE_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -108,7 +144,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 13,
+    "ID": 17,
     "GroupID": 2005,
     "VoiceSoundName": "Dia_SungJinWooE_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -117,7 +153,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 14,
+    "ID": 18,
     "GroupID": 2006,
     "VoiceSoundName": "Dia_SungJinWooE_Move_1_1",
     "FadeOut": 200,
@@ -126,7 +162,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 15,
+    "ID": 19,
     "GroupID": 2006,
     "VoiceSoundName": "Dia_SungJinWooE_Move_1_2",
     "FadeOut": 200,
@@ -135,7 +171,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 16,
+    "ID": 20,
     "GroupID": 2007,
     "VoiceSoundName": "Dia_SungJinWooE_Risk_1_1",
     "FadeOut": 200,
@@ -144,7 +180,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 17,
+    "ID": 21,
     "GroupID": 11001,
     "VoiceSoundName": "Dia_ChaHaeIn_Sprint_1_1",
     "FadeOut": 200,
@@ -153,7 +189,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 18,
+    "ID": 22,
     "GroupID": 11002,
     "VoiceSoundName": "Dia_ChaHaeIn_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -162,7 +198,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 19,
+    "ID": 23,
     "GroupID": 11003,
     "VoiceSoundName": "Dia_ChaHaeIn_Low_HP_1_1",
     "FadeOut": 200,
@@ -171,7 +207,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 20,
+    "ID": 24,
     "GroupID": 11004,
     "VoiceSoundName": "Dia_ChaHaeIn_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -180,7 +216,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 21,
+    "ID": 25,
     "GroupID": 11005,
     "VoiceSoundName": "Dia_ChaHaeIn_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -189,7 +225,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 22,
+    "ID": 26,
     "GroupID": 11006,
     "VoiceSoundName": "Dia_ChaHaeIn_Move_1_1",
     "FadeOut": 200,
@@ -198,7 +234,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 23,
+    "ID": 27,
     "GroupID": 11006,
     "VoiceSoundName": "Dia_ChaHaeIn_Move_1_2",
     "FadeOut": 200,
@@ -207,7 +243,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 24,
+    "ID": 28,
     "GroupID": 11007,
     "VoiceSoundName": "Dia_ChaHaeIn_Risk_1_1",
     "FadeOut": 200,
@@ -216,7 +252,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 25,
+    "ID": 29,
     "GroupID": 11008,
     "VoiceSoundName": "Dia_ChaHaeIn_Tagin_1_1",
     "FadeOut": 200,
@@ -225,7 +261,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 26,
+    "ID": 30,
     "GroupID": 21001,
     "VoiceSoundName": "Dia_KimChul_Sprint_1_1",
     "FadeOut": 200,
@@ -234,7 +270,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 27,
+    "ID": 31,
     "GroupID": 21002,
     "VoiceSoundName": "Dia_KimChul_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -243,7 +279,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 28,
+    "ID": 32,
     "GroupID": 21003,
     "VoiceSoundName": "Dia_KimChul_Low_HP_1_1",
     "FadeOut": 200,
@@ -252,7 +288,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 29,
+    "ID": 33,
     "GroupID": 21004,
     "VoiceSoundName": "Dia_KimChul_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -261,7 +297,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 30,
+    "ID": 34,
     "GroupID": 21005,
     "VoiceSoundName": "Dia_KimChul_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -270,7 +306,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 31,
+    "ID": 35,
     "GroupID": 21006,
     "VoiceSoundName": "Dia_KimChul_Move_1_1",
     "FadeOut": 200,
@@ -279,7 +315,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 32,
+    "ID": 36,
     "GroupID": 21006,
     "VoiceSoundName": "Dia_KimChul_Move_1_2",
     "FadeOut": 200,
@@ -288,7 +324,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 33,
+    "ID": 37,
     "GroupID": 21007,
     "VoiceSoundName": "Dia_KimChul_Risk_1_1",
     "FadeOut": 200,
@@ -297,7 +333,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 34,
+    "ID": 38,
     "GroupID": 21008,
     "VoiceSoundName": "Dia_KimChul_Tagin_1_1",
     "FadeOut": 200,
@@ -306,7 +342,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 35,
+    "ID": 39,
     "GroupID": 31001,
     "VoiceSoundName": "Dia_ParkHeeJin_Sprint_1_1",
     "FadeOut": 200,
@@ -315,7 +351,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 36,
+    "ID": 40,
     "GroupID": 31002,
     "VoiceSoundName": "Dia_ParkHeeJin_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -324,7 +360,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 37,
+    "ID": 41,
     "GroupID": 31003,
     "VoiceSoundName": "Dia_ParkHeeJin_Low_HP_1_1",
     "FadeOut": 200,
@@ -333,7 +369,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 38,
+    "ID": 42,
     "GroupID": 31004,
     "VoiceSoundName": "Dia_ParkHeeJin_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -342,7 +378,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 39,
+    "ID": 43,
     "GroupID": 31005,
     "VoiceSoundName": "Dia_ParkHeeJin_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -351,7 +387,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 40,
+    "ID": 44,
     "GroupID": 31006,
     "VoiceSoundName": "Dia_ParkHeeJin_Move_1_1",
     "FadeOut": 200,
@@ -360,7 +396,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 41,
+    "ID": 45,
     "GroupID": 31006,
     "VoiceSoundName": "Dia_ParkHeeJin_Move_1_2",
     "FadeOut": 200,
@@ -369,7 +405,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 42,
+    "ID": 46,
     "GroupID": 31007,
     "VoiceSoundName": "Dia_ParkHeeJin_Risk_1_1",
     "FadeOut": 200,
@@ -378,7 +414,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 43,
+    "ID": 47,
     "GroupID": 31008,
     "VoiceSoundName": "Dia_ParkHeeJin_Tagin_1_1",
     "FadeOut": 200,
@@ -387,7 +423,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 44,
+    "ID": 48,
     "GroupID": 41001,
     "VoiceSoundName": "Dia_KangTaeShik_Sprint_1_1",
     "FadeOut": 200,
@@ -396,7 +432,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 45,
+    "ID": 49,
     "GroupID": 41002,
     "VoiceSoundName": "Dia_KangTaeShik_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -405,7 +441,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 46,
+    "ID": 50,
     "GroupID": 41003,
     "VoiceSoundName": "Dia_KangTaeShik_Low_HP_1_1",
     "FadeOut": 200,
@@ -414,7 +450,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 47,
+    "ID": 51,
     "GroupID": 41004,
     "VoiceSoundName": "Dia_KangTaeShik_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -423,7 +459,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 48,
+    "ID": 52,
     "GroupID": 41005,
     "VoiceSoundName": "Dia_KangTaeShik_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -432,7 +468,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 49,
+    "ID": 53,
     "GroupID": 41006,
     "VoiceSoundName": "Dia_KangTaeShik_Move_1_1",
     "FadeOut": 200,
@@ -441,7 +477,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 50,
+    "ID": 54,
     "GroupID": 41006,
     "VoiceSoundName": "Dia_KangTaeShik_Move_1_2",
     "FadeOut": 200,
@@ -450,7 +486,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 51,
+    "ID": 55,
     "GroupID": 41007,
     "VoiceSoundName": "Dia_KangTaeShik_Risk_1_1",
     "FadeOut": 200,
@@ -459,7 +495,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 52,
+    "ID": 56,
     "GroupID": 41008,
     "VoiceSoundName": "Dia_KangTaeShik_Tagin_1_1",
     "FadeOut": 200,
@@ -468,7 +504,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 53,
+    "ID": 57,
     "GroupID": 51001,
     "VoiceSoundName": "Dia_YooJinHo_Sprint_1_1",
     "FadeOut": 200,
@@ -477,7 +513,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 54,
+    "ID": 58,
     "GroupID": 51002,
     "VoiceSoundName": "Dia_YooJinHo_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -486,7 +522,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 55,
+    "ID": 59,
     "GroupID": 51003,
     "VoiceSoundName": "Dia_YooJinHo_Low_HP_1_1",
     "FadeOut": 200,
@@ -495,7 +531,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 56,
+    "ID": 60,
     "GroupID": 51004,
     "VoiceSoundName": "Dia_YooJinHo_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -504,7 +540,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 57,
+    "ID": 61,
     "GroupID": 51005,
     "VoiceSoundName": "Dia_YooJinHo_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -513,7 +549,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 58,
+    "ID": 62,
     "GroupID": 51006,
     "VoiceSoundName": "Dia_YooJinHo_Move_1_1",
     "FadeOut": 200,
@@ -522,7 +558,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 59,
+    "ID": 63,
     "GroupID": 51006,
     "VoiceSoundName": "Dia_YooJinHo_Move_1_2",
     "FadeOut": 200,
@@ -531,7 +567,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 60,
+    "ID": 64,
     "GroupID": 51007,
     "VoiceSoundName": "Dia_YooJinHo_Risk_1_1",
     "FadeOut": 200,
@@ -540,7 +576,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 61,
+    "ID": 65,
     "GroupID": 51008,
     "VoiceSoundName": "Dia_YooJinHo_Tagin_1_1",
     "FadeOut": 200,
@@ -549,7 +585,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 62,
+    "ID": 66,
     "GroupID": 61001,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Sprint_1_1",
     "FadeOut": 200,
@@ -558,7 +594,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 63,
+    "ID": 67,
     "GroupID": 61002,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -567,7 +603,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 64,
+    "ID": 68,
     "GroupID": 61003,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Low_HP_1_1",
     "FadeOut": 200,
@@ -576,7 +612,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 65,
+    "ID": 69,
     "GroupID": 61004,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -585,7 +621,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 66,
+    "ID": 70,
     "GroupID": 61005,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -594,7 +630,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 67,
+    "ID": 71,
     "GroupID": 61006,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Move_1_1",
     "FadeOut": 200,
@@ -603,7 +639,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 68,
+    "ID": 72,
     "GroupID": 61006,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Move_1_2",
     "FadeOut": 200,
@@ -612,7 +648,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 69,
+    "ID": 73,
     "GroupID": 61007,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Risk_1_1",
     "FadeOut": 200,
@@ -621,7 +657,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 70,
+    "ID": 74,
     "GroupID": 61008,
     "VoiceSoundName": "Dia_BaekYoonHo_BeastForm_Tagin_1_1",
     "FadeOut": 200,
@@ -630,7 +666,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 71,
+    "ID": 75,
     "GroupID": 71001,
     "VoiceSoundName": "Dia_LimTaeGyu_Sprint_1_1",
     "FadeOut": 200,
@@ -639,7 +675,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 72,
+    "ID": 76,
     "GroupID": 71002,
     "VoiceSoundName": "Dia_LimTaeGyu_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -648,7 +684,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 73,
+    "ID": 77,
     "GroupID": 71003,
     "VoiceSoundName": "Dia_LimTaeGyu_Low_HP_1_1",
     "FadeOut": 200,
@@ -657,7 +693,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 74,
+    "ID": 78,
     "GroupID": 71004,
     "VoiceSoundName": "Dia_LimTaeGyu_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -666,7 +702,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 75,
+    "ID": 79,
     "GroupID": 71005,
     "VoiceSoundName": "Dia_LimTaeGyu_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -675,7 +711,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 76,
+    "ID": 80,
     "GroupID": 71006,
     "VoiceSoundName": "Dia_LimTaeGyu_Move_1_1",
     "FadeOut": 200,
@@ -684,7 +720,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 77,
+    "ID": 81,
     "GroupID": 71006,
     "VoiceSoundName": "Dia_LimTaeGyu_Move_1_2",
     "FadeOut": 200,
@@ -693,7 +729,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 78,
+    "ID": 82,
     "GroupID": 71007,
     "VoiceSoundName": "Dia_LimTaeGyu_Risk_1_1",
     "FadeOut": 200,
@@ -702,7 +738,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 79,
+    "ID": 83,
     "GroupID": 71008,
     "VoiceSoundName": "Dia_LimTaeGyu_Tagin_1_1",
     "FadeOut": 200,
@@ -711,7 +747,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 80,
+    "ID": 84,
     "GroupID": 81001,
     "VoiceSoundName": "Dia_LeeJuHee_Sprint_1_1",
     "FadeOut": 200,
@@ -720,7 +756,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 81,
+    "ID": 85,
     "GroupID": 81002,
     "VoiceSoundName": "Dia_LeeJuHee_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -729,7 +765,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 82,
+    "ID": 86,
     "GroupID": 81003,
     "VoiceSoundName": "Dia_LeeJuHee_Low_HP_1_1",
     "FadeOut": 200,
@@ -738,7 +774,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 83,
+    "ID": 87,
     "GroupID": 81004,
     "VoiceSoundName": "Dia_LeeJuHee_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -747,7 +783,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 84,
+    "ID": 88,
     "GroupID": 81005,
     "VoiceSoundName": "Dia_LeeJuHee_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -756,7 +792,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 85,
+    "ID": 89,
     "GroupID": 81006,
     "VoiceSoundName": "Dia_LeeJuHee_Move_1_1",
     "FadeOut": 200,
@@ -765,7 +801,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 86,
+    "ID": 90,
     "GroupID": 81006,
     "VoiceSoundName": "Dia_LeeJuHee_Move_1_2",
     "FadeOut": 200,
@@ -774,7 +810,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 87,
+    "ID": 91,
     "GroupID": 81007,
     "VoiceSoundName": "Dia_LeeJuHee_Risk_1_1",
     "FadeOut": 200,
@@ -783,7 +819,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 88,
+    "ID": 92,
     "GroupID": 81008,
     "VoiceSoundName": "Dia_LeeJuHee_Tagin_1_1",
     "FadeOut": 200,
@@ -792,7 +828,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 89,
+    "ID": 93,
     "GroupID": 91001,
     "VoiceSoundName": "Dia_SongChiYul_Sprint_1_1",
     "FadeOut": 200,
@@ -801,7 +837,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 90,
+    "ID": 94,
     "GroupID": 91002,
     "VoiceSoundName": "Dia_SongChiYul_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -810,7 +846,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 91,
+    "ID": 95,
     "GroupID": 91003,
     "VoiceSoundName": "Dia_SongChiYul_Low_HP_1_1",
     "FadeOut": 200,
@@ -819,7 +855,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 92,
+    "ID": 96,
     "GroupID": 91004,
     "VoiceSoundName": "Dia_SongChiYul_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -828,7 +864,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 93,
+    "ID": 97,
     "GroupID": 91005,
     "VoiceSoundName": "Dia_SongChiYul_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -837,7 +873,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 94,
+    "ID": 98,
     "GroupID": 91006,
     "VoiceSoundName": "Dia_SongChiYul_Move_1_1",
     "FadeOut": 200,
@@ -846,7 +882,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 95,
+    "ID": 99,
     "GroupID": 91006,
     "VoiceSoundName": "Dia_SongChiYul_Move_1_2",
     "FadeOut": 200,
@@ -855,7 +891,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 96,
+    "ID": 100,
     "GroupID": 91007,
     "VoiceSoundName": "Dia_SongChiYul_Risk_1_1",
     "FadeOut": 200,
@@ -864,7 +900,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 97,
+    "ID": 101,
     "GroupID": 91008,
     "VoiceSoundName": "Dia_SongChiYul_Tagin_1_1",
     "FadeOut": 200,
@@ -873,7 +909,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 98,
+    "ID": 102,
     "GroupID": 101001,
     "VoiceSoundName": "Dia_ChoGyuHwan_Sprint_1_1",
     "FadeOut": 200,
@@ -882,7 +918,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 99,
+    "ID": 103,
     "GroupID": 101002,
     "VoiceSoundName": "Dia_ChoGyuHwan_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -891,7 +927,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 100,
+    "ID": 104,
     "GroupID": 101003,
     "VoiceSoundName": "Dia_ChoGyuHwan_Low_HP_1_1",
     "FadeOut": 200,
@@ -900,7 +936,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 101,
+    "ID": 105,
     "GroupID": 101004,
     "VoiceSoundName": "Dia_ChoGyuHwan_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -909,7 +945,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 102,
+    "ID": 106,
     "GroupID": 101005,
     "VoiceSoundName": "Dia_ChoGyuHwan_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -918,7 +954,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 103,
+    "ID": 107,
     "GroupID": 101006,
     "VoiceSoundName": "Dia_ChoGyuHwan_Move_1_1",
     "FadeOut": 200,
@@ -927,7 +963,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 104,
+    "ID": 108,
     "GroupID": 101006,
     "VoiceSoundName": "Dia_ChoGyuHwan_Move_1_2",
     "FadeOut": 200,
@@ -936,7 +972,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 105,
+    "ID": 109,
     "GroupID": 101007,
     "VoiceSoundName": "Dia_ChoGyuHwan_Risk_1_1",
     "FadeOut": 200,
@@ -945,7 +981,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 106,
+    "ID": 110,
     "GroupID": 101008,
     "VoiceSoundName": "Dia_ChoGyuHwan_Tagin_1_1",
     "FadeOut": 200,
@@ -954,7 +990,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 107,
+    "ID": 111,
     "GroupID": 111001,
     "VoiceSoundName": "Dia_HwangDongSuk_Sprint_1_1",
     "FadeOut": 200,
@@ -963,7 +999,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 108,
+    "ID": 112,
     "GroupID": 111002,
     "VoiceSoundName": "Dia_HwangDongSuk_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -972,7 +1008,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 109,
+    "ID": 113,
     "GroupID": 111003,
     "VoiceSoundName": "Dia_HwangDongSuk_Low_HP_1_1",
     "FadeOut": 200,
@@ -981,7 +1017,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 110,
+    "ID": 114,
     "GroupID": 111004,
     "VoiceSoundName": "Dia_HwangDongSuk_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -990,7 +1026,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 111,
+    "ID": 115,
     "GroupID": 111005,
     "VoiceSoundName": "Dia_HwangDongSuk_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -999,7 +1035,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 112,
+    "ID": 116,
     "GroupID": 111006,
     "VoiceSoundName": "Dia_HwangDongSuk_Move_1_1",
     "FadeOut": 200,
@@ -1008,7 +1044,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 113,
+    "ID": 117,
     "GroupID": 111006,
     "VoiceSoundName": "Dia_HwangDongSuk_Move_1_2",
     "FadeOut": 200,
@@ -1017,7 +1053,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 114,
+    "ID": 118,
     "GroupID": 111007,
     "VoiceSoundName": "Dia_HwangDongSuk_Risk_1_1",
     "FadeOut": 200,
@@ -1026,7 +1062,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 115,
+    "ID": 119,
     "GroupID": 111008,
     "VoiceSoundName": "Dia_HwangDongSuk_Tagin_1_1",
     "FadeOut": 200,
@@ -1035,7 +1071,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 116,
+    "ID": 120,
     "GroupID": 121001,
     "VoiceSoundName": "Dia_HanSongI_Sprint_1_1",
     "FadeOut": 200,
@@ -1044,7 +1080,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 117,
+    "ID": 121,
     "GroupID": 121002,
     "VoiceSoundName": "Dia_HanSongI_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1053,7 +1089,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 118,
+    "ID": 122,
     "GroupID": 121003,
     "VoiceSoundName": "Dia_HanSongI_Low_HP_1_1",
     "FadeOut": 200,
@@ -1062,7 +1098,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 119,
+    "ID": 123,
     "GroupID": 121004,
     "VoiceSoundName": "Dia_HanSongI_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1071,7 +1107,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 120,
+    "ID": 124,
     "GroupID": 121005,
     "VoiceSoundName": "Dia_HanSongI_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1080,7 +1116,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 121,
+    "ID": 125,
     "GroupID": 121006,
     "VoiceSoundName": "Dia_HanSongI_Move_1_1",
     "FadeOut": 200,
@@ -1089,7 +1125,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 122,
+    "ID": 126,
     "GroupID": 121006,
     "VoiceSoundName": "Dia_HanSongI_Move_1_2",
     "FadeOut": 200,
@@ -1098,7 +1134,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 123,
+    "ID": 127,
     "GroupID": 121007,
     "VoiceSoundName": "Dia_HanSongI_Risk_1_1",
     "FadeOut": 200,
@@ -1107,7 +1143,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 124,
+    "ID": 128,
     "GroupID": 121008,
     "VoiceSoundName": "Dia_HanSongI_Tagin_1_1",
     "FadeOut": 200,
@@ -1116,7 +1152,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 125,
+    "ID": 129,
     "GroupID": 131001,
     "VoiceSoundName": "Dia_ChoiJongIn_Sprint_1_1",
     "FadeOut": 200,
@@ -1125,7 +1161,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 126,
+    "ID": 130,
     "GroupID": 131002,
     "VoiceSoundName": "Dia_ChoiJongIn_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1134,7 +1170,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 127,
+    "ID": 131,
     "GroupID": 131003,
     "VoiceSoundName": "Dia_ChoiJongIn_Low_HP_1_1",
     "FadeOut": 200,
@@ -1143,7 +1179,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 128,
+    "ID": 132,
     "GroupID": 131004,
     "VoiceSoundName": "Dia_ChoiJongIn_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1152,7 +1188,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 129,
+    "ID": 133,
     "GroupID": 131005,
     "VoiceSoundName": "Dia_ChoiJongIn_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1161,7 +1197,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 130,
+    "ID": 134,
     "GroupID": 131006,
     "VoiceSoundName": "Dia_ChoiJongIn_Move_1_1",
     "FadeOut": 200,
@@ -1170,7 +1206,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 131,
+    "ID": 135,
     "GroupID": 131006,
     "VoiceSoundName": "Dia_ChoiJongIn_Move_1_2",
     "FadeOut": 200,
@@ -1179,7 +1215,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 132,
+    "ID": 136,
     "GroupID": 131007,
     "VoiceSoundName": "Dia_ChoiJongIn_Risk_1_1",
     "FadeOut": 200,
@@ -1188,7 +1224,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 133,
+    "ID": 137,
     "GroupID": 131008,
     "VoiceSoundName": "Dia_ChoiJongIn_Tagin_1_1",
     "FadeOut": 200,
@@ -1197,7 +1233,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 134,
+    "ID": 138,
     "GroupID": 141001,
     "VoiceSoundName": "Dia_KimSangSik_Sprint_1_1",
     "FadeOut": 200,
@@ -1206,7 +1242,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 135,
+    "ID": 139,
     "GroupID": 141002,
     "VoiceSoundName": "Dia_KimSangSik_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1215,7 +1251,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 136,
+    "ID": 140,
     "GroupID": 141003,
     "VoiceSoundName": "Dia_KimSangSik_Low_HP_1_1",
     "FadeOut": 200,
@@ -1224,7 +1260,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 137,
+    "ID": 141,
     "GroupID": 141004,
     "VoiceSoundName": "Dia_KimSangSik_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1233,7 +1269,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 138,
+    "ID": 142,
     "GroupID": 141005,
     "VoiceSoundName": "Dia_KimSangSik_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1242,7 +1278,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 139,
+    "ID": 143,
     "GroupID": 141006,
     "VoiceSoundName": "Dia_KimSangSik_Move_1_1",
     "FadeOut": 200,
@@ -1251,7 +1287,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 140,
+    "ID": 144,
     "GroupID": 141006,
     "VoiceSoundName": "Dia_KimSangSik_Move_1_2",
     "FadeOut": 200,
@@ -1260,7 +1296,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 141,
+    "ID": 145,
     "GroupID": 141007,
     "VoiceSoundName": "Dia_KimSangSik_Risk_1_1",
     "FadeOut": 200,
@@ -1269,7 +1305,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 142,
+    "ID": 146,
     "GroupID": 141008,
     "VoiceSoundName": "Dia_KimSangSik_Tagin_1_1",
     "FadeOut": 200,
@@ -1278,7 +1314,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 143,
+    "ID": 147,
     "GroupID": 151001,
     "VoiceSoundName": "Dia_WooJinChul_Sprint_1_1",
     "FadeOut": 200,
@@ -1287,7 +1323,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 144,
+    "ID": 148,
     "GroupID": 151002,
     "VoiceSoundName": "Dia_WooJinChul_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1296,7 +1332,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 145,
+    "ID": 149,
     "GroupID": 151003,
     "VoiceSoundName": "Dia_WooJinChul_Low_HP_1_1",
     "FadeOut": 200,
@@ -1305,7 +1341,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 146,
+    "ID": 150,
     "GroupID": 151004,
     "VoiceSoundName": "Dia_WooJinChul_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1314,7 +1350,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 147,
+    "ID": 151,
     "GroupID": 151005,
     "VoiceSoundName": "Dia_WooJinChul_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1323,7 +1359,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 148,
+    "ID": 152,
     "GroupID": 151006,
     "VoiceSoundName": "Dia_WooJinChul_Move_1_1",
     "FadeOut": 200,
@@ -1332,7 +1368,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 149,
+    "ID": 153,
     "GroupID": 151006,
     "VoiceSoundName": "Dia_WooJinChul_Move_1_2",
     "FadeOut": 200,
@@ -1341,7 +1377,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 150,
+    "ID": 154,
     "GroupID": 151007,
     "VoiceSoundName": "Dia_WooJinChul_Risk_1_1",
     "FadeOut": 200,
@@ -1350,7 +1386,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 151,
+    "ID": 155,
     "GroupID": 151008,
     "VoiceSoundName": "Dia_WooJinChul_Tagin_1_1",
     "FadeOut": 200,
@@ -1359,7 +1395,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 152,
+    "ID": 156,
     "GroupID": 161001,
     "VoiceSoundName": "Dia_MinByungGu_Sprint_1_1",
     "FadeOut": 200,
@@ -1368,7 +1404,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 153,
+    "ID": 157,
     "GroupID": 161002,
     "VoiceSoundName": "Dia_MinByungGu_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1377,7 +1413,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 154,
+    "ID": 158,
     "GroupID": 161003,
     "VoiceSoundName": "Dia_MinByungGu_Low_HP_1_1",
     "FadeOut": 200,
@@ -1386,7 +1422,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 155,
+    "ID": 159,
     "GroupID": 161004,
     "VoiceSoundName": "Dia_MinByungGu_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1395,7 +1431,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 156,
+    "ID": 160,
     "GroupID": 161005,
     "VoiceSoundName": "Dia_MinByungGu_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1404,7 +1440,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 157,
+    "ID": 161,
     "GroupID": 161006,
     "VoiceSoundName": "Dia_MinByungGu_Move_1_1",
     "FadeOut": 200,
@@ -1413,7 +1449,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 158,
+    "ID": 162,
     "GroupID": 161006,
     "VoiceSoundName": "Dia_MinByungGu_Move_1_2",
     "FadeOut": 200,
@@ -1422,7 +1458,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 159,
+    "ID": 163,
     "GroupID": 161007,
     "VoiceSoundName": "Dia_MinByungGu_Risk_1_1",
     "FadeOut": 200,
@@ -1431,7 +1467,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 160,
+    "ID": 164,
     "GroupID": 161008,
     "VoiceSoundName": "Dia_MinByungGu_Tagin_1_1",
     "FadeOut": 200,
@@ -1440,7 +1476,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 161,
+    "ID": 165,
     "GroupID": 171001,
     "VoiceSoundName": "Dia_HwangDongSu_Sprint_1_1",
     "FadeOut": 200,
@@ -1449,7 +1485,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 162,
+    "ID": 166,
     "GroupID": 171002,
     "VoiceSoundName": "Dia_HwangDongSu_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1458,7 +1494,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 163,
+    "ID": 167,
     "GroupID": 171003,
     "VoiceSoundName": "Dia_HwangDongSu_Low_HP_1_1",
     "FadeOut": 200,
@@ -1467,7 +1503,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 164,
+    "ID": 168,
     "GroupID": 171004,
     "VoiceSoundName": "Dia_HwangDongSu_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1476,7 +1512,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 165,
+    "ID": 169,
     "GroupID": 171005,
     "VoiceSoundName": "Dia_HwangDongSu_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1485,7 +1521,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 166,
+    "ID": 170,
     "GroupID": 171006,
     "VoiceSoundName": "Dia_HwangDongSu_Move_1_1",
     "FadeOut": 200,
@@ -1494,7 +1530,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 167,
+    "ID": 171,
     "GroupID": 171006,
     "VoiceSoundName": "Dia_HwangDongSu_Move_1_2",
     "FadeOut": 200,
@@ -1503,7 +1539,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 168,
+    "ID": 172,
     "GroupID": 171007,
     "VoiceSoundName": "Dia_HwangDongSu_Risk_1_1",
     "FadeOut": 200,
@@ -1512,7 +1548,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 169,
+    "ID": 173,
     "GroupID": 171008,
     "VoiceSoundName": "Dia_HwangDongSu_Tagin_1_1",
     "FadeOut": 200,
@@ -1521,7 +1557,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 170,
+    "ID": 174,
     "GroupID": 181001,
     "VoiceSoundName": "Dia_LeeBoRa_Sprint_1_1",
     "FadeOut": 200,
@@ -1530,7 +1566,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 171,
+    "ID": 175,
     "GroupID": 181002,
     "VoiceSoundName": "Dia_LeeBoRa_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1539,7 +1575,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 172,
+    "ID": 176,
     "GroupID": 181003,
     "VoiceSoundName": "Dia_LeeBoRa_Low_HP_1_1",
     "FadeOut": 200,
@@ -1548,7 +1584,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 173,
+    "ID": 177,
     "GroupID": 181004,
     "VoiceSoundName": "Dia_LeeBoRa_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1557,7 +1593,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 174,
+    "ID": 178,
     "GroupID": 181005,
     "VoiceSoundName": "Dia_LeeBoRa_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1566,7 +1602,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 175,
+    "ID": 179,
     "GroupID": 181006,
     "VoiceSoundName": "Dia_LeeBoRa_Move_1_1",
     "FadeOut": 200,
@@ -1575,7 +1611,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 176,
+    "ID": 180,
     "GroupID": 181006,
     "VoiceSoundName": "Dia_LeeBoRa_Move_1_2",
     "FadeOut": 200,
@@ -1584,7 +1620,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 177,
+    "ID": 181,
     "GroupID": 181007,
     "VoiceSoundName": "Dia_LeeBoRa_Risk_1_1",
     "FadeOut": 200,
@@ -1593,7 +1629,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 178,
+    "ID": 182,
     "GroupID": 181008,
     "VoiceSoundName": "Dia_LeeBoRa_Tagin_1_1",
     "FadeOut": 200,
@@ -1602,7 +1638,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 179,
+    "ID": 183,
     "GroupID": 191001,
     "VoiceSoundName": "Dia_AliciaBlanchet_Sprint_1_1",
     "FadeOut": 200,
@@ -1611,7 +1647,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 180,
+    "ID": 184,
     "GroupID": 191002,
     "VoiceSoundName": "Dia_AliciaBlanchet_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1620,7 +1656,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 181,
+    "ID": 185,
     "GroupID": 191003,
     "VoiceSoundName": "Dia_AliciaBlanchet_Low_HP_1_1",
     "FadeOut": 200,
@@ -1629,7 +1665,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 182,
+    "ID": 186,
     "GroupID": 191004,
     "VoiceSoundName": "Dia_AliciaBlanchet_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1638,7 +1674,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 183,
+    "ID": 187,
     "GroupID": 191005,
     "VoiceSoundName": "Dia_AliciaBlanchet_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1647,7 +1683,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 184,
+    "ID": 188,
     "GroupID": 191006,
     "VoiceSoundName": "Dia_AliciaBlanchet_Move_1_1",
     "FadeOut": 200,
@@ -1656,7 +1692,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 185,
+    "ID": 189,
     "GroupID": 191006,
     "VoiceSoundName": "Dia_AliciaBlanchet_Move_1_2",
     "FadeOut": 200,
@@ -1665,7 +1701,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 186,
+    "ID": 190,
     "GroupID": 191007,
     "VoiceSoundName": "Dia_AliciaBlanchet_Risk_1_1",
     "FadeOut": 200,
@@ -1674,7 +1710,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 187,
+    "ID": 191,
     "GroupID": 191008,
     "VoiceSoundName": "Dia_AliciaBlanchet_Tagin_1_1",
     "FadeOut": 200,
@@ -1683,7 +1719,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 188,
+    "ID": 192,
     "GroupID": 201001,
     "VoiceSoundName": "Dia_EmmaLaurent_Sprint_1_1",
     "FadeOut": 200,
@@ -1692,7 +1728,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 189,
+    "ID": 193,
     "GroupID": 201002,
     "VoiceSoundName": "Dia_EmmaLaurent_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1701,7 +1737,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 190,
+    "ID": 194,
     "GroupID": 201003,
     "VoiceSoundName": "Dia_EmmaLaurent_Low_HP_1_1",
     "FadeOut": 200,
@@ -1710,7 +1746,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 191,
+    "ID": 195,
     "GroupID": 201004,
     "VoiceSoundName": "Dia_EmmaLaurent_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1719,7 +1755,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 192,
+    "ID": 196,
     "GroupID": 201005,
     "VoiceSoundName": "Dia_EmmaLaurent_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1728,7 +1764,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 193,
+    "ID": 197,
     "GroupID": 201006,
     "VoiceSoundName": "Dia_EmmaLaurent_Move_1_1",
     "FadeOut": 200,
@@ -1737,7 +1773,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 194,
+    "ID": 198,
     "GroupID": 201006,
     "VoiceSoundName": "Dia_EmmaLaurent_Move_1_2",
     "FadeOut": 200,
@@ -1746,7 +1782,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 195,
+    "ID": 199,
     "GroupID": 201007,
     "VoiceSoundName": "Dia_EmmaLaurent_Risk_1_1",
     "FadeOut": 200,
@@ -1755,7 +1791,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 196,
+    "ID": 200,
     "GroupID": 201008,
     "VoiceSoundName": "Dia_EmmaLaurent_Tagin_1_1",
     "FadeOut": 200,
@@ -1764,7 +1800,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 197,
+    "ID": 201,
     "GroupID": 62001,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Sprint_1_1",
     "FadeOut": 200,
@@ -1773,7 +1809,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 198,
+    "ID": 202,
     "GroupID": 62002,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1782,7 +1818,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 199,
+    "ID": 203,
     "GroupID": 62003,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Low_HP_1_1",
     "FadeOut": 200,
@@ -1791,7 +1827,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 200,
+    "ID": 204,
     "GroupID": 62004,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1800,7 +1836,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 201,
+    "ID": 205,
     "GroupID": 62005,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1809,7 +1845,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 202,
+    "ID": 206,
     "GroupID": 62006,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Move_1_1",
     "FadeOut": 200,
@@ -1818,7 +1854,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 203,
+    "ID": 207,
     "GroupID": 62006,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Move_1_2",
     "FadeOut": 200,
@@ -1827,7 +1863,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 204,
+    "ID": 208,
     "GroupID": 62007,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Risk_1_1",
     "FadeOut": 200,
@@ -1836,7 +1872,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 205,
+    "ID": 209,
     "GroupID": 62008,
     "VoiceSoundName": "Dia_BaekYoonHo_HumanForm_Tagin_1_1",
     "FadeOut": 200,
@@ -1845,7 +1881,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 206,
+    "ID": 210,
     "GroupID": 231001,
     "VoiceSoundName": "Dia_NamChaeYeong_Sprint_1_1",
     "FadeOut": 200,
@@ -1854,7 +1890,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 207,
+    "ID": 211,
     "GroupID": 231002,
     "VoiceSoundName": "Dia_NamChaeYeong_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1863,7 +1899,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 208,
+    "ID": 212,
     "GroupID": 231003,
     "VoiceSoundName": "Dia_NamChaeYeong_Low_HP_1_1",
     "FadeOut": 200,
@@ -1872,7 +1908,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 209,
+    "ID": 213,
     "GroupID": 231004,
     "VoiceSoundName": "Dia_NamChaeYeong_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1881,7 +1917,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 210,
+    "ID": 214,
     "GroupID": 231005,
     "VoiceSoundName": "Dia_NamChaeYeong_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1890,7 +1926,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 211,
+    "ID": 215,
     "GroupID": 231006,
     "VoiceSoundName": "Dia_NamChaeYeong_Move_1_1",
     "FadeOut": 200,
@@ -1899,7 +1935,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 212,
+    "ID": 216,
     "GroupID": 231006,
     "VoiceSoundName": "Dia_NamChaeYeong_Move_1_2",
     "FadeOut": 200,
@@ -1908,7 +1944,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 213,
+    "ID": 217,
     "GroupID": 231007,
     "VoiceSoundName": "Dia_NamChaeYeong_Risk_1_1",
     "FadeOut": 200,
@@ -1917,7 +1953,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 214,
+    "ID": 218,
     "GroupID": 231008,
     "VoiceSoundName": "Dia_NamChaeYeong_Tagin_1_1",
     "FadeOut": 200,
@@ -1926,7 +1962,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 215,
+    "ID": 219,
     "GroupID": 211001,
     "VoiceSoundName": "Dia_AnnaRuiz_Sprint_1_1",
     "FadeOut": 200,
@@ -1935,7 +1971,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 216,
+    "ID": 220,
     "GroupID": 211002,
     "VoiceSoundName": "Dia_AnnaRuiz_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -1944,7 +1980,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 217,
+    "ID": 221,
     "GroupID": 211003,
     "VoiceSoundName": "Dia_AnnaRuiz_Low_HP_1_1",
     "FadeOut": 200,
@@ -1953,7 +1989,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 218,
+    "ID": 222,
     "GroupID": 211004,
     "VoiceSoundName": "Dia_AnnaRuiz_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -1962,7 +1998,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 219,
+    "ID": 223,
     "GroupID": 211005,
     "VoiceSoundName": "Dia_AnnaRuiz_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -1971,7 +2007,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 220,
+    "ID": 224,
     "GroupID": 211006,
     "VoiceSoundName": "Dia_AnnaRuiz_Move_1_1",
     "FadeOut": 200,
@@ -1980,7 +2016,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 221,
+    "ID": 225,
     "GroupID": 211006,
     "VoiceSoundName": "Dia_AnnaRuiz_Move_1_2",
     "FadeOut": 200,
@@ -1989,7 +2025,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 222,
+    "ID": 226,
     "GroupID": 211007,
     "VoiceSoundName": "Dia_AnnaRuiz_Risk_1_1",
     "FadeOut": 200,
@@ -1998,7 +2034,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 223,
+    "ID": 227,
     "GroupID": 211008,
     "VoiceSoundName": "Dia_AnnaRuiz_Tagin_1_1",
     "FadeOut": 200,
@@ -2007,7 +2043,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 224,
+    "ID": 228,
     "GroupID": 221001,
     "VoiceSoundName": "Dia_ParkBumShik_Sprint_1_1",
     "FadeOut": 200,
@@ -2016,7 +2052,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 225,
+    "ID": 229,
     "GroupID": 221002,
     "VoiceSoundName": "Dia_ParkBumShik_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -2025,7 +2061,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 226,
+    "ID": 230,
     "GroupID": 221003,
     "VoiceSoundName": "Dia_ParkBumShik_Low_HP_1_1",
     "FadeOut": 200,
@@ -2034,7 +2070,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 227,
+    "ID": 231,
     "GroupID": 221004,
     "VoiceSoundName": "Dia_ParkBumShik_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -2043,7 +2079,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 228,
+    "ID": 232,
     "GroupID": 221005,
     "VoiceSoundName": "Dia_ParkBumShik_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -2052,7 +2088,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 229,
+    "ID": 233,
     "GroupID": 221006,
     "VoiceSoundName": "Dia_ParkBumShik_Move_1_1",
     "FadeOut": 200,
@@ -2061,7 +2097,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 230,
+    "ID": 234,
     "GroupID": 221006,
     "VoiceSoundName": "Dia_ParkBumShik_Move_1_2",
     "FadeOut": 200,
@@ -2070,7 +2106,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 231,
+    "ID": 235,
     "GroupID": 221007,
     "VoiceSoundName": "Dia_ParkBumShik_Risk_1_1",
     "FadeOut": 200,
@@ -2079,7 +2115,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 232,
+    "ID": 236,
     "GroupID": 221008,
     "VoiceSoundName": "Dia_ParkBumShik_Tagin_1_1",
     "FadeOut": 200,
@@ -2088,7 +2124,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 233,
+    "ID": 237,
     "GroupID": 251001,
     "VoiceSoundName": "Dia_SeoJiwoo_Sprint_1_1",
     "FadeOut": 200,
@@ -2097,7 +2133,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 234,
+    "ID": 238,
     "GroupID": 251002,
     "VoiceSoundName": "Dia_SeoJiwoo_UltimateSkill_Available_1_1",
     "FadeOut": 200,
@@ -2106,7 +2142,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 235,
+    "ID": 239,
     "GroupID": 251003,
     "VoiceSoundName": "Dia_SeoJiwoo_Low_HP_1_1",
     "FadeOut": 200,
@@ -2115,7 +2151,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 236,
+    "ID": 240,
     "GroupID": 251004,
     "VoiceSoundName": "Dia_SeoJiwoo_Enemy_Encounter_1_1",
     "FadeOut": 200,
@@ -2124,7 +2160,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 237,
+    "ID": 241,
     "GroupID": 251005,
     "VoiceSoundName": "Dia_SeoJiwoo_Boss_Encounter_1_1",
     "FadeOut": 200,
@@ -2133,7 +2169,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 238,
+    "ID": 242,
     "GroupID": 251006,
     "VoiceSoundName": "Dia_SeoJiwoo_Move_1_1",
     "FadeOut": 200,
@@ -2142,7 +2178,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 239,
+    "ID": 243,
     "GroupID": 251006,
     "VoiceSoundName": "Dia_SeoJiwoo_Move_1_2",
     "FadeOut": 200,
@@ -2151,7 +2187,7 @@
     "VoiceProb": 50
   },
   {
-    "ID": 240,
+    "ID": 244,
     "GroupID": 251007,
     "VoiceSoundName": "Dia_SeoJiwoo_Risk_1_1",
     "FadeOut": 200,
@@ -2160,7 +2196,7 @@
     "VoiceProb": 100
   },
   {
-    "ID": 241,
+    "ID": 245,
     "GroupID": 251008,
     "VoiceSoundName": "Dia_SeoJiwoo_Tagin_1_1",
     "FadeOut": 200,

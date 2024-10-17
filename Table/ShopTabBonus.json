@@ -1,13 +1,50 @@
 [
   {
     "ID": 1001,
+    "EventGroupID": 1001,
     "BonusRewardGroupID": 11,
-    "DailyCountingLimit": 2,
+    "DailyCountingLimit": 50,
     "TabBonusBG": "Img_Deco_Npc",
     "Resettable": true,
-    "OpenTime": "",
-    "EndTime": "",
-    "ResetType": "SpecificDay",
-    "ResetTypeValue": 1
+    "OpenTime": "2024-04-01T09:00:00+09:00",
+    "EndTime": "2024-04-17T09:00:00+09:00",
+    "ResetType": "",
+    "ResetTypeValue": 0
+  },
+  {
+    "ID": 1002,
+    "EventGroupID": 1002,
+    "BonusRewardGroupID": 21,
+    "DailyCountingLimit": 3,
+    "TabBonusBG": "Img_Deco_Npc",
+    "Resettable": true,
+    "OpenTime": "2024-04-17T09:00:00+09:00",
+    "EndTime": "2024-05-08T09:00:00+09:00",
+    "ResetType": "",
+    "ResetTypeValue": 0
+  },
+  {
+    "ID": 100202,
+    "EventGroupID": 1002,
+    "BonusRewardGroupID": 22,
+    "DailyCountingLimit": 3,
+    "TabBonusBG": "Img_Deco_Npc",
+    "Resettable": true,
+    "OpenTime": "2024-05-08T09:00:00+09:00",
+    "EndTime": "2024-05-29T09:00:00+09:00",
+    "ResetType": "",
+    "ResetTypeValue": 0
+  },
+  {
+    "ID": 100203,
+    "EventGroupID": 1002,
+    "BonusRewardGroupID": 23,
+    "DailyCountingLimit": 3,
+    "TabBonusBG": "Img_Deco_Npc",
+    "Resettable": true,
+    "OpenTime": "2024-05-29T09:00:00+09:00",
+    "EndTime": "2024-06-19T09:00:00+09:00",
+    "ResetType": "",
+    "ResetTypeValue": 0
   }
 ]

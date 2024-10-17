@@ -1300,7 +1300,7 @@
     "FactionType": "PlayerSide",
     "DirectionOnly": true,
     "BTName": "",
-    "SkillGroupSet": "[50007501,50007502]",
+    "SkillGroupSet": "[50007501,50007502,50007503]",
     "BaseInteractionID": 0,
     "PassiveBuffID": ""
   },
@@ -1408,7 +1408,7 @@
     "FactionType": "PlayerSide",
     "DirectionOnly": true,
     "BTName": "",
-    "SkillGroupSet": "[760001,760002]",
+    "SkillGroupSet": "[760001,760002,760003]",
     "BaseInteractionID": 0,
     "PassiveBuffID": ""
   },
@@ -1816,6 +1816,15 @@
     "SkillGroupSet": "[650004]",
     "BaseInteractionID": 0,
     "PassiveBuffID": ""
+  },
+  {
+    "ID": 1010004,
+    "FactionType": "PlayerSide",
+    "DirectionOnly": true,
+    "BTName": "",
+    "SkillGroupSet": "[650001,650002]",
+    "BaseInteractionID": 0,
+    "PassiveBuffID": "[1810021]"
   },
   {
     "ID": 11,

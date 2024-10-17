@@ -1,3 +1,3 @@
 # SololvAriseData
 
-current version: `live: 1.0.1 [1000000594]`
+current version: `live: 1.1.1 [1000000848]`

@@ -1066,9 +1066,9 @@
   {
     "ID": 137,
     "PageName": "InventorySkillLevelUpResultPopupPage",
-    "UIOpenSlideOpen": "UI_Jingle_Skill_LevelUp_1_1",
+    "UIOpenSlideOpen": "UI_Jingle_Get_Skill_1_1",
     "OpenDuckingPresetIndex": 0,
-    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Large_1_1",
+    "UIOpenSlideClose": "",
     "CloseDuckingPresetIndex": 0
   },
   {
@@ -1333,6 +1333,54 @@
     "UIOpenSlideOpen": "UI_Fx_PopUp_Content_Unlock_Special_1_1",
     "OpenDuckingPresetIndex": 0,
     "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 171,
+    "PageName": "WeaponDecompositionPopupPage",
+    "UIOpenSlideOpen": "UI_Button_Equip_Weapon_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Small_1_1",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 172,
+    "PageName": "NoticePopupPage",
+    "UIOpenSlideOpen": "",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 173,
+    "PageName": "SubscribeMainPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Large_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Large_1_1",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 174,
+    "PageName": "GachaDeferRecruitResultPopupPage",
+    "UIOpenSlideOpen": "UI_Select_Gacha_Result_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Mute",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 175,
+    "PageName": "ArmoryEnhanceResultPopupPage",
+    "UIOpenSlideOpen": "UI_Jingle_LevelUp_Reward_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 176,
+    "PageName": "ShopMiniPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Large_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Large_1_1",
     "CloseDuckingPresetIndex": 0
   }
 ]

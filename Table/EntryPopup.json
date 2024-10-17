@@ -40,5 +40,33 @@
     "EntryPopupType": "MonthlyPackage",
     "PopupDisplayType": "OnceDaily",
     "DisplayOrder": 35
+  },
+  {
+    "ID": 7,
+    "Unused": true,
+    "EntryPopupType": "RuneRegister",
+    "PopupDisplayType": "Always",
+    "DisplayOrder": 1000
+  },
+  {
+    "ID": 8,
+    "Unused": true,
+    "EntryPopupType": "Etc",
+    "PopupDisplayType": "Always",
+    "DisplayOrder": 34
+  },
+  {
+    "ID": 9,
+    "Unused": true,
+    "EntryPopupType": "EtcOnceLogin",
+    "PopupDisplayType": "OnceLogin",
+    "DisplayOrder": 41
+  },
+  {
+    "ID": 10,
+    "Unused": true,
+    "EntryPopupType": "SmartPopup",
+    "PopupDisplayType": "OnceDaily",
+    "DisplayOrder": 33
   }
 ]

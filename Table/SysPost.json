@@ -294,5 +294,37 @@
     "StoragePeriodMin": 20160,
     "Name": "SysPost.Name.ID38",
     "Desc": "SysPost.Desc.ID38"
+  },
+  {
+    "ID": 39,
+    "PostID": "SubscribeSelectReward",
+    "Type": "General",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID39",
+    "Desc": "SysPost.Desc.ID39"
+  },
+  {
+    "ID": 42,
+    "PostID": "SubscribeMileageReward",
+    "Type": "General",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID42",
+    "Desc": "SysPost.Desc.ID42"
+  },
+  {
+    "ID": 44,
+    "PostID": "SubscribeCoupon",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID44",
+    "Desc": "SysPost.Desc.ID44"
+  },
+  {
+    "ID": 45,
+    "PostID": "SubscribePayInfo",
+    "Type": "IAP",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.ID45",
+    "Desc": "SysPost.Desc.ID45"
   }
 ]

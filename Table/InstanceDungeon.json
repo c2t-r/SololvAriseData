@@ -13,7 +13,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301010,
-    "BattleMissionList": "[50100101, 50100102, 50100103]"
+    "BattleMissionList": "[50100101, 50100102, 50100103]",
+    "RewardCount": 2
   },
   {
     "ID": 2,
@@ -29,7 +30,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301020,
-    "BattleMissionList": "[50100201, 50100202, 50100203]"
+    "BattleMissionList": "[50100201, 50100202, 50100203]",
+    "RewardCount": 2
   },
   {
     "ID": 3,
@@ -45,7 +47,8 @@
     "PenaltyFixIDList": "[60001101, 60001201]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301030,
-    "BattleMissionList": "[50100301, 50100302, 50100303]"
+    "BattleMissionList": "[50100301, 50100302, 50100303]",
+    "RewardCount": 2
   },
   {
     "ID": 4,
@@ -54,14 +57,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 42,
+    "StageMonsterLevel": 43,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 79000,
+    "RecommendedPower": 84500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001101, 60001201]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301040,
-    "BattleMissionList": "[50100401, 50100402, 50100403]"
+    "BattleMissionList": "[50100401, 50100402, 50100403]",
+    "RewardCount": 2
   },
   {
     "ID": 5,
@@ -70,14 +74,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 44,
+    "StageMonsterLevel": 46,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 90500,
+    "RecommendedPower": 104500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001101, 60001201]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301050,
-    "BattleMissionList": "[50100501, 50100502, 50100503]"
+    "BattleMissionList": "[50100501, 50100502, 50100503]",
+    "RewardCount": 2
   },
   {
     "ID": 6,
@@ -86,14 +91,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 46,
+    "StageMonsterLevel": 49,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 104500,
+    "RecommendedPower": 128000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001102, 60001202]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301060,
-    "BattleMissionList": "[50100601, 50100602, 50100603]"
+    "BattleMissionList": "[50100601, 50100602, 50100603]",
+    "RewardCount": 2
   },
   {
     "ID": 7,
@@ -102,14 +108,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 48,
+    "StageMonsterLevel": 52,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 119500,
+    "RecommendedPower": 153500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001102, 60001202]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301070,
-    "BattleMissionList": "[50100701, 50100702, 50100703]"
+    "BattleMissionList": "[50100701, 50100702, 50100703]",
+    "RewardCount": 2
   },
   {
     "ID": 8,
@@ -118,14 +125,49 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 50,
+    "StageMonsterLevel": 55,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 137000,
+    "RecommendedPower": 178000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001102, 60001202]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 301080,
-    "BattleMissionList": "[50100801, 50100802, 50100803]"
+    "BattleMissionList": "[50100801, 50100802, 50100803]",
+    "RewardCount": 2
+  },
+  {
+    "ID": 9,
+    "GroupID": 1000,
+    "Level": 9,
+    "IndunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 58,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 215000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001102, 60001202]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 301090,
+    "BattleMissionList": "[50100901, 50100902, 50100903]",
+    "RewardCount": 3
+  },
+  {
+    "ID": 10,
+    "GroupID": 1000,
+    "Level": 10,
+    "IndunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 60,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 260500,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001102, 60001202]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 301100,
+    "BattleMissionList": "[50101001, 50101002, 50101003]",
+    "RewardCount": 3
   },
   {
     "ID": 11,
@@ -141,7 +183,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302010,
-    "BattleMissionList": "[50200101, 50200102, 50200103]"
+    "BattleMissionList": "[50200101, 50200102, 50200103]",
+    "RewardCount": 2
   },
   {
     "ID": 12,
@@ -157,7 +200,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302020,
-    "BattleMissionList": "[50200201, 50200202, 50200203]"
+    "BattleMissionList": "[50200201, 50200202, 50200203]",
+    "RewardCount": 2
   },
   {
     "ID": 13,
@@ -173,7 +217,8 @@
     "PenaltyFixIDList": "[60001401]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302030,
-    "BattleMissionList": "[50200301, 50200302, 50200303]"
+    "BattleMissionList": "[50200301, 50200302, 50200303]",
+    "RewardCount": 2
   },
   {
     "ID": 14,
@@ -182,14 +227,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 42,
+    "StageMonsterLevel": 43,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 79000,
+    "RecommendedPower": 84500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001401]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302040,
-    "BattleMissionList": "[50200401, 50200402, 50200403]"
+    "BattleMissionList": "[50200401, 50200402, 50200403]",
+    "RewardCount": 2
   },
   {
     "ID": 15,
@@ -198,14 +244,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 44,
+    "StageMonsterLevel": 46,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 90500,
+    "RecommendedPower": 104500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001401]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302050,
-    "BattleMissionList": "[50200501, 50200502, 50200503]"
+    "BattleMissionList": "[50200501, 50200502, 50200503]",
+    "RewardCount": 2
   },
   {
     "ID": 16,
@@ -214,14 +261,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 46,
+    "StageMonsterLevel": 49,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 104500,
+    "RecommendedPower": 128000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001402,60001601]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302060,
-    "BattleMissionList": "[50200601, 50200602, 50200603]"
+    "BattleMissionList": "[50200601, 50200602, 50200603]",
+    "RewardCount": 2
   },
   {
     "ID": 17,
@@ -230,14 +278,15 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 48,
+    "StageMonsterLevel": 52,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 119500,
+    "RecommendedPower": 153500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001402,60001601]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302070,
-    "BattleMissionList": "[50200701, 50200702, 50200703]"
+    "BattleMissionList": "[50200701, 50200702, 50200703]",
+    "RewardCount": 2
   },
   {
     "ID": 18,
@@ -246,13 +295,48 @@
     "IndunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 50,
+    "StageMonsterLevel": 55,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 137000,
+    "RecommendedPower": 178000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001402,60001601]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 302080,
-    "BattleMissionList": "[50200801, 50200802, 50200803]"
+    "BattleMissionList": "[50200801, 50200802, 50200803]",
+    "RewardCount": 2
+  },
+  {
+    "ID": 19,
+    "GroupID": 2000,
+    "Level": 9,
+    "IndunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 58,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 215000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001402,60001601]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 302090,
+    "BattleMissionList": "[50200901, 50200902, 50200903]",
+    "RewardCount": 3
+  },
+  {
+    "ID": 20,
+    "GroupID": 2000,
+    "Level": 10,
+    "IndunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 60,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 260500,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001402,60001601]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 302100,
+    "BattleMissionList": "[50201001, 50201002, 50201003]",
+    "RewardCount": 3
   }
 ]

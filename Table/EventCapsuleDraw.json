@@ -8,8 +8,23 @@
     "CapsuleDrawNeedItemIndex2": 1000016,
     "CapsuleDrawNeedItemCount2": 30,
     "DailyPlayLimit": 999,
-    "DailyPlayLimit2": 20,
-    "DailyFreeTicket": 4,
+    "DailyPlayLimit2": 0,
+    "DailyBuyLimit": 0,
+    "DailyFreeTicket": 0,
     "RewardGroupID": 90010001
+  },
+  {
+    "ID": 2,
+    "CapsuleDrawNeedItemType1": "Except",
+    "CapsuleDrawNeedItemIndex1": 30002005,
+    "CapsuleDrawNeedItemCount1": 1,
+    "CapsuleDrawNeedItemType2": "MagicEssence",
+    "CapsuleDrawNeedItemIndex2": 1000016,
+    "CapsuleDrawNeedItemCount2": 30,
+    "DailyPlayLimit": 999,
+    "DailyPlayLimit2": 0,
+    "DailyBuyLimit": 0,
+    "DailyFreeTicket": 0,
+    "RewardGroupID": 2000801
   }
 ]

@@ -26,5 +26,19 @@
     "BattleContentType": "InstantDungeon",
     "SoldierMinCount": 4000,
     "SoldierMaxCount": 5000
+  },
+  {
+    "ID": 10005,
+    "BattleTeamType": "SJWTeam",
+    "BattleContentType": "SpecialGate",
+    "SoldierMinCount": 3000,
+    "SoldierMaxCount": 3000
+  },
+  {
+    "ID": 10006,
+    "BattleTeamType": "SJWTeam",
+    "BattleContentType": "DungeonBreak",
+    "SoldierMinCount": 4000,
+    "SoldierMaxCount": 5000
   }
 ]

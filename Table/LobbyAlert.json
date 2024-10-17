@@ -68,5 +68,35 @@
     "TopAlertString": "",
     "MoveTarget": 11,
     "CharObjcetID": 500117
+  },
+  {
+    "ID": 8,
+    "RedDotType": "Monthly",
+    "IconRecource": "Icon_QuickMenu_MonthlyAlert",
+    "AlertString": "SysConst.LobbyAlert.MonthlyAlert",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 30019,
+    "CharObjcetID": 500150
+  },
+  {
+    "ID": 9,
+    "RedDotType": "Subscription",
+    "IconRecource": "Icon_QuickMenu_SubscribeAlert",
+    "AlertString": "SysConst.LobbyAlert.SubscriptionAlert",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 53,
+    "CharObjcetID": 0
+  },
+  {
+    "ID": 10,
+    "RedDotType": "SubscriptionReward",
+    "IconRecource": "Icon_QuickMenu_SubscribeAlert",
+    "AlertString": "SysConst.LobbyAlert.SubscriptionDailyReward",
+    "UseTopAlert": true,
+    "TopAlertString": "",
+    "MoveTarget": 52,
+    "CharObjcetID": 0
   }
 ]

@@ -142,5 +142,45 @@
     "JobConType": "JobGrade",
     "JobConVal": 3,
     "MoveTargetID": 0
+  },
+  {
+    "ID": 511,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition511",
+    "JobConType": "SMission",
+    "JobConVal": 30806,
+    "MoveTargetID": 12
+  },
+  {
+    "ID": 512,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition512",
+    "JobConType": "JobGrade",
+    "JobConVal": 4,
+    "MoveTargetID": 2
+  },
+  {
+    "ID": 513,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition513",
+    "JobConType": "BattlePower",
+    "JobConVal": 70000,
+    "MoveTargetID": 2
+  },
+  {
+    "ID": 514,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition514",
+    "JobConType": "Achieve",
+    "JobConVal": 3010002,
+    "MoveTargetID": 4
+  },
+  {
+    "ID": 515,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition515",
+    "JobConType": "MainPcLv",
+    "JobConVal": 55,
+    "MoveTargetID": 8
   }
 ]

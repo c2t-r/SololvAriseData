@@ -165,7 +165,7 @@
     "GroupID": 1,
     "SortCategory": "Grade",
     "Order": 1,
-    "CategoryString": "SysConstStr.Glossary.ArtifactGrade"
+    "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
     "ID": 22,
@@ -205,7 +205,7 @@
     "GroupID": 2,
     "SortCategory": "Grade",
     "Order": 1,
-    "CategoryString": "SysConstStr.Glossary.ArtifactGrade"
+    "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
     "ID": 27,
@@ -280,19 +280,11 @@
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
-    "ID": 36,
-    "ContentsType": "Inventory",
-    "GroupID": 3,
-    "SortCategory": "Rarity",
-    "Order": 1,
-    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
-  },
-  {
     "ID": 37,
     "ContentsType": "Inventory",
     "GroupID": 3,
     "SortCategory": "GemType",
-    "Order": 2,
+    "Order": 3,
     "CategoryString": "SysConstStr.Glossary.GemType"
   },
   {
@@ -331,7 +323,7 @@
     "ID": 42,
     "ContentsType": "Craft",
     "GroupID": 1,
-    "SortCategory": "Rarity",
+    "SortCategory": "TotalRarity",
     "Order": 2,
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
@@ -339,7 +331,7 @@
     "ID": 43,
     "ContentsType": "Craft",
     "GroupID": 2,
-    "SortCategory": "Rarity",
+    "SortCategory": "TotalRarity",
     "Order": 1,
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
@@ -397,7 +389,7 @@
     "GroupID": 5,
     "SortCategory": "Grade",
     "Order": 1,
-    "CategoryString": "SysConstStr.Glossary.ArtifactGrade"
+    "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
     "ID": 51,
@@ -550,5 +542,37 @@
     "SortCategory": "Rarity",
     "Order": 1,
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "ID": 70,
+    "ContentsType": "Craft",
+    "GroupID": 3,
+    "SortCategory": "TotalRarity",
+    "Order": 1,
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "ID": 71,
+    "ContentsType": "Artifact",
+    "GroupID": 1,
+    "SortCategory": "SetEffect",
+    "Order": 6,
+    "CategoryString": "SysConstStr.ArtifactPage.Set"
+  },
+  {
+    "ID": 72,
+    "ContentsType": "Artifact",
+    "GroupID": 2,
+    "SortCategory": "SetEffect",
+    "Order": 5,
+    "CategoryString": "SysConstStr.ArtifactPage.Set"
+  },
+  {
+    "ID": 73,
+    "ContentsType": "Inventory",
+    "GroupID": 3,
+    "SortCategory": "Grade",
+    "Order": 2,
+    "CategoryString": "SysConstStr.Achievement.Step"
   }
 ]

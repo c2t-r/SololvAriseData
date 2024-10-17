@@ -405,7 +405,7 @@
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "RPS",
     "TopMenuDisplayType": "[5,4]",
-    "TopMenuDisplayGroup": "[30005007,1000016]"
+    "TopMenuDisplayGroup": "[30005017,1000016]"
   },
   {
     "ID": 323,
@@ -484,12 +484,60 @@
     "TopMenuPage": "Codex",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": ""
+    "TopMenuDisplayType": "[4,3]",
+    "TopMenuDisplayGroup": "[1000016, 1000003]"
   },
   {
     "ID": 42,
     "TopMenuPage": "Achivement",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": "[4,3]",
+    "TopMenuDisplayGroup": "[1000016, 1000003]"
+  },
+  {
+    "ID": 43,
+    "TopMenuPage": "Misson",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": "[4,3]",
+    "TopMenuDisplayGroup": "[1000016, 1000003]"
+  },
+  {
+    "ID": 44,
+    "TopMenuPage": "Attendance",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": "[4,3]",
+    "TopMenuDisplayGroup": "[1000016, 1000003]"
+  },
+  {
+    "ID": 45,
+    "TopMenuPage": "ChallengeMisson",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": "[4,3]",
+    "TopMenuDisplayGroup": "[1000016, 1000003]"
+  },
+  {
+    "ID": 46,
+    "TopMenuPage": "Gem",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": "",
+    "TopMenuDisplayGroup": ""
+  },
+  {
+    "ID": 47,
+    "TopMenuPage": "GachaDeferRecruit",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": "[4,3]",
+    "TopMenuDisplayGroup": "[1000016, 1000003]"
+  },
+  {
+    "ID": 48,
+    "TopMenuPage": "SubscribeSelectReward",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
     "TopMenuDisplayType": "",

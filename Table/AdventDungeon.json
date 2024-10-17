@@ -13,7 +13,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201010,
-    "BattleMissionList": "[60100101, 60100102, 60100103]"
+    "BattleMissionList": "[60100101, 60100102, 60100103]",
+    "RewardCount": 2
   },
   {
     "ID": 2,
@@ -29,7 +30,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201020,
-    "BattleMissionList": "[60100201, 60100202, 60100203]"
+    "BattleMissionList": "[60100201, 60100202, 60100203]",
+    "RewardCount": 2
   },
   {
     "ID": 3,
@@ -45,7 +47,8 @@
     "PenaltyFixIDList": "[60001801]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201030,
-    "BattleMissionList": "[60100301, 60100302, 60100303]"
+    "BattleMissionList": "[60100301, 60100302, 60100303]",
+    "RewardCount": 2
   },
   {
     "ID": 4,
@@ -61,7 +64,8 @@
     "PenaltyFixIDList": "[60001801]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201040,
-    "BattleMissionList": "[60100401, 60100402, 60100403]"
+    "BattleMissionList": "[60100401, 60100402, 60100403]",
+    "RewardCount": 2
   },
   {
     "ID": 5,
@@ -77,7 +81,8 @@
     "PenaltyFixIDList": "[60001801]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201050,
-    "BattleMissionList": "[60100501, 60100502, 60100503]"
+    "BattleMissionList": "[60100501, 60100502, 60100503]",
+    "RewardCount": 2
   },
   {
     "ID": 6,
@@ -93,7 +98,8 @@
     "PenaltyFixIDList": "[60001802]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201060,
-    "BattleMissionList": "[60100601, 60100602, 60100603]"
+    "BattleMissionList": "[60100601, 60100602, 60100603]",
+    "RewardCount": 2
   },
   {
     "ID": 7,
@@ -109,7 +115,8 @@
     "PenaltyFixIDList": "[60001802]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201070,
-    "BattleMissionList": "[60100701, 60100702, 60100703]"
+    "BattleMissionList": "[60100701, 60100702, 60100703]",
+    "RewardCount": 2
   },
   {
     "ID": 8,
@@ -125,7 +132,42 @@
     "PenaltyFixIDList": "[60001802]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 201080,
-    "BattleMissionList": "[60100801, 60100802, 60100803]"
+    "BattleMissionList": "[60100801, 60100802, 60100803]",
+    "RewardCount": 2
+  },
+  {
+    "ID": 9,
+    "GroupID": 1000,
+    "Level": 9,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 38,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 61000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001802]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 201090,
+    "BattleMissionList": "[60100901, 60100902, 60100903]",
+    "RewardCount": 3
+  },
+  {
+    "ID": 10,
+    "GroupID": 1000,
+    "Level": 10,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 40,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 79000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001802]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 201100,
+    "BattleMissionList": "[60101001, 60101002, 60101003]",
+    "RewardCount": 3
   },
   {
     "ID": 11,
@@ -141,7 +183,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202010,
-    "BattleMissionList": "[60200101, 60200102, 60200103]"
+    "BattleMissionList": "[60200101, 60200102, 60200103]",
+    "RewardCount": 2
   },
   {
     "ID": 12,
@@ -157,7 +200,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202020,
-    "BattleMissionList": "[60200201, 60200202, 60200203]"
+    "BattleMissionList": "[60200201, 60200202, 60200203]",
+    "RewardCount": 2
   },
   {
     "ID": 13,
@@ -173,7 +217,8 @@
     "PenaltyFixIDList": "[60001701]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202030,
-    "BattleMissionList": "[60200301, 60200302, 60200303]"
+    "BattleMissionList": "[60200301, 60200302, 60200303]",
+    "RewardCount": 2
   },
   {
     "ID": 14,
@@ -189,7 +234,8 @@
     "PenaltyFixIDList": "[60001701]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202040,
-    "BattleMissionList": "[60200401, 60200402, 60200403]"
+    "BattleMissionList": "[60200401, 60200402, 60200403]",
+    "RewardCount": 2
   },
   {
     "ID": 15,
@@ -205,7 +251,8 @@
     "PenaltyFixIDList": "[60001701]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202050,
-    "BattleMissionList": "[60200501, 60200502, 60200503]"
+    "BattleMissionList": "[60200501, 60200502, 60200503]",
+    "RewardCount": 2
   },
   {
     "ID": 16,
@@ -221,7 +268,8 @@
     "PenaltyFixIDList": "[60001702]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202060,
-    "BattleMissionList": "[60200601, 60200602, 60200603]"
+    "BattleMissionList": "[60200601, 60200602, 60200603]",
+    "RewardCount": 2
   },
   {
     "ID": 17,
@@ -237,7 +285,8 @@
     "PenaltyFixIDList": "[60001702]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202070,
-    "BattleMissionList": "[60200701, 60200702, 60200703]"
+    "BattleMissionList": "[60200701, 60200702, 60200703]",
+    "RewardCount": 2
   },
   {
     "ID": 18,
@@ -253,7 +302,42 @@
     "PenaltyFixIDList": "[60001702]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 202080,
-    "BattleMissionList": "[60200801, 60200802, 60200803]"
+    "BattleMissionList": "[60200801, 60200802, 60200803]",
+    "RewardCount": 2
+  },
+  {
+    "ID": 19,
+    "GroupID": 2000,
+    "Level": 9,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 38,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 61000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001702]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 202090,
+    "BattleMissionList": "[60200901, 60200902, 60200903]",
+    "RewardCount": 3
+  },
+  {
+    "ID": 20,
+    "GroupID": 2000,
+    "Level": 10,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 40,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 79000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001702]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 202100,
+    "BattleMissionList": "[60201001, 60201002, 60201003]",
+    "RewardCount": 3
   },
   {
     "ID": 21,
@@ -269,7 +353,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203010,
-    "BattleMissionList": "[60300101, 60300102, 60300103]"
+    "BattleMissionList": "[60300101, 60300102, 60300103]",
+    "RewardCount": 2
   },
   {
     "ID": 22,
@@ -285,7 +370,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203020,
-    "BattleMissionList": "[60300201, 60300202, 60300203]"
+    "BattleMissionList": "[60300201, 60300202, 60300203]",
+    "RewardCount": 2
   },
   {
     "ID": 23,
@@ -301,7 +387,8 @@
     "PenaltyFixIDList": "[60001501]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203030,
-    "BattleMissionList": "[60300301, 60300302, 60300303]"
+    "BattleMissionList": "[60300301, 60300302, 60300303]",
+    "RewardCount": 2
   },
   {
     "ID": 24,
@@ -310,14 +397,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 42,
+    "StageMonsterLevel": 43,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 79000,
+    "RecommendedPower": 84500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001501]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203040,
-    "BattleMissionList": "[60300401, 60300402, 60300403]"
+    "BattleMissionList": "[60300401, 60300402, 60300403]",
+    "RewardCount": 2
   },
   {
     "ID": 25,
@@ -326,14 +414,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 44,
+    "StageMonsterLevel": 46,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 90500,
+    "RecommendedPower": 104500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001501]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203050,
-    "BattleMissionList": "[60300501, 60300502, 60300503]"
+    "BattleMissionList": "[60300501, 60300502, 60300503]",
+    "RewardCount": 2
   },
   {
     "ID": 26,
@@ -342,14 +431,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 46,
+    "StageMonsterLevel": 49,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 104500,
+    "RecommendedPower": 128000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001502]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203060,
-    "BattleMissionList": "[60300601, 60300602, 60300603]"
+    "BattleMissionList": "[60300601, 60300602, 60300603]",
+    "RewardCount": 2
   },
   {
     "ID": 27,
@@ -358,14 +448,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 48,
+    "StageMonsterLevel": 52,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 119500,
+    "RecommendedPower": 153500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001502]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203070,
-    "BattleMissionList": "[60300701, 60300702, 60300703]"
+    "BattleMissionList": "[60300701, 60300702, 60300703]",
+    "RewardCount": 2
   },
   {
     "ID": 28,
@@ -374,14 +465,49 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 50,
+    "StageMonsterLevel": 55,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 137000,
+    "RecommendedPower": 178000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001502]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 203080,
-    "BattleMissionList": "[60300801, 60300802, 60300803]"
+    "BattleMissionList": "[60300801, 60300802, 60300803]",
+    "RewardCount": 2
+  },
+  {
+    "ID": 29,
+    "GroupID": 3000,
+    "Level": 9,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 58,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 215000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001502]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 203090,
+    "BattleMissionList": "[60300901, 60300902, 60300903]",
+    "RewardCount": 3
+  },
+  {
+    "ID": 30,
+    "GroupID": 3000,
+    "Level": 10,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 60,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 260500,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001502]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 203100,
+    "BattleMissionList": "[60301001, 60301002, 60301003]",
+    "RewardCount": 3
   },
   {
     "ID": 31,
@@ -397,7 +523,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204010,
-    "BattleMissionList": "[60400101, 60400102, 60400103]"
+    "BattleMissionList": "[60400101, 60400102, 60400103]",
+    "RewardCount": 2
   },
   {
     "ID": 32,
@@ -413,7 +540,8 @@
     "PenaltyFixIDList": "[]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204020,
-    "BattleMissionList": "[60400201, 60400202, 60400203]"
+    "BattleMissionList": "[60400201, 60400202, 60400203]",
+    "RewardCount": 2
   },
   {
     "ID": 33,
@@ -429,7 +557,8 @@
     "PenaltyFixIDList": "[60001901]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204030,
-    "BattleMissionList": "[60400301, 60400302, 60400303]"
+    "BattleMissionList": "[60400301, 60400302, 60400303]",
+    "RewardCount": 2
   },
   {
     "ID": 34,
@@ -438,14 +567,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 42,
+    "StageMonsterLevel": 43,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 79000,
+    "RecommendedPower": 84500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001901]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204040,
-    "BattleMissionList": "[60400401, 60400402, 60400403]"
+    "BattleMissionList": "[60400401, 60400402, 60400403]",
+    "RewardCount": 2
   },
   {
     "ID": 35,
@@ -454,14 +584,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 44,
+    "StageMonsterLevel": 46,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 90500,
+    "RecommendedPower": 104500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001901]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204050,
-    "BattleMissionList": "[60400501, 60400502, 60400503]"
+    "BattleMissionList": "[60400501, 60400502, 60400503]",
+    "RewardCount": 2
   },
   {
     "ID": 36,
@@ -470,14 +601,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 46,
+    "StageMonsterLevel": 49,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 104500,
+    "RecommendedPower": 128000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001902]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204060,
-    "BattleMissionList": "[60400601, 60400602, 60400603]"
+    "BattleMissionList": "[60400601, 60400602, 60400603]",
+    "RewardCount": 2
   },
   {
     "ID": 37,
@@ -486,14 +618,15 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 48,
+    "StageMonsterLevel": 52,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 119500,
+    "RecommendedPower": 153500,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001902]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204070,
-    "BattleMissionList": "[60400701, 60400702, 60400703]"
+    "BattleMissionList": "[60400701, 60400702, 60400703]",
+    "RewardCount": 2
   },
   {
     "ID": 38,
@@ -502,13 +635,48 @@
     "AdventdunEnterPoint": 1,
     "SJWExp": 0,
     "AcctExp": 2,
-    "StageMonsterLevel": 50,
+    "StageMonsterLevel": 55,
     "StageMonsterSkillLevel": 1,
-    "RecommendedPower": 137000,
+    "RecommendedPower": 178000,
     "PenaltyGroupID": 0,
     "PenaltyFixIDList": "[60001902]",
     "PenaltyLevelGroupID": 0,
     "RewardGroupID": 204080,
-    "BattleMissionList": "[60400801, 60400802, 60400803]"
+    "BattleMissionList": "[60400801, 60400802, 60400803]",
+    "RewardCount": 2
+  },
+  {
+    "ID": 39,
+    "GroupID": 4000,
+    "Level": 9,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 58,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 215000,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001902]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 204090,
+    "BattleMissionList": "[60400901, 60400902, 60400903]",
+    "RewardCount": 3
+  },
+  {
+    "ID": 40,
+    "GroupID": 4000,
+    "Level": 10,
+    "AdventdunEnterPoint": 1,
+    "SJWExp": 0,
+    "AcctExp": 2,
+    "StageMonsterLevel": 60,
+    "StageMonsterSkillLevel": 1,
+    "RecommendedPower": 260500,
+    "PenaltyGroupID": 0,
+    "PenaltyFixIDList": "[60001902]",
+    "PenaltyLevelGroupID": 0,
+    "RewardGroupID": 204100,
+    "BattleMissionList": "[60401001, 60401002, 60401003]",
+    "RewardCount": 3
   }
 ]

@@ -35,7 +35,7 @@
     "ID": 5,
     "MoveTargetID": 8,
     "MonsterID": 31801,
-    "MonsterResourceID": 31700,
+    "MonsterResourceID": 31800,
     "Name": "SysConstStr.ChName.RazorClawedBrigaElite",
     "Resource": "RazorClawedBriga_Elite_B_Portrait"
   },
@@ -234,21 +234,13 @@
   {
     "ID": 30,
     "MoveTargetID": 8,
-    "MonsterID": 34109,
-    "MonsterResourceID": 34100,
-    "Name": "SysConstStr.ChName.IntermediateGradeDemonEliteA",
-    "Resource": "IntermediateGradeDemon_Elite_A_Portrait"
-  },
-  {
-    "ID": 31,
-    "MoveTargetID": 8,
     "MonsterID": 12001,
     "MonsterResourceID": 12000,
     "Name": "SysConstStr.ChName.BrigaMacaqueBoss",
     "Resource": "BrigaMacaque_Boss_Portrait"
   },
   {
-    "ID": 32,
+    "ID": 31,
     "MoveTargetID": 8,
     "MonsterID": 11204,
     "MonsterResourceID": 11200,
@@ -256,23 +248,7 @@
     "Resource": "HobgoblinChief_Boss_Portrait"
   },
   {
-    "ID": 33,
-    "MoveTargetID": 8,
-    "MonsterID": 10401,
-    "MonsterResourceID": 10400,
-    "Name": "SysConstStr.ChName.PoisonFangedGiantCentipede",
-    "Resource": "PoisonFangedGiantCentipede_Boss_A_Portrait"
-  },
-  {
-    "ID": 34,
-    "MoveTargetID": 8,
-    "MonsterID": 10501,
-    "MonsterResourceID": 10500,
-    "Name": "SysConstStr.ChName.PoisonFangedGiantCentipede",
-    "Resource": "PoisonFangedGiantCentipede_Boss_B_Portrait"
-  },
-  {
-    "ID": 35,
+    "ID": 32,
     "MoveTargetID": 8,
     "MonsterID": 34105,
     "MonsterResourceID": 34100,
@@ -280,7 +256,7 @@
     "Resource": "IntermediateGradeDemon_Elite_A_Portrait"
   },
   {
-    "ID": 36,
+    "ID": 33,
     "MoveTargetID": 8,
     "MonsterID": 10101,
     "MonsterResourceID": 10100,
@@ -288,7 +264,7 @@
     "Resource": "IceBear_Boss_Portrait"
   },
   {
-    "ID": 37,
+    "ID": 34,
     "MoveTargetID": 9,
     "MonsterID": 32801,
     "MonsterResourceID": 32800,
@@ -296,11 +272,163 @@
     "Resource": "SteelFangedRaikan_Elite_A_Portrait"
   },
   {
-    "ID": 38,
+    "ID": 35,
     "MoveTargetID": 9,
     "MonsterID": 32901,
     "MonsterResourceID": 32900,
     "Name": "SysConstStr.ChName.SteelFangedRaikanEliteB",
     "Resource": "SteelFangedRaikan_Elite_B_Portrait"
+  },
+  {
+    "ID": 36,
+    "MoveTargetID": 8,
+    "MonsterID": 30104,
+    "MonsterResourceID": 30100,
+    "Name": "SysConstStr.ChName.HighOrcLongSwordElite",
+    "Resource": "HighOrc_LongSword_Elite_Portrait"
+  },
+  {
+    "ID": 37,
+    "MoveTargetID": 8,
+    "MonsterID": 34002,
+    "MonsterResourceID": 34000,
+    "Name": "SysConstStr.ChName.DemonSoldierTridentElite",
+    "Resource": "DemonSoldier_Trident_Elite_Portrait"
+  },
+  {
+    "ID": 38,
+    "MoveTargetID": 8,
+    "MonsterID": 12201,
+    "MonsterResourceID": 12200,
+    "Name": "SysConstStr.ChName.BrigaMandrelBoss",
+    "Resource": "BrigaMandrel_Boss_Portrait"
+  },
+  {
+    "ID": 39,
+    "MoveTargetID": 8,
+    "MonsterID": 11404,
+    "MonsterResourceID": 11400,
+    "Name": "SysConstStr.ChName.BlueGolemBoss",
+    "Resource": "BlueGolem_Boss_Portrait"
+  },
+  {
+    "ID": 40,
+    "MoveTargetID": 8,
+    "MonsterID": 11501,
+    "MonsterResourceID": 11500,
+    "Name": "SysConstStr.ChName.GiantArachneBoss",
+    "Resource": "GiantArachne_Boss_Portrait"
+  },
+  {
+    "ID": 41,
+    "MoveTargetID": 8,
+    "MonsterID": 12803,
+    "MonsterResourceID": 12800,
+    "Name": "SysConstStr.ChName.RedAnt2ndFlyCamulaBoss",
+    "Resource": "RedAnt_2nd_Fly_Camula_Boss_Portrait"
+  },
+  {
+    "ID": 42,
+    "MoveTargetID": 8,
+    "MonsterID": 34607,
+    "MonsterResourceID": 34600,
+    "Name": "SysConstStr.ChName.HighOrcDoubleaxeElite",
+    "Resource": "HighOrc_DoubleAxe_Elite_Portrait"
+  },
+  {
+    "ID": 43,
+    "MoveTargetID": 8,
+    "MonsterID": 34806,
+    "MonsterResourceID": 34800,
+    "Name": "SysConstStr.ChName.HighOrcGreatAxeElite",
+    "Resource": "HighOrc_GreatAxe_Elite_Portrait"
+  },
+  {
+    "ID": 44,
+    "MoveTargetID": 8,
+    "MonsterID": 34705,
+    "MonsterResourceID": 34700,
+    "Name": "SysConstStr.ChName.HighOrcUnarmedEliteB",
+    "Resource": "HighOrc_Unarmed_Elite_B_Portrait"
+  },
+  {
+    "ID": 45,
+    "MoveTargetID": 8,
+    "MonsterID": 31102,
+    "MonsterResourceID": 31000,
+    "Name": "SysConstStr.ChName.PoisonFangedGiantCentipedeEl",
+    "Resource": "PoisonFangedGiantCentipede_Elite_A_Portrait"
+  },
+  {
+    "ID": 46,
+    "MoveTargetID": 8,
+    "MonsterID": 33809,
+    "MonsterResourceID": 33810,
+    "Name": "SysConstStr.ChName.AntFlyEliteB",
+    "Resource": "Ant_Fly_Elite_B_Portrait"
+  },
+  {
+    "ID": 47,
+    "MoveTargetID": 8,
+    "MonsterID": 11002,
+    "MonsterResourceID": 11000,
+    "Name": "SysConstStr.ChName.BarukaBoss",
+    "Resource": "Baruka_Boss_Portrait"
+  },
+  {
+    "ID": 48,
+    "MoveTargetID": 8,
+    "MonsterID": 10401,
+    "MonsterResourceID": 10400,
+    "Name": "SysConstStr.ChName.PoisonFangedGiantCentipede",
+    "Resource": "PoisonFangedGiantCentipede_Boss_A_Portrait"
+  },
+  {
+    "ID": 49,
+    "MoveTargetID": 8,
+    "MonsterID": 13503,
+    "MonsterResourceID": 13500,
+    "Name": "SysConstStr.ChName.WerewolfLockBoss",
+    "Resource": "WerewolfLock_Boss_Portrait"
+  },
+  {
+    "ID": 50,
+    "MoveTargetID": 8,
+    "MonsterID": 13301,
+    "MonsterResourceID": 13300,
+    "Name": "SysConstStr.ChName.GolemFrozenStonerBoss",
+    "Resource": "GolemFrozenStoner_Boss_Portrait"
+  },
+  {
+    "ID": 51,
+    "MoveTargetID": 9,
+    "MonsterID": 10701,
+    "MonsterResourceID": 10700,
+    "Name": "SysConstStr.ChName.IgrisBoss",
+    "Resource": "Igris_Boss_Portrait"
+  },
+  {
+    "ID": 52,
+    "MoveTargetID": 40,
+    "MonsterID": 10901,
+    "MonsterResourceID": 10900,
+    "Name": "SysConstStr.ChName.BluePoisonFangRasakaBoss",
+    "Resource": "BluePoisonFangRasaka_Boss_Portrait"
+  },
+  {
+    "ID": 53,
+    "MoveTargetID": 40,
+    "MonsterID": 12902,
+    "MonsterResourceID": 12900,
+    "Name": "SysConstStr.ChName.SoldierUnarmedForresBoss",
+    "Resource": "Soldier_Unarmed_Forres_Boss_Portrait"
+  },
+  {
+    "ID": 54,
+    "MoveTargetID": 40,
+    "MonsterID": 11303,
+    "MonsterResourceID": 11300,
+    "Name": "SysConstStr.ChName.GatekeeperCerberusBoss",
+    "Resource": "GatekeeperCerberus_Boss_Portrait"
   }
 ]

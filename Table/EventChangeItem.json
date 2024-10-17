@@ -5,7 +5,7 @@
     "UnitGroupId": 10001,
     "UnitNum": 1,
     "RewardGroupId": 60001,
-    "RewardCount": 5
+    "RewardCount": 10
   },
   {
     "ID": 1000102,
@@ -13,15 +13,7 @@
     "UnitGroupId": 10001,
     "UnitNum": 2,
     "RewardGroupId": 60002,
-    "RewardCount": 20
-  },
-  {
-    "ID": 1000103,
-    "Unused": true,
-    "UnitGroupId": 10001,
-    "UnitNum": 3,
-    "RewardGroupId": 60003,
-    "RewardCount": 10
+    "RewardCount": 30
   },
   {
     "ID": 1000104,
@@ -30,5 +22,53 @@
     "UnitNum": 4,
     "RewardGroupId": 60004,
     "RewardCount": 4294967295
+  },
+  {
+    "ID": 1000201,
+    "Unused": true,
+    "UnitGroupId": 10002,
+    "UnitNum": 1,
+    "RewardGroupId": 2000401,
+    "RewardCount": 10
+  },
+  {
+    "ID": 1000202,
+    "Unused": true,
+    "UnitGroupId": 10002,
+    "UnitNum": 2,
+    "RewardGroupId": 2000402,
+    "RewardCount": 30
+  },
+  {
+    "ID": 1000203,
+    "Unused": true,
+    "UnitGroupId": 10002,
+    "UnitNum": 3,
+    "RewardGroupId": 2000403,
+    "RewardCount": 4294967295
+  },
+  {
+    "ID": 1000301,
+    "Unused": true,
+    "UnitGroupId": 10003,
+    "UnitNum": 1,
+    "RewardGroupId": 2000401,
+    "RewardCount": 10
+  },
+  {
+    "ID": 1000302,
+    "Unused": true,
+    "UnitGroupId": 10003,
+    "UnitNum": 2,
+    "RewardGroupId": 2000402,
+    "RewardCount": 20
+  },
+  {
+    "ID": 1000303,
+    "Unused": true,
+    "UnitGroupId": 10003,
+    "UnitNum": 3,
+    "RewardGroupId": 2000403,
+    "RewardCount": 10
   }
 ]

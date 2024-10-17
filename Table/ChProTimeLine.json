@@ -648,28 +648,28 @@
     "GroupID": 131,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_SocialMotion"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 94,
     "GroupID": 131,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_Win"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 95,
     "GroupID": 131,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_Fail"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 96,
     "GroupID": 131,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_LobbyIdle"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 97,
@@ -1054,7 +1054,7 @@
     "GroupID": 131,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_TagOut"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 152,
@@ -1397,7 +1397,7 @@
     "GroupID": 131,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_LobbyIdle"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 201,
@@ -1579,7 +1579,7 @@
     "GroupID": 131,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_StartAction"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 227,
@@ -1754,14 +1754,14 @@
     "GroupID": 131,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_Win_Endloop"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 252,
     "GroupID": 131,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_Fail_Endloop"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 253,
@@ -2300,7 +2300,7 @@
     "GroupID": 131,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "ChoiJongIn_Evolve"
+    "TimeLinePrefab": "ChoiJongIn_BaseAttack1-master"
   },
   {
     "ID": 330,
@@ -2643,70 +2643,70 @@
     "GroupID": 261,
     "Type": "SocialMotion",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_SocialMotion"
+    "TimeLinePrefab": "YooSooHyun_SocialMotion"
   },
   {
     "ID": 379,
     "GroupID": 261,
     "Type": "Win",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win"
+    "TimeLinePrefab": "YooSooHyun_Win"
   },
   {
     "ID": 380,
     "GroupID": 261,
     "Type": "Fail",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail"
+    "TimeLinePrefab": "YooSooHyun_Fail"
   },
   {
     "ID": 381,
     "GroupID": 261,
     "Type": "LobbySpawn",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "YooSooHyun_LobbyIdle"
   },
   {
     "ID": 382,
     "GroupID": 261,
     "Type": "TagOut",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_TagOut"
+    "TimeLinePrefab": "YooSooHyun_TagOut"
   },
   {
     "ID": 383,
     "GroupID": 261,
     "Type": "LobbyIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_LobbyIdle"
+    "TimeLinePrefab": "YooSooHyun_LobbyIdle"
   },
   {
     "ID": 384,
     "GroupID": 261,
     "Type": "Intro",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_StartAction"
+    "TimeLinePrefab": "YooSooHyun_StartAction"
   },
   {
     "ID": 385,
     "GroupID": 261,
     "Type": "WinIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Win_Endloop"
+    "TimeLinePrefab": "YooSooHyun_Win_Endloop"
   },
   {
     "ID": 386,
     "GroupID": 261,
     "Type": "FailIdle",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Fail_Endloop"
+    "TimeLinePrefab": "YooSooHyun_Fail_Endloop"
   },
   {
     "ID": 387,
     "GroupID": 261,
     "Type": "Evolve",
     "Index": 0,
-    "TimeLinePrefab": "AliciaBlanchet_Evolve"
+    "TimeLinePrefab": "YooSooHyun_Evolve"
   },
   {
     "ID": 388,
@@ -3099,5 +3099,12 @@
     "Type": "LobbySpawn",
     "Index": 0,
     "TimeLinePrefab": "Shadow_Igris_LobbyIdle"
+  },
+  {
+    "ID": 444,
+    "GroupID": 35201,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "Centauros_Spear_Intro_A"
   }
 ]

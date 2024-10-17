@@ -4,48 +4,391 @@
     "BonusRewardGroup": 11,
     "BonusOrder": 1,
     "NeedValue": 1,
-    "Reward": 200001
+    "Reward": 200001,
+    "RewardEffectAble": false
   },
   {
     "ID": 102,
     "BonusRewardGroup": 11,
     "BonusOrder": 2,
     "NeedValue": 2,
-    "Reward": 200002
+    "Reward": 200002,
+    "RewardEffectAble": false
   },
   {
     "ID": 103,
     "BonusRewardGroup": 11,
     "BonusOrder": 3,
     "NeedValue": 3,
-    "Reward": 200003
+    "Reward": 200003,
+    "RewardEffectAble": false
   },
   {
     "ID": 104,
     "BonusRewardGroup": 11,
     "BonusOrder": 4,
     "NeedValue": 4,
-    "Reward": 200004
+    "Reward": 200004,
+    "RewardEffectAble": false
   },
   {
     "ID": 105,
     "BonusRewardGroup": 11,
     "BonusOrder": 5,
     "NeedValue": 6,
-    "Reward": 200005
+    "Reward": 200005,
+    "RewardEffectAble": false
   },
   {
     "ID": 106,
     "BonusRewardGroup": 11,
     "BonusOrder": 6,
     "NeedValue": 8,
-    "Reward": 200006
+    "Reward": 200006,
+    "RewardEffectAble": false
   },
   {
     "ID": 107,
     "BonusRewardGroup": 11,
     "BonusOrder": 7,
     "NeedValue": 10,
-    "Reward": 200007
+    "Reward": 200007,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 201,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 1,
+    "NeedValue": 1,
+    "Reward": 200001,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 202,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 2,
+    "NeedValue": 2,
+    "Reward": 200002,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 203,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 3,
+    "NeedValue": 3,
+    "Reward": 200003,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 204,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 4,
+    "NeedValue": 4,
+    "Reward": 200004,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 205,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 5,
+    "NeedValue": 6,
+    "Reward": 200005,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 206,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 6,
+    "NeedValue": 8,
+    "Reward": 200006,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 207,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 7,
+    "NeedValue": 10,
+    "Reward": 200007,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 208,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 8,
+    "NeedValue": 15,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 209,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 9,
+    "NeedValue": 20,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 210,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 10,
+    "NeedValue": 25,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 211,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 11,
+    "NeedValue": 30,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 212,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 12,
+    "NeedValue": 35,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 213,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 13,
+    "NeedValue": 40,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 214,
+    "BonusRewardGroup": 21,
+    "BonusOrder": 14,
+    "NeedValue": 45,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2201,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 1,
+    "NeedValue": 1,
+    "Reward": 200001,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2202,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 2,
+    "NeedValue": 2,
+    "Reward": 200002,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2203,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 3,
+    "NeedValue": 3,
+    "Reward": 200003,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2204,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 4,
+    "NeedValue": 4,
+    "Reward": 200004,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2205,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 5,
+    "NeedValue": 6,
+    "Reward": 200005,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2206,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 6,
+    "NeedValue": 8,
+    "Reward": 200006,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2207,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 7,
+    "NeedValue": 10,
+    "Reward": 200021,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2208,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 8,
+    "NeedValue": 15,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2209,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 9,
+    "NeedValue": 20,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2210,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 10,
+    "NeedValue": 25,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2211,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 11,
+    "NeedValue": 30,
+    "Reward": 200022,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2212,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 12,
+    "NeedValue": 35,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2213,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 13,
+    "NeedValue": 40,
+    "Reward": 200010,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2214,
+    "BonusRewardGroup": 22,
+    "BonusOrder": 14,
+    "NeedValue": 45,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2301,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 1,
+    "NeedValue": 1,
+    "Reward": 200001,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2302,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 2,
+    "NeedValue": 2,
+    "Reward": 200002,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2303,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 3,
+    "NeedValue": 3,
+    "Reward": 200003,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2304,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 4,
+    "NeedValue": 4,
+    "Reward": 200004,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2305,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 5,
+    "NeedValue": 6,
+    "Reward": 200005,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2306,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 6,
+    "NeedValue": 8,
+    "Reward": 200006,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2307,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 7,
+    "NeedValue": 10,
+    "Reward": 200023,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2308,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 8,
+    "NeedValue": 15,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2309,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 9,
+    "NeedValue": 20,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2310,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 10,
+    "NeedValue": 25,
+    "Reward": 200008,
+    "RewardEffectAble": false
+  },
+  {
+    "ID": 2311,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 11,
+    "NeedValue": 30,
+    "Reward": 200024,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2312,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 12,
+    "NeedValue": 35,
+    "Reward": 200009,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2313,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 13,
+    "NeedValue": 40,
+    "Reward": 200010,
+    "RewardEffectAble": true
+  },
+  {
+    "ID": 2314,
+    "BonusRewardGroup": 23,
+    "BonusOrder": 14,
+    "NeedValue": 45,
+    "Reward": 200009,
+    "RewardEffectAble": true
   }
 ]

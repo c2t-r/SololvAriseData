@@ -96,6 +96,42 @@
     "RateupValue": 5800
   },
   {
+    "ID": 90001,
+    "GachaRateGroup": 9000,
+    "RateGrade": 3,
+    "RateName": "R",
+    "RateValue": 90000,
+    "PickupMiliege": 0,
+    "PickupNeedCount": 0,
+    "RateupType": false,
+    "RateupCondition": 0,
+    "RateupValue": 0
+  },
+  {
+    "ID": 90002,
+    "GachaRateGroup": 9000,
+    "RateGrade": 4,
+    "RateName": "SR",
+    "RateValue": 8800,
+    "PickupMiliege": 0,
+    "PickupNeedCount": 0,
+    "RateupType": false,
+    "RateupCondition": 0,
+    "RateupValue": 0
+  },
+  {
+    "ID": 90003,
+    "GachaRateGroup": 9000,
+    "RateGrade": 5,
+    "RateName": "SSR",
+    "RateValue": 1200,
+    "PickupMiliege": 80,
+    "PickupNeedCount": 1,
+    "RateupType": true,
+    "RateupCondition": 64,
+    "RateupValue": 5800
+  },
+  {
     "ID": 100001,
     "GachaRateGroup": 100,
     "RateGrade": 3,

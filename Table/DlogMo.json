@@ -2998,5 +2998,95 @@
     "Loop": "Dialog_SungJinWoo_Crank_CrossArmed_01_Loop",
     "End": "Dialog_SungJinWoo_Crank_CrossArmed_01_End",
     "Facial": true
+  },
+  {
+    "ID": 304,
+    "CharID": 910229,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 305,
+    "CharID": 910229,
+    "MotionType": "Worries",
+    "Index": 0,
+    "Start": "Dialog_Female_Magician2_Worries_01_Start",
+    "Loop": "Dialog_Female_Magician2_Worries_01_Loop",
+    "End": "Dialog_Female_Magician2_Worries_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 306,
+    "CharID": 910229,
+    "MotionType": "WaistHand",
+    "Index": 0,
+    "Start": "Dialog_Female_Magician2_WaistHand_01_Start",
+    "Loop": "Dialog_Female_Magician2_WaistHand_01_Loop",
+    "End": "Dialog_Female_Magician2_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 307,
+    "CharID": 910229,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_Female_Magician2_Special_01_Start",
+    "Loop": "Dialog_Female_Magician2_Special_01_Loop",
+    "End": "Dialog_Female_Magician2_Special_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 308,
+    "CharID": 910231,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_HwangDongSuk_Member_Tanker_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 309,
+    "CharID": 910241,
+    "MotionType": "Idle",
+    "Index": 0,
+    "Start": "",
+    "Loop": "Dialog_SeoLin_Idle_01",
+    "End": "",
+    "Facial": true
+  },
+  {
+    "ID": 310,
+    "CharID": 910241,
+    "MotionType": "Special",
+    "Index": 0,
+    "Start": "Dialog_SeoLin_Talk_01_Start",
+    "Loop": "Dialog_SeoLin_Talk_01_Loop",
+    "End": "Dialog_SeoLin_Talk_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 311,
+    "CharID": 910241,
+    "MotionType": "Special",
+    "Index": 1,
+    "Start": "Dialog_SeoLin_WaistHand_01_Start",
+    "Loop": "Dialog_SeoLin_WaistHand_01_Loop",
+    "End": "Dialog_SeoLin_WaistHand_01_End",
+    "Facial": true
+  },
+  {
+    "ID": 312,
+    "CharID": 910241,
+    "MotionType": "Special",
+    "Index": 2,
+    "Start": "",
+    "Loop": "Dialog_SeoLin_Leftlook_01",
+    "End": "",
+    "Facial": true
   }
 ]
