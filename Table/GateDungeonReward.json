@@ -1,0 +1,506 @@
+[
+  {
+    "ID": 1,
+    "GateRewardGroupID": 101,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "DMissionS.TitleText.1",
+    "RewardGroupID": 1001
+  },
+  {
+    "ID": 2,
+    "GateRewardGroupID": 101,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "DMissionS.TitleText.2",
+    "RewardGroupID": 1002
+  },
+  {
+    "ID": 3,
+    "GateRewardGroupID": 101,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 6,
+    "ConditionDesc": "DMissionS.TitleText.3",
+    "RewardGroupID": 1003
+  },
+  {
+    "ID": 4,
+    "GateRewardGroupID": 101,
+    "Sort": 4,
+    "ConditionValueMin": 6,
+    "ConditionValueMax": 99,
+    "ConditionDesc": "DMissionS.TitleText.1000601",
+    "RewardGroupID": 1004
+  },
+  {
+    "ID": 6,
+    "GateRewardGroupID": 102,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 2,
+    "ConditionDesc": "DMissionS.TitleText.1000701",
+    "RewardGroupID": 2
+  },
+  {
+    "ID": 7,
+    "GateRewardGroupID": 102,
+    "Sort": 2,
+    "ConditionValueMin": 3,
+    "ConditionValueMax": 4,
+    "ConditionDesc": "DMissionS.TitleText.1001001",
+    "RewardGroupID": 3
+  },
+  {
+    "ID": 8,
+    "GateRewardGroupID": 102,
+    "Sort": 3,
+    "ConditionValueMin": 5,
+    "ConditionValueMax": 6,
+    "ConditionDesc": "DMissionS.TitleText.1001601",
+    "RewardGroupID": 4
+  },
+  {
+    "ID": 9,
+    "GateRewardGroupID": 102,
+    "Sort": 4,
+    "ConditionValueMin": 7,
+    "ConditionValueMax": 10,
+    "ConditionDesc": "DMissionS.TitleText.1001801",
+    "RewardGroupID": 5
+  },
+  {
+    "ID": 10051,
+    "GateRewardGroupID": 1005,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3005001
+  },
+  {
+    "ID": 10052,
+    "GateRewardGroupID": 1005,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3005002
+  },
+  {
+    "ID": 10053,
+    "GateRewardGroupID": 1005,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3005003
+  },
+  {
+    "ID": 10101,
+    "GateRewardGroupID": 1010,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3010001
+  },
+  {
+    "ID": 10102,
+    "GateRewardGroupID": 1010,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3010002
+  },
+  {
+    "ID": 10103,
+    "GateRewardGroupID": 1010,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3010003
+  },
+  {
+    "ID": 10151,
+    "GateRewardGroupID": 1015,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3015001
+  },
+  {
+    "ID": 10152,
+    "GateRewardGroupID": 1015,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3015002
+  },
+  {
+    "ID": 10153,
+    "GateRewardGroupID": 1015,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3015003
+  },
+  {
+    "ID": 10201,
+    "GateRewardGroupID": 1020,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3020001
+  },
+  {
+    "ID": 10202,
+    "GateRewardGroupID": 1020,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3020002
+  },
+  {
+    "ID": 10203,
+    "GateRewardGroupID": 1020,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3020003
+  },
+  {
+    "ID": 10251,
+    "GateRewardGroupID": 1025,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3025001
+  },
+  {
+    "ID": 10252,
+    "GateRewardGroupID": 1025,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3025002
+  },
+  {
+    "ID": 10253,
+    "GateRewardGroupID": 1025,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3025003
+  },
+  {
+    "ID": 10301,
+    "GateRewardGroupID": 1030,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3030001
+  },
+  {
+    "ID": 10302,
+    "GateRewardGroupID": 1030,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3030002
+  },
+  {
+    "ID": 10303,
+    "GateRewardGroupID": 1030,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3030003
+  },
+  {
+    "ID": 10351,
+    "GateRewardGroupID": 1035,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3035001
+  },
+  {
+    "ID": 10352,
+    "GateRewardGroupID": 1035,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3035002
+  },
+  {
+    "ID": 10353,
+    "GateRewardGroupID": 1035,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3035003
+  },
+  {
+    "ID": 10401,
+    "GateRewardGroupID": 1040,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3040001
+  },
+  {
+    "ID": 10402,
+    "GateRewardGroupID": 1040,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3040002
+  },
+  {
+    "ID": 10403,
+    "GateRewardGroupID": 1040,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3040003
+  },
+  {
+    "ID": 20051,
+    "GateRewardGroupID": 2005,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3005001
+  },
+  {
+    "ID": 20052,
+    "GateRewardGroupID": 2005,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3005002
+  },
+  {
+    "ID": 20053,
+    "GateRewardGroupID": 2005,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3005003
+  },
+  {
+    "ID": 20101,
+    "GateRewardGroupID": 2010,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3010001
+  },
+  {
+    "ID": 20102,
+    "GateRewardGroupID": 2010,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3010002
+  },
+  {
+    "ID": 20103,
+    "GateRewardGroupID": 2010,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3010003
+  },
+  {
+    "ID": 20151,
+    "GateRewardGroupID": 2015,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3015001
+  },
+  {
+    "ID": 20152,
+    "GateRewardGroupID": 2015,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3015002
+  },
+  {
+    "ID": 20153,
+    "GateRewardGroupID": 2015,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3015003
+  },
+  {
+    "ID": 20201,
+    "GateRewardGroupID": 2020,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3020001
+  },
+  {
+    "ID": 20202,
+    "GateRewardGroupID": 2020,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3020002
+  },
+  {
+    "ID": 20203,
+    "GateRewardGroupID": 2020,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3020003
+  },
+  {
+    "ID": 20251,
+    "GateRewardGroupID": 2025,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3025001
+  },
+  {
+    "ID": 20252,
+    "GateRewardGroupID": 2025,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3025002
+  },
+  {
+    "ID": 20253,
+    "GateRewardGroupID": 2025,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3025003
+  },
+  {
+    "ID": 20301,
+    "GateRewardGroupID": 2030,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3030001
+  },
+  {
+    "ID": 20302,
+    "GateRewardGroupID": 2030,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3030002
+  },
+  {
+    "ID": 20303,
+    "GateRewardGroupID": 2030,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3030003
+  },
+  {
+    "ID": 20351,
+    "GateRewardGroupID": 2035,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3035001
+  },
+  {
+    "ID": 20352,
+    "GateRewardGroupID": 2035,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3035002
+  },
+  {
+    "ID": 20353,
+    "GateRewardGroupID": 2035,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3035003
+  },
+  {
+    "ID": 20401,
+    "GateRewardGroupID": 2040,
+    "Sort": 1,
+    "ConditionValueMin": 1,
+    "ConditionValueMax": 1,
+    "ConditionDesc": "RedGate.ConditonReward_1",
+    "RewardGroupID": 3040001
+  },
+  {
+    "ID": 20402,
+    "GateRewardGroupID": 2040,
+    "Sort": 2,
+    "ConditionValueMin": 2,
+    "ConditionValueMax": 3,
+    "ConditionDesc": "RedGate.ConditonReward_2",
+    "RewardGroupID": 3040002
+  },
+  {
+    "ID": 20403,
+    "GateRewardGroupID": 2040,
+    "Sort": 3,
+    "ConditionValueMin": 4,
+    "ConditionValueMax": 5,
+    "ConditionDesc": "RedGate.ConditonReward_3",
+    "RewardGroupID": 3040003
+  }
+]

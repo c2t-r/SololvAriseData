@@ -1,0 +1,920 @@
+[
+  {
+    "ID": 11,
+    "Group": 1,
+    "MinLevel": 1,
+    "MaxLevel": 4,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100103,
+    "RepeatRewardGroup": 10200103
+  },
+  {
+    "ID": 12,
+    "Group": 2,
+    "MinLevel": 1,
+    "MaxLevel": 4,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100106,
+    "RepeatRewardGroup": 10200106
+  },
+  {
+    "ID": 13,
+    "Group": 3,
+    "MinLevel": 1,
+    "MaxLevel": 4,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10100110,
+    "RepeatRewardGroup": 10200110
+  },
+  {
+    "ID": 51,
+    "Group": 1,
+    "MinLevel": 5,
+    "MaxLevel": 6,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100503,
+    "RepeatRewardGroup": 10200503
+  },
+  {
+    "ID": 52,
+    "Group": 2,
+    "MinLevel": 5,
+    "MaxLevel": 6,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100506,
+    "RepeatRewardGroup": 10200506
+  },
+  {
+    "ID": 53,
+    "Group": 3,
+    "MinLevel": 5,
+    "MaxLevel": 6,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10100510,
+    "RepeatRewardGroup": 10200510
+  },
+  {
+    "ID": 71,
+    "Group": 1,
+    "MinLevel": 7,
+    "MaxLevel": 8,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100703,
+    "RepeatRewardGroup": 10200703
+  },
+  {
+    "ID": 72,
+    "Group": 2,
+    "MinLevel": 7,
+    "MaxLevel": 8,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100706,
+    "RepeatRewardGroup": 10200706
+  },
+  {
+    "ID": 73,
+    "Group": 3,
+    "MinLevel": 7,
+    "MaxLevel": 8,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10100710,
+    "RepeatRewardGroup": 10200710
+  },
+  {
+    "ID": 91,
+    "Group": 1,
+    "MinLevel": 9,
+    "MaxLevel": 10,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100903,
+    "RepeatRewardGroup": 10200903
+  },
+  {
+    "ID": 92,
+    "Group": 2,
+    "MinLevel": 9,
+    "MaxLevel": 10,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10100906,
+    "RepeatRewardGroup": 10200906
+  },
+  {
+    "ID": 93,
+    "Group": 3,
+    "MinLevel": 9,
+    "MaxLevel": 10,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10100910,
+    "RepeatRewardGroup": 10200910
+  },
+  {
+    "ID": 111,
+    "Group": 1,
+    "MinLevel": 11,
+    "MaxLevel": 13,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10101103,
+    "RepeatRewardGroup": 10201103
+  },
+  {
+    "ID": 112,
+    "Group": 2,
+    "MinLevel": 11,
+    "MaxLevel": 13,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10101106,
+    "RepeatRewardGroup": 10201106
+  },
+  {
+    "ID": 113,
+    "Group": 3,
+    "MinLevel": 11,
+    "MaxLevel": 13,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10101110,
+    "RepeatRewardGroup": 10201110
+  },
+  {
+    "ID": 141,
+    "Group": 1,
+    "MinLevel": 14,
+    "MaxLevel": 16,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10101403,
+    "RepeatRewardGroup": 10201403
+  },
+  {
+    "ID": 142,
+    "Group": 2,
+    "MinLevel": 14,
+    "MaxLevel": 16,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10101406,
+    "RepeatRewardGroup": 10201406
+  },
+  {
+    "ID": 143,
+    "Group": 3,
+    "MinLevel": 14,
+    "MaxLevel": 16,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10101410,
+    "RepeatRewardGroup": 10201410
+  },
+  {
+    "ID": 171,
+    "Group": 1,
+    "MinLevel": 17,
+    "MaxLevel": 19,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10101703,
+    "RepeatRewardGroup": 10201703
+  },
+  {
+    "ID": 172,
+    "Group": 2,
+    "MinLevel": 17,
+    "MaxLevel": 19,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10101706,
+    "RepeatRewardGroup": 10201706
+  },
+  {
+    "ID": 173,
+    "Group": 3,
+    "MinLevel": 17,
+    "MaxLevel": 19,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10101710,
+    "RepeatRewardGroup": 10201710
+  },
+  {
+    "ID": 201,
+    "Group": 1,
+    "MinLevel": 20,
+    "MaxLevel": 22,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102003,
+    "RepeatRewardGroup": 10202003
+  },
+  {
+    "ID": 202,
+    "Group": 2,
+    "MinLevel": 20,
+    "MaxLevel": 22,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102006,
+    "RepeatRewardGroup": 10202006
+  },
+  {
+    "ID": 203,
+    "Group": 3,
+    "MinLevel": 20,
+    "MaxLevel": 22,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10102010,
+    "RepeatRewardGroup": 10202010
+  },
+  {
+    "ID": 231,
+    "Group": 1,
+    "MinLevel": 23,
+    "MaxLevel": 25,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102303,
+    "RepeatRewardGroup": 10202303
+  },
+  {
+    "ID": 232,
+    "Group": 2,
+    "MinLevel": 23,
+    "MaxLevel": 25,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102306,
+    "RepeatRewardGroup": 10202306
+  },
+  {
+    "ID": 233,
+    "Group": 3,
+    "MinLevel": 23,
+    "MaxLevel": 25,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10102310,
+    "RepeatRewardGroup": 10202310
+  },
+  {
+    "ID": 261,
+    "Group": 1,
+    "MinLevel": 26,
+    "MaxLevel": 28,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102603,
+    "RepeatRewardGroup": 10202603
+  },
+  {
+    "ID": 262,
+    "Group": 2,
+    "MinLevel": 26,
+    "MaxLevel": 28,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102606,
+    "RepeatRewardGroup": 10202606
+  },
+  {
+    "ID": 263,
+    "Group": 3,
+    "MinLevel": 26,
+    "MaxLevel": 28,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10102610,
+    "RepeatRewardGroup": 10202610
+  },
+  {
+    "ID": 291,
+    "Group": 1,
+    "MinLevel": 29,
+    "MaxLevel": 31,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102903,
+    "RepeatRewardGroup": 10202903
+  },
+  {
+    "ID": 292,
+    "Group": 2,
+    "MinLevel": 29,
+    "MaxLevel": 31,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10102906,
+    "RepeatRewardGroup": 10202906
+  },
+  {
+    "ID": 293,
+    "Group": 3,
+    "MinLevel": 29,
+    "MaxLevel": 31,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10102910,
+    "RepeatRewardGroup": 10202910
+  },
+  {
+    "ID": 321,
+    "Group": 1,
+    "MinLevel": 32,
+    "MaxLevel": 34,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10103203,
+    "RepeatRewardGroup": 10203203
+  },
+  {
+    "ID": 322,
+    "Group": 2,
+    "MinLevel": 32,
+    "MaxLevel": 34,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10103206,
+    "RepeatRewardGroup": 10203206
+  },
+  {
+    "ID": 323,
+    "Group": 3,
+    "MinLevel": 32,
+    "MaxLevel": 34,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10103210,
+    "RepeatRewardGroup": 10203210
+  },
+  {
+    "ID": 351,
+    "Group": 1,
+    "MinLevel": 35,
+    "MaxLevel": 37,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10103503,
+    "RepeatRewardGroup": 10203503
+  },
+  {
+    "ID": 352,
+    "Group": 2,
+    "MinLevel": 35,
+    "MaxLevel": 37,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10103506,
+    "RepeatRewardGroup": 10203506
+  },
+  {
+    "ID": 353,
+    "Group": 3,
+    "MinLevel": 35,
+    "MaxLevel": 37,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10103510,
+    "RepeatRewardGroup": 10203510
+  },
+  {
+    "ID": 381,
+    "Group": 1,
+    "MinLevel": 38,
+    "MaxLevel": 40,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10103803,
+    "RepeatRewardGroup": 10203803
+  },
+  {
+    "ID": 382,
+    "Group": 2,
+    "MinLevel": 38,
+    "MaxLevel": 40,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10103806,
+    "RepeatRewardGroup": 10203806
+  },
+  {
+    "ID": 383,
+    "Group": 3,
+    "MinLevel": 38,
+    "MaxLevel": 40,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10103810,
+    "RepeatRewardGroup": 10203810
+  },
+  {
+    "ID": 411,
+    "Group": 1,
+    "MinLevel": 41,
+    "MaxLevel": 42,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104103,
+    "RepeatRewardGroup": 10204103
+  },
+  {
+    "ID": 412,
+    "Group": 2,
+    "MinLevel": 41,
+    "MaxLevel": 42,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104106,
+    "RepeatRewardGroup": 10204106
+  },
+  {
+    "ID": 413,
+    "Group": 3,
+    "MinLevel": 41,
+    "MaxLevel": 42,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10104110,
+    "RepeatRewardGroup": 10204110
+  },
+  {
+    "ID": 431,
+    "Group": 1,
+    "MinLevel": 43,
+    "MaxLevel": 44,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104303,
+    "RepeatRewardGroup": 10204303
+  },
+  {
+    "ID": 432,
+    "Group": 2,
+    "MinLevel": 43,
+    "MaxLevel": 44,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104306,
+    "RepeatRewardGroup": 10204306
+  },
+  {
+    "ID": 433,
+    "Group": 3,
+    "MinLevel": 43,
+    "MaxLevel": 44,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10104310,
+    "RepeatRewardGroup": 10204310
+  },
+  {
+    "ID": 451,
+    "Group": 1,
+    "MinLevel": 45,
+    "MaxLevel": 46,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104503,
+    "RepeatRewardGroup": 10204503
+  },
+  {
+    "ID": 452,
+    "Group": 2,
+    "MinLevel": 45,
+    "MaxLevel": 46,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104506,
+    "RepeatRewardGroup": 10204506
+  },
+  {
+    "ID": 453,
+    "Group": 3,
+    "MinLevel": 45,
+    "MaxLevel": 46,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10104510,
+    "RepeatRewardGroup": 10204510
+  },
+  {
+    "ID": 471,
+    "Group": 1,
+    "MinLevel": 47,
+    "MaxLevel": 48,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104703,
+    "RepeatRewardGroup": 10204703
+  },
+  {
+    "ID": 472,
+    "Group": 2,
+    "MinLevel": 47,
+    "MaxLevel": 48,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104706,
+    "RepeatRewardGroup": 10204706
+  },
+  {
+    "ID": 473,
+    "Group": 3,
+    "MinLevel": 47,
+    "MaxLevel": 48,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10104710,
+    "RepeatRewardGroup": 10204710
+  },
+  {
+    "ID": 491,
+    "Group": 1,
+    "MinLevel": 49,
+    "MaxLevel": 50,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104903,
+    "RepeatRewardGroup": 10204903
+  },
+  {
+    "ID": 492,
+    "Group": 2,
+    "MinLevel": 49,
+    "MaxLevel": 50,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10104906,
+    "RepeatRewardGroup": 10204906
+  },
+  {
+    "ID": 493,
+    "Group": 3,
+    "MinLevel": 49,
+    "MaxLevel": 50,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10104910,
+    "RepeatRewardGroup": 10204910
+  },
+  {
+    "ID": 511,
+    "Group": 1,
+    "MinLevel": 51,
+    "MaxLevel": 52,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105103,
+    "RepeatRewardGroup": 10205103
+  },
+  {
+    "ID": 512,
+    "Group": 2,
+    "MinLevel": 51,
+    "MaxLevel": 52,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105106,
+    "RepeatRewardGroup": 10205106
+  },
+  {
+    "ID": 513,
+    "Group": 3,
+    "MinLevel": 51,
+    "MaxLevel": 52,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10105110,
+    "RepeatRewardGroup": 10205110
+  },
+  {
+    "ID": 531,
+    "Group": 1,
+    "MinLevel": 53,
+    "MaxLevel": 54,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105303,
+    "RepeatRewardGroup": 10205303
+  },
+  {
+    "ID": 532,
+    "Group": 2,
+    "MinLevel": 53,
+    "MaxLevel": 54,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105306,
+    "RepeatRewardGroup": 10205306
+  },
+  {
+    "ID": 533,
+    "Group": 3,
+    "MinLevel": 53,
+    "MaxLevel": 54,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10105310,
+    "RepeatRewardGroup": 10205310
+  },
+  {
+    "ID": 551,
+    "Group": 1,
+    "MinLevel": 55,
+    "MaxLevel": 56,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105503,
+    "RepeatRewardGroup": 10205503
+  },
+  {
+    "ID": 552,
+    "Group": 2,
+    "MinLevel": 55,
+    "MaxLevel": 56,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105506,
+    "RepeatRewardGroup": 10205506
+  },
+  {
+    "ID": 553,
+    "Group": 3,
+    "MinLevel": 55,
+    "MaxLevel": 56,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10105510,
+    "RepeatRewardGroup": 10205510
+  },
+  {
+    "ID": 571,
+    "Group": 1,
+    "MinLevel": 57,
+    "MaxLevel": 58,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105703,
+    "RepeatRewardGroup": 10205703
+  },
+  {
+    "ID": 572,
+    "Group": 2,
+    "MinLevel": 57,
+    "MaxLevel": 58,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105706,
+    "RepeatRewardGroup": 10205706
+  },
+  {
+    "ID": 573,
+    "Group": 3,
+    "MinLevel": 57,
+    "MaxLevel": 58,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10105710,
+    "RepeatRewardGroup": 10205710
+  },
+  {
+    "ID": 591,
+    "Group": 1,
+    "MinLevel": 59,
+    "MaxLevel": 60,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105903,
+    "RepeatRewardGroup": 10205903
+  },
+  {
+    "ID": 592,
+    "Group": 2,
+    "MinLevel": 59,
+    "MaxLevel": 60,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10105906,
+    "RepeatRewardGroup": 10205906
+  },
+  {
+    "ID": 593,
+    "Group": 3,
+    "MinLevel": 59,
+    "MaxLevel": 60,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10105910,
+    "RepeatRewardGroup": 10205910
+  },
+  {
+    "ID": 611,
+    "Group": 1,
+    "MinLevel": 61,
+    "MaxLevel": 62,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106103,
+    "RepeatRewardGroup": 10206103
+  },
+  {
+    "ID": 612,
+    "Group": 2,
+    "MinLevel": 61,
+    "MaxLevel": 62,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106106,
+    "RepeatRewardGroup": 10206106
+  },
+  {
+    "ID": 613,
+    "Group": 3,
+    "MinLevel": 61,
+    "MaxLevel": 62,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10106110,
+    "RepeatRewardGroup": 10206110
+  },
+  {
+    "ID": 631,
+    "Group": 1,
+    "MinLevel": 63,
+    "MaxLevel": 64,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106303,
+    "RepeatRewardGroup": 10206303
+  },
+  {
+    "ID": 632,
+    "Group": 2,
+    "MinLevel": 63,
+    "MaxLevel": 64,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106306,
+    "RepeatRewardGroup": 10206306
+  },
+  {
+    "ID": 633,
+    "Group": 3,
+    "MinLevel": 63,
+    "MaxLevel": 64,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10106310,
+    "RepeatRewardGroup": 10206310
+  },
+  {
+    "ID": 651,
+    "Group": 1,
+    "MinLevel": 65,
+    "MaxLevel": 66,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106503,
+    "RepeatRewardGroup": 10206503
+  },
+  {
+    "ID": 652,
+    "Group": 2,
+    "MinLevel": 65,
+    "MaxLevel": 66,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106506,
+    "RepeatRewardGroup": 10206506
+  },
+  {
+    "ID": 653,
+    "Group": 3,
+    "MinLevel": 65,
+    "MaxLevel": 66,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10106510,
+    "RepeatRewardGroup": 10206510
+  },
+  {
+    "ID": 671,
+    "Group": 1,
+    "MinLevel": 67,
+    "MaxLevel": 68,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106703,
+    "RepeatRewardGroup": 10206703
+  },
+  {
+    "ID": 672,
+    "Group": 2,
+    "MinLevel": 67,
+    "MaxLevel": 68,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106706,
+    "RepeatRewardGroup": 10206706
+  },
+  {
+    "ID": 673,
+    "Group": 3,
+    "MinLevel": 67,
+    "MaxLevel": 68,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10106710,
+    "RepeatRewardGroup": 10206710
+  },
+  {
+    "ID": 691,
+    "Group": 1,
+    "MinLevel": 69,
+    "MaxLevel": 70,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106903,
+    "RepeatRewardGroup": 10206903
+  },
+  {
+    "ID": 692,
+    "Group": 2,
+    "MinLevel": 69,
+    "MaxLevel": 70,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10106906,
+    "RepeatRewardGroup": 10206906
+  },
+  {
+    "ID": 693,
+    "Group": 3,
+    "MinLevel": 69,
+    "MaxLevel": 70,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10106910,
+    "RepeatRewardGroup": 10206910
+  },
+  {
+    "ID": 711,
+    "Group": 1,
+    "MinLevel": 71,
+    "MaxLevel": 72,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107103,
+    "RepeatRewardGroup": 10207103
+  },
+  {
+    "ID": 712,
+    "Group": 2,
+    "MinLevel": 71,
+    "MaxLevel": 72,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107106,
+    "RepeatRewardGroup": 10207106
+  },
+  {
+    "ID": 713,
+    "Group": 3,
+    "MinLevel": 71,
+    "MaxLevel": 72,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10107110,
+    "RepeatRewardGroup": 10207110
+  },
+  {
+    "ID": 731,
+    "Group": 1,
+    "MinLevel": 73,
+    "MaxLevel": 74,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107303,
+    "RepeatRewardGroup": 10207303
+  },
+  {
+    "ID": 732,
+    "Group": 2,
+    "MinLevel": 73,
+    "MaxLevel": 74,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107306,
+    "RepeatRewardGroup": 10207306
+  },
+  {
+    "ID": 733,
+    "Group": 3,
+    "MinLevel": 73,
+    "MaxLevel": 74,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10107310,
+    "RepeatRewardGroup": 10207310
+  },
+  {
+    "ID": 751,
+    "Group": 1,
+    "MinLevel": 75,
+    "MaxLevel": 76,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107503,
+    "RepeatRewardGroup": 10207503
+  },
+  {
+    "ID": 752,
+    "Group": 2,
+    "MinLevel": 75,
+    "MaxLevel": 76,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107506,
+    "RepeatRewardGroup": 10207506
+  },
+  {
+    "ID": 753,
+    "Group": 3,
+    "MinLevel": 75,
+    "MaxLevel": 76,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10107510,
+    "RepeatRewardGroup": 10207510
+  },
+  {
+    "ID": 771,
+    "Group": 1,
+    "MinLevel": 77,
+    "MaxLevel": 78,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107703,
+    "RepeatRewardGroup": 10207703
+  },
+  {
+    "ID": 772,
+    "Group": 2,
+    "MinLevel": 77,
+    "MaxLevel": 78,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107706,
+    "RepeatRewardGroup": 10207706
+  },
+  {
+    "ID": 773,
+    "Group": 3,
+    "MinLevel": 77,
+    "MaxLevel": 78,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10107710,
+    "RepeatRewardGroup": 10207710
+  },
+  {
+    "ID": 791,
+    "Group": 1,
+    "MinLevel": 79,
+    "MaxLevel": 80,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107903,
+    "RepeatRewardGroup": 10207903
+  },
+  {
+    "ID": 792,
+    "Group": 2,
+    "MinLevel": 79,
+    "MaxLevel": 80,
+    "ClearCount": 3,
+    "InitialRewardGroup": 10107906,
+    "RepeatRewardGroup": 10207906
+  },
+  {
+    "ID": 793,
+    "Group": 3,
+    "MinLevel": 79,
+    "MaxLevel": 80,
+    "ClearCount": 4,
+    "InitialRewardGroup": 10107910,
+    "RepeatRewardGroup": 10207910
+  }
+]

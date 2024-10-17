@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 1,
+    "GemSubGroupID": 1001,
+    "GemSlotGroupID": 1001,
+    "Unused": true,
+    "Area1Count": 8,
+    "Area2Count": 3,
+    "RarityPoint": "[1,10,100,1000]",
+    "GradePoint": "[1,5,10,25]",
+    "StringName": "GemMain.StringName.1001",
+    "StringDesc": "GemMain.StringDesc.1001",
+    "PageNum": 1,
+    "PageUnlock": "Gem"
+  },
+  {
+    "ID": 2,
+    "GemSubGroupID": 1002,
+    "GemSlotGroupID": 1002,
+    "Unused": true,
+    "Area1Count": 8,
+    "Area2Count": 5,
+    "RarityPoint": "[1,10,100,1000]",
+    "GradePoint": "[1,5,10,25]",
+    "StringName": "GemMain.StringName.1002",
+    "StringDesc": "GemMain.StringDesc.1002",
+    "PageNum": 2,
+    "PageUnlock": "GemPage2"
+  }
+]

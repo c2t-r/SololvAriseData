@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "ChangeTarget": true,
+    "TargetCheck": true,
+    "ConditionType": "HPCheck",
+    "Value1": 1,
+    "Value2": 50,
+    "Value3": 0,
+    "ValueString": ""
+  },
+  {
+    "ID": 2,
+    "ChangeTarget": true,
+    "TargetCheck": true,
+    "ConditionType": "ElementCheck",
+    "Value1": 4,
+    "Value2": 0,
+    "Value3": 0,
+    "ValueString": ""
+  },
+  {
+    "ID": 3,
+    "ChangeTarget": true,
+    "TargetCheck": true,
+    "ConditionType": "HPCompare",
+    "Value1": 1,
+    "Value2": 0,
+    "Value3": 0,
+    "ValueString": ""
+  },
+  {
+    "ID": 4,
+    "ChangeTarget": true,
+    "TargetCheck": true,
+    "ConditionType": "BattlePowerCheck",
+    "Value1": 0,
+    "Value2": 0,
+    "Value3": 0,
+    "ValueString": ""
+  }
+]

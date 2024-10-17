@@ -1,0 +1,947 @@
+[
+  {
+    "ID": 101,
+    "CharID": 1,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title01",
+    "Desc": "[Story.CharacterInfo.Desc1.01.01,Story.CharacterInfo.Desc1.01.02,Blank,Story.CharacterInfo.Desc1.01.03,Story.CharacterInfo.Desc1.01.04,Blank,Story.CharacterInfo.Desc1.01.05,Blank,Story.CharacterInfo.Desc1.01.06,Blank,Story.CharacterInfo.Desc1.01.07,Blank,Story.CharacterInfo.Desc1.01.08,Blank,Story.CharacterInfo.Desc1.01.09,Blank,Story.CharacterInfo.Desc1.01.10,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 102,
+    "CharID": 1,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title02",
+    "Desc": "[Story.CharacterInfo.Desc1.02.01,Blank,Story.CharacterInfo.Desc1.02.02,Story.CharacterInfo.Desc1.02.03,Blank,Story.CharacterInfo.Desc1.02.04,Blank,Story.CharacterInfo.Desc1.02.05,Blank,Story.CharacterInfo.Desc1.02.06,Blank,Story.CharacterInfo.Desc1.02.07,Blank,Story.CharacterInfo.Desc1.02.08,Blank,Story.CharacterInfo.Desc1.02.09,Blank,Story.CharacterInfo.Desc1.02.10,Blank,Story.CharacterInfo.Desc1.02.11,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 103,
+    "CharID": 1,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title03",
+    "Desc": "[Story.CharacterInfo.Desc1.03.01,Blank,Story.CharacterInfo.Desc1.03.02,Blank,Story.CharacterInfo.Desc1.03.03,Blank,Story.CharacterInfo.Desc1.03.04,Blank,Story.CharacterInfo.Desc1.03.05,Blank,Story.CharacterInfo.Desc1.03.06,Blank,Story.CharacterInfo.Desc1.03.07,Blank,Story.CharacterInfo.Desc1.03.08,Blank,Story.CharacterInfo.Desc1.03.09,Blank,Story.CharacterInfo.Desc1.03.10,Blank,Story.CharacterInfo.Desc1.03.11,Blank,Story.CharacterInfo.Desc1.03.12,Blank,Story.CharacterInfo.Desc1.03.13,Blank,Story.CharacterInfo.Desc1.03.14,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 301
+  },
+  {
+    "ID": 104,
+    "CharID": 1,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title04",
+    "Desc": "[Story.CharacterInfo.Desc1.04.01,Blank,Story.CharacterInfo.Desc1.04.02,Blank,Story.CharacterInfo.Desc1.04.03,Blank,Story.CharacterInfo.Desc1.04.04,Blank,Story.CharacterInfo.Desc1.04.05,Blank,Story.CharacterInfo.Desc1.04.06,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 401
+  },
+  {
+    "ID": 105,
+    "CharID": 1,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title05",
+    "Desc": "[Story.CharacterInfo.Desc1.05.01,Blank,Story.CharacterInfo.Desc1.05.02,Blank,Story.CharacterInfo.Desc1.05.03,Blank,Story.CharacterInfo.Desc1.05.04,Blank,Story.CharacterInfo.Desc1.05.05,Blank,Story.CharacterInfo.Desc1.05.06,Blank,Story.CharacterInfo.Desc1.05.07,Blank,Story.CharacterInfo.Desc1.05.08,Blank,Story.CharacterInfo.Desc1.05.09,Blank,Story.CharacterInfo.Desc1.05.10,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 501
+  },
+  {
+    "ID": 1101,
+    "CharID": 11,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title06",
+    "Desc": "[Story.CharacterInfo.Desc11.01.01,Blank,Story.CharacterInfo.Desc11.01.02,Blank,Story.CharacterInfo.Desc11.01.03,Blank,Story.CharacterInfo.Desc11.01.04,Blank,Story.CharacterInfo.Desc11.01.05,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 1102,
+    "CharID": 11,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title07",
+    "Desc": "[Story.CharacterInfo.Desc11.02.01,Blank,Story.CharacterInfo.Desc11.02.02,Story.CharacterInfo.Desc11.02.03,Blank,Story.CharacterInfo.Desc11.02.04,Story.CharacterInfo.Desc11.02.05,Blank,Story.CharacterInfo.Desc11.02.06,Blank,Story.CharacterInfo.Desc11.02.07,Story.CharacterInfo.Desc11.02.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 5
+  },
+  {
+    "ID": 1103,
+    "CharID": 11,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title08",
+    "Desc": "[Story.CharacterInfo.Desc11.03.01,Blank,Story.CharacterInfo.Desc11.03.02,Blank,Story.CharacterInfo.Desc11.03.03,Blank,Story.CharacterInfo.Desc11.03.04,Blank,Story.CharacterInfo.Desc11.03.05,Blank,Story.CharacterInfo.Desc11.03.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 1104,
+    "CharID": 11,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title09",
+    "Desc": "[Story.CharacterInfo.Desc11.04.01,Blank,Story.CharacterInfo.Desc11.04.02,Blank,Story.CharacterInfo.Desc11.04.03,Blank,Story.CharacterInfo.Desc11.04.04,Blank,Story.CharacterInfo.Desc11.04.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 15
+  },
+  {
+    "ID": 1105,
+    "CharID": 11,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title10",
+    "Desc": "[Story.CharacterInfo.Desc11.05.01,Story.CharacterInfo.Desc11.05.02,Blank,Story.CharacterInfo.Desc11.05.03,Blank,Story.CharacterInfo.Desc11.05.04,Blank,Story.CharacterInfo.Desc11.05.05,Story.CharacterInfo.Desc11.05.06,Blank,Story.CharacterInfo.Desc11.05.07,Story.CharacterInfo.Desc11.05.08,Blank,Story.CharacterInfo.Desc11.05.09,Blank,Story.CharacterInfo.Desc11.05.10,Blank,Story.CharacterInfo.Desc11.05.11,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 2101,
+    "CharID": 21,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title11",
+    "Desc": "[Story.CharacterInfo.Desc21.01.01,Blank,Story.CharacterInfo.Desc21.01.02,Story.CharacterInfo.Desc21.01.03,Blank,Story.CharacterInfo.Desc21.01.04,Blank,Story.CharacterInfo.Desc21.01.05,Blank,Story.CharacterInfo.Desc21.01.06,Blank,Story.CharacterInfo.Desc21.01.07,Story.CharacterInfo.Desc21.01.08,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 2102,
+    "CharID": 21,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title12",
+    "Desc": "[Story.CharacterInfo.Desc21.02.01,Blank,Story.CharacterInfo.Desc21.02.02,Blank,Story.CharacterInfo.Desc21.02.03,Blank,Story.CharacterInfo.Desc21.02.04,Blank,Story.CharacterInfo.Desc21.02.05,Story.CharacterInfo.Desc21.02.06,Blank,Story.CharacterInfo.Desc21.02.07,Blank,Story.CharacterInfo.Desc21.02.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 15
+  },
+  {
+    "ID": 2103,
+    "CharID": 21,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title13",
+    "Desc": "[Story.CharacterInfo.Desc21.03.01,Story.CharacterInfo.Desc21.03.02,Blank,Story.CharacterInfo.Desc21.03.03,Blank,Story.CharacterInfo.Desc21.03.04,Story.CharacterInfo.Desc21.03.05,Blank,Story.CharacterInfo.Desc21.03.06,Blank,Story.CharacterInfo.Desc21.03.07,Blank,Story.CharacterInfo.Desc21.03.08,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 1206
+  },
+  {
+    "ID": 3101,
+    "CharID": 31,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title14",
+    "Desc": "[Story.CharacterInfo.Desc31.01.01,Blank,Story.CharacterInfo.Desc31.01.02,Blank,Story.CharacterInfo.Desc31.01.03,Blank,Story.CharacterInfo.Desc31.01.04,Blank,Story.CharacterInfo.Desc31.01.05,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 3102,
+    "CharID": 31,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title15",
+    "Desc": "[Story.CharacterInfo.Desc31.02.01,Blank,Story.CharacterInfo.Desc31.02.02,Blank,Story.CharacterInfo.Desc31.02.03,Blank,Story.CharacterInfo.Desc31.02.04,Blank,Story.CharacterInfo.Desc31.02.05,Blank,Story.CharacterInfo.Desc31.02.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 3103,
+    "CharID": 31,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title16",
+    "Desc": "[Story.CharacterInfo.Desc31.03.01,Blank,Story.CharacterInfo.Desc31.03.02,Blank,Story.CharacterInfo.Desc31.03.03,Blank,Story.CharacterInfo.Desc31.03.04,Blank,Story.CharacterInfo.Desc31.03.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 3104,
+    "CharID": 31,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title17",
+    "Desc": "[Story.CharacterInfo.Desc31.04.01,Blank,Story.CharacterInfo.Desc31.04.02,Blank,Story.CharacterInfo.Desc31.04.03,Blank,Story.CharacterInfo.Desc31.04.04,Blank,Story.CharacterInfo.Desc31.04.05,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 1202
+  },
+  {
+    "ID": 4101,
+    "CharID": 41,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title18",
+    "Desc": "[Story.CharacterInfo.Desc41.01.01,Blank,Story.CharacterInfo.Desc41.01.02,Blank,Story.CharacterInfo.Desc41.01.03,Blank,Story.CharacterInfo.Desc41.01.04,Blank,Story.CharacterInfo.Desc41.01.05,Blank,Story.CharacterInfo.Desc41.01.06,Blank,Story.CharacterInfo.Desc41.01.07,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 4102,
+    "CharID": 41,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title19",
+    "Desc": "[Story.CharacterInfo.Desc41.02.01,Blank,Story.CharacterInfo.Desc41.02.02,Blank,Story.CharacterInfo.Desc41.02.03,Blank,Story.CharacterInfo.Desc41.02.04,Blank,Story.CharacterInfo.Desc41.02.05,Blank,Story.CharacterInfo.Desc41.02.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 4103,
+    "CharID": 41,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title20",
+    "Desc": "[Story.CharacterInfo.Desc41.03.01,Story.CharacterInfo.Desc41.03.02,Blank,Story.CharacterInfo.Desc41.03.03,Blank,Story.CharacterInfo.Desc41.03.04,Blank,Story.CharacterInfo.Desc41.03.05,Blank,Story.CharacterInfo.Desc41.03.06,Blank,Story.CharacterInfo.Desc41.03.07,Blank,Story.CharacterInfo.Desc41.03.08,Blank,Story.CharacterInfo.Desc41.03.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 4104,
+    "CharID": 41,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title21",
+    "Desc": "[Story.CharacterInfo.Desc41.04.01,Blank,Story.CharacterInfo.Desc41.04.02,Blank,Story.CharacterInfo.Desc41.04.03,Story.CharacterInfo.Desc41.04.04,Blank,Story.CharacterInfo.Desc41.04.05,Blank,Story.CharacterInfo.Desc41.04.06,Blank,Story.CharacterInfo.Desc41.04.07,Blank,Story.CharacterInfo.Desc41.04.08,Blank,Story.CharacterInfo.Desc41.04.09,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 20618
+  },
+  {
+    "ID": 5101,
+    "CharID": 51,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title22",
+    "Desc": "[Story.CharacterInfo.Desc51.01.01,Blank,Story.CharacterInfo.Desc51.01.02,Blank,Story.CharacterInfo.Desc51.01.03,Story.CharacterInfo.Desc51.01.04,Blank,Story.CharacterInfo.Desc51.01.05,Blank,Story.CharacterInfo.Desc51.01.06,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 5102,
+    "CharID": 51,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title23",
+    "Desc": "[Story.CharacterInfo.Desc51.02.01,Blank,Story.CharacterInfo.Desc51.02.02,Blank,Story.CharacterInfo.Desc51.02.03,Blank,Story.CharacterInfo.Desc51.02.04,Story.CharacterInfo.Desc51.02.05,Blank,Story.CharacterInfo.Desc51.02.06,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 302
+  },
+  {
+    "ID": 5103,
+    "CharID": 51,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title24",
+    "Desc": "[Story.CharacterInfo.Desc51.03.01,Blank,Story.CharacterInfo.Desc51.03.02,Blank,Story.CharacterInfo.Desc51.03.03,Story.CharacterInfo.Desc51.03.04,Blank,Story.CharacterInfo.Desc51.03.05,Blank,Story.CharacterInfo.Desc51.03.06,Blank,Story.CharacterInfo.Desc51.03.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 6201,
+    "CharID": 62,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title25",
+    "Desc": "[Story.CharacterInfo.Desc62.01.01,Blank,Story.CharacterInfo.Desc62.01.02,Blank,Story.CharacterInfo.Desc62.01.03,Blank,Story.CharacterInfo.Desc62.01.04,Blank,Story.CharacterInfo.Desc62.01.05,Blank,Story.CharacterInfo.Desc62.01.06,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 6202,
+    "CharID": 62,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title26",
+    "Desc": "[Story.CharacterInfo.Desc62.02.01,Blank,Story.CharacterInfo.Desc62.02.02,Blank,Story.CharacterInfo.Desc62.02.03,Blank,Story.CharacterInfo.Desc62.02.04,Blank,Story.CharacterInfo.Desc62.02.05,Blank,Story.CharacterInfo.Desc62.02.06,Blank,Story.CharacterInfo.Desc62.02.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 6203,
+    "CharID": 62,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title27",
+    "Desc": "[Story.CharacterInfo.Desc62.03.01,Blank,Story.CharacterInfo.Desc62.03.02,Blank,Story.CharacterInfo.Desc62.03.03,Blank,Story.CharacterInfo.Desc62.03.04,Blank,Story.CharacterInfo.Desc62.03.05,Blank,Story.CharacterInfo.Desc62.03.06,Blank,Story.CharacterInfo.Desc62.03.07,Blank,Story.CharacterInfo.Desc62.03.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 40
+  },
+  {
+    "ID": 7101,
+    "CharID": 71,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title28",
+    "Desc": "[Story.CharacterInfo.Desc71.01.01,Story.CharacterInfo.Desc71.01.02,Blank,Story.CharacterInfo.Desc71.01.03,Blank,Story.CharacterInfo.Desc71.01.04,Blank,Story.CharacterInfo.Desc71.01.05,Blank,Story.CharacterInfo.Desc71.01.06,Story.CharacterInfo.Desc71.01.07,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 7102,
+    "CharID": 71,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title29",
+    "Desc": "[Story.CharacterInfo.Desc71.02.01,Story.CharacterInfo.Desc71.02.02,Blank,Story.CharacterInfo.Desc71.02.03,Blank,Story.CharacterInfo.Desc71.02.04,Blank,Story.CharacterInfo.Desc71.02.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 7103,
+    "CharID": 71,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title30",
+    "Desc": "[Story.CharacterInfo.Desc71.03.01,Blank,Story.CharacterInfo.Desc71.03.02,Blank,Story.CharacterInfo.Desc71.03.03,Blank,Story.CharacterInfo.Desc71.03.04,Blank,Story.CharacterInfo.Desc71.03.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 40
+  },
+  {
+    "ID": 7104,
+    "CharID": 71,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title31",
+    "Desc": "[Story.CharacterInfo.Desc71.04.01,Blank,Story.CharacterInfo.Desc71.04.02,Story.CharacterInfo.Desc71.04.03,Blank,Story.CharacterInfo.Desc71.04.04,Blank,Story.CharacterInfo.Desc71.04.05,Blank,Story.CharacterInfo.Desc71.04.06,Blank,Story.CharacterInfo.Desc71.04.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 60
+  },
+  {
+    "ID": 7105,
+    "CharID": 71,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title32",
+    "Desc": "[Story.CharacterInfo.Desc71.05.01,Blank,Story.CharacterInfo.Desc71.05.02,Blank,Story.CharacterInfo.Desc71.05.03,Blank,Story.CharacterInfo.Desc71.05.04,Blank,Story.CharacterInfo.Desc71.05.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 80
+  },
+  {
+    "ID": 8101,
+    "CharID": 81,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title33",
+    "Desc": "[Story.CharacterInfo.Desc81.01.01,Story.CharacterInfo.Desc81.01.02,Blank,Story.CharacterInfo.Desc81.01.03,Blank,Story.CharacterInfo.Desc81.01.04,Blank,Story.CharacterInfo.Desc81.01.05,Blank,Story.CharacterInfo.Desc81.01.06,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 8102,
+    "CharID": 81,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title34",
+    "Desc": "[Story.CharacterInfo.Desc81.02.01,Blank,Story.CharacterInfo.Desc81.02.02,Blank,Story.CharacterInfo.Desc81.02.03,Blank,Story.CharacterInfo.Desc81.02.04,Blank,Story.CharacterInfo.Desc81.02.05,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 203
+  },
+  {
+    "ID": 8103,
+    "CharID": 81,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title35",
+    "Desc": "[Story.CharacterInfo.Desc81.03.01,Blank,Story.CharacterInfo.Desc81.03.02,Blank,Story.CharacterInfo.Desc81.03.03,Blank,Story.CharacterInfo.Desc81.03.04,Blank,Story.CharacterInfo.Desc81.03.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 5
+  },
+  {
+    "ID": 8104,
+    "CharID": 81,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title36",
+    "Desc": "[Story.CharacterInfo.Desc81.04.01,Blank,Story.CharacterInfo.Desc81.04.02,Blank,Story.CharacterInfo.Desc81.04.03,Blank,Story.CharacterInfo.Desc81.04.04,Blank,Story.CharacterInfo.Desc81.04.05,Blank,Story.CharacterInfo.Desc81.04.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 8105,
+    "CharID": 81,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title37",
+    "Desc": "[Story.CharacterInfo.Desc81.05.01,Blank,Story.CharacterInfo.Desc81.05.02,Blank,Story.CharacterInfo.Desc81.05.03,Blank,Story.CharacterInfo.Desc81.05.04,Blank,Story.CharacterInfo.Desc81.05.05,Blank,Story.CharacterInfo.Desc81.05.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 15
+  },
+  {
+    "ID": 8106,
+    "CharID": 81,
+    "Step": 6,
+    "Title": "Story.CharacterInfo_Title38",
+    "Desc": "[Story.CharacterInfo.Desc81.06.01,Blank,Story.CharacterInfo.Desc81.06.02,Blank,Story.CharacterInfo.Desc81.06.03,Blank,Story.CharacterInfo.Desc81.06.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 9101,
+    "CharID": 91,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title39",
+    "Desc": "[Story.CharacterInfo.Desc91.01.01,Blank,Story.CharacterInfo.Desc91.01.02,Blank,Story.CharacterInfo.Desc91.01.03,Blank,Story.CharacterInfo.Desc91.01.04,Blank,Story.CharacterInfo.Desc91.01.05,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 9102,
+    "CharID": 91,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title40",
+    "Desc": "[Story.CharacterInfo.Desc91.02.01,Blank,Story.CharacterInfo.Desc91.02.02,Blank,Story.CharacterInfo.Desc91.02.03,Blank,Story.CharacterInfo.Desc91.02.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 5
+  },
+  {
+    "ID": 9103,
+    "CharID": 91,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title41",
+    "Desc": "[Story.CharacterInfo.Desc91.03.01,Blank,Story.CharacterInfo.Desc91.03.02,Blank,Story.CharacterInfo.Desc91.03.03,Story.CharacterInfo.Desc91.03.04,Blank,Story.CharacterInfo.Desc91.03.05,Blank,Story.CharacterInfo.Desc91.03.06,Blank,Story.CharacterInfo.Desc91.03.07,Blank,Story.CharacterInfo.Desc91.03.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 9104,
+    "CharID": 91,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title42",
+    "Desc": "[Story.CharacterInfo.Desc91.04.01,Blank,Story.CharacterInfo.Desc91.04.02,Blank,Story.CharacterInfo.Desc91.04.03,Story.CharacterInfo.Desc91.04.04,Blank,Story.CharacterInfo.Desc91.04.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 15
+  },
+  {
+    "ID": 9105,
+    "CharID": 91,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title43",
+    "Desc": "[Story.CharacterInfo.Desc91.05.01,Story.CharacterInfo.Desc91.05.02,Blank,Story.CharacterInfo.Desc91.05.03,Blank,Story.CharacterInfo.Desc91.05.04,Blank,Story.CharacterInfo.Desc91.05.05,Blank,Story.CharacterInfo.Desc91.05.06,Blank,Story.CharacterInfo.Desc91.05.07,Blank,Story.CharacterInfo.Desc91.05.08,Blank,Story.CharacterInfo.Desc91.05.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 10101,
+    "CharID": 101,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title44",
+    "Desc": "[Story.CharacterInfo.Desc101.01.01,Blank,Story.CharacterInfo.Desc101.01.02,Story.CharacterInfo.Desc101.01.03,Blank,Story.CharacterInfo.Desc101.01.04,Blank,Story.CharacterInfo.Desc101.01.05,Blank,Story.CharacterInfo.Desc101.01.06,Blank,Story.CharacterInfo.Desc101.01.07,Blank,Story.CharacterInfo.Desc101.01.08,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 10102,
+    "CharID": 101,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title45",
+    "Desc": "[Story.CharacterInfo.Desc101.02.01,Blank,Story.CharacterInfo.Desc101.02.02,Blank,Story.CharacterInfo.Desc101.02.03,Blank,Story.CharacterInfo.Desc101.02.04,Blank,Story.CharacterInfo.Desc101.02.05,Blank,Story.CharacterInfo.Desc101.02.06,Blank,Story.CharacterInfo.Desc101.02.07,Blank,Story.CharacterInfo.Desc101.02.08,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 308
+  },
+  {
+    "ID": 11101,
+    "CharID": 111,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title46",
+    "Desc": "[Story.CharacterInfo.Desc111.01.01,Blank,Story.CharacterInfo.Desc111.01.02,Blank,Story.CharacterInfo.Desc111.01.03,Blank,Story.CharacterInfo.Desc111.01.04,Blank,Story.CharacterInfo.Desc111.01.05,Blank,Story.CharacterInfo.Desc111.01.06,Blank,Story.CharacterInfo.Desc111.01.07,Blank,Story.CharacterInfo.Desc111.01.08,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 11102,
+    "CharID": 111,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title47",
+    "Desc": "[Story.CharacterInfo.Desc111.02.01,Story.CharacterInfo.Desc111.02.02,Blank,Story.CharacterInfo.Desc111.02.03,Blank,Story.CharacterInfo.Desc111.02.04,Blank,Story.CharacterInfo.Desc111.02.05,Blank,Story.CharacterInfo.Desc111.02.06,Story.CharacterInfo.Desc111.02.07,Blank,Story.CharacterInfo.Desc111.02.08,Story.CharacterInfo.Desc111.02.09,Blank,Story.CharacterInfo.Desc111.02.10,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 302
+  },
+  {
+    "ID": 11103,
+    "CharID": 111,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title48",
+    "Desc": "[Story.CharacterInfo.Desc111.03.01,Story.CharacterInfo.Desc111.03.02,Blank,Story.CharacterInfo.Desc111.03.03,Blank,Story.CharacterInfo.Desc111.03.04,Blank,Story.CharacterInfo.Desc111.03.05,Blank,Story.CharacterInfo.Desc111.03.06,Blank,Story.CharacterInfo.Desc111.03.07,Blank,Story.CharacterInfo.Desc111.03.08,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 308
+  },
+  {
+    "ID": 12101,
+    "CharID": 121,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title49",
+    "Desc": "[Story.CharacterInfo.Desc121.01.01,Blank,Story.CharacterInfo.Desc121.01.02,Blank,Story.CharacterInfo.Desc121.01.03,Blank,Story.CharacterInfo.Desc121.01.04,Blank,Story.CharacterInfo.Desc121.01.05,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 12102,
+    "CharID": 121,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title50",
+    "Desc": "[Story.CharacterInfo.Desc121.02.01,Blank,Story.CharacterInfo.Desc121.02.02,Blank,Story.CharacterInfo.Desc121.02.03,Blank,Story.CharacterInfo.Desc121.02.04,Blank,Story.CharacterInfo.Desc121.02.05,Blank,Story.CharacterInfo.Desc121.02.06,Blank,Story.CharacterInfo.Desc121.02.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 13101,
+    "CharID": 131,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title51",
+    "Desc": "[Story.CharacterInfo.Desc131.01.01,Blank,Story.CharacterInfo.Desc131.01.02,Blank,Story.CharacterInfo.Desc131.01.03,Blank,Story.CharacterInfo.Desc131.01.04,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 13102,
+    "CharID": 131,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title52",
+    "Desc": "[Story.CharacterInfo.Desc131.02.01,Blank,Story.CharacterInfo.Desc131.02.02,Blank,Story.CharacterInfo.Desc131.02.03,Blank,Story.CharacterInfo.Desc131.02.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 13103,
+    "CharID": 131,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title53",
+    "Desc": "[Story.CharacterInfo.Desc131.03.01,Story.CharacterInfo.Desc131.03.02,Blank,Story.CharacterInfo.Desc131.03.03,Blank,Story.CharacterInfo.Desc131.03.04,Blank,Story.CharacterInfo.Desc131.03.05,Blank,Story.CharacterInfo.Desc131.03.06,Blank,Story.CharacterInfo.Desc131.03.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 13104,
+    "CharID": 131,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title54",
+    "Desc": "[Story.CharacterInfo.Desc131.04.01,Blank,Story.CharacterInfo.Desc131.04.02,Story.CharacterInfo.Desc131.04.03,Blank,Story.CharacterInfo.Desc131.04.04,Blank,Story.CharacterInfo.Desc131.04.05,Blank,Story.CharacterInfo.Desc131.04.06,Blank,Story.CharacterInfo.Desc131.04.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 40
+  },
+  {
+    "ID": 13105,
+    "CharID": 131,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title55",
+    "Desc": "[Story.CharacterInfo.Desc131.05.01,Blank,Story.CharacterInfo.Desc131.05.02,Blank,Story.CharacterInfo.Desc131.05.03,Blank,Story.CharacterInfo.Desc131.05.04,Story.CharacterInfo.Desc131.05.05,Blank,Story.CharacterInfo.Desc131.05.06,Blank,Story.CharacterInfo.Desc131.05.07,Blank,Story.CharacterInfo.Desc131.05.08,Story.CharacterInfo.Desc131.05.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 60
+  },
+  {
+    "ID": 13106,
+    "CharID": 131,
+    "Step": 6,
+    "Title": "Story.CharacterInfo_Title56",
+    "Desc": "[Story.CharacterInfo.Desc131.06.01,Blank,Story.CharacterInfo.Desc131.06.02,Blank,Story.CharacterInfo.Desc131.06.03,Story.CharacterInfo.Desc131.06.04,Blank,Story.CharacterInfo.Desc131.06.05,Blank,Story.CharacterInfo.Desc131.06.06,Blank,Story.CharacterInfo.Desc131.06.07,Blank,Story.CharacterInfo.Desc131.06.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 80
+  },
+  {
+    "ID": 14101,
+    "CharID": 141,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title57",
+    "Desc": "[Story.CharacterInfo.Desc141.01.01,Blank,Story.CharacterInfo.Desc141.01.02,Blank,Story.CharacterInfo.Desc141.01.03,Blank,Story.CharacterInfo.Desc141.01.04,Blank,Story.CharacterInfo.Desc141.01.05,Blank,Story.CharacterInfo.Desc141.01.06,Blank,Story.CharacterInfo.Desc141.01.07,Blank,Story.CharacterInfo.Desc141.01.08,Blank,Story.CharacterInfo.Desc141.01.09,Blank,Story.CharacterInfo.Desc141.01.10,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 14102,
+    "CharID": 141,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title58",
+    "Desc": "[Story.CharacterInfo.Desc141.02.01,Blank,Story.CharacterInfo.Desc141.02.02,Blank,Story.CharacterInfo.Desc141.02.03,Blank,Story.CharacterInfo.Desc141.02.04,Blank,Story.CharacterInfo.Desc141.02.05,Blank,Story.CharacterInfo.Desc141.02.06,Blank,Story.CharacterInfo.Desc141.02.07,Story.CharacterInfo.Desc141.02.08,Blank,Story.CharacterInfo.Desc141.02.09,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 20602
+  },
+  {
+    "ID": 14103,
+    "CharID": 141,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title59",
+    "Desc": "[Story.CharacterInfo.Desc141.03.01,Story.CharacterInfo.Desc141.03.02,Blank,Story.CharacterInfo.Desc141.03.03,Blank,Story.CharacterInfo.Desc141.03.04,Blank,Story.CharacterInfo.Desc141.03.05,Blank,Story.CharacterInfo.Desc141.03.06,Blank,Story.CharacterInfo.Desc141.03.07,Blank,Story.CharacterInfo.Desc141.03.08,Blank,Story.CharacterInfo.Desc141.03.09,Blank,Story.CharacterInfo.Desc141.03.10,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 15101,
+    "CharID": 151,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title60",
+    "Desc": "[Story.CharacterInfo.Desc151.01.01,Blank,Story.CharacterInfo.Desc151.01.02,Blank,Story.CharacterInfo.Desc151.01.03,Blank,Story.CharacterInfo.Desc151.01.04,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 15102,
+    "CharID": 151,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title61",
+    "Desc": "[Story.CharacterInfo.Desc151.02.01,Blank,Story.CharacterInfo.Desc151.02.02,Blank,Story.CharacterInfo.Desc151.02.03,Blank,Story.CharacterInfo.Desc151.02.04,Blank,Blank,Blank]",
+    "UnlockType": "StoryMission",
+    "UnlockValue": 101
+  },
+  {
+    "ID": 15103,
+    "CharID": 151,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title62",
+    "Desc": "[Story.CharacterInfo.Desc151.03.01,Blank,Story.CharacterInfo.Desc151.03.02,Story.CharacterInfo.Desc151.03.03,Blank,Story.CharacterInfo.Desc151.03.04,Blank,Story.CharacterInfo.Desc151.03.05,Blank,Story.CharacterInfo.Desc151.03.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 15104,
+    "CharID": 151,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title63",
+    "Desc": "[Story.CharacterInfo.Desc151.04.01,Blank,Story.CharacterInfo.Desc151.04.02,Blank,Story.CharacterInfo.Desc151.04.03,Blank,Story.CharacterInfo.Desc151.04.04,Story.CharacterInfo.Desc151.04.05,Blank,Story.CharacterInfo.Desc151.04.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 15105,
+    "CharID": 151,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title64",
+    "Desc": "[Story.CharacterInfo.Desc151.05.01,Blank,Story.CharacterInfo.Desc151.05.02,Blank,Story.CharacterInfo.Desc151.05.03,Blank,Story.CharacterInfo.Desc151.05.04,Blank,Story.CharacterInfo.Desc151.05.05,Story.CharacterInfo.Desc151.05.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 16101,
+    "CharID": 161,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title65",
+    "Desc": "[Story.CharacterInfo.Desc161.01.01,Blank,Story.CharacterInfo.Desc161.01.02,Blank,Story.CharacterInfo.Desc161.01.03,Blank,Story.CharacterInfo.Desc161.01.04,Story.CharacterInfo.Desc161.01.05,Blank,Story.CharacterInfo.Desc161.01.06,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 16102,
+    "CharID": 161,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title66",
+    "Desc": "[Story.CharacterInfo.Desc161.02.01,Blank,Story.CharacterInfo.Desc161.02.02,Blank,Story.CharacterInfo.Desc161.02.03,Blank,Story.CharacterInfo.Desc161.02.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 16103,
+    "CharID": 161,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title67",
+    "Desc": "[Story.CharacterInfo.Desc161.03.01,Blank,Story.CharacterInfo.Desc161.03.02,Blank,Story.CharacterInfo.Desc161.03.03,Blank,Story.CharacterInfo.Desc161.03.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 16104,
+    "CharID": 161,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title68",
+    "Desc": "[Story.CharacterInfo.Desc161.04.01,Story.CharacterInfo.Desc161.04.02,Blank,Story.CharacterInfo.Desc161.04.03,Blank,Story.CharacterInfo.Desc161.04.04,Blank,Story.CharacterInfo.Desc161.04.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 17101,
+    "CharID": 171,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title69",
+    "Desc": "[Story.CharacterInfo.Desc171.01.01,Blank,Story.CharacterInfo.Desc171.01.02,Blank,Story.CharacterInfo.Desc171.01.03,Blank,Story.CharacterInfo.Desc171.01.04,Story.CharacterInfo.Desc171.01.05,Blank,Story.CharacterInfo.Desc171.01.06,Blank,Story.CharacterInfo.Desc171.01.07,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 17102,
+    "CharID": 171,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title70",
+    "Desc": "[Story.CharacterInfo.Desc171.02.01,Story.CharacterInfo.Desc171.02.02,Blank,Story.CharacterInfo.Desc171.02.03,Blank,Story.CharacterInfo.Desc171.02.04,Blank,Story.CharacterInfo.Desc171.02.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 17103,
+    "CharID": 171,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title71",
+    "Desc": "[Story.CharacterInfo.Desc171.03.01,Blank,Story.CharacterInfo.Desc171.03.02,Blank,Story.CharacterInfo.Desc171.03.03,Blank,Story.CharacterInfo.Desc171.03.04,Blank,Story.CharacterInfo.Desc171.03.05,Blank,Story.CharacterInfo.Desc171.03.06,Blank,Story.CharacterInfo.Desc171.03.07,Blank,Story.CharacterInfo.Desc171.03.08,Blank,Story.CharacterInfo.Desc171.03.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 17104,
+    "CharID": 171,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title72",
+    "Desc": "[Story.CharacterInfo.Desc171.04.01,Blank,Story.CharacterInfo.Desc171.04.02,Blank,Story.CharacterInfo.Desc171.04.03,Blank,Story.CharacterInfo.Desc171.04.04,Story.CharacterInfo.Desc171.04.05,Blank,Story.CharacterInfo.Desc171.04.06,Blank,Story.CharacterInfo.Desc171.04.07,Blank,Story.CharacterInfo.Desc171.04.08,Blank,Story.CharacterInfo.Desc171.04.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 18101,
+    "CharID": 181,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title73",
+    "Desc": "[Story.CharacterInfo.Desc181.01.01,Blank,Story.CharacterInfo.Desc181.01.02,Story.CharacterInfo.Desc181.01.03,Blank,Story.CharacterInfo.Desc181.01.04,Blank,Story.CharacterInfo.Desc181.01.05,Blank,Story.CharacterInfo.Desc181.01.06,Story.CharacterInfo.Desc181.01.07,Blank,Story.CharacterInfo.Desc181.01.08,Blank,Story.CharacterInfo.Desc181.01.09,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 18102,
+    "CharID": 181,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title74",
+    "Desc": "[Story.CharacterInfo.Desc181.02.01,Blank,Story.CharacterInfo.Desc181.02.02,Blank,Story.CharacterInfo.Desc181.02.03,Blank,Story.CharacterInfo.Desc181.02.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 5
+  },
+  {
+    "ID": 18103,
+    "CharID": 181,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title75",
+    "Desc": "[Story.CharacterInfo.Desc181.03.01,Blank,Story.CharacterInfo.Desc181.03.02,Blank,Story.CharacterInfo.Desc181.03.03,Blank,Story.CharacterInfo.Desc181.03.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 18104,
+    "CharID": 181,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title76",
+    "Desc": "[Story.CharacterInfo.Desc181.04.01,Blank,Story.CharacterInfo.Desc181.04.02,Story.CharacterInfo.Desc181.04.03,Blank,Story.CharacterInfo.Desc181.04.04,Blank,Story.CharacterInfo.Desc181.04.05,Blank,Story.CharacterInfo.Desc181.04.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 18105,
+    "CharID": 181,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title77",
+    "Desc": "[Story.CharacterInfo.Desc181.05.01,Blank,Story.CharacterInfo.Desc181.05.02,Blank,Story.CharacterInfo.Desc181.05.03,Blank,Story.CharacterInfo.Desc181.05.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 19101,
+    "CharID": 191,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title78",
+    "Desc": "[Story.CharacterInfo.Desc191.01.01,Blank,Story.CharacterInfo.Desc191.01.02,Blank,Story.CharacterInfo.Desc191.01.03,Blank,Story.CharacterInfo.Desc191.01.04,Blank,Story.CharacterInfo.Desc191.01.05,Blank,Story.CharacterInfo.Desc191.01.06,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 19102,
+    "CharID": 191,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title79",
+    "Desc": "[Story.CharacterInfo.Desc191.02.01,Blank,Story.CharacterInfo.Desc191.02.02,Blank,Story.CharacterInfo.Desc191.02.03,Blank,Story.CharacterInfo.Desc191.02.04,Blank,Story.CharacterInfo.Desc191.02.05,Blank,Story.CharacterInfo.Desc191.02.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 5
+  },
+  {
+    "ID": 19103,
+    "CharID": 191,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title80",
+    "Desc": "[Story.CharacterInfo.Desc191.03.01,Blank,Story.CharacterInfo.Desc191.03.02,Blank,Story.CharacterInfo.Desc191.03.03,Blank,Story.CharacterInfo.Desc191.03.04,Blank,Story.CharacterInfo.Desc191.03.05,Blank,Story.CharacterInfo.Desc191.03.06,Blank,Story.CharacterInfo.Desc191.03.07,Blank,Story.CharacterInfo.Desc191.03.08,Blank,Story.CharacterInfo.Desc191.03.09,Blank,Story.CharacterInfo.Desc191.03.10,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 19104,
+    "CharID": 191,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title81",
+    "Desc": "[Story.CharacterInfo.Desc191.04.01,Blank,Story.CharacterInfo.Desc191.04.02,Blank,Story.CharacterInfo.Desc191.04.03,Blank,Story.CharacterInfo.Desc191.04.04,Blank,Story.CharacterInfo.Desc191.04.05,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 19105,
+    "CharID": 191,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title82",
+    "Desc": "[Story.CharacterInfo.Desc191.05.01,Blank,Story.CharacterInfo.Desc191.05.02,Blank,Story.CharacterInfo.Desc191.05.03,Blank,Story.CharacterInfo.Desc191.05.04,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 19106,
+    "CharID": 191,
+    "Step": 6,
+    "Title": "Story.CharacterInfo_Title83",
+    "Desc": "[Story.CharacterInfo.Desc191.06.01,Blank,Story.CharacterInfo.Desc191.06.02,Story.CharacterInfo.Desc191.06.03,Blank,Story.CharacterInfo.Desc191.06.04,Blank,Story.CharacterInfo.Desc191.06.05,Blank,Story.CharacterInfo.Desc191.06.06,Blank,Story.CharacterInfo.Desc191.06.07,Blank,Story.CharacterInfo.Desc191.06.08,Blank,Story.CharacterInfo.Desc191.06.09,Blank,Story.CharacterInfo.Desc191.06.10,Story.CharacterInfo.Desc191.06.11,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 40
+  },
+  {
+    "ID": 20101,
+    "CharID": 201,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title84",
+    "Desc": "[Story.CharacterInfo.Desc201.01.01,Story.CharacterInfo.Desc201.01.02,Blank,Story.CharacterInfo.Desc201.01.03,Story.CharacterInfo.Desc201.01.04,Blank,Story.CharacterInfo.Desc201.01.05,Blank,Story.CharacterInfo.Desc201.01.06,Blank,Story.CharacterInfo.Desc201.01.07,Blank,Story.CharacterInfo.Desc201.01.08,Blank,Story.CharacterInfo.Desc201.01.09,Blank,Story.CharacterInfo.Desc201.01.10,Blank,Story.CharacterInfo.Desc201.01.11,Blank,Story.CharacterInfo.Desc201.01.12,Blank,Story.CharacterInfo.Desc201.01.13,Story.CharacterInfo.Desc201.01.14,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 20102,
+    "CharID": 201,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title85",
+    "Desc": "[Story.CharacterInfo.Desc201.02.01,Blank,Story.CharacterInfo.Desc201.02.02,Blank,Story.CharacterInfo.Desc201.02.03,Blank,Story.CharacterInfo.Desc201.02.04,Blank,Story.CharacterInfo.Desc201.02.05,Blank,Story.CharacterInfo.Desc201.02.06,Story.CharacterInfo.Desc201.02.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 2
+  },
+  {
+    "ID": 20103,
+    "CharID": 201,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title86",
+    "Desc": "[Story.CharacterInfo.Desc201.03.01,Blank,Story.CharacterInfo.Desc201.03.02,Blank,Story.CharacterInfo.Desc201.03.03,Story.CharacterInfo.Desc201.03.04,Blank,Story.CharacterInfo.Desc201.03.05,Blank,Story.CharacterInfo.Desc201.03.06,Blank,Story.CharacterInfo.Desc201.03.07,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 20104,
+    "CharID": 201,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title87",
+    "Desc": "[Story.CharacterInfo.Desc201.04.01,Blank,Story.CharacterInfo.Desc201.04.02,Blank,Story.CharacterInfo.Desc201.04.03,Blank,Story.CharacterInfo.Desc201.04.04,Blank,Story.CharacterInfo.Desc201.04.05,Blank,Story.CharacterInfo.Desc201.04.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 20105,
+    "CharID": 201,
+    "Step": 5,
+    "Title": "Story.CharacterInfo_Title88",
+    "Desc": "[Story.CharacterInfo.Desc201.05.01,Blank,Story.CharacterInfo.Desc201.05.02,Blank,Story.CharacterInfo.Desc201.05.03,Blank,Story.CharacterInfo.Desc201.05.04,Blank,Story.CharacterInfo.Desc201.05.05,Blank,Story.CharacterInfo.Desc201.05.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 20106,
+    "CharID": 201,
+    "Step": 6,
+    "Title": "Story.CharacterInfo_Title89",
+    "Desc": "[Story.CharacterInfo.Desc201.06.01,Blank,Story.CharacterInfo.Desc201.06.02,Blank,Story.CharacterInfo.Desc201.06.03,Story.CharacterInfo.Desc201.06.04,Blank,Story.CharacterInfo.Desc201.06.05,Story.CharacterInfo.Desc201.06.06,Blank,Story.CharacterInfo.Desc201.06.07,Blank,Story.CharacterInfo.Desc201.06.08,Blank,Story.CharacterInfo.Desc201.06.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 40
+  },
+  {
+    "ID": 21101,
+    "CharID": 211,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title90",
+    "Desc": "[Story.CharacterInfo.Desc211.01.01,Story.CharacterInfo.Desc211.01.02,Story.CharacterInfo.Desc211.01.03,Blank,Story.CharacterInfo.Desc211.01.04,Blank,Story.CharacterInfo.Desc211.01.05,Blank,Story.CharacterInfo.Desc211.01.06,Blank,Story.CharacterInfo.Desc211.01.07,Blank,Story.CharacterInfo.Desc211.01.08,Blank,Story.CharacterInfo.Desc211.01.09,Blank,Story.CharacterInfo.Desc211.01.10,Story.CharacterInfo.Desc211.01.11,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 21102,
+    "CharID": 211,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title91",
+    "Desc": "[Story.CharacterInfo.Desc211.02.01,Blank,Story.CharacterInfo.Desc211.02.02,Blank,Story.CharacterInfo.Desc211.02.03,Blank,Story.CharacterInfo.Desc211.02.04,Blank,Story.CharacterInfo.Desc211.02.05,Blank,Story.CharacterInfo.Desc211.02.06,Blank,Story.CharacterInfo.Desc211.02.07,Story.CharacterInfo.Desc211.02.08,Blank,Story.CharacterInfo.Desc211.02.09,Story.CharacterInfo.Desc211.02.10,Story.CharacterInfo.Desc211.02.11,Blank,Story.CharacterInfo.Desc211.02.12,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 21103,
+    "CharID": 211,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title92",
+    "Desc": "[Story.CharacterInfo.Desc211.03.01,Blank,Story.CharacterInfo.Desc211.03.02,Blank,Story.CharacterInfo.Desc211.03.03,Blank,Story.CharacterInfo.Desc211.03.04,Blank,Story.CharacterInfo.Desc211.03.05,Blank,Story.CharacterInfo.Desc211.03.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 21104,
+    "CharID": 211,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title93",
+    "Desc": "[Story.CharacterInfo.Desc211.04.01,Blank,Story.CharacterInfo.Desc211.04.02,Blank,Story.CharacterInfo.Desc211.04.03,Blank,Story.CharacterInfo.Desc211.04.04,Blank,Story.CharacterInfo.Desc211.04.05,Blank,Story.CharacterInfo.Desc211.04.06,Blank,Story.CharacterInfo.Desc211.04.07,Blank,Story.CharacterInfo.Desc211.04.08,Blank,Story.CharacterInfo.Desc211.04.09,Story.CharacterInfo.Desc211.04.10,Blank,Story.CharacterInfo.Desc211.04.11,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 22101,
+    "CharID": 221,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title94",
+    "Desc": "[Story.CharacterInfo.Desc221.01.01,Blank,Story.CharacterInfo.Desc221.01.02,Blank,Story.CharacterInfo.Desc221.01.03,Blank,Story.CharacterInfo.Desc221.01.04,Blank,Story.CharacterInfo.Desc221.01.05,Blank,Story.CharacterInfo.Desc221.01.06,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 22102,
+    "CharID": 221,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title95",
+    "Desc": "[Story.CharacterInfo.Desc221.02.01,Blank,Story.CharacterInfo.Desc221.02.02,Blank,Story.CharacterInfo.Desc221.02.03,Blank,Story.CharacterInfo.Desc221.02.04,Blank,Story.CharacterInfo.Desc221.02.05,Blank,Story.CharacterInfo.Desc221.02.06,Blank,Story.CharacterInfo.Desc221.02.07,Blank,Story.CharacterInfo.Desc221.02.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 23101,
+    "CharID": 231,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title96",
+    "Desc": "[Story.CharacterInfo.Desc231.01.01,Blank,Story.CharacterInfo.Desc231.01.02,Blank,Story.CharacterInfo.Desc231.01.03,Story.CharacterInfo.Desc231.01.04,Blank,Story.CharacterInfo.Desc231.01.05,Blank,Story.CharacterInfo.Desc231.01.06,Blank,Story.CharacterInfo.Desc231.01.07,Blank,Story.CharacterInfo.Desc231.01.08,Blank,Story.CharacterInfo.Desc231.01.09,Blank,Story.CharacterInfo.Desc231.01.10,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 23102,
+    "CharID": 231,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title97",
+    "Desc": "[Story.CharacterInfo.Desc231.02.01,Blank,Story.CharacterInfo.Desc231.02.02,Blank,Story.CharacterInfo.Desc231.02.03,Blank,Story.CharacterInfo.Desc231.02.04,Blank,Story.CharacterInfo.Desc231.02.05,Blank,Story.CharacterInfo.Desc231.02.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 23103,
+    "CharID": 231,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title98",
+    "Desc": "[Story.CharacterInfo.Desc231.03.01,Blank,Story.CharacterInfo.Desc231.03.02,Blank,Story.CharacterInfo.Desc231.03.03,Blank,Story.CharacterInfo.Desc231.03.04,Blank,Story.CharacterInfo.Desc231.03.05,Blank,Story.CharacterInfo.Desc231.03.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 25101,
+    "CharID": 251,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title99",
+    "Desc": "[Story.CharacterInfo.Desc251.01.01,Blank,Story.CharacterInfo.Desc251.01.02,Blank,Story.CharacterInfo.Desc251.01.03,Blank,Story.CharacterInfo.Desc251.01.04,Blank,Story.CharacterInfo.Desc251.01.05,Blank,Story.CharacterInfo.Desc251.01.06,Blank,Story.CharacterInfo.Desc251.01.07,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 25102,
+    "CharID": 251,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title100",
+    "Desc": "[Story.CharacterInfo.Desc251.02.01,Blank,Story.CharacterInfo.Desc251.02.02,Blank,Story.CharacterInfo.Desc251.02.03,Blank,Story.CharacterInfo.Desc251.02.04,Blank,Story.CharacterInfo.Desc251.02.05,Blank,Story.CharacterInfo.Desc251.02.06,Blank,Story.CharacterInfo.Desc251.02.07,Blank,Story.CharacterInfo.Desc251.02.08,Blank,Story.CharacterInfo.Desc251.02.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 10
+  },
+  {
+    "ID": 25103,
+    "CharID": 251,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title101",
+    "Desc": "[Story.CharacterInfo.Desc251.03.01,Blank,Story.CharacterInfo.Desc251.03.02,Blank,Story.CharacterInfo.Desc251.03.03,Story.CharacterInfo.Desc251.03.04,Blank,Story.CharacterInfo.Desc251.03.05,Blank,Story.CharacterInfo.Desc251.03.06,Blank,Story.CharacterInfo.Desc251.03.07,Blank,Story.CharacterInfo.Desc251.03.08,Blank,Story.CharacterInfo.Desc251.03.09,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 25104,
+    "CharID": 251,
+    "Step": 4,
+    "Title": "Story.CharacterInfo_Title102",
+    "Desc": "[Story.CharacterInfo.Desc251.04.01,Blank,Story.CharacterInfo.Desc251.04.02,Blank,Story.CharacterInfo.Desc251.04.03,Story.CharacterInfo.Desc251.04.04,Blank,Story.CharacterInfo.Desc251.04.05,Blank,Story.CharacterInfo.Desc251.04.06,Blank,Story.CharacterInfo.Desc251.04.07,Blank,Story.CharacterInfo.Desc251.04.08,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 30
+  },
+  {
+    "ID": 6101,
+    "CharID": 61,
+    "Step": 1,
+    "Title": "Story.CharacterInfo_Title103",
+    "Desc": "[Story.CharacterInfo.Desc61.01.01,Blank,Story.CharacterInfo.Desc61.01.02,Blank,Story.CharacterInfo.Desc61.01.03,Blank,Story.CharacterInfo.Desc61.01.04,Blank,Story.CharacterInfo.Desc61.01.05,Blank,Blank,Blank]",
+    "UnlockType": "DefaultOpen",
+    "UnlockValue": 0
+  },
+  {
+    "ID": 6102,
+    "CharID": 61,
+    "Step": 2,
+    "Title": "Story.CharacterInfo_Title104",
+    "Desc": "[Story.CharacterInfo.Desc61.02.01,Blank,Story.CharacterInfo.Desc61.02.02,Blank,Story.CharacterInfo.Desc61.02.03,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 20
+  },
+  {
+    "ID": 6103,
+    "CharID": 61,
+    "Step": 3,
+    "Title": "Story.CharacterInfo_Title105",
+    "Desc": "[Story.CharacterInfo.Desc61.03.01,Blank,Story.CharacterInfo.Desc61.03.02,Blank,Story.CharacterInfo.Desc61.03.03,Blank,Story.CharacterInfo.Desc61.03.04,Blank,Story.CharacterInfo.Desc61.03.05,Blank,Story.CharacterInfo.Desc61.03.06,Blank,Blank,Blank]",
+    "UnlockType": "HunterLevel",
+    "UnlockValue": 40
+  }
+]

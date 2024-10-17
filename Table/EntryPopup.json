@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "Unused": true,
+    "EntryPopupType": "NMNotice",
+    "PopupDisplayType": "OnceLogin",
+    "DisplayOrder": 20
+  },
+  {
+    "ID": 2,
+    "Unused": true,
+    "EntryPopupType": "NMForum",
+    "PopupDisplayType": "OnceLogin",
+    "DisplayOrder": 30
+  },
+  {
+    "ID": 3,
+    "Unused": true,
+    "EntryPopupType": "PLAttendance",
+    "PopupDisplayType": "OnceDaily",
+    "DisplayOrder": 10
+  },
+  {
+    "ID": 4,
+    "Unused": true,
+    "EntryPopupType": "NMPromotion",
+    "PopupDisplayType": "OnceLogin",
+    "DisplayOrder": 40
+  },
+  {
+    "ID": 5,
+    "Unused": true,
+    "EntryPopupType": "TimeLimitItemChange",
+    "PopupDisplayType": "Always",
+    "DisplayOrder": 999
+  },
+  {
+    "ID": 6,
+    "Unused": true,
+    "EntryPopupType": "MonthlyPackage",
+    "PopupDisplayType": "OnceDaily",
+    "DisplayOrder": 35
+  }
+]

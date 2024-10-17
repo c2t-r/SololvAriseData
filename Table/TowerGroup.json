@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "TowerType": "Player",
+    "TowerGroup": 1,
+    "TowerName": "SysConstStr.JobName.Player",
+    "BgImageResource": "BG_TowerPage",
+    "BtnIconResource": "Icon_Tower_Player",
+    "EnterPointUse": true,
+    "EnterPointType": "PlayerTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 30
+  },
+  {
+    "ID": 2,
+    "TowerType": "Hunter",
+    "TowerGroup": 2,
+    "TowerName": "SysConstStr.Glossary.Hunter",
+    "BgImageResource": "BG_TowerPage_Hunter",
+    "BtnIconResource": "Icon_Tower_Hunter",
+    "EnterPointUse": true,
+    "EnterPointType": "HunterTowerEnterPoint",
+    "EnterPointItemID": 0,
+    "MaxFloor": 30
+  }
+]

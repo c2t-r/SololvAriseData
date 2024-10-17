@@ -1,0 +1,233 @@
+[
+  {
+    "ID": 1,
+    "ObjectID": 500095,
+    "Type": "LobbySceneChange",
+    "InteractionValue": "5",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 2,
+    "ObjectID": 500095,
+    "Type": "Dialog",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 3,
+    "ObjectID": 500094,
+    "Type": "MainStory",
+    "InteractionValue": "5",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Story",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 4,
+    "ObjectID": 500096,
+    "Type": "LobbySceneChange",
+    "InteractionValue": "3",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 5,
+    "ObjectID": 500178,
+    "Type": "GateStatusBoard",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Gate",
+    "MoveCheck": false,
+    "MenuOpenScript": 2006
+  },
+  {
+    "ID": 6,
+    "ObjectID": 500176,
+    "Type": "Shop",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Shop",
+    "MoveCheck": false,
+    "MenuOpenScript": 2005
+  },
+  {
+    "ID": 7,
+    "ObjectID": 500174,
+    "Type": "IdleSystem",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "IdleSystem",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 8,
+    "ObjectID": 500177,
+    "Type": "Event",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Event",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 9,
+    "ObjectID": 500177,
+    "Type": "Notice",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Notice",
+    "MoveCheck": false,
+    "MenuOpenScript": 2007
+  },
+  {
+    "ID": 10,
+    "ObjectID": 500177,
+    "Type": "LoginBonus",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Attendance",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 11,
+    "ObjectID": 500171,
+    "Type": "Gacha",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Gacha",
+    "MoveCheck": false,
+    "MenuOpenScript": 2001
+  },
+  {
+    "ID": 12,
+    "ObjectID": 0,
+    "Type": "GateStatusBoard",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Gate",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 13,
+    "ObjectID": 500172,
+    "Type": "Craft",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Craft",
+    "MoveCheck": false,
+    "MenuOpenScript": 2003
+  },
+  {
+    "ID": 14,
+    "ObjectID": 500172,
+    "Type": "Combine",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Combine",
+    "MoveCheck": false,
+    "MenuOpenScript": 2004
+  },
+  {
+    "ID": 15,
+    "ObjectID": 0,
+    "Type": "Jewel",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Gem",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 16,
+    "ObjectID": 0,
+    "Type": "Card",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Card",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 17,
+    "ObjectID": 500172,
+    "Type": "GroupStat",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "GroupStat",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 18,
+    "ObjectID": 0,
+    "Type": "DimensionEnhance",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "ItemDimension",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 19,
+    "ObjectID": 500178,
+    "Type": "MineTeam",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "MineTeam",
+    "MoveCheck": false,
+    "MenuOpenScript": 2008
+  },
+  {
+    "ID": 20,
+    "ObjectID": 500094,
+    "Type": "Contents",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "ContentsMenu",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  },
+  {
+    "ID": 21,
+    "ObjectID": 500200,
+    "Type": "Ranking",
+    "InteractionValue": "0",
+    "ConditionType": "None",
+    "ConditionValue": 0.0,
+    "ContentsType": "Ranking",
+    "MoveCheck": false,
+    "MenuOpenScript": 0
+  }
+]

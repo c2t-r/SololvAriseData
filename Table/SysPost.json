@@ -1,0 +1,298 @@
+[
+  {
+    "ID": 1,
+    "PostID": "EquipInventoryMax",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID1",
+    "Desc": "SysPost.Desc.ID1"
+  },
+  {
+    "ID": 2,
+    "PostID": "HunterInventoryMax",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID2",
+    "Desc": "SysPost.Desc.ID2"
+  },
+  {
+    "ID": 3,
+    "PostID": "ItemInventoryMax",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID3",
+    "Desc": "SysPost.Desc.ID3"
+  },
+  {
+    "ID": 4,
+    "PostID": "GoldMax",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.ID4",
+    "Desc": "SysPost.Desc.ID4"
+  },
+  {
+    "ID": 5,
+    "PostID": "CashMax",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.ID5",
+    "Desc": "SysPost.Desc.ID5"
+  },
+  {
+    "ID": 6,
+    "PostID": "APMax",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.ID6",
+    "Desc": "SysPost.Desc.ID6"
+  },
+  {
+    "ID": 7,
+    "PostID": "GSInventoryMax",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID7",
+    "Desc": "SysPost.Desc.ID7"
+  },
+  {
+    "ID": 8,
+    "PostID": "RelicInventoryMax",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID8",
+    "Desc": "SysPost.Desc.ID8"
+  },
+  {
+    "ID": 9,
+    "PostID": "WorldBossReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID9",
+    "Desc": "SysPost.Desc.ID9"
+  },
+  {
+    "ID": 10,
+    "PostID": "PurchasePackage",
+    "Type": "IAP",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID10",
+    "Desc": "SysPost.Desc.ID12"
+  },
+  {
+    "ID": 11,
+    "PostID": "AttendanceReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID11",
+    "Desc": "SysPost.Desc.ID11"
+  },
+  {
+    "ID": 12,
+    "PostID": "PurchageGoods",
+    "Type": "Shop",
+    "StoragePeriodMin": 0,
+    "Name": "SysPost.Name.ID12",
+    "Desc": "SysPost.Desc.ID12"
+  },
+  {
+    "ID": 13,
+    "PostID": "EventPointReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID0",
+    "Desc": "SysPost.Desc.ID0"
+  },
+  {
+    "ID": 14,
+    "PostID": "EventPointRankReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID0",
+    "Desc": "SysPost.Desc.ID0"
+  },
+  {
+    "ID": 15,
+    "PostID": "PassReward",
+    "Type": "General",
+    "StoragePeriodMin": 86400,
+    "Name": "SysPost.Name.ID13",
+    "Desc": "SysPost.Desc.ID13"
+  },
+  {
+    "ID": 16,
+    "PostID": "DefaultPost",
+    "Type": "General",
+    "StoragePeriodMin": 43200,
+    "Name": "SysPost.Name.ID0",
+    "Desc": "SysPost.Desc.ID0"
+  },
+  {
+    "ID": 17,
+    "PostID": "WorldBossRankGroupReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID17",
+    "Desc": "SysPost.Desc.ID20"
+  },
+  {
+    "ID": 18,
+    "PostID": "WorldBossRankTotalReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID18",
+    "Desc": "SysPost.Desc.ID21"
+  },
+  {
+    "ID": 19,
+    "PostID": "WorldBossPointReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID19",
+    "Desc": "SysPost.Desc.ID19"
+  },
+  {
+    "ID": 20,
+    "PostID": "TimeAttackRankGroupReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID20",
+    "Desc": "SysPost.Desc.ID20"
+  },
+  {
+    "ID": 21,
+    "PostID": "TimeAttackRankTotalReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID21",
+    "Desc": "SysPost.Desc.ID21"
+  },
+  {
+    "ID": 22,
+    "PostID": "TimeAttackPointReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID22",
+    "Desc": "SysPost.Desc.ID22"
+  },
+  {
+    "ID": 23,
+    "PostID": "EventPointRankGroupReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID23",
+    "Desc": "SysPost.Desc.ID23"
+  },
+  {
+    "ID": 24,
+    "PostID": "EventPointRankTotalReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID23",
+    "Desc": "SysPost.Desc.ID23"
+  },
+  {
+    "ID": 25,
+    "PostID": "EventRoulette",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID25",
+    "Desc": "SysPost.Desc.ID23"
+  },
+  {
+    "ID": 26,
+    "PostID": "EventDice",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID26",
+    "Desc": "SysPost.Desc.ID23"
+  },
+  {
+    "ID": 27,
+    "PostID": "UsedCoupon",
+    "Type": "General",
+    "StoragePeriodMin": 43200,
+    "Name": "SysPost.Name.ID27",
+    "Desc": "SysPost.Desc.ID27"
+  },
+  {
+    "ID": 28,
+    "PostID": "RaidReward",
+    "Type": "General",
+    "StoragePeriodMin": 10080,
+    "Name": "SysPost.Name.ID28",
+    "Desc": "SysPost.Desc.ID28"
+  },
+  {
+    "ID": 29,
+    "PostID": "CustomPost",
+    "Type": "General",
+    "StoragePeriodMin": 0,
+    "Name": "치트로 입력된 우편입니다.",
+    "Desc": "우편이 도착했습니다."
+  },
+  {
+    "ID": 30,
+    "PostID": "TimeLimitItemChange",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.ID30",
+    "Desc": "SysPost.Desc.ID30"
+  },
+  {
+    "ID": 31,
+    "PostID": "TimeAttackRelayReward",
+    "Type": "General",
+    "StoragePeriodMin": 129600,
+    "Name": "SysPost.Name.ID31",
+    "Desc": "SysPost.Desc.ID31"
+  },
+  {
+    "ID": 32,
+    "PostID": "ItemStackMax",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID32",
+    "Desc": "SysPost.Desc.ID32"
+  },
+  {
+    "ID": 33,
+    "PostID": "TimeAttackSeasonRank_Normal",
+    "Type": "General",
+    "StoragePeriodMin": 43200,
+    "Name": "SysPost.Name.ID33",
+    "Desc": "SysPost.Desc.ID34"
+  },
+  {
+    "ID": 34,
+    "PostID": "TimeAttackSeasonRank_Percent",
+    "Type": "General",
+    "StoragePeriodMin": 43200,
+    "Name": "SysPost.Name.ID33",
+    "Desc": "SysPost.Desc.ID35"
+  },
+  {
+    "ID": 35,
+    "PostID": "OpenEventPost",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID36",
+    "Desc": "SysPost.Desc.ID36"
+  },
+  {
+    "ID": 37,
+    "PostID": "EventRPSRankAllReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID37",
+    "Desc": "SysPost.Desc.ID37"
+  },
+  {
+    "ID": 38,
+    "PostID": "EventRPSRankGroupReward",
+    "Type": "General",
+    "StoragePeriodMin": 20160,
+    "Name": "SysPost.Name.ID38",
+    "Desc": "SysPost.Desc.ID38"
+  }
+]

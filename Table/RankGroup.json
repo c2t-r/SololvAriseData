@@ -1,0 +1,262 @@
+[
+  {
+    "ID": 101,
+    "RankGroupID": 1,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 80,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 102,
+    "RankGroupID": 1,
+    "Order": 2,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 60,
+    "RankGroupValueMax": 79,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1002
+  },
+  {
+    "ID": 103,
+    "RankGroupID": 1,
+    "Order": 3,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 40,
+    "RankGroupValueMax": 59,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 101
+  },
+  {
+    "ID": 201,
+    "RankGroupID": 2,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 20,
+    "RankGroupValueMax": 39,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 202,
+    "RankGroupID": 2,
+    "Order": 2,
+    "RankGroupType": "StoryChapter",
+    "RankGroupValueMin": 613,
+    "RankGroupValueMax": 0,
+    "RankGroupMember": 200,
+    "GroupRankRewardID": 1002
+  },
+  {
+    "ID": 203,
+    "RankGroupID": 2,
+    "Order": 3,
+    "RankGroupType": "StoryChapter",
+    "RankGroupValueMin": 503,
+    "RankGroupValueMax": 0,
+    "RankGroupMember": 300,
+    "GroupRankRewardID": 101
+  },
+  {
+    "ID": 204,
+    "RankGroupID": 2,
+    "Order": 4,
+    "RankGroupType": "StoryChapter",
+    "RankGroupValueMin": 310,
+    "RankGroupValueMax": 0,
+    "RankGroupMember": 400,
+    "GroupRankRewardID": 101
+  },
+  {
+    "ID": 205,
+    "RankGroupID": 2,
+    "Order": 5,
+    "RankGroupType": "StoryChapter",
+    "RankGroupValueMin": 106,
+    "RankGroupValueMax": 0,
+    "RankGroupMember": 500,
+    "GroupRankRewardID": 101
+  },
+  {
+    "ID": 10011,
+    "RankGroupID": 1002,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 70,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 10012,
+    "RankGroupID": 1002,
+    "Order": 2,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 60,
+    "RankGroupValueMax": 69,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 10013,
+    "RankGroupID": 1002,
+    "Order": 3,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 50,
+    "RankGroupValueMax": 59,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 10014,
+    "RankGroupID": 1002,
+    "Order": 4,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 40,
+    "RankGroupValueMax": 49,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 10015,
+    "RankGroupID": 1002,
+    "Order": 5,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 0,
+    "RankGroupValueMax": 39,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 1001
+  },
+  {
+    "ID": 60001,
+    "RankGroupID": 600,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 0,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 600
+  },
+  {
+    "ID": 70001,
+    "RankGroupID": 101,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 0,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 101
+  },
+  {
+    "ID": 80001,
+    "RankGroupID": 80001,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 80001
+  },
+  {
+    "ID": 80002,
+    "RankGroupID": 80002,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 80002
+  },
+  {
+    "ID": 80003,
+    "RankGroupID": 80003,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 80003
+  },
+  {
+    "ID": 100101,
+    "RankGroupID": 100100,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 100100
+  },
+  {
+    "ID": 2001001,
+    "RankGroupID": 2001000,
+    "Order": 1,
+    "RankGroupType": "LevelAccount",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 20,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 2001000
+  },
+  {
+    "ID": 2001002,
+    "RankGroupID": 2001000,
+    "Order": 2,
+    "RankGroupType": "LevelAccount",
+    "RankGroupValueMin": 21,
+    "RankGroupValueMax": 40,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 2002000
+  },
+  {
+    "ID": 2001003,
+    "RankGroupID": 2001000,
+    "Order": 3,
+    "RankGroupType": "LevelAccount",
+    "RankGroupValueMin": 41,
+    "RankGroupValueMax": 60,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 2003000
+  },
+  {
+    "ID": 2001004,
+    "RankGroupID": 2001000,
+    "Order": 4,
+    "RankGroupType": "LevelAccount",
+    "RankGroupValueMin": 61,
+    "RankGroupValueMax": 80,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 2004000
+  },
+  {
+    "ID": 2001005,
+    "RankGroupID": 2001000,
+    "Order": 5,
+    "RankGroupType": "LevelAccount",
+    "RankGroupValueMin": 81,
+    "RankGroupValueMax": 99,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 2005000
+  },
+  {
+    "ID": 3001001,
+    "RankGroupID": 3001000,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 100,
+    "GroupRankRewardID": 3001000
+  },
+  {
+    "ID": 89999,
+    "RankGroupID": 89999,
+    "Order": 1,
+    "RankGroupType": "LevelSJW",
+    "RankGroupValueMin": 1,
+    "RankGroupValueMax": 999,
+    "RankGroupMember": 200,
+    "GroupRankRewardID": 83001
+  }
+]

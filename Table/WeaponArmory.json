@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 101,
+    "PageGroup": 1,
+    "SlotIndex": 0,
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "RelatedSlot": 0,
+    "OpenCondition": "DefaultOpen",
+    "OpenValue": 0,
+    "RequiredItem": 0,
+    "RequiredCount": 0,
+    "CurrencyType": "0",
+    "CurrencyCost": 0
+  },
+  {
+    "ID": 102,
+    "PageGroup": 1,
+    "SlotIndex": 1,
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "RelatedSlot": 101,
+    "OpenCondition": "DefaultOpen",
+    "OpenValue": 0,
+    "RequiredItem": 0,
+    "RequiredCount": 0,
+    "CurrencyType": "0",
+    "CurrencyCost": 0
+  },
+  {
+    "ID": 103,
+    "PageGroup": 1,
+    "SlotIndex": 2,
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "RelatedSlot": 102,
+    "OpenCondition": "DefaultOpen",
+    "OpenValue": 0,
+    "RequiredItem": 0,
+    "RequiredCount": 0,
+    "CurrencyType": "0",
+    "CurrencyCost": 0
+  },
+  {
+    "ID": 104,
+    "PageGroup": 1,
+    "SlotIndex": 3,
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "RelatedSlot": 103,
+    "OpenCondition": "LevelSJW",
+    "OpenValue": 20,
+    "RequiredItem": 10170001,
+    "RequiredCount": 100,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 1000
+  },
+  {
+    "ID": 105,
+    "PageGroup": 1,
+    "SlotIndex": 4,
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "RelatedSlot": 104,
+    "OpenCondition": "LevelSJW",
+    "OpenValue": 30,
+    "RequiredItem": 10170001,
+    "RequiredCount": 150,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 1500
+  },
+  {
+    "ID": 106,
+    "PageGroup": 1,
+    "SlotIndex": 5,
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "RelatedSlot": 105,
+    "OpenCondition": "LevelSJW",
+    "OpenValue": 40,
+    "RequiredItem": 10170001,
+    "RequiredCount": 200,
+    "CurrencyType": "MagicEssence",
+    "CurrencyCost": 2000
+  }
+]

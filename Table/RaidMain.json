@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "Name": "Raid.Name01",
+    "RaidOpenCondition": 0,
+    "Level": 3,
+    "UnlockType": "BattleClass",
+    "Value": 15,
+    "OpenDate": "1987-05-27 오전 12:00:00",
+    "BossName": "Vulcan_Boss_big",
+    "ResourceName": "Levelup_Dungeon_DemonCastle_UnderLayer",
+    "BGSpine": "Boss_spine_Vulcan_Prefab"
+  },
+  {
+    "ID": 2,
+    "Name": "Raid.Name02",
+    "RaidOpenCondition": 2,
+    "Level": 100,
+    "UnlockType": "BattleClass",
+    "Value": 20,
+    "OpenDate": "2077-01-01 오전 12:00:00",
+    "BossName": "Baran_Boss_big",
+    "ResourceName": "Levelup_Dungeon_DemonCastle_Upperfloor",
+    "BGSpine": ""
+  }
+]

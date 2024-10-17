@@ -1,0 +1,1082 @@
+[
+  {
+    "ID": 1,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "Weapon_Dualwield_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 2,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "Weapon_Dualwield_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 3,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "SungJinWoo_Weapon_03",
+    "AttachParentName": "Point_Weapon_Dualwield_B_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 4,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "SungJinWoo_Weapon_04",
+    "AttachParentName": "Point_Weapon_Dualwield_B_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 5,
+    "GroupID": 71,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "LimTaeGyu_Weapon_PFV",
+    "AttachParentName": "Prop_Weapon_Dualwield_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 6,
+    "GroupID": 71,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "LimTaeGyu_Weapon01_PFV",
+    "AttachParentName": "Point_LimTaeGyu_Weapon",
+    "AwakeActive": true
+  },
+  {
+    "ID": 7,
+    "GroupID": 111,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "HwangDongSuk_Weapon01_PFV",
+    "AttachParentName": "Prop_HwangDongSuk_Sword",
+    "AwakeActive": true
+  },
+  {
+    "ID": 8,
+    "GroupID": 111,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "HwangDongSuk_Weapon03_PFV",
+    "AttachParentName": "Prop_HwangDongSuk_Shield",
+    "AwakeActive": true
+  },
+  {
+    "ID": 9,
+    "GroupID": 111,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "HwangDongSuk_Weapon04_PFV",
+    "AttachParentName": "Point_Weapon_Equip_Root_01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 10,
+    "GroupID": 111,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "HwangDongSuk_Weapon02_PFV",
+    "AttachParentName": "Point_Weapon_Equip_Root_02",
+    "AwakeActive": true
+  },
+  {
+    "ID": 11,
+    "GroupID": 111,
+    "CharPartsType": "Weapon",
+    "Index": 4,
+    "PartsPrefName": "HwangDongSuk_Weapon05_PFV",
+    "AttachParentName": "Point_Weapon_Equip_Root_03",
+    "AwakeActive": true
+  },
+  {
+    "ID": 12,
+    "GroupID": 121,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "HanSongI_Weapon00_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 13,
+    "GroupID": 121,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "HanSongI_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop2",
+    "AwakeActive": true
+  },
+  {
+    "ID": 14,
+    "GroupID": 121,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "HanSongI_Weapon02_PFV",
+    "AttachParentName": "Point_HanSongI_Weapon_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 15,
+    "GroupID": 121,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "HanSongI_Weapon03_PFV",
+    "AttachParentName": "Point_HanSongI_Weapon_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 16,
+    "GroupID": 141,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "KimSangShik_Weapon01_PFV",
+    "AttachParentName": "Bone_WP",
+    "AwakeActive": true
+  },
+  {
+    "ID": 17,
+    "GroupID": 141,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "KimSangShik_Weapon02_PFV",
+    "AttachParentName": "Point_Wp_1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 18,
+    "GroupID": 161,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "MinByungGu_Weapon01_PFV",
+    "AttachParentName": "Prop_MinByungGu_Weapon",
+    "AwakeActive": true
+  },
+  {
+    "ID": 19,
+    "GroupID": 161,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "MinByungGu_Weapon04_PFV",
+    "AttachParentName": "Bone_Book_Left",
+    "AwakeActive": true
+  },
+  {
+    "ID": 20,
+    "GroupID": 161,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "MinByungGu_Weapon05_PFV",
+    "AttachParentName": "Bone_Book_Right",
+    "AwakeActive": true
+  },
+  {
+    "ID": 21,
+    "GroupID": 161,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "MinByungGu_Weapon02_PFV",
+    "AttachParentName": "Point_Weapon_B_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 22,
+    "GroupID": 161,
+    "CharPartsType": "Weapon",
+    "Index": 4,
+    "PartsPrefName": "MinByungGu_Weapon03_PFV",
+    "AttachParentName": "Point_MinByungGu_Book_B",
+    "AwakeActive": true
+  },
+  {
+    "ID": 23,
+    "GroupID": 181,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "LeeBoRa_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 24,
+    "GroupID": 181,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "LeeBoRa_Weapon02_PFV",
+    "AttachParentName": "Bip001 L Hand",
+    "AwakeActive": true
+  },
+  {
+    "ID": 25,
+    "GroupID": 181,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "LeeBoRa_Weapon03_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 26,
+    "GroupID": 51,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "YooJinHo_Weapon01_PFV",
+    "AttachParentName": "Point_YooJinHo_Sword",
+    "AwakeActive": true
+  },
+  {
+    "ID": 27,
+    "GroupID": 51,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "YooJinHo_Weapon02_PFV",
+    "AttachParentName": "Point_YooJinHo_Shield",
+    "AwakeActive": true
+  },
+  {
+    "ID": 28,
+    "GroupID": 51,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "YooJinHo_Weapon03_PFV",
+    "AttachParentName": "Point_YooJinHo_Sword_Back",
+    "AwakeActive": true
+  },
+  {
+    "ID": 29,
+    "GroupID": 51,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "YooJinHo_Weapon04_PFV",
+    "AttachParentName": "Point_YooJinHo_Shield_Back",
+    "AwakeActive": true
+  },
+  {
+    "ID": 30,
+    "GroupID": 21,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "KimChul_Weapon01_PFV",
+    "AttachParentName": "Bone_AXE",
+    "AwakeActive": true
+  },
+  {
+    "ID": 31,
+    "GroupID": 21,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "KimChul_Weapon02_PFV",
+    "AttachParentName": "Bone_Shield",
+    "AwakeActive": true
+  },
+  {
+    "ID": 32,
+    "GroupID": 21,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "KimChul_Weapon03_PFV",
+    "AttachParentName": "Point_Weapon_Root_02",
+    "AwakeActive": true
+  },
+  {
+    "ID": 33,
+    "GroupID": 21,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "KimChul_Weapon04_PFV",
+    "AttachParentName": "Point_Weapon_Root_01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 34,
+    "GroupID": 41,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "KangTaeShik_Weapon02_PFV",
+    "AttachParentName": "Bone_Dualwield_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 35,
+    "GroupID": 41,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "KangTaeShik_Weapon03_PFV",
+    "AttachParentName": "Bone_Dualwield_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 36,
+    "GroupID": 41,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "KangTaeShik_Weapon00_PFV",
+    "AttachParentName": "Bone_Con_Dualwield_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 37,
+    "GroupID": 41,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "KangTaeShik_Weapon01_PFV",
+    "AttachParentName": "Bone_Con_Dualwield_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 38,
+    "GroupID": 41,
+    "CharPartsType": "Weapon",
+    "Index": 4,
+    "PartsPrefName": "KangTaeShik_Weapon04_PFV",
+    "AttachParentName": "Bone_Con_Dualwield_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 39,
+    "GroupID": 41,
+    "CharPartsType": "Weapon",
+    "Index": 5,
+    "PartsPrefName": "KangTaeShik_Weapon05_PFV",
+    "AttachParentName": "Bone_Con_Dualwield_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 40,
+    "GroupID": 91,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "SongChiYul_Weapon01_PFV",
+    "AttachParentName": "Bone_Weapon_ScaleControl",
+    "AwakeActive": true
+  },
+  {
+    "ID": 41,
+    "GroupID": 31,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "ParkHeejin_Weapon01_PFV",
+    "AttachParentName": "Bone_Weapon_01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 42,
+    "GroupID": 31,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "ParkHeejin_Weapon02_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 43,
+    "GroupID": 11,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "ChaHaeInOriginal_Weapon0_PFV",
+    "AttachParentName": "Prop_Weapon_Sword_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 44,
+    "GroupID": 11,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "ChaHaeInOriginal_Weapon1_PFV",
+    "AttachParentName": "Point_ChaHaeIn_Weapon",
+    "AwakeActive": true
+  },
+  {
+    "ID": 45,
+    "GroupID": 800,
+    "CharPartsType": "GSWeapon",
+    "Index": 0,
+    "PartsPrefName": "GSWeapon_KimSangShik_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 46,
+    "GroupID": 801,
+    "CharPartsType": "GSWeapon",
+    "Index": 1,
+    "PartsPrefName": "GSWeapon_Baruka_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 47,
+    "GroupID": 802,
+    "CharPartsType": "GSWeapon",
+    "Index": 2,
+    "PartsPrefName": "GSWeapon_GiantArachne_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 48,
+    "GroupID": 802,
+    "CharPartsType": "GSWeapon",
+    "Index": 3,
+    "PartsPrefName": "GSWeapon_GiantArachne_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 49,
+    "GroupID": 803,
+    "CharPartsType": "GSWeapon",
+    "Index": 4,
+    "PartsPrefName": "GSWeapon_KillWolf_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 50,
+    "GroupID": 804,
+    "CharPartsType": "GSWeapon",
+    "Index": 5,
+    "PartsPrefName": "GSWeapon_Vulcan_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 51,
+    "GroupID": 805,
+    "CharPartsType": "GSWeapon",
+    "Index": 6,
+    "PartsPrefName": "GSWeapon_DemonKing",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 52,
+    "GroupID": 2,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "Weapon_BaseSword_PFV",
+    "AttachParentName": "Prop_Weapon_Dualwield_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 53,
+    "GroupID": 2,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "Weapon_BaseSword_PFV",
+    "AttachParentName": "Point_Weapon_B_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 54,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 4,
+    "PartsPrefName": "SungJinWoo_Accessory1_PFV",
+    "AttachParentName": "Prop_Weapon_Dualwield_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 55,
+    "GroupID": 808,
+    "CharPartsType": "GSWeapon",
+    "Index": 8,
+    "PartsPrefName": "GSWeapon_PlumBlossom_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 56,
+    "GroupID": 808,
+    "CharPartsType": "GSWeapon",
+    "Index": 9,
+    "PartsPrefName": "GSWeapon_PlumBlossom_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 57,
+    "GroupID": 171,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "HwangDongSu_Weapon01_PFV",
+    "AttachParentName": "Prop_Weapon_Dualwield_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 58,
+    "GroupID": 2,
+    "CharPartsType": "Weapon",
+    "Index": 4,
+    "PartsPrefName": "SungJinWoo_Accessory1_PFV",
+    "AttachParentName": "Prop_Weapon_Dualwield_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 59,
+    "GroupID": 809,
+    "CharPartsType": "GSWeapon",
+    "Index": 10,
+    "PartsPrefName": "GSWeapon_LycanSlayer_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 60,
+    "GroupID": 809,
+    "CharPartsType": "GSWeapon",
+    "Index": 11,
+    "PartsPrefName": "GSWeapon_LycanSlayer_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 61,
+    "GroupID": 810,
+    "CharPartsType": "GSWeapon",
+    "Index": 14,
+    "PartsPrefName": "GSWeapon_NagaGDTrident_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 62,
+    "GroupID": 801,
+    "CharPartsType": "GSWeapon",
+    "Index": 15,
+    "PartsPrefName": "GSWeapon_Baruka_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 63,
+    "GroupID": 811,
+    "CharPartsType": "GSWeapon",
+    "Index": 16,
+    "PartsPrefName": "GSWeapon_OrbGreed_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 64,
+    "GroupID": 61,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "BaekYoonHoBeastForm_Weapon0_PFV",
+    "AttachParentName": "Translate",
+    "AwakeActive": true
+  },
+  {
+    "ID": 65,
+    "GroupID": 61,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "BaekYoonHoBeastForm_Weapon1_PFV",
+    "AttachParentName": "Translate",
+    "AwakeActive": true
+  },
+  {
+    "ID": 66,
+    "GroupID": 812,
+    "CharPartsType": "GSWeapon",
+    "Index": 17,
+    "PartsPrefName": "GSWeapon_IceElfBow_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 67,
+    "GroupID": 813,
+    "CharPartsType": "GSWeapon",
+    "Index": 18,
+    "PartsPrefName": "GSWeapon_FrostIceSword_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 68,
+    "GroupID": 814,
+    "CharPartsType": "GSWeapon",
+    "Index": 19,
+    "PartsPrefName": "GSWeapon_LightningDragonBlade_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 69,
+    "GroupID": 814,
+    "CharPartsType": "GSWeapon",
+    "Index": 20,
+    "PartsPrefName": "GSWeapon_LightningDragonBlade_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 70,
+    "GroupID": 816,
+    "CharPartsType": "GSWeapon",
+    "Index": 21,
+    "PartsPrefName": "GSWeapon_LizardGlaive_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 71,
+    "GroupID": 817,
+    "CharPartsType": "GSWeapon",
+    "Index": 22,
+    "PartsPrefName": "GSWeapon_DemonKnightSpear_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 72,
+    "GroupID": 818,
+    "CharPartsType": "GSWeapon",
+    "Index": 23,
+    "PartsPrefName": "GSWeapon_RazansBlade_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 73,
+    "GroupID": 819,
+    "CharPartsType": "GSWeapon",
+    "Index": 24,
+    "PartsPrefName": "GSWeapon_PlumBlossom_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 74,
+    "GroupID": 820,
+    "CharPartsType": "GSWeapon",
+    "Index": 25,
+    "PartsPrefName": "GSWeapon_Zephyr_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 75,
+    "GroupID": 820,
+    "CharPartsType": "GSWeapon",
+    "Index": 26,
+    "PartsPrefName": "GSWeapon_Zephyr_Pistols_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 76,
+    "GroupID": 820,
+    "CharPartsType": "GSWeapon",
+    "Index": 27,
+    "PartsPrefName": "GSWeapon_Zephyr_Pistols_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 77,
+    "GroupID": 821,
+    "CharPartsType": "GSWeapon",
+    "Index": 28,
+    "PartsPrefName": "GSWeapon_DarkHawk_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 78,
+    "GroupID": 821,
+    "CharPartsType": "GSWeapon",
+    "Index": 29,
+    "PartsPrefName": "GSWeapon_DarkHawk_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 79,
+    "GroupID": 814,
+    "CharPartsType": "GSWeapon",
+    "Index": 30,
+    "PartsPrefName": "GSWeapon_LightningDragonBlade_03_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 80,
+    "GroupID": 808,
+    "CharPartsType": "GSWeapon",
+    "Index": 31,
+    "PartsPrefName": "GSWeapon_PlumBlossom_03_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 81,
+    "GroupID": 803,
+    "CharPartsType": "GSWeapon",
+    "Index": 32,
+    "PartsPrefName": "GSWeapon_KillWolf_01_Hand_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 82,
+    "GroupID": 803,
+    "CharPartsType": "GSWeapon",
+    "Index": 33,
+    "PartsPrefName": "GSWeapon_KillWolf_01_Hand_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 83,
+    "GroupID": 822,
+    "CharPartsType": "GSWeapon",
+    "Index": 34,
+    "PartsPrefName": "GSWeapon_KasakaVenomFang_01",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 84,
+    "GroupID": 822,
+    "CharPartsType": "GSWeapon",
+    "Index": 35,
+    "PartsPrefName": "GSWeapon_KnightKiller_01",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 85,
+    "GroupID": 191,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 86,
+    "GroupID": 191,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 87,
+    "GroupID": 818,
+    "CharPartsType": "GSWeapon",
+    "Index": 36,
+    "PartsPrefName": "GSWeapon_RazansBlade_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 88,
+    "GroupID": 818,
+    "CharPartsType": "GSWeapon",
+    "Index": 37,
+    "PartsPrefName": "GSWeapon_RazansBlade_03_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 89,
+    "GroupID": 823,
+    "CharPartsType": "GSWeapon",
+    "Index": 38,
+    "PartsPrefName": "GSWeapon_OrcGreatSword_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 90,
+    "GroupID": 824,
+    "CharPartsType": "GSWeapon",
+    "Index": 39,
+    "PartsPrefName": "GSWeapon_StoneGolemHammer_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 91,
+    "GroupID": 825,
+    "CharPartsType": "GSWeapon",
+    "Index": 40,
+    "PartsPrefName": "GSWeapon_KnightKiller_01",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 92,
+    "GroupID": 825,
+    "CharPartsType": "GSWeapon",
+    "Index": 41,
+    "PartsPrefName": "GSWeapon_KasakaVenomFang_01",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 93,
+    "GroupID": 826,
+    "CharPartsType": "GSWeapon",
+    "Index": 42,
+    "PartsPrefName": "GSWeapon_GravekeeperScythe_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 94,
+    "GroupID": 827,
+    "CharPartsType": "GSWeapon",
+    "Index": 43,
+    "PartsPrefName": "GSWeapon_KnightSword_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 95,
+    "GroupID": 211,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "AnnaRuiz_Weapon01_PFV",
+    "AttachParentName": "Bone_Bow",
+    "AwakeActive": true
+  },
+  {
+    "ID": 96,
+    "GroupID": 211,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "AnnaRuiz_Weapon03_PFV",
+    "AttachParentName": "Bone_Arrow_Home",
+    "AwakeActive": true
+  },
+  {
+    "ID": 97,
+    "GroupID": 211,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "AnnaRuiz_Weapon02_PFV",
+    "AttachParentName": "Point_Weapon_B_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 98,
+    "GroupID": 201,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "EmmaLaurent_Weapon0_PFV",
+    "AttachParentName": "Prop_Weapon_Sword_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 99,
+    "GroupID": 201,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "EmmaLaurent_Weapon1_PFV",
+    "AttachParentName": "Point_EmmaLaurent_Weapon",
+    "AwakeActive": true
+  },
+  {
+    "ID": 100,
+    "GroupID": 828,
+    "CharPartsType": "GSWeapon",
+    "Index": 44,
+    "PartsPrefName": "GSWeapon_DragnScaleGreatBlade_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 101,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 5,
+    "PartsPrefName": "Weapon_Dualwield_03_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 102,
+    "GroupID": 1,
+    "CharPartsType": "Weapon",
+    "Index": 6,
+    "PartsPrefName": "Weapon_Dualwield_04_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 103,
+    "GroupID": 221,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "ParkBeomSik_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 104,
+    "GroupID": 221,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "ParkBeomSik_Weapon02_PFV",
+    "AttachParentName": "Bip001 Prop2",
+    "AwakeActive": true
+  },
+  {
+    "ID": 105,
+    "GroupID": 221,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "ParkBeomSik_Weapon03_PFV",
+    "AttachParentName": "Weapon_Equip_Root01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 106,
+    "GroupID": 221,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "ParkBeomSik_Weapon04_PFV",
+    "AttachParentName": "Weapon_Equip_Root02",
+    "AwakeActive": true
+  },
+  {
+    "ID": 107,
+    "GroupID": 829,
+    "CharPartsType": "GSWeapon",
+    "Index": 45,
+    "PartsPrefName": "GSWeapon_LordScythe_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 108,
+    "GroupID": 231,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "NamChaeYeong_Weapon1_PFV",
+    "AttachParentName": "Bip001 Prop2",
+    "AwakeActive": true
+  },
+  {
+    "ID": 109,
+    "GroupID": 231,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "NamChaeYeong_Weapon2_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 110,
+    "GroupID": 231,
+    "CharPartsType": "Weapon",
+    "Index": 2,
+    "PartsPrefName": "NamChaeYeong_Weapon3_PFV",
+    "AttachParentName": "Boom_Target",
+    "AwakeActive": true
+  },
+  {
+    "ID": 111,
+    "GroupID": 231,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "NamChaeYeong_Weapon4_PFV",
+    "AttachParentName": "BackEquip_Target",
+    "AwakeActive": true
+  },
+  {
+    "ID": 112,
+    "GroupID": 241,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 113,
+    "GroupID": 241,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 116,
+    "GroupID": 261,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 117,
+    "GroupID": 261,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 118,
+    "GroupID": 271,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "AliciaBlanchet_Weapon01_PFV",
+    "AttachParentName": "Bip001 Prop1",
+    "AwakeActive": true
+  },
+  {
+    "ID": 119,
+    "GroupID": 271,
+    "CharPartsType": "Weapon",
+    "Index": 1,
+    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV",
+    "AttachParentName": "Weapon_Equip_Root",
+    "AwakeActive": true
+  },
+  {
+    "ID": 120,
+    "GroupID": 211,
+    "CharPartsType": "Weapon",
+    "Index": 3,
+    "PartsPrefName": "AnnaRuiz_Weapon04_PFV",
+    "AttachParentName": "Bone_Arrow",
+    "AwakeActive": true
+  },
+  {
+    "ID": 121,
+    "GroupID": 830,
+    "CharPartsType": "GSWeapon",
+    "Index": 46,
+    "PartsPrefName": "GSWeapon_MoonShadow_02_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 122,
+    "GroupID": 830,
+    "CharPartsType": "GSWeapon",
+    "Index": 47,
+    "PartsPrefName": "GSWeapon_MoonShadow_01_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  }
+]

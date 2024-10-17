@@ -1,0 +1,3206 @@
+[
+  {
+    "ID": 10101,
+    "GroupID": 101,
+    "SortOrder": 1,
+    "QuestTaskID": 30101,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701001,
+    "RequiredChallengeMission": 0
+  },
+  {
+    "ID": 10102,
+    "GroupID": 101,
+    "SortOrder": 2,
+    "QuestTaskID": 30102,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701002,
+    "RequiredChallengeMission": 10101
+  },
+  {
+    "ID": 10103,
+    "GroupID": 101,
+    "SortOrder": 3,
+    "QuestTaskID": 30103,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701003,
+    "RequiredChallengeMission": 10102
+  },
+  {
+    "ID": 10104,
+    "GroupID": 101,
+    "SortOrder": 4,
+    "QuestTaskID": 30104,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701004,
+    "RequiredChallengeMission": 10103
+  },
+  {
+    "ID": 10105,
+    "GroupID": 101,
+    "SortOrder": 5,
+    "QuestTaskID": 30105,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701005,
+    "RequiredChallengeMission": 10104
+  },
+  {
+    "ID": 10106,
+    "GroupID": 101,
+    "SortOrder": 6,
+    "QuestTaskID": 30106,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701006,
+    "RequiredChallengeMission": 10105
+  },
+  {
+    "ID": 10107,
+    "GroupID": 101,
+    "SortOrder": 7,
+    "QuestTaskID": 30107,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701007,
+    "RequiredChallengeMission": 10106
+  },
+  {
+    "ID": 10108,
+    "GroupID": 101,
+    "SortOrder": 8,
+    "QuestTaskID": 30108,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701008,
+    "RequiredChallengeMission": 10107
+  },
+  {
+    "ID": 10109,
+    "GroupID": 101,
+    "SortOrder": 9,
+    "QuestTaskID": 30109,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701009,
+    "RequiredChallengeMission": 10108
+  },
+  {
+    "ID": 10110,
+    "GroupID": 101,
+    "SortOrder": 10,
+    "QuestTaskID": 30110,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701010,
+    "RequiredChallengeMission": 10109
+  },
+  {
+    "ID": 10111,
+    "GroupID": 101,
+    "SortOrder": 11,
+    "QuestTaskID": 30111,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701011,
+    "RequiredChallengeMission": 10110
+  },
+  {
+    "ID": 10112,
+    "GroupID": 101,
+    "SortOrder": 12,
+    "QuestTaskID": 30112,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701012,
+    "RequiredChallengeMission": 10111
+  },
+  {
+    "ID": 10113,
+    "GroupID": 101,
+    "SortOrder": 13,
+    "QuestTaskID": 30113,
+    "QuestCountType": "GroupOpen",
+    "RewardGroupID": 701013,
+    "RequiredChallengeMission": 10112
+  },
+  {
+    "ID": 10114,
+    "GroupID": 101,
+    "SortOrder": 14,
+    "QuestTaskID": 30114,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 701014,
+    "RequiredChallengeMission": 10113
+  },
+  {
+    "ID": 10201,
+    "GroupID": 102,
+    "SortOrder": 1,
+    "QuestTaskID": 30201,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702001,
+    "RequiredChallengeMission": 10114
+  },
+  {
+    "ID": 10202,
+    "GroupID": 102,
+    "SortOrder": 2,
+    "QuestTaskID": 30202,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702002,
+    "RequiredChallengeMission": 10201
+  },
+  {
+    "ID": 10203,
+    "GroupID": 102,
+    "SortOrder": 3,
+    "QuestTaskID": 30203,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702003,
+    "RequiredChallengeMission": 10202
+  },
+  {
+    "ID": 10204,
+    "GroupID": 102,
+    "SortOrder": 4,
+    "QuestTaskID": 30204,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 702004,
+    "RequiredChallengeMission": 10203
+  },
+  {
+    "ID": 10205,
+    "GroupID": 102,
+    "SortOrder": 5,
+    "QuestTaskID": 30205,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702005,
+    "RequiredChallengeMission": 10204
+  },
+  {
+    "ID": 10206,
+    "GroupID": 102,
+    "SortOrder": 6,
+    "QuestTaskID": 30206,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702006,
+    "RequiredChallengeMission": 10205
+  },
+  {
+    "ID": 10207,
+    "GroupID": 102,
+    "SortOrder": 7,
+    "QuestTaskID": 30207,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702007,
+    "RequiredChallengeMission": 10206
+  },
+  {
+    "ID": 10208,
+    "GroupID": 102,
+    "SortOrder": 8,
+    "QuestTaskID": 30208,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702008,
+    "RequiredChallengeMission": 10207
+  },
+  {
+    "ID": 10209,
+    "GroupID": 102,
+    "SortOrder": 9,
+    "QuestTaskID": 30209,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702009,
+    "RequiredChallengeMission": 10208
+  },
+  {
+    "ID": 10210,
+    "GroupID": 102,
+    "SortOrder": 10,
+    "QuestTaskID": 30210,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702010,
+    "RequiredChallengeMission": 10209
+  },
+  {
+    "ID": 10211,
+    "GroupID": 102,
+    "SortOrder": 11,
+    "QuestTaskID": 30211,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 702011,
+    "RequiredChallengeMission": 10210
+  },
+  {
+    "ID": 10212,
+    "GroupID": 102,
+    "SortOrder": 12,
+    "QuestTaskID": 30212,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 702012,
+    "RequiredChallengeMission": 10211
+  },
+  {
+    "ID": 10213,
+    "GroupID": 102,
+    "SortOrder": 13,
+    "QuestTaskID": 30213,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702013,
+    "RequiredChallengeMission": 10212
+  },
+  {
+    "ID": 10214,
+    "GroupID": 102,
+    "SortOrder": 14,
+    "QuestTaskID": 30214,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702014,
+    "RequiredChallengeMission": 10213
+  },
+  {
+    "ID": 10215,
+    "GroupID": 102,
+    "SortOrder": 15,
+    "QuestTaskID": 30215,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 702015,
+    "RequiredChallengeMission": 10214
+  },
+  {
+    "ID": 10216,
+    "GroupID": 102,
+    "SortOrder": 16,
+    "QuestTaskID": 30216,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702016,
+    "RequiredChallengeMission": 10215
+  },
+  {
+    "ID": 10217,
+    "GroupID": 102,
+    "SortOrder": 17,
+    "QuestTaskID": 30217,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702017,
+    "RequiredChallengeMission": 10216
+  },
+  {
+    "ID": 10218,
+    "GroupID": 102,
+    "SortOrder": 18,
+    "QuestTaskID": 30218,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 702018,
+    "RequiredChallengeMission": 10217
+  },
+  {
+    "ID": 10301,
+    "GroupID": 103,
+    "SortOrder": 1,
+    "QuestTaskID": 30301,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703001,
+    "RequiredChallengeMission": 10218
+  },
+  {
+    "ID": 10302,
+    "GroupID": 103,
+    "SortOrder": 2,
+    "QuestTaskID": 30302,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703002,
+    "RequiredChallengeMission": 10301
+  },
+  {
+    "ID": 10303,
+    "GroupID": 103,
+    "SortOrder": 3,
+    "QuestTaskID": 30303,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703003,
+    "RequiredChallengeMission": 10302
+  },
+  {
+    "ID": 10304,
+    "GroupID": 103,
+    "SortOrder": 4,
+    "QuestTaskID": 30304,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703004,
+    "RequiredChallengeMission": 10303
+  },
+  {
+    "ID": 10305,
+    "GroupID": 103,
+    "SortOrder": 5,
+    "QuestTaskID": 30305,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703005,
+    "RequiredChallengeMission": 10304
+  },
+  {
+    "ID": 10306,
+    "GroupID": 103,
+    "SortOrder": 6,
+    "QuestTaskID": 30306,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703006,
+    "RequiredChallengeMission": 10305
+  },
+  {
+    "ID": 10307,
+    "GroupID": 103,
+    "SortOrder": 7,
+    "QuestTaskID": 30307,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703007,
+    "RequiredChallengeMission": 10306
+  },
+  {
+    "ID": 10308,
+    "GroupID": 103,
+    "SortOrder": 8,
+    "QuestTaskID": 30308,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703008,
+    "RequiredChallengeMission": 10307
+  },
+  {
+    "ID": 10309,
+    "GroupID": 103,
+    "SortOrder": 9,
+    "QuestTaskID": 30309,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703009,
+    "RequiredChallengeMission": 10308
+  },
+  {
+    "ID": 10310,
+    "GroupID": 103,
+    "SortOrder": 10,
+    "QuestTaskID": 30310,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703010,
+    "RequiredChallengeMission": 10309
+  },
+  {
+    "ID": 10311,
+    "GroupID": 103,
+    "SortOrder": 11,
+    "QuestTaskID": 30311,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703011,
+    "RequiredChallengeMission": 10310
+  },
+  {
+    "ID": 10312,
+    "GroupID": 103,
+    "SortOrder": 12,
+    "QuestTaskID": 30312,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703012,
+    "RequiredChallengeMission": 10311
+  },
+  {
+    "ID": 10313,
+    "GroupID": 103,
+    "SortOrder": 13,
+    "QuestTaskID": 30313,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703013,
+    "RequiredChallengeMission": 10312
+  },
+  {
+    "ID": 10314,
+    "GroupID": 103,
+    "SortOrder": 14,
+    "QuestTaskID": 30314,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703014,
+    "RequiredChallengeMission": 10313
+  },
+  {
+    "ID": 10315,
+    "GroupID": 103,
+    "SortOrder": 15,
+    "QuestTaskID": 30315,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703015,
+    "RequiredChallengeMission": 10314
+  },
+  {
+    "ID": 10316,
+    "GroupID": 103,
+    "SortOrder": 16,
+    "QuestTaskID": 30316,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703016,
+    "RequiredChallengeMission": 10315
+  },
+  {
+    "ID": 10317,
+    "GroupID": 103,
+    "SortOrder": 17,
+    "QuestTaskID": 30317,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703017,
+    "RequiredChallengeMission": 10316
+  },
+  {
+    "ID": 10318,
+    "GroupID": 103,
+    "SortOrder": 18,
+    "QuestTaskID": 30318,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703018,
+    "RequiredChallengeMission": 10317
+  },
+  {
+    "ID": 10319,
+    "GroupID": 103,
+    "SortOrder": 19,
+    "QuestTaskID": 30319,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703019,
+    "RequiredChallengeMission": 10318
+  },
+  {
+    "ID": 10320,
+    "GroupID": 103,
+    "SortOrder": 20,
+    "QuestTaskID": 30320,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703020,
+    "RequiredChallengeMission": 10319
+  },
+  {
+    "ID": 10321,
+    "GroupID": 103,
+    "SortOrder": 21,
+    "QuestTaskID": 30321,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 703021,
+    "RequiredChallengeMission": 10320
+  },
+  {
+    "ID": 10322,
+    "GroupID": 103,
+    "SortOrder": 22,
+    "QuestTaskID": 30322,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703022,
+    "RequiredChallengeMission": 10321
+  },
+  {
+    "ID": 10323,
+    "GroupID": 103,
+    "SortOrder": 23,
+    "QuestTaskID": 30323,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703023,
+    "RequiredChallengeMission": 10322
+  },
+  {
+    "ID": 10324,
+    "GroupID": 103,
+    "SortOrder": 24,
+    "QuestTaskID": 30324,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703024,
+    "RequiredChallengeMission": 10323
+  },
+  {
+    "ID": 10325,
+    "GroupID": 103,
+    "SortOrder": 25,
+    "QuestTaskID": 30325,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703025,
+    "RequiredChallengeMission": 10324
+  },
+  {
+    "ID": 10326,
+    "GroupID": 103,
+    "SortOrder": 26,
+    "QuestTaskID": 30326,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703026,
+    "RequiredChallengeMission": 10325
+  },
+  {
+    "ID": 10327,
+    "GroupID": 103,
+    "SortOrder": 27,
+    "QuestTaskID": 30327,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703027,
+    "RequiredChallengeMission": 10326
+  },
+  {
+    "ID": 10328,
+    "GroupID": 103,
+    "SortOrder": 28,
+    "QuestTaskID": 30328,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 703028,
+    "RequiredChallengeMission": 10327
+  },
+  {
+    "ID": 10329,
+    "GroupID": 103,
+    "SortOrder": 29,
+    "QuestTaskID": 30329,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703029,
+    "RequiredChallengeMission": 10328
+  },
+  {
+    "ID": 10330,
+    "GroupID": 103,
+    "SortOrder": 30,
+    "QuestTaskID": 30330,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 703030,
+    "RequiredChallengeMission": 10329
+  },
+  {
+    "ID": 10401,
+    "GroupID": 104,
+    "SortOrder": 1,
+    "QuestTaskID": 30401,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704001,
+    "RequiredChallengeMission": 10330
+  },
+  {
+    "ID": 10402,
+    "GroupID": 104,
+    "SortOrder": 2,
+    "QuestTaskID": 30402,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704002,
+    "RequiredChallengeMission": 10401
+  },
+  {
+    "ID": 10403,
+    "GroupID": 104,
+    "SortOrder": 3,
+    "QuestTaskID": 30403,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704003,
+    "RequiredChallengeMission": 10402
+  },
+  {
+    "ID": 10404,
+    "GroupID": 104,
+    "SortOrder": 4,
+    "QuestTaskID": 30404,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704004,
+    "RequiredChallengeMission": 10403
+  },
+  {
+    "ID": 10405,
+    "GroupID": 104,
+    "SortOrder": 5,
+    "QuestTaskID": 30405,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704005,
+    "RequiredChallengeMission": 10404
+  },
+  {
+    "ID": 10406,
+    "GroupID": 104,
+    "SortOrder": 6,
+    "QuestTaskID": 30406,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704006,
+    "RequiredChallengeMission": 10405
+  },
+  {
+    "ID": 10407,
+    "GroupID": 104,
+    "SortOrder": 7,
+    "QuestTaskID": 30407,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704007,
+    "RequiredChallengeMission": 10406
+  },
+  {
+    "ID": 10408,
+    "GroupID": 104,
+    "SortOrder": 8,
+    "QuestTaskID": 30408,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704008,
+    "RequiredChallengeMission": 10407
+  },
+  {
+    "ID": 10409,
+    "GroupID": 104,
+    "SortOrder": 9,
+    "QuestTaskID": 30409,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704009,
+    "RequiredChallengeMission": 10408
+  },
+  {
+    "ID": 10410,
+    "GroupID": 104,
+    "SortOrder": 10,
+    "QuestTaskID": 30410,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704010,
+    "RequiredChallengeMission": 10409
+  },
+  {
+    "ID": 10411,
+    "GroupID": 104,
+    "SortOrder": 11,
+    "QuestTaskID": 30411,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704011,
+    "RequiredChallengeMission": 10410
+  },
+  {
+    "ID": 10412,
+    "GroupID": 104,
+    "SortOrder": 12,
+    "QuestTaskID": 30412,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704012,
+    "RequiredChallengeMission": 10411
+  },
+  {
+    "ID": 10413,
+    "GroupID": 104,
+    "SortOrder": 13,
+    "QuestTaskID": 30413,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704013,
+    "RequiredChallengeMission": 10412
+  },
+  {
+    "ID": 10414,
+    "GroupID": 104,
+    "SortOrder": 14,
+    "QuestTaskID": 30414,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704014,
+    "RequiredChallengeMission": 10413
+  },
+  {
+    "ID": 10415,
+    "GroupID": 104,
+    "SortOrder": 15,
+    "QuestTaskID": 30415,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704015,
+    "RequiredChallengeMission": 10414
+  },
+  {
+    "ID": 10416,
+    "GroupID": 104,
+    "SortOrder": 16,
+    "QuestTaskID": 30416,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704016,
+    "RequiredChallengeMission": 10415
+  },
+  {
+    "ID": 10417,
+    "GroupID": 104,
+    "SortOrder": 17,
+    "QuestTaskID": 30417,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704017,
+    "RequiredChallengeMission": 10416
+  },
+  {
+    "ID": 10418,
+    "GroupID": 104,
+    "SortOrder": 18,
+    "QuestTaskID": 30418,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704018,
+    "RequiredChallengeMission": 10417
+  },
+  {
+    "ID": 10419,
+    "GroupID": 104,
+    "SortOrder": 19,
+    "QuestTaskID": 30419,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704019,
+    "RequiredChallengeMission": 10418
+  },
+  {
+    "ID": 10420,
+    "GroupID": 104,
+    "SortOrder": 20,
+    "QuestTaskID": 30420,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704020,
+    "RequiredChallengeMission": 10419
+  },
+  {
+    "ID": 10421,
+    "GroupID": 104,
+    "SortOrder": 21,
+    "QuestTaskID": 30421,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704021,
+    "RequiredChallengeMission": 10420
+  },
+  {
+    "ID": 10422,
+    "GroupID": 104,
+    "SortOrder": 22,
+    "QuestTaskID": 30422,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704022,
+    "RequiredChallengeMission": 10421
+  },
+  {
+    "ID": 10423,
+    "GroupID": 104,
+    "SortOrder": 23,
+    "QuestTaskID": 30423,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704023,
+    "RequiredChallengeMission": 10422
+  },
+  {
+    "ID": 10424,
+    "GroupID": 104,
+    "SortOrder": 24,
+    "QuestTaskID": 30424,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 704024,
+    "RequiredChallengeMission": 10423
+  },
+  {
+    "ID": 10425,
+    "GroupID": 104,
+    "SortOrder": 25,
+    "QuestTaskID": 30425,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704025,
+    "RequiredChallengeMission": 10424
+  },
+  {
+    "ID": 10426,
+    "GroupID": 104,
+    "SortOrder": 26,
+    "QuestTaskID": 30426,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704026,
+    "RequiredChallengeMission": 10425
+  },
+  {
+    "ID": 10427,
+    "GroupID": 104,
+    "SortOrder": 27,
+    "QuestTaskID": 30427,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704027,
+    "RequiredChallengeMission": 10426
+  },
+  {
+    "ID": 10428,
+    "GroupID": 104,
+    "SortOrder": 28,
+    "QuestTaskID": 30428,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704028,
+    "RequiredChallengeMission": 10427
+  },
+  {
+    "ID": 10429,
+    "GroupID": 104,
+    "SortOrder": 29,
+    "QuestTaskID": 30429,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704029,
+    "RequiredChallengeMission": 10428
+  },
+  {
+    "ID": 10430,
+    "GroupID": 104,
+    "SortOrder": 30,
+    "QuestTaskID": 30430,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704030,
+    "RequiredChallengeMission": 10429
+  },
+  {
+    "ID": 10431,
+    "GroupID": 104,
+    "SortOrder": 31,
+    "QuestTaskID": 30431,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704031,
+    "RequiredChallengeMission": 10430
+  },
+  {
+    "ID": 10432,
+    "GroupID": 104,
+    "SortOrder": 32,
+    "QuestTaskID": 30432,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 704032,
+    "RequiredChallengeMission": 10431
+  },
+  {
+    "ID": 10433,
+    "GroupID": 104,
+    "SortOrder": 33,
+    "QuestTaskID": 30433,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704033,
+    "RequiredChallengeMission": 10432
+  },
+  {
+    "ID": 10434,
+    "GroupID": 104,
+    "SortOrder": 34,
+    "QuestTaskID": 30434,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704034,
+    "RequiredChallengeMission": 10433
+  },
+  {
+    "ID": 10435,
+    "GroupID": 104,
+    "SortOrder": 35,
+    "QuestTaskID": 30435,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704035,
+    "RequiredChallengeMission": 10434
+  },
+  {
+    "ID": 10436,
+    "GroupID": 104,
+    "SortOrder": 36,
+    "QuestTaskID": 30436,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704036,
+    "RequiredChallengeMission": 10435
+  },
+  {
+    "ID": 10437,
+    "GroupID": 104,
+    "SortOrder": 37,
+    "QuestTaskID": 30437,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 704037,
+    "RequiredChallengeMission": 10436
+  },
+  {
+    "ID": 10501,
+    "GroupID": 105,
+    "SortOrder": 1,
+    "QuestTaskID": 30501,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705001,
+    "RequiredChallengeMission": 10437
+  },
+  {
+    "ID": 10502,
+    "GroupID": 105,
+    "SortOrder": 2,
+    "QuestTaskID": 30502,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705002,
+    "RequiredChallengeMission": 10501
+  },
+  {
+    "ID": 10503,
+    "GroupID": 105,
+    "SortOrder": 3,
+    "QuestTaskID": 30503,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705003,
+    "RequiredChallengeMission": 10502
+  },
+  {
+    "ID": 10504,
+    "GroupID": 105,
+    "SortOrder": 4,
+    "QuestTaskID": 30504,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705004,
+    "RequiredChallengeMission": 10503
+  },
+  {
+    "ID": 10505,
+    "GroupID": 105,
+    "SortOrder": 5,
+    "QuestTaskID": 30505,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705005,
+    "RequiredChallengeMission": 10504
+  },
+  {
+    "ID": 10506,
+    "GroupID": 105,
+    "SortOrder": 6,
+    "QuestTaskID": 30506,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705006,
+    "RequiredChallengeMission": 10505
+  },
+  {
+    "ID": 10507,
+    "GroupID": 105,
+    "SortOrder": 7,
+    "QuestTaskID": 30507,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705007,
+    "RequiredChallengeMission": 10506
+  },
+  {
+    "ID": 10508,
+    "GroupID": 105,
+    "SortOrder": 8,
+    "QuestTaskID": 30508,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705008,
+    "RequiredChallengeMission": 10507
+  },
+  {
+    "ID": 10509,
+    "GroupID": 105,
+    "SortOrder": 9,
+    "QuestTaskID": 30509,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705009,
+    "RequiredChallengeMission": 10508
+  },
+  {
+    "ID": 10510,
+    "GroupID": 105,
+    "SortOrder": 10,
+    "QuestTaskID": 30510,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705010,
+    "RequiredChallengeMission": 10509
+  },
+  {
+    "ID": 10511,
+    "GroupID": 105,
+    "SortOrder": 11,
+    "QuestTaskID": 30511,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705011,
+    "RequiredChallengeMission": 10510
+  },
+  {
+    "ID": 10512,
+    "GroupID": 105,
+    "SortOrder": 12,
+    "QuestTaskID": 30512,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705012,
+    "RequiredChallengeMission": 10511
+  },
+  {
+    "ID": 10513,
+    "GroupID": 105,
+    "SortOrder": 13,
+    "QuestTaskID": 30513,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705013,
+    "RequiredChallengeMission": 10512
+  },
+  {
+    "ID": 10514,
+    "GroupID": 105,
+    "SortOrder": 14,
+    "QuestTaskID": 30514,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705014,
+    "RequiredChallengeMission": 10513
+  },
+  {
+    "ID": 10515,
+    "GroupID": 105,
+    "SortOrder": 15,
+    "QuestTaskID": 30515,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705015,
+    "RequiredChallengeMission": 10514
+  },
+  {
+    "ID": 10516,
+    "GroupID": 105,
+    "SortOrder": 16,
+    "QuestTaskID": 30516,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 705016,
+    "RequiredChallengeMission": 10515
+  },
+  {
+    "ID": 10517,
+    "GroupID": 105,
+    "SortOrder": 17,
+    "QuestTaskID": 30517,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705017,
+    "RequiredChallengeMission": 10516
+  },
+  {
+    "ID": 10518,
+    "GroupID": 105,
+    "SortOrder": 18,
+    "QuestTaskID": 30518,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705018,
+    "RequiredChallengeMission": 10517
+  },
+  {
+    "ID": 10519,
+    "GroupID": 105,
+    "SortOrder": 19,
+    "QuestTaskID": 30519,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705019,
+    "RequiredChallengeMission": 10518
+  },
+  {
+    "ID": 10520,
+    "GroupID": 105,
+    "SortOrder": 20,
+    "QuestTaskID": 30520,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705020,
+    "RequiredChallengeMission": 10519
+  },
+  {
+    "ID": 10521,
+    "GroupID": 105,
+    "SortOrder": 21,
+    "QuestTaskID": 30521,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705021,
+    "RequiredChallengeMission": 10520
+  },
+  {
+    "ID": 10522,
+    "GroupID": 105,
+    "SortOrder": 22,
+    "QuestTaskID": 30522,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705022,
+    "RequiredChallengeMission": 10521
+  },
+  {
+    "ID": 10523,
+    "GroupID": 105,
+    "SortOrder": 23,
+    "QuestTaskID": 30523,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705023,
+    "RequiredChallengeMission": 10522
+  },
+  {
+    "ID": 10524,
+    "GroupID": 105,
+    "SortOrder": 24,
+    "QuestTaskID": 30524,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705024,
+    "RequiredChallengeMission": 10523
+  },
+  {
+    "ID": 10525,
+    "GroupID": 105,
+    "SortOrder": 25,
+    "QuestTaskID": 30525,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705025,
+    "RequiredChallengeMission": 10524
+  },
+  {
+    "ID": 10526,
+    "GroupID": 105,
+    "SortOrder": 26,
+    "QuestTaskID": 30526,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 705026,
+    "RequiredChallengeMission": 10525
+  },
+  {
+    "ID": 10527,
+    "GroupID": 105,
+    "SortOrder": 27,
+    "QuestTaskID": 30527,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705027,
+    "RequiredChallengeMission": 10526
+  },
+  {
+    "ID": 10528,
+    "GroupID": 105,
+    "SortOrder": 28,
+    "QuestTaskID": 30528,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705028,
+    "RequiredChallengeMission": 10527
+  },
+  {
+    "ID": 10529,
+    "GroupID": 105,
+    "SortOrder": 29,
+    "QuestTaskID": 30529,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705029,
+    "RequiredChallengeMission": 10528
+  },
+  {
+    "ID": 10530,
+    "GroupID": 105,
+    "SortOrder": 30,
+    "QuestTaskID": 30530,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 705030,
+    "RequiredChallengeMission": 10529
+  },
+  {
+    "ID": 10531,
+    "GroupID": 105,
+    "SortOrder": 31,
+    "QuestTaskID": 30531,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705031,
+    "RequiredChallengeMission": 10530
+  },
+  {
+    "ID": 10532,
+    "GroupID": 105,
+    "SortOrder": 32,
+    "QuestTaskID": 30532,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705032,
+    "RequiredChallengeMission": 10531
+  },
+  {
+    "ID": 10533,
+    "GroupID": 105,
+    "SortOrder": 33,
+    "QuestTaskID": 30533,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705033,
+    "RequiredChallengeMission": 10532
+  },
+  {
+    "ID": 10534,
+    "GroupID": 105,
+    "SortOrder": 34,
+    "QuestTaskID": 30534,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 705034,
+    "RequiredChallengeMission": 10533
+  },
+  {
+    "ID": 10601,
+    "GroupID": 106,
+    "SortOrder": 1,
+    "QuestTaskID": 30601,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706001,
+    "RequiredChallengeMission": 10534
+  },
+  {
+    "ID": 10602,
+    "GroupID": 106,
+    "SortOrder": 2,
+    "QuestTaskID": 30602,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706002,
+    "RequiredChallengeMission": 10601
+  },
+  {
+    "ID": 10603,
+    "GroupID": 106,
+    "SortOrder": 3,
+    "QuestTaskID": 30603,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706003,
+    "RequiredChallengeMission": 10602
+  },
+  {
+    "ID": 10604,
+    "GroupID": 106,
+    "SortOrder": 4,
+    "QuestTaskID": 30604,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706004,
+    "RequiredChallengeMission": 10603
+  },
+  {
+    "ID": 10605,
+    "GroupID": 106,
+    "SortOrder": 5,
+    "QuestTaskID": 30605,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 706005,
+    "RequiredChallengeMission": 10604
+  },
+  {
+    "ID": 10606,
+    "GroupID": 106,
+    "SortOrder": 6,
+    "QuestTaskID": 30606,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706006,
+    "RequiredChallengeMission": 10605
+  },
+  {
+    "ID": 10607,
+    "GroupID": 106,
+    "SortOrder": 7,
+    "QuestTaskID": 30607,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706007,
+    "RequiredChallengeMission": 10606
+  },
+  {
+    "ID": 10608,
+    "GroupID": 106,
+    "SortOrder": 8,
+    "QuestTaskID": 30608,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706008,
+    "RequiredChallengeMission": 10607
+  },
+  {
+    "ID": 10609,
+    "GroupID": 106,
+    "SortOrder": 9,
+    "QuestTaskID": 30609,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706009,
+    "RequiredChallengeMission": 10608
+  },
+  {
+    "ID": 10610,
+    "GroupID": 106,
+    "SortOrder": 10,
+    "QuestTaskID": 30610,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706010,
+    "RequiredChallengeMission": 10609
+  },
+  {
+    "ID": 10611,
+    "GroupID": 106,
+    "SortOrder": 11,
+    "QuestTaskID": 30611,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706011,
+    "RequiredChallengeMission": 10610
+  },
+  {
+    "ID": 10612,
+    "GroupID": 106,
+    "SortOrder": 12,
+    "QuestTaskID": 30612,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706012,
+    "RequiredChallengeMission": 10611
+  },
+  {
+    "ID": 10613,
+    "GroupID": 106,
+    "SortOrder": 13,
+    "QuestTaskID": 30613,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706013,
+    "RequiredChallengeMission": 10612
+  },
+  {
+    "ID": 10614,
+    "GroupID": 106,
+    "SortOrder": 14,
+    "QuestTaskID": 30614,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706014,
+    "RequiredChallengeMission": 10613
+  },
+  {
+    "ID": 10615,
+    "GroupID": 106,
+    "SortOrder": 15,
+    "QuestTaskID": 30615,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706016,
+    "RequiredChallengeMission": 10614
+  },
+  {
+    "ID": 10616,
+    "GroupID": 106,
+    "SortOrder": 16,
+    "QuestTaskID": 30616,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706017,
+    "RequiredChallengeMission": 10615
+  },
+  {
+    "ID": 10617,
+    "GroupID": 106,
+    "SortOrder": 17,
+    "QuestTaskID": 30617,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706018,
+    "RequiredChallengeMission": 10616
+  },
+  {
+    "ID": 10618,
+    "GroupID": 106,
+    "SortOrder": 18,
+    "QuestTaskID": 30618,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706019,
+    "RequiredChallengeMission": 10617
+  },
+  {
+    "ID": 10619,
+    "GroupID": 106,
+    "SortOrder": 19,
+    "QuestTaskID": 30619,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706020,
+    "RequiredChallengeMission": 10618
+  },
+  {
+    "ID": 10620,
+    "GroupID": 106,
+    "SortOrder": 20,
+    "QuestTaskID": 30620,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 706021,
+    "RequiredChallengeMission": 10619
+  },
+  {
+    "ID": 10621,
+    "GroupID": 106,
+    "SortOrder": 21,
+    "QuestTaskID": 30621,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 706022,
+    "RequiredChallengeMission": 10620
+  },
+  {
+    "ID": 10701,
+    "GroupID": 107,
+    "SortOrder": 1,
+    "QuestTaskID": 30701,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707001,
+    "RequiredChallengeMission": 10621
+  },
+  {
+    "ID": 10702,
+    "GroupID": 107,
+    "SortOrder": 2,
+    "QuestTaskID": 30702,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707002,
+    "RequiredChallengeMission": 10701
+  },
+  {
+    "ID": 10703,
+    "GroupID": 107,
+    "SortOrder": 3,
+    "QuestTaskID": 30703,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707003,
+    "RequiredChallengeMission": 10702
+  },
+  {
+    "ID": 10704,
+    "GroupID": 107,
+    "SortOrder": 4,
+    "QuestTaskID": 30704,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707004,
+    "RequiredChallengeMission": 10703
+  },
+  {
+    "ID": 10705,
+    "GroupID": 107,
+    "SortOrder": 5,
+    "QuestTaskID": 30705,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707005,
+    "RequiredChallengeMission": 10704
+  },
+  {
+    "ID": 10706,
+    "GroupID": 107,
+    "SortOrder": 6,
+    "QuestTaskID": 30706,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707006,
+    "RequiredChallengeMission": 10705
+  },
+  {
+    "ID": 10707,
+    "GroupID": 107,
+    "SortOrder": 7,
+    "QuestTaskID": 30707,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707007,
+    "RequiredChallengeMission": 10706
+  },
+  {
+    "ID": 10708,
+    "GroupID": 107,
+    "SortOrder": 8,
+    "QuestTaskID": 30708,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707008,
+    "RequiredChallengeMission": 10707
+  },
+  {
+    "ID": 10709,
+    "GroupID": 107,
+    "SortOrder": 9,
+    "QuestTaskID": 30709,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707009,
+    "RequiredChallengeMission": 10708
+  },
+  {
+    "ID": 10710,
+    "GroupID": 107,
+    "SortOrder": 10,
+    "QuestTaskID": 30710,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707010,
+    "RequiredChallengeMission": 10709
+  },
+  {
+    "ID": 10711,
+    "GroupID": 107,
+    "SortOrder": 11,
+    "QuestTaskID": 30711,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707011,
+    "RequiredChallengeMission": 10710
+  },
+  {
+    "ID": 10712,
+    "GroupID": 107,
+    "SortOrder": 12,
+    "QuestTaskID": 30712,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707012,
+    "RequiredChallengeMission": 10711
+  },
+  {
+    "ID": 10713,
+    "GroupID": 107,
+    "SortOrder": 13,
+    "QuestTaskID": 30713,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707013,
+    "RequiredChallengeMission": 10712
+  },
+  {
+    "ID": 10714,
+    "GroupID": 107,
+    "SortOrder": 14,
+    "QuestTaskID": 30714,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707014,
+    "RequiredChallengeMission": 10713
+  },
+  {
+    "ID": 10715,
+    "GroupID": 107,
+    "SortOrder": 15,
+    "QuestTaskID": 30715,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707015,
+    "RequiredChallengeMission": 10714
+  },
+  {
+    "ID": 10716,
+    "GroupID": 107,
+    "SortOrder": 16,
+    "QuestTaskID": 30716,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707016,
+    "RequiredChallengeMission": 10715
+  },
+  {
+    "ID": 10717,
+    "GroupID": 107,
+    "SortOrder": 17,
+    "QuestTaskID": 30717,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707017,
+    "RequiredChallengeMission": 10716
+  },
+  {
+    "ID": 10718,
+    "GroupID": 107,
+    "SortOrder": 18,
+    "QuestTaskID": 30718,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707018,
+    "RequiredChallengeMission": 10717
+  },
+  {
+    "ID": 10719,
+    "GroupID": 107,
+    "SortOrder": 19,
+    "QuestTaskID": 30719,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707019,
+    "RequiredChallengeMission": 10718
+  },
+  {
+    "ID": 10720,
+    "GroupID": 107,
+    "SortOrder": 20,
+    "QuestTaskID": 30720,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707020,
+    "RequiredChallengeMission": 10719
+  },
+  {
+    "ID": 10721,
+    "GroupID": 107,
+    "SortOrder": 21,
+    "QuestTaskID": 30721,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707021,
+    "RequiredChallengeMission": 10720
+  },
+  {
+    "ID": 10722,
+    "GroupID": 107,
+    "SortOrder": 22,
+    "QuestTaskID": 30722,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707022,
+    "RequiredChallengeMission": 10721
+  },
+  {
+    "ID": 10723,
+    "GroupID": 107,
+    "SortOrder": 23,
+    "QuestTaskID": 30723,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 707023,
+    "RequiredChallengeMission": 10722
+  },
+  {
+    "ID": 10724,
+    "GroupID": 107,
+    "SortOrder": 24,
+    "QuestTaskID": 30724,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707024,
+    "RequiredChallengeMission": 10723
+  },
+  {
+    "ID": 10725,
+    "GroupID": 107,
+    "SortOrder": 25,
+    "QuestTaskID": 30725,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707025,
+    "RequiredChallengeMission": 10724
+  },
+  {
+    "ID": 10726,
+    "GroupID": 107,
+    "SortOrder": 26,
+    "QuestTaskID": 30726,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707026,
+    "RequiredChallengeMission": 10725
+  },
+  {
+    "ID": 10727,
+    "GroupID": 107,
+    "SortOrder": 27,
+    "QuestTaskID": 30727,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707027,
+    "RequiredChallengeMission": 10726
+  },
+  {
+    "ID": 10728,
+    "GroupID": 107,
+    "SortOrder": 28,
+    "QuestTaskID": 30728,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707029,
+    "RequiredChallengeMission": 10727
+  },
+  {
+    "ID": 10729,
+    "GroupID": 107,
+    "SortOrder": 29,
+    "QuestTaskID": 30729,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707030,
+    "RequiredChallengeMission": 10728
+  },
+  {
+    "ID": 10730,
+    "GroupID": 107,
+    "SortOrder": 30,
+    "QuestTaskID": 30730,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707031,
+    "RequiredChallengeMission": 10729
+  },
+  {
+    "ID": 10731,
+    "GroupID": 107,
+    "SortOrder": 31,
+    "QuestTaskID": 30731,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707032,
+    "RequiredChallengeMission": 10730
+  },
+  {
+    "ID": 10732,
+    "GroupID": 107,
+    "SortOrder": 32,
+    "QuestTaskID": 30732,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707033,
+    "RequiredChallengeMission": 10731
+  },
+  {
+    "ID": 10733,
+    "GroupID": 107,
+    "SortOrder": 33,
+    "QuestTaskID": 30733,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707034,
+    "RequiredChallengeMission": 10732
+  },
+  {
+    "ID": 10734,
+    "GroupID": 107,
+    "SortOrder": 34,
+    "QuestTaskID": 30734,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707035,
+    "RequiredChallengeMission": 10733
+  },
+  {
+    "ID": 10735,
+    "GroupID": 107,
+    "SortOrder": 35,
+    "QuestTaskID": 30735,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707036,
+    "RequiredChallengeMission": 10734
+  },
+  {
+    "ID": 10736,
+    "GroupID": 107,
+    "SortOrder": 36,
+    "QuestTaskID": 30736,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707037,
+    "RequiredChallengeMission": 10735
+  },
+  {
+    "ID": 10737,
+    "GroupID": 107,
+    "SortOrder": 37,
+    "QuestTaskID": 30737,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707038,
+    "RequiredChallengeMission": 10736
+  },
+  {
+    "ID": 10738,
+    "GroupID": 107,
+    "SortOrder": 38,
+    "QuestTaskID": 30738,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707039,
+    "RequiredChallengeMission": 10737
+  },
+  {
+    "ID": 10739,
+    "GroupID": 107,
+    "SortOrder": 39,
+    "QuestTaskID": 30739,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 707040,
+    "RequiredChallengeMission": 10738
+  },
+  {
+    "ID": 10740,
+    "GroupID": 107,
+    "SortOrder": 40,
+    "QuestTaskID": 30740,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707041,
+    "RequiredChallengeMission": 10739
+  },
+  {
+    "ID": 10741,
+    "GroupID": 107,
+    "SortOrder": 41,
+    "QuestTaskID": 30741,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 707042,
+    "RequiredChallengeMission": 10740
+  },
+  {
+    "ID": 10801,
+    "GroupID": 108,
+    "SortOrder": 1,
+    "QuestTaskID": 30801,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708001,
+    "RequiredChallengeMission": 10741
+  },
+  {
+    "ID": 10802,
+    "GroupID": 108,
+    "SortOrder": 2,
+    "QuestTaskID": 30802,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708002,
+    "RequiredChallengeMission": 10801
+  },
+  {
+    "ID": 10803,
+    "GroupID": 108,
+    "SortOrder": 3,
+    "QuestTaskID": 30803,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708003,
+    "RequiredChallengeMission": 10802
+  },
+  {
+    "ID": 10804,
+    "GroupID": 108,
+    "SortOrder": 4,
+    "QuestTaskID": 30804,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708004,
+    "RequiredChallengeMission": 10803
+  },
+  {
+    "ID": 10805,
+    "GroupID": 108,
+    "SortOrder": 5,
+    "QuestTaskID": 30805,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708005,
+    "RequiredChallengeMission": 10804
+  },
+  {
+    "ID": 10806,
+    "GroupID": 108,
+    "SortOrder": 6,
+    "QuestTaskID": 30806,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708006,
+    "RequiredChallengeMission": 10805
+  },
+  {
+    "ID": 10807,
+    "GroupID": 108,
+    "SortOrder": 7,
+    "QuestTaskID": 30807,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708007,
+    "RequiredChallengeMission": 10806
+  },
+  {
+    "ID": 10808,
+    "GroupID": 108,
+    "SortOrder": 8,
+    "QuestTaskID": 30808,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708008,
+    "RequiredChallengeMission": 10807
+  },
+  {
+    "ID": 10809,
+    "GroupID": 108,
+    "SortOrder": 9,
+    "QuestTaskID": 30809,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708009,
+    "RequiredChallengeMission": 10808
+  },
+  {
+    "ID": 10810,
+    "GroupID": 108,
+    "SortOrder": 10,
+    "QuestTaskID": 30810,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 708010,
+    "RequiredChallengeMission": 10809
+  },
+  {
+    "ID": 10811,
+    "GroupID": 108,
+    "SortOrder": 11,
+    "QuestTaskID": 30811,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708011,
+    "RequiredChallengeMission": 10810
+  },
+  {
+    "ID": 10812,
+    "GroupID": 108,
+    "SortOrder": 12,
+    "QuestTaskID": 30812,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708012,
+    "RequiredChallengeMission": 10811
+  },
+  {
+    "ID": 10813,
+    "GroupID": 108,
+    "SortOrder": 13,
+    "QuestTaskID": 30813,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708013,
+    "RequiredChallengeMission": 10812
+  },
+  {
+    "ID": 10814,
+    "GroupID": 108,
+    "SortOrder": 14,
+    "QuestTaskID": 30814,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708014,
+    "RequiredChallengeMission": 10813
+  },
+  {
+    "ID": 10815,
+    "GroupID": 108,
+    "SortOrder": 15,
+    "QuestTaskID": 30815,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708015,
+    "RequiredChallengeMission": 10814
+  },
+  {
+    "ID": 10816,
+    "GroupID": 108,
+    "SortOrder": 16,
+    "QuestTaskID": 30816,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708016,
+    "RequiredChallengeMission": 10815
+  },
+  {
+    "ID": 10817,
+    "GroupID": 108,
+    "SortOrder": 17,
+    "QuestTaskID": 30817,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708017,
+    "RequiredChallengeMission": 10816
+  },
+  {
+    "ID": 10818,
+    "GroupID": 108,
+    "SortOrder": 18,
+    "QuestTaskID": 30818,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708018,
+    "RequiredChallengeMission": 10817
+  },
+  {
+    "ID": 10819,
+    "GroupID": 108,
+    "SortOrder": 19,
+    "QuestTaskID": 30819,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708019,
+    "RequiredChallengeMission": 10818
+  },
+  {
+    "ID": 10820,
+    "GroupID": 108,
+    "SortOrder": 20,
+    "QuestTaskID": 30820,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708020,
+    "RequiredChallengeMission": 10819
+  },
+  {
+    "ID": 10821,
+    "GroupID": 108,
+    "SortOrder": 21,
+    "QuestTaskID": 30821,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708021,
+    "RequiredChallengeMission": 10820
+  },
+  {
+    "ID": 10822,
+    "GroupID": 108,
+    "SortOrder": 22,
+    "QuestTaskID": 30822,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708022,
+    "RequiredChallengeMission": 10821
+  },
+  {
+    "ID": 10823,
+    "GroupID": 108,
+    "SortOrder": 23,
+    "QuestTaskID": 30823,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708023,
+    "RequiredChallengeMission": 10822
+  },
+  {
+    "ID": 10824,
+    "GroupID": 108,
+    "SortOrder": 24,
+    "QuestTaskID": 30824,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708024,
+    "RequiredChallengeMission": 10823
+  },
+  {
+    "ID": 10825,
+    "GroupID": 108,
+    "SortOrder": 25,
+    "QuestTaskID": 30825,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708025,
+    "RequiredChallengeMission": 10824
+  },
+  {
+    "ID": 10826,
+    "GroupID": 108,
+    "SortOrder": 26,
+    "QuestTaskID": 30826,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708026,
+    "RequiredChallengeMission": 10825
+  },
+  {
+    "ID": 10827,
+    "GroupID": 108,
+    "SortOrder": 27,
+    "QuestTaskID": 30827,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 708027,
+    "RequiredChallengeMission": 10826
+  },
+  {
+    "ID": 10828,
+    "GroupID": 108,
+    "SortOrder": 28,
+    "QuestTaskID": 30828,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708028,
+    "RequiredChallengeMission": 10827
+  },
+  {
+    "ID": 10829,
+    "GroupID": 108,
+    "SortOrder": 29,
+    "QuestTaskID": 30829,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 708029,
+    "RequiredChallengeMission": 10828
+  },
+  {
+    "ID": 10901,
+    "GroupID": 109,
+    "SortOrder": 1,
+    "QuestTaskID": 30901,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709001,
+    "RequiredChallengeMission": 10829
+  },
+  {
+    "ID": 10902,
+    "GroupID": 109,
+    "SortOrder": 2,
+    "QuestTaskID": 30902,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709002,
+    "RequiredChallengeMission": 10901
+  },
+  {
+    "ID": 10903,
+    "GroupID": 109,
+    "SortOrder": 3,
+    "QuestTaskID": 30903,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709003,
+    "RequiredChallengeMission": 10902
+  },
+  {
+    "ID": 10904,
+    "GroupID": 109,
+    "SortOrder": 4,
+    "QuestTaskID": 30904,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709004,
+    "RequiredChallengeMission": 10903
+  },
+  {
+    "ID": 10905,
+    "GroupID": 109,
+    "SortOrder": 5,
+    "QuestTaskID": 30905,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709005,
+    "RequiredChallengeMission": 10904
+  },
+  {
+    "ID": 10906,
+    "GroupID": 109,
+    "SortOrder": 6,
+    "QuestTaskID": 30906,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709006,
+    "RequiredChallengeMission": 10905
+  },
+  {
+    "ID": 10907,
+    "GroupID": 109,
+    "SortOrder": 7,
+    "QuestTaskID": 30907,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709007,
+    "RequiredChallengeMission": 10906
+  },
+  {
+    "ID": 10908,
+    "GroupID": 109,
+    "SortOrder": 8,
+    "QuestTaskID": 30908,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709008,
+    "RequiredChallengeMission": 10907
+  },
+  {
+    "ID": 10909,
+    "GroupID": 109,
+    "SortOrder": 9,
+    "QuestTaskID": 30909,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709009,
+    "RequiredChallengeMission": 10908
+  },
+  {
+    "ID": 10910,
+    "GroupID": 109,
+    "SortOrder": 10,
+    "QuestTaskID": 30910,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709010,
+    "RequiredChallengeMission": 10909
+  },
+  {
+    "ID": 10911,
+    "GroupID": 109,
+    "SortOrder": 11,
+    "QuestTaskID": 30911,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709011,
+    "RequiredChallengeMission": 10910
+  },
+  {
+    "ID": 10912,
+    "GroupID": 109,
+    "SortOrder": 12,
+    "QuestTaskID": 30912,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709012,
+    "RequiredChallengeMission": 10911
+  },
+  {
+    "ID": 10913,
+    "GroupID": 109,
+    "SortOrder": 13,
+    "QuestTaskID": 30913,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709013,
+    "RequiredChallengeMission": 10912
+  },
+  {
+    "ID": 10914,
+    "GroupID": 109,
+    "SortOrder": 14,
+    "QuestTaskID": 30914,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709014,
+    "RequiredChallengeMission": 10913
+  },
+  {
+    "ID": 10915,
+    "GroupID": 109,
+    "SortOrder": 15,
+    "QuestTaskID": 30915,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709015,
+    "RequiredChallengeMission": 10914
+  },
+  {
+    "ID": 10916,
+    "GroupID": 109,
+    "SortOrder": 16,
+    "QuestTaskID": 30916,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709016,
+    "RequiredChallengeMission": 10915
+  },
+  {
+    "ID": 10917,
+    "GroupID": 109,
+    "SortOrder": 17,
+    "QuestTaskID": 30917,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709017,
+    "RequiredChallengeMission": 10916
+  },
+  {
+    "ID": 10918,
+    "GroupID": 109,
+    "SortOrder": 18,
+    "QuestTaskID": 30918,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709018,
+    "RequiredChallengeMission": 10917
+  },
+  {
+    "ID": 10919,
+    "GroupID": 109,
+    "SortOrder": 19,
+    "QuestTaskID": 30919,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709019,
+    "RequiredChallengeMission": 10918
+  },
+  {
+    "ID": 10920,
+    "GroupID": 109,
+    "SortOrder": 20,
+    "QuestTaskID": 30920,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709020,
+    "RequiredChallengeMission": 10919
+  },
+  {
+    "ID": 10921,
+    "GroupID": 109,
+    "SortOrder": 21,
+    "QuestTaskID": 30921,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709021,
+    "RequiredChallengeMission": 10920
+  },
+  {
+    "ID": 10922,
+    "GroupID": 109,
+    "SortOrder": 22,
+    "QuestTaskID": 30922,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709022,
+    "RequiredChallengeMission": 10921
+  },
+  {
+    "ID": 10923,
+    "GroupID": 109,
+    "SortOrder": 23,
+    "QuestTaskID": 30923,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709023,
+    "RequiredChallengeMission": 10922
+  },
+  {
+    "ID": 10924,
+    "GroupID": 109,
+    "SortOrder": 24,
+    "QuestTaskID": 30924,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709024,
+    "RequiredChallengeMission": 10923
+  },
+  {
+    "ID": 10925,
+    "GroupID": 109,
+    "SortOrder": 25,
+    "QuestTaskID": 30925,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709025,
+    "RequiredChallengeMission": 10924
+  },
+  {
+    "ID": 10926,
+    "GroupID": 109,
+    "SortOrder": 26,
+    "QuestTaskID": 30926,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709026,
+    "RequiredChallengeMission": 10925
+  },
+  {
+    "ID": 10927,
+    "GroupID": 109,
+    "SortOrder": 27,
+    "QuestTaskID": 30927,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709027,
+    "RequiredChallengeMission": 10926
+  },
+  {
+    "ID": 10928,
+    "GroupID": 109,
+    "SortOrder": 28,
+    "QuestTaskID": 30928,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709028,
+    "RequiredChallengeMission": 10927
+  },
+  {
+    "ID": 10929,
+    "GroupID": 109,
+    "SortOrder": 29,
+    "QuestTaskID": 30929,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709029,
+    "RequiredChallengeMission": 10928
+  },
+  {
+    "ID": 10930,
+    "GroupID": 109,
+    "SortOrder": 30,
+    "QuestTaskID": 30930,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 709030,
+    "RequiredChallengeMission": 10929
+  },
+  {
+    "ID": 10931,
+    "GroupID": 109,
+    "SortOrder": 31,
+    "QuestTaskID": 30931,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709031,
+    "RequiredChallengeMission": 10930
+  },
+  {
+    "ID": 10932,
+    "GroupID": 109,
+    "SortOrder": 32,
+    "QuestTaskID": 30932,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709032,
+    "RequiredChallengeMission": 10931
+  },
+  {
+    "ID": 10933,
+    "GroupID": 109,
+    "SortOrder": 33,
+    "QuestTaskID": 30933,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709033,
+    "RequiredChallengeMission": 10932
+  },
+  {
+    "ID": 10934,
+    "GroupID": 109,
+    "SortOrder": 34,
+    "QuestTaskID": 30934,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709034,
+    "RequiredChallengeMission": 10933
+  },
+  {
+    "ID": 10935,
+    "GroupID": 109,
+    "SortOrder": 35,
+    "QuestTaskID": 30935,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709035,
+    "RequiredChallengeMission": 10934
+  },
+  {
+    "ID": 10936,
+    "GroupID": 109,
+    "SortOrder": 36,
+    "QuestTaskID": 30936,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709036,
+    "RequiredChallengeMission": 10935
+  },
+  {
+    "ID": 10937,
+    "GroupID": 109,
+    "SortOrder": 37,
+    "QuestTaskID": 30937,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 709037,
+    "RequiredChallengeMission": 10936
+  },
+  {
+    "ID": 10938,
+    "GroupID": 109,
+    "SortOrder": 38,
+    "QuestTaskID": 30938,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709038,
+    "RequiredChallengeMission": 10937
+  },
+  {
+    "ID": 10939,
+    "GroupID": 109,
+    "SortOrder": 39,
+    "QuestTaskID": 30939,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 709039,
+    "RequiredChallengeMission": 10938
+  },
+  {
+    "ID": 11001,
+    "GroupID": 110,
+    "SortOrder": 1,
+    "QuestTaskID": 31001,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710001,
+    "RequiredChallengeMission": 10939
+  },
+  {
+    "ID": 11002,
+    "GroupID": 110,
+    "SortOrder": 2,
+    "QuestTaskID": 31002,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710002,
+    "RequiredChallengeMission": 11001
+  },
+  {
+    "ID": 11003,
+    "GroupID": 110,
+    "SortOrder": 3,
+    "QuestTaskID": 31003,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710003,
+    "RequiredChallengeMission": 11002
+  },
+  {
+    "ID": 11004,
+    "GroupID": 110,
+    "SortOrder": 4,
+    "QuestTaskID": 31004,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710004,
+    "RequiredChallengeMission": 11003
+  },
+  {
+    "ID": 11005,
+    "GroupID": 110,
+    "SortOrder": 5,
+    "QuestTaskID": 31005,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710005,
+    "RequiredChallengeMission": 11004
+  },
+  {
+    "ID": 11006,
+    "GroupID": 110,
+    "SortOrder": 6,
+    "QuestTaskID": 31006,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710006,
+    "RequiredChallengeMission": 11005
+  },
+  {
+    "ID": 11007,
+    "GroupID": 110,
+    "SortOrder": 7,
+    "QuestTaskID": 31007,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710007,
+    "RequiredChallengeMission": 11006
+  },
+  {
+    "ID": 11008,
+    "GroupID": 110,
+    "SortOrder": 8,
+    "QuestTaskID": 31008,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710008,
+    "RequiredChallengeMission": 11007
+  },
+  {
+    "ID": 11009,
+    "GroupID": 110,
+    "SortOrder": 9,
+    "QuestTaskID": 31009,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710009,
+    "RequiredChallengeMission": 11008
+  },
+  {
+    "ID": 11010,
+    "GroupID": 110,
+    "SortOrder": 10,
+    "QuestTaskID": 31010,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710010,
+    "RequiredChallengeMission": 11009
+  },
+  {
+    "ID": 11011,
+    "GroupID": 110,
+    "SortOrder": 11,
+    "QuestTaskID": 31011,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710011,
+    "RequiredChallengeMission": 11010
+  },
+  {
+    "ID": 11012,
+    "GroupID": 110,
+    "SortOrder": 12,
+    "QuestTaskID": 31012,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710012,
+    "RequiredChallengeMission": 11011
+  },
+  {
+    "ID": 11013,
+    "GroupID": 110,
+    "SortOrder": 13,
+    "QuestTaskID": 31013,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710013,
+    "RequiredChallengeMission": 11012
+  },
+  {
+    "ID": 11014,
+    "GroupID": 110,
+    "SortOrder": 14,
+    "QuestTaskID": 31014,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710014,
+    "RequiredChallengeMission": 11013
+  },
+  {
+    "ID": 11015,
+    "GroupID": 110,
+    "SortOrder": 15,
+    "QuestTaskID": 31015,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710015,
+    "RequiredChallengeMission": 11014
+  },
+  {
+    "ID": 11016,
+    "GroupID": 110,
+    "SortOrder": 16,
+    "QuestTaskID": 31016,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710016,
+    "RequiredChallengeMission": 11015
+  },
+  {
+    "ID": 11017,
+    "GroupID": 110,
+    "SortOrder": 17,
+    "QuestTaskID": 31017,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710017,
+    "RequiredChallengeMission": 11016
+  },
+  {
+    "ID": 11018,
+    "GroupID": 110,
+    "SortOrder": 18,
+    "QuestTaskID": 31018,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 710018,
+    "RequiredChallengeMission": 11017
+  },
+  {
+    "ID": 11019,
+    "GroupID": 110,
+    "SortOrder": 19,
+    "QuestTaskID": 31019,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710019,
+    "RequiredChallengeMission": 11018
+  },
+  {
+    "ID": 11020,
+    "GroupID": 110,
+    "SortOrder": 20,
+    "QuestTaskID": 31020,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710020,
+    "RequiredChallengeMission": 11019
+  },
+  {
+    "ID": 11021,
+    "GroupID": 110,
+    "SortOrder": 21,
+    "QuestTaskID": 31021,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710021,
+    "RequiredChallengeMission": 11020
+  },
+  {
+    "ID": 11022,
+    "GroupID": 110,
+    "SortOrder": 22,
+    "QuestTaskID": 31022,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710022,
+    "RequiredChallengeMission": 11021
+  },
+  {
+    "ID": 11023,
+    "GroupID": 110,
+    "SortOrder": 23,
+    "QuestTaskID": 31023,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710023,
+    "RequiredChallengeMission": 11022
+  },
+  {
+    "ID": 11024,
+    "GroupID": 110,
+    "SortOrder": 24,
+    "QuestTaskID": 31024,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710024,
+    "RequiredChallengeMission": 11023
+  },
+  {
+    "ID": 11025,
+    "GroupID": 110,
+    "SortOrder": 25,
+    "QuestTaskID": 31025,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710025,
+    "RequiredChallengeMission": 11024
+  },
+  {
+    "ID": 11026,
+    "GroupID": 110,
+    "SortOrder": 26,
+    "QuestTaskID": 31026,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710026,
+    "RequiredChallengeMission": 11025
+  },
+  {
+    "ID": 11027,
+    "GroupID": 110,
+    "SortOrder": 27,
+    "QuestTaskID": 31027,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710027,
+    "RequiredChallengeMission": 11026
+  },
+  {
+    "ID": 11028,
+    "GroupID": 110,
+    "SortOrder": 28,
+    "QuestTaskID": 31028,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710028,
+    "RequiredChallengeMission": 11027
+  },
+  {
+    "ID": 11029,
+    "GroupID": 110,
+    "SortOrder": 29,
+    "QuestTaskID": 31029,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710029,
+    "RequiredChallengeMission": 11028
+  },
+  {
+    "ID": 11030,
+    "GroupID": 110,
+    "SortOrder": 30,
+    "QuestTaskID": 31030,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710030,
+    "RequiredChallengeMission": 11029
+  },
+  {
+    "ID": 11031,
+    "GroupID": 110,
+    "SortOrder": 31,
+    "QuestTaskID": 31031,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710031,
+    "RequiredChallengeMission": 11030
+  },
+  {
+    "ID": 11032,
+    "GroupID": 110,
+    "SortOrder": 32,
+    "QuestTaskID": 31032,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710032,
+    "RequiredChallengeMission": 11031
+  },
+  {
+    "ID": 11033,
+    "GroupID": 110,
+    "SortOrder": 33,
+    "QuestTaskID": 31033,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710033,
+    "RequiredChallengeMission": 11032
+  },
+  {
+    "ID": 11034,
+    "GroupID": 110,
+    "SortOrder": 34,
+    "QuestTaskID": 31034,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710034,
+    "RequiredChallengeMission": 11033
+  },
+  {
+    "ID": 11035,
+    "GroupID": 110,
+    "SortOrder": 35,
+    "QuestTaskID": 31035,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710035,
+    "RequiredChallengeMission": 11034
+  },
+  {
+    "ID": 11036,
+    "GroupID": 110,
+    "SortOrder": 36,
+    "QuestTaskID": 31036,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710036,
+    "RequiredChallengeMission": 11035
+  },
+  {
+    "ID": 11037,
+    "GroupID": 110,
+    "SortOrder": 37,
+    "QuestTaskID": 31037,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 710037,
+    "RequiredChallengeMission": 11036
+  },
+  {
+    "ID": 11038,
+    "GroupID": 110,
+    "SortOrder": 38,
+    "QuestTaskID": 31038,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710038,
+    "RequiredChallengeMission": 11037
+  },
+  {
+    "ID": 11039,
+    "GroupID": 110,
+    "SortOrder": 39,
+    "QuestTaskID": 31039,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710039,
+    "RequiredChallengeMission": 11038
+  },
+  {
+    "ID": 11040,
+    "GroupID": 110,
+    "SortOrder": 40,
+    "QuestTaskID": 31040,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 710040,
+    "RequiredChallengeMission": 11039
+  },
+  {
+    "ID": 11101,
+    "GroupID": 111,
+    "SortOrder": 1,
+    "QuestTaskID": 31101,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711001,
+    "RequiredChallengeMission": 11040
+  },
+  {
+    "ID": 11102,
+    "GroupID": 111,
+    "SortOrder": 2,
+    "QuestTaskID": 31102,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711002,
+    "RequiredChallengeMission": 11101
+  },
+  {
+    "ID": 11103,
+    "GroupID": 111,
+    "SortOrder": 3,
+    "QuestTaskID": 31103,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711003,
+    "RequiredChallengeMission": 11102
+  },
+  {
+    "ID": 11104,
+    "GroupID": 111,
+    "SortOrder": 4,
+    "QuestTaskID": 31104,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711004,
+    "RequiredChallengeMission": 11103
+  },
+  {
+    "ID": 11105,
+    "GroupID": 111,
+    "SortOrder": 5,
+    "QuestTaskID": 31105,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711005,
+    "RequiredChallengeMission": 11104
+  },
+  {
+    "ID": 11106,
+    "GroupID": 111,
+    "SortOrder": 6,
+    "QuestTaskID": 31106,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711006,
+    "RequiredChallengeMission": 11105
+  },
+  {
+    "ID": 11107,
+    "GroupID": 111,
+    "SortOrder": 7,
+    "QuestTaskID": 31107,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711007,
+    "RequiredChallengeMission": 11106
+  },
+  {
+    "ID": 11108,
+    "GroupID": 111,
+    "SortOrder": 8,
+    "QuestTaskID": 31108,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711008,
+    "RequiredChallengeMission": 11107
+  },
+  {
+    "ID": 11109,
+    "GroupID": 111,
+    "SortOrder": 9,
+    "QuestTaskID": 31109,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711009,
+    "RequiredChallengeMission": 11108
+  },
+  {
+    "ID": 11110,
+    "GroupID": 111,
+    "SortOrder": 10,
+    "QuestTaskID": 31110,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711010,
+    "RequiredChallengeMission": 11109
+  },
+  {
+    "ID": 11111,
+    "GroupID": 111,
+    "SortOrder": 11,
+    "QuestTaskID": 31111,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711011,
+    "RequiredChallengeMission": 11110
+  },
+  {
+    "ID": 11112,
+    "GroupID": 111,
+    "SortOrder": 12,
+    "QuestTaskID": 31112,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711012,
+    "RequiredChallengeMission": 11111
+  },
+  {
+    "ID": 11113,
+    "GroupID": 111,
+    "SortOrder": 13,
+    "QuestTaskID": 31113,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711013,
+    "RequiredChallengeMission": 11112
+  },
+  {
+    "ID": 11114,
+    "GroupID": 111,
+    "SortOrder": 14,
+    "QuestTaskID": 31114,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711014,
+    "RequiredChallengeMission": 11113
+  },
+  {
+    "ID": 11115,
+    "GroupID": 111,
+    "SortOrder": 15,
+    "QuestTaskID": 31115,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 711015,
+    "RequiredChallengeMission": 11114
+  },
+  {
+    "ID": 11116,
+    "GroupID": 111,
+    "SortOrder": 16,
+    "QuestTaskID": 31116,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711016,
+    "RequiredChallengeMission": 11115
+  },
+  {
+    "ID": 11117,
+    "GroupID": 111,
+    "SortOrder": 17,
+    "QuestTaskID": 31117,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711017,
+    "RequiredChallengeMission": 11116
+  },
+  {
+    "ID": 11118,
+    "GroupID": 111,
+    "SortOrder": 18,
+    "QuestTaskID": 31118,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711018,
+    "RequiredChallengeMission": 11117
+  },
+  {
+    "ID": 11119,
+    "GroupID": 111,
+    "SortOrder": 19,
+    "QuestTaskID": 31119,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711019,
+    "RequiredChallengeMission": 11118
+  },
+  {
+    "ID": 11120,
+    "GroupID": 111,
+    "SortOrder": 20,
+    "QuestTaskID": 31120,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711020,
+    "RequiredChallengeMission": 11119
+  },
+  {
+    "ID": 11121,
+    "GroupID": 111,
+    "SortOrder": 21,
+    "QuestTaskID": 31121,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711021,
+    "RequiredChallengeMission": 11120
+  },
+  {
+    "ID": 11122,
+    "GroupID": 111,
+    "SortOrder": 22,
+    "QuestTaskID": 31122,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 711022,
+    "RequiredChallengeMission": 11121
+  },
+  {
+    "ID": 11123,
+    "GroupID": 111,
+    "SortOrder": 23,
+    "QuestTaskID": 31123,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711023,
+    "RequiredChallengeMission": 11122
+  },
+  {
+    "ID": 11124,
+    "GroupID": 111,
+    "SortOrder": 24,
+    "QuestTaskID": 31124,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 711024,
+    "RequiredChallengeMission": 11123
+  },
+  {
+    "ID": 11201,
+    "GroupID": 112,
+    "SortOrder": 1,
+    "QuestTaskID": 31201,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712001,
+    "RequiredChallengeMission": 11124
+  },
+  {
+    "ID": 11202,
+    "GroupID": 112,
+    "SortOrder": 2,
+    "QuestTaskID": 31202,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712002,
+    "RequiredChallengeMission": 11201
+  },
+  {
+    "ID": 11203,
+    "GroupID": 112,
+    "SortOrder": 3,
+    "QuestTaskID": 31203,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712003,
+    "RequiredChallengeMission": 11202
+  },
+  {
+    "ID": 11204,
+    "GroupID": 112,
+    "SortOrder": 4,
+    "QuestTaskID": 31204,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712004,
+    "RequiredChallengeMission": 11203
+  },
+  {
+    "ID": 11205,
+    "GroupID": 112,
+    "SortOrder": 5,
+    "QuestTaskID": 31205,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712005,
+    "RequiredChallengeMission": 11204
+  },
+  {
+    "ID": 11206,
+    "GroupID": 112,
+    "SortOrder": 6,
+    "QuestTaskID": 31206,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712006,
+    "RequiredChallengeMission": 11205
+  },
+  {
+    "ID": 11207,
+    "GroupID": 112,
+    "SortOrder": 7,
+    "QuestTaskID": 31207,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712007,
+    "RequiredChallengeMission": 11206
+  },
+  {
+    "ID": 11208,
+    "GroupID": 112,
+    "SortOrder": 8,
+    "QuestTaskID": 31208,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712008,
+    "RequiredChallengeMission": 11207
+  },
+  {
+    "ID": 11209,
+    "GroupID": 112,
+    "SortOrder": 9,
+    "QuestTaskID": 31209,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712009,
+    "RequiredChallengeMission": 11208
+  },
+  {
+    "ID": 11210,
+    "GroupID": 112,
+    "SortOrder": 10,
+    "QuestTaskID": 31210,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712010,
+    "RequiredChallengeMission": 11209
+  },
+  {
+    "ID": 11211,
+    "GroupID": 112,
+    "SortOrder": 11,
+    "QuestTaskID": 31211,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712011,
+    "RequiredChallengeMission": 11210
+  },
+  {
+    "ID": 11212,
+    "GroupID": 112,
+    "SortOrder": 12,
+    "QuestTaskID": 31212,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712012,
+    "RequiredChallengeMission": 11211
+  },
+  {
+    "ID": 11213,
+    "GroupID": 112,
+    "SortOrder": 13,
+    "QuestTaskID": 31213,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712013,
+    "RequiredChallengeMission": 11212
+  },
+  {
+    "ID": 11214,
+    "GroupID": 112,
+    "SortOrder": 14,
+    "QuestTaskID": 31214,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712014,
+    "RequiredChallengeMission": 11213
+  },
+  {
+    "ID": 11215,
+    "GroupID": 112,
+    "SortOrder": 15,
+    "QuestTaskID": 31215,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 712015,
+    "RequiredChallengeMission": 11214
+  },
+  {
+    "ID": 11216,
+    "GroupID": 112,
+    "SortOrder": 16,
+    "QuestTaskID": 31216,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712016,
+    "RequiredChallengeMission": 11215
+  },
+  {
+    "ID": 11217,
+    "GroupID": 112,
+    "SortOrder": 17,
+    "QuestTaskID": 31217,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712017,
+    "RequiredChallengeMission": 11216
+  },
+  {
+    "ID": 11218,
+    "GroupID": 112,
+    "SortOrder": 18,
+    "QuestTaskID": 31218,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712018,
+    "RequiredChallengeMission": 11217
+  },
+  {
+    "ID": 11219,
+    "GroupID": 112,
+    "SortOrder": 19,
+    "QuestTaskID": 31219,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712019,
+    "RequiredChallengeMission": 11218
+  },
+  {
+    "ID": 11220,
+    "GroupID": 112,
+    "SortOrder": 20,
+    "QuestTaskID": 31220,
+    "QuestCountType": "PreMissionClearOpen",
+    "RewardGroupID": 712020,
+    "RequiredChallengeMission": 11219
+  },
+  {
+    "ID": 11221,
+    "GroupID": 112,
+    "SortOrder": 21,
+    "QuestTaskID": 31221,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712021,
+    "RequiredChallengeMission": 11220
+  },
+  {
+    "ID": 11222,
+    "GroupID": 112,
+    "SortOrder": 22,
+    "QuestTaskID": 31222,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712022,
+    "RequiredChallengeMission": 11221
+  },
+  {
+    "ID": 11223,
+    "GroupID": 112,
+    "SortOrder": 23,
+    "QuestTaskID": 31223,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712023,
+    "RequiredChallengeMission": 11222
+  },
+  {
+    "ID": 11224,
+    "GroupID": 112,
+    "SortOrder": 24,
+    "QuestTaskID": 31224,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712024,
+    "RequiredChallengeMission": 11223
+  },
+  {
+    "ID": 11225,
+    "GroupID": 112,
+    "SortOrder": 25,
+    "QuestTaskID": 31225,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712025,
+    "RequiredChallengeMission": 11224
+  },
+  {
+    "ID": 11226,
+    "GroupID": 112,
+    "SortOrder": 26,
+    "QuestTaskID": 31226,
+    "QuestCountType": "PreChapterClearGroupOpen",
+    "RewardGroupID": 712026,
+    "RequiredChallengeMission": 11225
+  },
+  {
+    "ID": 11227,
+    "GroupID": 112,
+    "SortOrder": 27,
+    "QuestTaskID": 31227,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712027,
+    "RequiredChallengeMission": 11226
+  },
+  {
+    "ID": 11228,
+    "GroupID": 112,
+    "SortOrder": 28,
+    "QuestTaskID": 31228,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712028,
+    "RequiredChallengeMission": 11227
+  },
+  {
+    "ID": 11229,
+    "GroupID": 112,
+    "SortOrder": 29,
+    "QuestTaskID": 31229,
+    "QuestCountType": "InitialOpen",
+    "RewardGroupID": 712029,
+    "RequiredChallengeMission": 11228
+  }
+]

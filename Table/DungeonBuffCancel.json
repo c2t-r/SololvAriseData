@@ -1,0 +1,72 @@
+[
+  {
+    "ID": 1,
+    "CancelGroupID": 101,
+    "SubjectType": "Hunter",
+    "SubjectIndex": 4,
+    "SubjectIndex2": 0,
+    "CancelType": "Immune",
+    "TargetType": "Party",
+    "TargetValue": 0
+  },
+  {
+    "ID": 2,
+    "CancelGroupID": 101,
+    "SubjectType": "Artifact",
+    "SubjectIndex": 402044015,
+    "SubjectIndex2": 0,
+    "CancelType": "Immune",
+    "TargetType": "Self",
+    "TargetValue": 0
+  },
+  {
+    "ID": 3,
+    "CancelGroupID": 101,
+    "SubjectType": "GS",
+    "SubjectIndex": 200030001,
+    "SubjectIndex2": 0,
+    "CancelType": "Res",
+    "TargetType": "Self",
+    "TargetValue": 50
+  },
+  {
+    "ID": 4,
+    "CancelGroupID": 102,
+    "SubjectType": "HunterSkill",
+    "SubjectIndex": 81,
+    "SubjectIndex2": 3,
+    "CancelType": "StackDown",
+    "TargetType": "Party",
+    "TargetValue": 1
+  },
+  {
+    "ID": 5,
+    "CancelGroupID": 102,
+    "SubjectType": "GsSkill",
+    "SubjectIndex": 230507001,
+    "SubjectIndex2": 1,
+    "CancelType": "StackDown",
+    "TargetType": "Self",
+    "TargetValue": 2
+  },
+  {
+    "ID": 6,
+    "CancelGroupID": 103,
+    "SubjectType": "Hunter",
+    "SubjectIndex": 61,
+    "SubjectIndex2": 0,
+    "CancelType": "Immune",
+    "TargetType": "Party",
+    "TargetValue": 0
+  },
+  {
+    "ID": 7,
+    "CancelGroupID": 103,
+    "SubjectType": "GS",
+    "SubjectIndex": 200030003,
+    "SubjectIndex2": 0,
+    "CancelType": "Res",
+    "TargetType": "Party",
+    "TargetValue": 0
+  }
+]

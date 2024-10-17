@@ -1,0 +1,247 @@
+[
+  {
+    "ID": 1,
+    "Conditions": "[1]",
+    "Executions": "[1]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 2,
+    "Conditions": "[]",
+    "Executions": "[1]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 3,
+    "Conditions": "[1]",
+    "Executions": "[]",
+    "NextInteraction": 2,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 4,
+    "Conditions": "[2]",
+    "Executions": "[2,5]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 5,
+    "Conditions": "[3]",
+    "Executions": "[4]",
+    "NextInteraction": 6,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 6,
+    "Conditions": "[4]",
+    "Executions": "[3]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 7,
+    "Conditions": "[5]",
+    "Executions": "[6,7]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 8,
+    "Conditions": "[3]",
+    "Executions": "[8]",
+    "NextInteraction": 7,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 9,
+    "Conditions": "[2]",
+    "Executions": "[9]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 10,
+    "Conditions": "[1]",
+    "Executions": "[10,11,26,27]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 11,
+    "Conditions": "[6]",
+    "Executions": "[12]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 12,
+    "Conditions": "[6]",
+    "Executions": "[14,13]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 13,
+    "Conditions": "[6]",
+    "Executions": "[15,13]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 14,
+    "Conditions": "[2]",
+    "Executions": "[16]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 15,
+    "Conditions": "[2]",
+    "Executions": "[17]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 16,
+    "Conditions": "[7]",
+    "Executions": "[12]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 17,
+    "Conditions": "[8]",
+    "Executions": "[4]",
+    "NextInteraction": 18,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 18,
+    "Conditions": "[4]",
+    "Executions": "[3]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 19,
+    "Conditions": "[6]",
+    "Executions": "[4]",
+    "NextInteraction": 20,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 20,
+    "Conditions": "[]",
+    "Executions": "[3]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 21,
+    "Conditions": "[8]",
+    "Executions": "[18]",
+    "NextInteraction": 6,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 22,
+    "Conditions": "[18]",
+    "Executions": "[3]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 23,
+    "Conditions": "[8]",
+    "Executions": "[19]",
+    "NextInteraction": 6,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 24,
+    "Conditions": "[19]",
+    "Executions": "[3]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 25,
+    "Conditions": "[8]",
+    "Executions": "[20]",
+    "NextInteraction": 6,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 26,
+    "Conditions": "[19]",
+    "Executions": "[3]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 27,
+    "Conditions": "[2]",
+    "Executions": "[21]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 28,
+    "Conditions": "[2]",
+    "Executions": "[22]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 29,
+    "Conditions": "[2]",
+    "Executions": "[23]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 30,
+    "Conditions": "[8]",
+    "Executions": "[24]",
+    "NextInteraction": 6,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 31,
+    "Conditions": "[8]",
+    "Executions": "[25]",
+    "NextInteraction": 6,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 32,
+    "Conditions": "[9]",
+    "Executions": "[6]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 33,
+    "Conditions": "[9]",
+    "Executions": "[28]",
+    "NextInteraction": 7,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 34,
+    "Conditions": "[10]",
+    "Executions": "[28]",
+    "NextInteraction": 35,
+    "IsEndInteraction": true
+  },
+  {
+    "ID": 35,
+    "Conditions": "[10]",
+    "Executions": "[6,7]",
+    "NextInteraction": 0,
+    "IsEndInteraction": true
+  }
+]

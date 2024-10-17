@@ -1,0 +1,622 @@
+[
+  {
+    "ID": 501,
+    "Unused": true,
+    "PenaltyFixGroup": 501,
+    "ExtractCount": 1,
+    "PenaltyKind": 5,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 100,
+    "Unused": true,
+    "PenaltyFixGroup": 9999,
+    "ExtractCount": 1,
+    "PenaltyKind": 9999,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 1000001,
+    "Unused": true,
+    "PenaltyFixGroup": 10000,
+    "ExtractCount": 2,
+    "PenaltyKind": 2,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 3000
+  },
+  {
+    "ID": 1000002,
+    "Unused": true,
+    "PenaltyFixGroup": 10000,
+    "ExtractCount": 2,
+    "PenaltyKind": 3,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 3000
+  },
+  {
+    "ID": 1000003,
+    "Unused": true,
+    "PenaltyFixGroup": 10000,
+    "ExtractCount": 2,
+    "PenaltyKind": 4,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 3000
+  },
+  {
+    "ID": 1000004,
+    "Unused": true,
+    "PenaltyFixGroup": 10000,
+    "ExtractCount": 2,
+    "PenaltyKind": 5,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 500
+  },
+  {
+    "ID": 1000005,
+    "Unused": true,
+    "PenaltyFixGroup": 10000,
+    "ExtractCount": 2,
+    "PenaltyKind": 10,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 500
+  },
+  {
+    "ID": 1000101,
+    "Unused": true,
+    "PenaltyFixGroup": 10001,
+    "ExtractCount": 1,
+    "PenaltyKind": 1,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 3334
+  },
+  {
+    "ID": 1000102,
+    "Unused": true,
+    "PenaltyFixGroup": 10001,
+    "ExtractCount": 1,
+    "PenaltyKind": 7,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 3333
+  },
+  {
+    "ID": 1000103,
+    "Unused": true,
+    "PenaltyFixGroup": 10001,
+    "ExtractCount": 1,
+    "PenaltyKind": 10,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 3333
+  },
+  {
+    "ID": 1000201,
+    "Unused": true,
+    "PenaltyFixGroup": 10002,
+    "ExtractCount": 1,
+    "PenaltyKind": 2,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 3334
+  },
+  {
+    "ID": 1000202,
+    "Unused": true,
+    "PenaltyFixGroup": 10002,
+    "ExtractCount": 1,
+    "PenaltyKind": 3,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 3333
+  },
+  {
+    "ID": 1000203,
+    "Unused": true,
+    "PenaltyFixGroup": 10002,
+    "ExtractCount": 1,
+    "PenaltyKind": 4,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 3000101,
+    "Unused": true,
+    "PenaltyFixGroup": 30001,
+    "ExtractCount": 1,
+    "PenaltyKind": 2,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3000202,
+    "Unused": true,
+    "PenaltyFixGroup": 30002,
+    "ExtractCount": 1,
+    "PenaltyKind": 3,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3000303,
+    "Unused": true,
+    "PenaltyFixGroup": 30003,
+    "ExtractCount": 1,
+    "PenaltyKind": 4,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3001101,
+    "Unused": true,
+    "PenaltyFixGroup": 30011,
+    "ExtractCount": 1,
+    "PenaltyKind": 1,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 3001202,
+    "Unused": true,
+    "PenaltyFixGroup": 30012,
+    "ExtractCount": 1,
+    "PenaltyKind": 7,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3001303,
+    "Unused": true,
+    "PenaltyFixGroup": 30013,
+    "ExtractCount": 1,
+    "PenaltyKind": 11,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3001401,
+    "Unused": true,
+    "PenaltyFixGroup": 30014,
+    "ExtractCount": 1,
+    "PenaltyKind": 20,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3001501,
+    "Unused": true,
+    "PenaltyFixGroup": 30015,
+    "ExtractCount": 1,
+    "PenaltyKind": 21,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 3001601,
+    "Unused": true,
+    "PenaltyFixGroup": 30016,
+    "ExtractCount": 1,
+    "PenaltyKind": 22,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001101,
+    "Unused": true,
+    "PenaltyFixGroup": 600011,
+    "ExtractCount": 1,
+    "PenaltyKind": 13,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001102,
+    "Unused": true,
+    "PenaltyFixGroup": 600011,
+    "ExtractCount": 1,
+    "PenaltyKind": 13,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001201,
+    "Unused": true,
+    "PenaltyFixGroup": 600012,
+    "ExtractCount": 1,
+    "PenaltyKind": 14,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001202,
+    "Unused": true,
+    "PenaltyFixGroup": 600012,
+    "ExtractCount": 1,
+    "PenaltyKind": 14,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001301,
+    "Unused": true,
+    "PenaltyFixGroup": 600013,
+    "ExtractCount": 1,
+    "PenaltyKind": 15,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001302,
+    "Unused": true,
+    "PenaltyFixGroup": 600013,
+    "ExtractCount": 1,
+    "PenaltyKind": 15,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001401,
+    "Unused": true,
+    "PenaltyFixGroup": 600014,
+    "ExtractCount": 1,
+    "PenaltyKind": 16,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001402,
+    "Unused": true,
+    "PenaltyFixGroup": 600014,
+    "ExtractCount": 1,
+    "PenaltyKind": 16,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001501,
+    "Unused": true,
+    "PenaltyFixGroup": 600015,
+    "ExtractCount": 1,
+    "PenaltyKind": 17,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001502,
+    "Unused": true,
+    "PenaltyFixGroup": 600015,
+    "ExtractCount": 1,
+    "PenaltyKind": 17,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001601,
+    "Unused": true,
+    "PenaltyFixGroup": 600016,
+    "ExtractCount": 1,
+    "PenaltyKind": 18,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001701,
+    "Unused": true,
+    "PenaltyFixGroup": 600017,
+    "ExtractCount": 1,
+    "PenaltyKind": 19,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001702,
+    "Unused": true,
+    "PenaltyFixGroup": 600017,
+    "ExtractCount": 1,
+    "PenaltyKind": 19,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001703,
+    "Unused": true,
+    "PenaltyFixGroup": 600017,
+    "ExtractCount": 1,
+    "PenaltyKind": 19,
+    "StepChangeable": true,
+    "PenaltyStepMin": 3,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001801,
+    "Unused": true,
+    "PenaltyFixGroup": 600018,
+    "ExtractCount": 1,
+    "PenaltyKind": 23,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001802,
+    "Unused": true,
+    "PenaltyFixGroup": 600018,
+    "ExtractCount": 1,
+    "PenaltyKind": 23,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001901,
+    "Unused": true,
+    "PenaltyFixGroup": 600019,
+    "ExtractCount": 1,
+    "PenaltyKind": 24,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 60001902,
+    "Unused": true,
+    "PenaltyFixGroup": 600019,
+    "ExtractCount": 1,
+    "PenaltyKind": 24,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000101,
+    "Unused": true,
+    "PenaltyFixGroup": 700001,
+    "ExtractCount": 1,
+    "PenaltyKind": 10001,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000102,
+    "Unused": true,
+    "PenaltyFixGroup": 700001,
+    "ExtractCount": 1,
+    "PenaltyKind": 10001,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000103,
+    "Unused": true,
+    "PenaltyFixGroup": 700001,
+    "ExtractCount": 1,
+    "PenaltyKind": 10001,
+    "StepChangeable": true,
+    "PenaltyStepMin": 3,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000104,
+    "Unused": true,
+    "PenaltyFixGroup": 700001,
+    "ExtractCount": 1,
+    "PenaltyKind": 10001,
+    "StepChangeable": true,
+    "PenaltyStepMin": 4,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000201,
+    "Unused": true,
+    "PenaltyFixGroup": 700002,
+    "ExtractCount": 1,
+    "PenaltyKind": 10002,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000202,
+    "Unused": true,
+    "PenaltyFixGroup": 700002,
+    "ExtractCount": 1,
+    "PenaltyKind": 10002,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000203,
+    "Unused": true,
+    "PenaltyFixGroup": 700002,
+    "ExtractCount": 1,
+    "PenaltyKind": 10002,
+    "StepChangeable": true,
+    "PenaltyStepMin": 3,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000204,
+    "Unused": true,
+    "PenaltyFixGroup": 700002,
+    "ExtractCount": 1,
+    "PenaltyKind": 10002,
+    "StepChangeable": true,
+    "PenaltyStepMin": 4,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000205,
+    "Unused": true,
+    "PenaltyFixGroup": 700002,
+    "ExtractCount": 1,
+    "PenaltyKind": 10002,
+    "StepChangeable": true,
+    "PenaltyStepMin": 5,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000206,
+    "Unused": true,
+    "PenaltyFixGroup": 700002,
+    "ExtractCount": 1,
+    "PenaltyKind": 10002,
+    "StepChangeable": true,
+    "PenaltyStepMin": 6,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000301,
+    "Unused": true,
+    "PenaltyFixGroup": 700003,
+    "ExtractCount": 1,
+    "PenaltyKind": 10003,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000401,
+    "Unused": true,
+    "PenaltyFixGroup": 700004,
+    "ExtractCount": 1,
+    "PenaltyKind": 10004,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000402,
+    "Unused": true,
+    "PenaltyFixGroup": 700004,
+    "ExtractCount": 1,
+    "PenaltyKind": 10004,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000403,
+    "Unused": true,
+    "PenaltyFixGroup": 700004,
+    "ExtractCount": 1,
+    "PenaltyKind": 10004,
+    "StepChangeable": true,
+    "PenaltyStepMin": 3,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000404,
+    "Unused": true,
+    "PenaltyFixGroup": 700004,
+    "ExtractCount": 1,
+    "PenaltyKind": 10004,
+    "StepChangeable": true,
+    "PenaltyStepMin": 4,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000501,
+    "Unused": true,
+    "PenaltyFixGroup": 700005,
+    "ExtractCount": 1,
+    "PenaltyKind": 10005,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000601,
+    "Unused": true,
+    "PenaltyFixGroup": 700006,
+    "ExtractCount": 1,
+    "PenaltyKind": 10006,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000701,
+    "Unused": true,
+    "PenaltyFixGroup": 700007,
+    "ExtractCount": 1,
+    "PenaltyKind": 10007,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000702,
+    "Unused": true,
+    "PenaltyFixGroup": 700007,
+    "ExtractCount": 1,
+    "PenaltyKind": 10007,
+    "StepChangeable": true,
+    "PenaltyStepMin": 2,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000703,
+    "Unused": true,
+    "PenaltyFixGroup": 700007,
+    "ExtractCount": 1,
+    "PenaltyKind": 10007,
+    "StepChangeable": true,
+    "PenaltyStepMin": 3,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000704,
+    "Unused": true,
+    "PenaltyFixGroup": 700007,
+    "ExtractCount": 1,
+    "PenaltyKind": 10007,
+    "StepChangeable": true,
+    "PenaltyStepMin": 4,
+    "Rate": 10000
+  },
+  {
+    "ID": 70000801,
+    "Unused": true,
+    "PenaltyFixGroup": 700008,
+    "ExtractCount": 1,
+    "PenaltyKind": 10008,
+    "StepChangeable": true,
+    "PenaltyStepMin": 1,
+    "Rate": 10000
+  }
+]

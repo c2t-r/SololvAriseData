@@ -1,0 +1,338 @@
+[
+  {
+    "ID": 40101,
+    "GroupID": 401,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Light,Water]",
+    "FilterDesc": "BattleSquad.Filter_Light_Water"
+  },
+  {
+    "ID": 40103,
+    "GroupID": 401,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Assassin,Fighter]",
+    "FilterDesc": "BattleSquad.Filter_Assassin_Fighter"
+  },
+  {
+    "ID": 50101,
+    "GroupID": 501,
+    "FilterTarget": "Hunter",
+    "FilterType": "BaseGrade",
+    "FilterValue": "[SR,SSR]",
+    "FilterDesc": "BattleSquad.Filter_SR_SSR"
+  },
+  {
+    "ID": 110101,
+    "GroupID": 1101,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire,Water,Wind,Light,Darkness]",
+    "FilterDesc": "속성 편성 제한 없음"
+  },
+  {
+    "ID": 110201,
+    "GroupID": 1102,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Water]",
+    "FilterDesc": "수속성 헌터 편성 가능"
+  },
+  {
+    "ID": 111101,
+    "GroupID": 1111,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Light,Water]",
+    "FilterDesc": "빛속성, 수속성 헌터 편성 가능"
+  },
+  {
+    "ID": 111301,
+    "GroupID": 1113,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire,Water,Wind]",
+    "FilterDesc": "화속성, 수속성, 바람속성 편성 가능"
+  },
+  {
+    "ID": 111401,
+    "GroupID": 1114,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Light,Darkness]",
+    "FilterDesc": "빛속성, 암속성 편성가능"
+  },
+  {
+    "ID": 120101,
+    "GroupID": 1201,
+    "FilterTarget": "Hunter",
+    "FilterType": "BaseGrade",
+    "FilterValue": "[R,SR]",
+    "FilterDesc": "R, SR 등급 헌터 편성 가능"
+  },
+  {
+    "ID": 120201,
+    "GroupID": 1202,
+    "FilterTarget": "Hunter",
+    "FilterType": "BaseGrade",
+    "FilterValue": "[SSR]",
+    "FilterDesc": "SSR 등급 헌터 편성 가능"
+  },
+  {
+    "ID": 130101,
+    "GroupID": 1301,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Assassin,Fighter,Healer,Mage,Ranger,Tank]",
+    "FilterDesc": "모든 클레스 타입 테스트용"
+  },
+  {
+    "ID": 130201,
+    "GroupID": 1302,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Fighter,Mage]",
+    "FilterDesc": "파이터, 메이지 편성 가능"
+  },
+  {
+    "ID": 130301,
+    "GroupID": 1303,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Healer,Mage,Tank]",
+    "FilterDesc": "힐러, 메이지, 탱커 편성가능"
+  },
+  {
+    "ID": 130401,
+    "GroupID": 1304,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Mage]",
+    "FilterDesc": "메이지 편성가능"
+  },
+  {
+    "ID": 130501,
+    "GroupID": 1305,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Assassin,Fighter,Healer,Mage]",
+    "FilterDesc": "어쎄신, 파이터, 힐러, 메이지 편성가능"
+  },
+  {
+    "ID": 140101,
+    "GroupID": 1401,
+    "FilterTarget": "Hunter",
+    "FilterType": "ID",
+    "FilterValue": "[11]",
+    "FilterDesc": "차해인 편성가능"
+  },
+  {
+    "ID": 140201,
+    "GroupID": 1402,
+    "FilterTarget": "Hunter",
+    "FilterType": "ID",
+    "FilterValue": "[81]",
+    "FilterDesc": "이주희 편성가능"
+  },
+  {
+    "ID": 140301,
+    "GroupID": 1403,
+    "FilterTarget": "Hunter",
+    "FilterType": "ID",
+    "FilterValue": "[11,131,151]",
+    "FilterDesc": "차해인, 최종인, 우진철 편성가능"
+  },
+  {
+    "ID": 140401,
+    "GroupID": 1404,
+    "FilterTarget": "Hunter",
+    "FilterType": "ID",
+    "FilterValue": "[11,21,31,41,51,61,71,81]",
+    "FilterDesc": "차해인, 김철, 박희진, 강태식, 유진호, 백윤호, 임태규, 이주희 편성가능"
+  },
+  {
+    "ID": 210101,
+    "GroupID": 2101,
+    "FilterTarget": "Shadow",
+    "FilterType": "ID",
+    "FilterValue": "[100001]",
+    "FilterDesc": "아이언 편성가능"
+  },
+  {
+    "ID": 210201,
+    "GroupID": 2102,
+    "FilterTarget": "Shadow",
+    "FilterType": "ID",
+    "FilterValue": "[100004,100020]",
+    "FilterDesc": "이그리트, 켈베로스 편성가능"
+  },
+  {
+    "ID": 210301,
+    "GroupID": 2103,
+    "FilterTarget": "Shadow",
+    "FilterType": "ID",
+    "FilterValue": "[100001,100020,100021,100022]",
+    "FilterDesc": "아이언, 켈베로스, 탱크, 푸른 영혼의 골램 편성가능"
+  },
+  {
+    "ID": 310101,
+    "GroupID": 3101,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire]",
+    "FilterDesc": "화속성 헌터 편성 가능"
+  },
+  {
+    "ID": 310102,
+    "GroupID": 3101,
+    "FilterTarget": "Hunter",
+    "FilterType": "BaseGrade",
+    "FilterValue": "[SSR]",
+    "FilterDesc": "SSR 등급 헌터 편성 가능"
+  },
+  {
+    "ID": 310201,
+    "GroupID": 3102,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire,Water,Wind]",
+    "FilterDesc": "화속성, 수속성, 바람속성 편성 가능"
+  },
+  {
+    "ID": 310202,
+    "GroupID": 3102,
+    "FilterTarget": "Hunter",
+    "FilterType": "BaseGrade",
+    "FilterValue": "[R,SR]",
+    "FilterDesc": "R, SR 등급 헌터 편성 가능"
+  },
+  {
+    "ID": 310203,
+    "GroupID": 3102,
+    "FilterTarget": "Hunter",
+    "FilterType": "ClassType",
+    "FilterValue": "[Fighter,Healer,Mage,Ranger]",
+    "FilterDesc": "파이터, 힐러, 메이지, 레인저 편성 가능"
+  },
+  {
+    "ID": 400001,
+    "GroupID": 400001,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire,Wind,Light,Water]",
+    "FilterDesc": "화, 풍, 명, 수"
+  },
+  {
+    "ID": 400002,
+    "GroupID": 400002,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire,Wind,Light]",
+    "FilterDesc": "화, 풍, 명"
+  },
+  {
+    "ID": 400003,
+    "GroupID": 400003,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Fire,Wind]",
+    "FilterDesc": "화, 풍"
+  },
+  {
+    "ID": 400004,
+    "GroupID": 400004,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Wind,Light,Water,Darkness]",
+    "FilterDesc": "풍, 명, 수, 암"
+  },
+  {
+    "ID": 400005,
+    "GroupID": 400005,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Wind,Light,Water]",
+    "FilterDesc": "풍, 명, 수"
+  },
+  {
+    "ID": 400006,
+    "GroupID": 400006,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Wind,Light]",
+    "FilterDesc": "풍, 명"
+  },
+  {
+    "ID": 400007,
+    "GroupID": 400007,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Light,Water,Darkness,Fire]",
+    "FilterDesc": "명, 수, 암, 화"
+  },
+  {
+    "ID": 400008,
+    "GroupID": 400008,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Light,Water,Darkness]",
+    "FilterDesc": "명, 수, 암"
+  },
+  {
+    "ID": 400009,
+    "GroupID": 400009,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Light,Water]",
+    "FilterDesc": "명, 수"
+  },
+  {
+    "ID": 400010,
+    "GroupID": 400010,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Water,Darkness,Fire,Wind]",
+    "FilterDesc": "수, 암, 화, 풍"
+  },
+  {
+    "ID": 400011,
+    "GroupID": 400011,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Water,Darkness,Fire]",
+    "FilterDesc": "수, 암, 화"
+  },
+  {
+    "ID": 400012,
+    "GroupID": 400012,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Water,Darkness]",
+    "FilterDesc": "수, 암"
+  },
+  {
+    "ID": 400013,
+    "GroupID": 400013,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Darkness,Fire,Wind,Light]",
+    "FilterDesc": "암, 화, 풍, 명"
+  },
+  {
+    "ID": 400014,
+    "GroupID": 400014,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Darkness,Fire,Wind]",
+    "FilterDesc": "암, 화, 풍"
+  },
+  {
+    "ID": 400015,
+    "GroupID": 400015,
+    "FilterTarget": "Hunter",
+    "FilterType": "ElementType",
+    "FilterValue": "[Darkness,Fire]",
+    "FilterDesc": "암, 화"
+  }
+]
