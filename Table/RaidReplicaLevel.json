@@ -1,92 +1,452 @@
 [
   {
-    "ID": 1,
+    "ID": 1001,
     "LevelGroup": 1,
     "Level": 1,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1000,
-    "GoldValue": 1
+    "TraitPoint": 3,
+    "BattlePower": 1000,
+    "TotalExp": 0,
+    "GoldValue": 100
   },
   {
-    "ID": 2,
+    "ID": 1002,
     "LevelGroup": 1,
     "Level": 2,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1100,
-    "GoldValue": 2
+    "TraitPoint": 6,
+    "BattlePower": 2000,
+    "TotalExp": 300,
+    "GoldValue": 100
   },
   {
-    "ID": 3,
+    "ID": 1003,
     "LevelGroup": 1,
     "Level": 3,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1200,
-    "GoldValue": 3
+    "TraitPoint": 9,
+    "BattlePower": 3000,
+    "TotalExp": 600,
+    "GoldValue": 100
   },
   {
-    "ID": 4,
+    "ID": 1004,
     "LevelGroup": 1,
     "Level": 4,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1300,
-    "GoldValue": 4
+    "TraitPoint": 12,
+    "BattlePower": 4000,
+    "TotalExp": 900,
+    "GoldValue": 100
   },
   {
-    "ID": 5,
+    "ID": 1005,
     "LevelGroup": 1,
     "Level": 5,
-    "TraitPoint": 5,
-    "BattlePower": 100,
-    "TotalExp": 1400,
-    "GoldValue": 5
+    "TraitPoint": 15,
+    "BattlePower": 5000,
+    "TotalExp": 1200,
+    "GoldValue": 100
   },
   {
-    "ID": 6,
+    "ID": 1006,
     "LevelGroup": 1,
     "Level": 6,
-    "TraitPoint": 1,
-    "BattlePower": 100,
+    "TraitPoint": 18,
+    "BattlePower": 6000,
     "TotalExp": 1500,
-    "GoldValue": 6
+    "GoldValue": 100
   },
   {
-    "ID": 7,
+    "ID": 1007,
     "LevelGroup": 1,
     "Level": 7,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1600,
-    "GoldValue": 7
+    "TraitPoint": 21,
+    "BattlePower": 7000,
+    "TotalExp": 1800,
+    "GoldValue": 100
   },
   {
-    "ID": 8,
+    "ID": 1008,
     "LevelGroup": 1,
     "Level": 8,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1700,
-    "GoldValue": 8
+    "TraitPoint": 24,
+    "BattlePower": 8000,
+    "TotalExp": 2100,
+    "GoldValue": 100
   },
   {
-    "ID": 9,
+    "ID": 1009,
     "LevelGroup": 1,
     "Level": 9,
-    "TraitPoint": 1,
-    "BattlePower": 100,
-    "TotalExp": 1800,
-    "GoldValue": 9
+    "TraitPoint": 27,
+    "BattlePower": 9000,
+    "TotalExp": 2400,
+    "GoldValue": 100
   },
   {
-    "ID": 10,
+    "ID": 1010,
     "LevelGroup": 1,
     "Level": 10,
-    "TraitPoint": 5,
-    "BattlePower": 100,
-    "TotalExp": 1900,
-    "GoldValue": 10
+    "TraitPoint": 30,
+    "BattlePower": 10000,
+    "TotalExp": 2700,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1011,
+    "LevelGroup": 1,
+    "Level": 11,
+    "TraitPoint": 33,
+    "BattlePower": 11000,
+    "TotalExp": 3000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1012,
+    "LevelGroup": 1,
+    "Level": 12,
+    "TraitPoint": 36,
+    "BattlePower": 12000,
+    "TotalExp": 3400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1013,
+    "LevelGroup": 1,
+    "Level": 13,
+    "TraitPoint": 39,
+    "BattlePower": 13000,
+    "TotalExp": 3800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1014,
+    "LevelGroup": 1,
+    "Level": 14,
+    "TraitPoint": 42,
+    "BattlePower": 14000,
+    "TotalExp": 4200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1015,
+    "LevelGroup": 1,
+    "Level": 15,
+    "TraitPoint": 45,
+    "BattlePower": 15000,
+    "TotalExp": 4600,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1016,
+    "LevelGroup": 1,
+    "Level": 16,
+    "TraitPoint": 48,
+    "BattlePower": 16000,
+    "TotalExp": 5000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1017,
+    "LevelGroup": 1,
+    "Level": 17,
+    "TraitPoint": 51,
+    "BattlePower": 17000,
+    "TotalExp": 5400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1018,
+    "LevelGroup": 1,
+    "Level": 18,
+    "TraitPoint": 54,
+    "BattlePower": 18000,
+    "TotalExp": 5800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1019,
+    "LevelGroup": 1,
+    "Level": 19,
+    "TraitPoint": 57,
+    "BattlePower": 19000,
+    "TotalExp": 6200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1020,
+    "LevelGroup": 1,
+    "Level": 20,
+    "TraitPoint": 60,
+    "BattlePower": 20000,
+    "TotalExp": 6600,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1021,
+    "LevelGroup": 1,
+    "Level": 21,
+    "TraitPoint": 63,
+    "BattlePower": 21000,
+    "TotalExp": 7000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1022,
+    "LevelGroup": 1,
+    "Level": 22,
+    "TraitPoint": 66,
+    "BattlePower": 22000,
+    "TotalExp": 7600,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1023,
+    "LevelGroup": 1,
+    "Level": 23,
+    "TraitPoint": 69,
+    "BattlePower": 23000,
+    "TotalExp": 8200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1024,
+    "LevelGroup": 1,
+    "Level": 24,
+    "TraitPoint": 72,
+    "BattlePower": 24000,
+    "TotalExp": 8800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1025,
+    "LevelGroup": 1,
+    "Level": 25,
+    "TraitPoint": 75,
+    "BattlePower": 25000,
+    "TotalExp": 9400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1026,
+    "LevelGroup": 1,
+    "Level": 26,
+    "TraitPoint": 78,
+    "BattlePower": 26000,
+    "TotalExp": 10000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1027,
+    "LevelGroup": 1,
+    "Level": 27,
+    "TraitPoint": 81,
+    "BattlePower": 27000,
+    "TotalExp": 10600,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1028,
+    "LevelGroup": 1,
+    "Level": 28,
+    "TraitPoint": 84,
+    "BattlePower": 28000,
+    "TotalExp": 11200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1029,
+    "LevelGroup": 1,
+    "Level": 29,
+    "TraitPoint": 87,
+    "BattlePower": 29000,
+    "TotalExp": 11800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1030,
+    "LevelGroup": 1,
+    "Level": 30,
+    "TraitPoint": 90,
+    "BattlePower": 30000,
+    "TotalExp": 12400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1031,
+    "LevelGroup": 1,
+    "Level": 31,
+    "TraitPoint": 93,
+    "BattlePower": 31000,
+    "TotalExp": 13000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1032,
+    "LevelGroup": 1,
+    "Level": 32,
+    "TraitPoint": 96,
+    "BattlePower": 32000,
+    "TotalExp": 13900,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1033,
+    "LevelGroup": 1,
+    "Level": 33,
+    "TraitPoint": 99,
+    "BattlePower": 33000,
+    "TotalExp": 14800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1034,
+    "LevelGroup": 1,
+    "Level": 34,
+    "TraitPoint": 102,
+    "BattlePower": 34000,
+    "TotalExp": 15700,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1035,
+    "LevelGroup": 1,
+    "Level": 35,
+    "TraitPoint": 105,
+    "BattlePower": 35000,
+    "TotalExp": 16600,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1036,
+    "LevelGroup": 1,
+    "Level": 36,
+    "TraitPoint": 108,
+    "BattlePower": 36000,
+    "TotalExp": 17500,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1037,
+    "LevelGroup": 1,
+    "Level": 37,
+    "TraitPoint": 111,
+    "BattlePower": 37000,
+    "TotalExp": 18400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1038,
+    "LevelGroup": 1,
+    "Level": 38,
+    "TraitPoint": 114,
+    "BattlePower": 38000,
+    "TotalExp": 19300,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1039,
+    "LevelGroup": 1,
+    "Level": 39,
+    "TraitPoint": 117,
+    "BattlePower": 39000,
+    "TotalExp": 20200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1040,
+    "LevelGroup": 1,
+    "Level": 40,
+    "TraitPoint": 120,
+    "BattlePower": 40000,
+    "TotalExp": 21100,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1041,
+    "LevelGroup": 1,
+    "Level": 41,
+    "TraitPoint": 123,
+    "BattlePower": 41000,
+    "TotalExp": 22000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1042,
+    "LevelGroup": 1,
+    "Level": 42,
+    "TraitPoint": 126,
+    "BattlePower": 42000,
+    "TotalExp": 23400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1043,
+    "LevelGroup": 1,
+    "Level": 43,
+    "TraitPoint": 129,
+    "BattlePower": 43000,
+    "TotalExp": 24800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1044,
+    "LevelGroup": 1,
+    "Level": 44,
+    "TraitPoint": 132,
+    "BattlePower": 44000,
+    "TotalExp": 26200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1045,
+    "LevelGroup": 1,
+    "Level": 45,
+    "TraitPoint": 135,
+    "BattlePower": 45000,
+    "TotalExp": 27600,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1046,
+    "LevelGroup": 1,
+    "Level": 46,
+    "TraitPoint": 138,
+    "BattlePower": 46000,
+    "TotalExp": 29000,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1047,
+    "LevelGroup": 1,
+    "Level": 47,
+    "TraitPoint": 141,
+    "BattlePower": 47000,
+    "TotalExp": 30400,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1048,
+    "LevelGroup": 1,
+    "Level": 48,
+    "TraitPoint": 144,
+    "BattlePower": 48000,
+    "TotalExp": 31800,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1049,
+    "LevelGroup": 1,
+    "Level": 49,
+    "TraitPoint": 147,
+    "BattlePower": 49000,
+    "TotalExp": 33200,
+    "GoldValue": 100
+  },
+  {
+    "ID": 1050,
+    "LevelGroup": 1,
+    "Level": 50,
+    "TraitPoint": 150,
+    "BattlePower": 50000,
+    "TotalExp": 34600,
+    "GoldValue": 100
   }
 ]

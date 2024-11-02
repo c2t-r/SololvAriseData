@@ -30,7 +30,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 2000,
@@ -40,9 +41,9 @@
     "EventDesc": "GachaMain.Normal01_Desc00",
     "Desc1": "",
     "Desc2": "",
-    "MainBanner": "Gacha_Default_04_Sub_Banner",
-    "SubBanner": "Gacha_Default_04_Sub_Banner_BG",
-    "SubBannerChar": "Gacha_Default_04_Sub_Banner_BG",
+    "MainBanner": "Gacha_Default_05_Sub_Banner",
+    "SubBanner": "Gacha_Default_05_Sub_Banner_BG",
+    "SubBannerChar": "Gacha_Default_05_Sub_Banner_BG",
     "CountSetGroup": 2000,
     "GachaRateGroup": 2000,
     "GachaSubType": "PickUp",
@@ -63,7 +64,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 2001,
@@ -86,7 +88,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,1004,2001,2002]",
     "GachaBonusType": true,
-    "SortOrder": 4,
+    "SortOrder": 5,
     "GachaTimeStart": "2024-08-22T09:00:00+09:00",
     "GachaTimeEnd": "2050-01-01T09:00:00+09:00",
     "GachaCount": 0,
@@ -96,7 +98,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 3000,
@@ -129,7 +132,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8003
+    "ExperienceHunterID": 8003,
+    "ShopTabID": 0
   },
   {
     "ID": 3001,
@@ -162,7 +166,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8004
+    "ExperienceHunterID": 8004,
+    "ShopTabID": 0
   },
   {
     "ID": 3002,
@@ -185,7 +190,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4003]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-05-07T09:00:00+09:00",
     "GachaTimeEnd": "2024-05-29T09:00:00+09:00",
     "GachaCount": 0,
@@ -195,7 +200,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8001
+    "ExperienceHunterID": 8001,
+    "ShopTabID": 0
   },
   {
     "ID": 3003,
@@ -218,7 +224,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4004]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-05-29T09:00:00+09:00",
     "GachaTimeEnd": "2024-06-19T09:00:00+09:00",
     "GachaCount": 0,
@@ -228,7 +234,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8002
+    "ExperienceHunterID": 8002,
+    "ShopTabID": 0
   },
   {
     "ID": 3004,
@@ -251,7 +258,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,2001,2002,3002,8001]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-05-15T09:00:00+09:00",
     "GachaTimeEnd": "2024-05-29T09:00:00+09:00",
     "GachaCount": 0,
@@ -261,7 +268,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 3005,
@@ -284,7 +292,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,2001,2002,3002,8002]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-06-05T09:00:00+09:00",
     "GachaTimeEnd": "2024-06-19T09:00:00+09:00",
     "GachaCount": 0,
@@ -294,7 +302,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 3006,
@@ -317,7 +326,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4005]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-06-19T09:00:00+09:00",
     "GachaTimeEnd": "2024-07-10T09:00:00+09:00",
     "GachaCount": 0,
@@ -327,7 +336,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8006
+    "ExperienceHunterID": 8006,
+    "ShopTabID": 0
   },
   {
     "ID": 3007,
@@ -360,7 +370,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 3008,
@@ -383,7 +394,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4006]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-07-10T09:00:00+09:00",
     "GachaTimeEnd": "2024-07-31T09:00:00+09:00",
     "GachaCount": 0,
@@ -393,7 +404,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8005
+    "ExperienceHunterID": 8005,
+    "ShopTabID": 0
   },
   {
     "ID": 3010,
@@ -416,7 +428,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4007]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-07-31T09:00:00+09:00",
     "GachaTimeEnd": "2024-08-22T09:00:00+09:00",
     "GachaCount": 0,
@@ -426,7 +438,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8007
+    "ExperienceHunterID": 8007,
+    "ShopTabID": 0
   },
   {
     "ID": 3011,
@@ -449,7 +462,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,2001,2002,3002,8005]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-08-07T09:00:00+09:00",
     "GachaTimeEnd": "2024-08-22T09:00:00+09:00",
     "GachaCount": 0,
@@ -459,7 +472,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 3012,
@@ -482,7 +496,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4008]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-08-22T09:00:00+09:00",
     "GachaTimeEnd": "2024-09-12T09:00:00+09:00",
     "GachaCount": 0,
@@ -492,7 +506,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8008
+    "ExperienceHunterID": 8008,
+    "ShopTabID": 0
   },
   {
     "ID": 3013,
@@ -515,7 +530,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4009]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-08-28T09:00:00+09:00",
     "GachaTimeEnd": "2024-09-12T09:00:00+09:00",
     "GachaCount": 0,
@@ -525,7 +540,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8009
+    "ExperienceHunterID": 8009,
+    "ShopTabID": 0
   },
   {
     "ID": 3014,
@@ -558,7 +574,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8010
+    "ExperienceHunterID": 8010,
+    "ShopTabID": 0
   },
   {
     "ID": 3015,
@@ -581,7 +598,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,4011]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-09-12T09:00:00+09:00",
     "GachaTimeEnd": "2024-10-10T09:00:00+09:00",
     "GachaCount": 0,
@@ -591,7 +608,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8011
+    "ExperienceHunterID": 8011,
+    "ShopTabID": 0
   },
   {
     "ID": 3016,
@@ -614,7 +632,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,5001,4012]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-10-10T09:00:00+09:00",
     "GachaTimeEnd": "2024-10-31T09:00:00+09:00",
     "GachaCount": 0,
@@ -624,7 +642,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8012
+    "ExperienceHunterID": 8012,
+    "ShopTabID": 0
   },
   {
     "ID": 3017,
@@ -647,7 +666,7 @@
     "DirectionType": "Normal",
     "GachaGoodsGroup": "[1001,1002,2001,2002,3002,8006]",
     "GachaBonusType": true,
-    "SortOrder": 2,
+    "SortOrder": 3,
     "GachaTimeStart": "2024-10-17T09:00:00+09:00",
     "GachaTimeEnd": "2024-10-31T09:00:00+09:00",
     "GachaCount": 0,
@@ -657,7 +676,76 @@
     "WebProbOpen": true,
     "DeferRecruitID": 0,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 8007
+    "ExperienceHunterID": 8007,
+    "ShopTabID": 3618
+  },
+  {
+    "ID": 3018,
+    "GachaMainType": "Character",
+    "Name": "GachaMain.Character1002",
+    "ProbabilityViewAvailable": true,
+    "EventDesc": "GachaMain.Character01_Desc00",
+    "Desc1": "",
+    "Desc2": "GachaMain.Character01_Desc02",
+    "MainBanner": "Gacha_PickUp_241002_Sub_Banner",
+    "SubBanner": "Gacha_PickUp_241002_Sub_Banner_BG",
+    "SubBannerChar": "Gacha_PickUp_241002_Sub_Banner_Front",
+    "CountSetGroup": 3000,
+    "GachaRateGroup": 3000,
+    "GachaSubType": "PickUp",
+    "DeferRecruitGuarantee": 0,
+    "DeferRecruitGuaranteeValue": 0,
+    "SelectAble": true,
+    "SelectValue": 0,
+    "DirectionType": "Normal",
+    "GachaGoodsGroup": "[1001,1002,1003,2001,2002,3002,3003,5001,4013]",
+    "GachaBonusType": true,
+    "SortOrder": 2,
+    "GachaTimeStart": "2024-10-31T09:00:00+09:00",
+    "GachaTimeEnd": "2024-11-28T09:00:00+09:00",
+    "GachaCount": 0,
+    "ResetCount": 0,
+    "AbleCash": true,
+    "AbleSingleGacha": true,
+    "WebProbOpen": true,
+    "DeferRecruitID": 0,
+    "ExperienceOpen": true,
+    "ExperienceHunterID": 8013,
+    "ShopTabID": 4549
+  },
+  {
+    "ID": 3019,
+    "GachaMainType": "Character",
+    "Name": "GachaMain.Character0801",
+    "ProbabilityViewAvailable": true,
+    "EventDesc": "GachaMain.Character01_Desc00",
+    "Desc1": "",
+    "Desc2": "GachaMain.Character01_Desc02",
+    "MainBanner": "Gacha_PickUp_240801_Sub_Banner",
+    "SubBanner": "Gacha_PickUp_240801_Sub_Banner_BG",
+    "SubBannerChar": "Gacha_PickUp_240801_Sub_Banner_Front",
+    "CountSetGroup": 3000,
+    "GachaRateGroup": 3000,
+    "GachaSubType": "PickUp",
+    "DeferRecruitGuarantee": 0,
+    "DeferRecruitGuaranteeValue": 0,
+    "SelectAble": true,
+    "SelectValue": 0,
+    "DirectionType": "Normal",
+    "GachaGoodsGroup": "[1001,1002,2001,2002,3002,8007]",
+    "GachaBonusType": true,
+    "SortOrder": 2,
+    "GachaTimeStart": "2024-11-14T09:00:00+09:00",
+    "GachaTimeEnd": "2024-11-28T09:00:00+09:00",
+    "GachaCount": 0,
+    "ResetCount": 0,
+    "AbleCash": true,
+    "AbleSingleGacha": true,
+    "WebProbOpen": true,
+    "DeferRecruitID": 0,
+    "ExperienceOpen": true,
+    "ExperienceHunterID": 8008,
+    "ShopTabID": 4549
   },
   {
     "ID": 9000,
@@ -690,7 +778,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9001,
@@ -723,7 +812,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9002,
@@ -756,7 +846,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9003,
@@ -789,7 +880,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9004,
@@ -822,7 +914,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9005,
@@ -855,7 +948,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9006,
@@ -888,7 +982,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9007,
@@ -921,7 +1016,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9008,
@@ -954,7 +1050,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 1,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9009,
@@ -987,7 +1084,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9010,
@@ -1020,7 +1118,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9011,
@@ -1053,7 +1152,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9012,
@@ -1086,7 +1186,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9013,
@@ -1119,7 +1220,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9014,
@@ -1152,7 +1254,8 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   },
   {
     "ID": 9015,
@@ -1185,6 +1288,7 @@
     "WebProbOpen": true,
     "DeferRecruitID": 2,
     "ExperienceOpen": true,
-    "ExperienceHunterID": 0
+    "ExperienceHunterID": 0,
+    "ShopTabID": 0
   }
 ]

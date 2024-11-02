@@ -1062,5 +1062,33 @@
     "LimitBreakID": 339,
     "WeaponStrory": "[It.StringStory.200030016_1,,It.StringStory.200030016_2,,It.StringStory.200030016_3,,It.StringStory.200030016_4,,It.StringStory.200030016_5,,It.StringStory.200030016_6,,It.StringStory.200030016_7,,It.StringStory.200030016_8,,It.StringStory.200030016_9,,It.StringStory.200030016_10,,It.StringStory.200030016_11,,It.StringStory.200030016_12,,It.StringStory.200030016_13,,It.StringStory.200030016_14,,It.StringStory.200030016_15,,It.StringStory.200030016_16,,It.StringStory.200030016_17,,It.StringStory.200030016_18,,It.StringStory.200030016_19,,It.StringStory.200030016_20,,It.StringStory.200030016_21,,It.StringStory.200030016_22,,It.StringStory.200030016_23,,It.StringStory.200030016_24,,It.StringStory.200030016_25,,It.StringStory.200030016_26,,It.StringStory.200030016_27,,It.StringStory.200030016_28,,It.StringStory.200030016_29,,It.StringStory.200030016_30,,It.StringStory.200030016_31,,It.StringStory.200030016_32,,It.StringStory.200030016_33,,It.StringStory.200030016_34,,It.StringStory.200030016_35,,It.StringStory.200030016_36,,It.StringStory.200030016_37,,It.StringStory.200030016_38,Blank]",
     "PortraitRotate": "[0,0,-50]"
+  },
+  {
+    "ID": 200030017,
+    "MaterialCheck": true,
+    "Name": "It.StringName.200030017",
+    "ElementType": "Wind",
+    "BaseGrade": "SSR",
+    "StringDesc": "It.StringDesc.200030017",
+    "ResourceName": "GSWeapon_SpookyPumpkin",
+    "BGResourceName": "Gacha_SSR_BG_SpookyPumpkin",
+    "ActiveSkill": 1001427000000,
+    "BaseAttack": "[1001428000000,1001429000000,1001430000000]",
+    "CoreAttack": 1001431000000,
+    "BaseExpAsMaterial": 0,
+    "AttachWeaponGroupID": 840,
+    "DecompositionItem": "[10120002,10160027]",
+    "DecompositionCount": "[30,1]",
+    "CodexDisplay": true,
+    "CodexDisplayTime": "",
+    "DisplayRotate": "[0,0,0]",
+    "DisplayFBXScale": "[1,1,1]",
+    "DisplayPosition": "[0,0,0]",
+    "DisplayResource": "GSWeapon_SpookyPumpkin_UI_PFV",
+    "GachaAppearResource": "",
+    "CheatGain": true,
+    "LimitBreakID": 339,
+    "WeaponStrory": "[It.StringStory.200030017_1,,It.StringStory.200030017_2,,It.StringStory.200030017_3,,It.StringStory.200030017_4,,It.StringStory.200030017_5,,It.StringStory.200030017_6,,It.StringStory.200030017_7,It.StringStory.200030017_8,It.StringStory.200030017_9,,It.StringStory.200030017_10,,It.StringStory.200030017_11,Blank]",
+    "PortraitRotate": "[0,0,-50]"
   }
 ]

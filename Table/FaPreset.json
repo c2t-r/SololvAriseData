@@ -4971,6 +4971,36 @@
   },
   {
     "ID": 510,
+    "CharID": 900013,
+    "FacialType": "Confusion",
+    "TalkFacialType": "ConfusionEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 511,
+    "CharID": 900013,
+    "FacialType": "ConfusionEye",
+    "TalkFacialType": "ConfusionEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 512,
+    "CharID": 910436,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 513,
     "CharID": 910350,
     "FacialType": "BaseFacial",
     "TalkFacialType": "BaseFacial",
@@ -4980,7 +5010,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 511,
+    "ID": 514,
     "CharID": 910350,
     "FacialType": "Shock",
     "TalkFacialType": "ShockEye",
@@ -4990,7 +5020,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 512,
+    "ID": 515,
     "CharID": 910350,
     "FacialType": "ShockEye",
     "TalkFacialType": "ShockEye",
@@ -5000,7 +5030,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 513,
+    "ID": 516,
     "CharID": 910350,
     "FacialType": "RageEye",
     "TalkFacialType": "RageEye",
@@ -5010,7 +5040,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 514,
+    "ID": 517,
     "CharID": 910350,
     "FacialType": "Rage",
     "TalkFacialType": "RageEye",
@@ -5020,7 +5050,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 515,
+    "ID": 518,
     "CharID": 910350,
     "FacialType": "UrgentEye",
     "TalkFacialType": "UrgentEye",
@@ -5030,7 +5060,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 516,
+    "ID": 519,
     "CharID": 910350,
     "FacialType": "Urgent",
     "TalkFacialType": "UrgentEye",
@@ -5040,7 +5070,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 517,
+    "ID": 520,
     "CharID": 910350,
     "FacialType": "SeriousEye",
     "TalkFacialType": "SeriousEye",
@@ -5050,7 +5080,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 518,
+    "ID": 521,
     "CharID": 910350,
     "FacialType": "Serious",
     "TalkFacialType": "SeriousEye",
@@ -5060,7 +5090,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 519,
+    "ID": 522,
     "CharID": 910350,
     "FacialType": "LaughterEye",
     "TalkFacialType": "LaughterEye",
@@ -5070,7 +5100,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 520,
+    "ID": 523,
     "CharID": 910350,
     "FacialType": "Laughter",
     "TalkFacialType": "LaughterEye",
@@ -5080,38 +5110,8 @@
     "ResourceName": ""
   },
   {
-    "ID": 521,
-    "CharID": 910349,
-    "FacialType": "BaseFacial",
-    "TalkFacialType": "BaseFacial",
-    "index": 0,
-    "Value": 0,
-    "PlayTime": 0.0,
-    "ResourceName": ""
-  },
-  {
-    "ID": 522,
-    "CharID": 910349,
-    "FacialType": "RageEye",
-    "TalkFacialType": "RageEye",
-    "index": 0,
-    "Value": 100,
-    "PlayTime": 0.0,
-    "ResourceName": ""
-  },
-  {
-    "ID": 523,
-    "CharID": 910349,
-    "FacialType": "Rage",
-    "TalkFacialType": "RageEye",
-    "index": 0,
-    "Value": 100,
-    "PlayTime": 0.0,
-    "ResourceName": ""
-  },
-  {
     "ID": 524,
-    "CharID": 910348,
+    "CharID": 910349,
     "FacialType": "BaseFacial",
     "TalkFacialType": "BaseFacial",
     "index": 0,
@@ -5121,6 +5121,36 @@
   },
   {
     "ID": 525,
+    "CharID": 910349,
+    "FacialType": "RageEye",
+    "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 526,
+    "CharID": 910349,
+    "FacialType": "Rage",
+    "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 527,
+    "CharID": 910348,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 528,
     "CharID": 910348,
     "FacialType": "LaughterEye",
     "TalkFacialType": "LaughterEye",
@@ -5130,7 +5160,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 526,
+    "ID": 529,
     "CharID": 910348,
     "FacialType": "Laughter",
     "TalkFacialType": "LaughterEye",
@@ -5140,7 +5170,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 527,
+    "ID": 530,
     "CharID": 910348,
     "FacialType": "RageEye",
     "TalkFacialType": "RageEye",
@@ -5150,7 +5180,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 528,
+    "ID": 531,
     "CharID": 910348,
     "FacialType": "Rage",
     "TalkFacialType": "RageEye",
@@ -5160,7 +5190,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 529,
+    "ID": 532,
     "CharID": 910347,
     "FacialType": "BaseFacial",
     "TalkFacialType": "BaseFacial",
@@ -5170,7 +5200,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 530,
+    "ID": 533,
     "CharID": 910347,
     "FacialType": "LaughterEye",
     "TalkFacialType": "LaughterEye",
@@ -5180,7 +5210,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 531,
+    "ID": 534,
     "CharID": 910347,
     "FacialType": "Laughter",
     "TalkFacialType": "LaughterEye",
@@ -5190,7 +5220,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 532,
+    "ID": 535,
     "CharID": 910347,
     "FacialType": "RageEye",
     "TalkFacialType": "RageEye",
@@ -5200,7 +5230,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 533,
+    "ID": 536,
     "CharID": 910347,
     "FacialType": "Rage",
     "TalkFacialType": "RageEye",
@@ -5210,7 +5240,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 534,
+    "ID": 537,
     "CharID": 910347,
     "FacialType": "UrgentEye",
     "TalkFacialType": "UrgentEye",
@@ -5220,7 +5250,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 535,
+    "ID": 538,
     "CharID": 910347,
     "FacialType": "Urgent",
     "TalkFacialType": "UrgentEye",
@@ -5230,7 +5260,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 536,
+    "ID": 539,
     "CharID": 910347,
     "FacialType": "SeriousEye",
     "TalkFacialType": "SeriousEye",
@@ -5240,7 +5270,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 537,
+    "ID": 540,
     "CharID": 910347,
     "FacialType": "Serious",
     "TalkFacialType": "SeriousEye",
@@ -5250,38 +5280,8 @@
     "ResourceName": ""
   },
   {
-    "ID": 538,
-    "CharID": 910346,
-    "FacialType": "BaseFacial",
-    "TalkFacialType": "BaseFacial",
-    "index": 0,
-    "Value": 0,
-    "PlayTime": 0.0,
-    "ResourceName": ""
-  },
-  {
-    "ID": 539,
-    "CharID": 910346,
-    "FacialType": "RageEye",
-    "TalkFacialType": "RageEye",
-    "index": 0,
-    "Value": 100,
-    "PlayTime": 0.0,
-    "ResourceName": ""
-  },
-  {
-    "ID": 540,
-    "CharID": 910346,
-    "FacialType": "Rage",
-    "TalkFacialType": "RageEye",
-    "index": 0,
-    "Value": 100,
-    "PlayTime": 0.0,
-    "ResourceName": ""
-  },
-  {
     "ID": 541,
-    "CharID": 910351,
+    "CharID": 910346,
     "FacialType": "BaseFacial",
     "TalkFacialType": "BaseFacial",
     "index": 0,
@@ -5291,7 +5291,7 @@
   },
   {
     "ID": 542,
-    "CharID": 910351,
+    "CharID": 910346,
     "FacialType": "RageEye",
     "TalkFacialType": "RageEye",
     "index": 0,
@@ -5301,7 +5301,7 @@
   },
   {
     "ID": 543,
-    "CharID": 910351,
+    "CharID": 910346,
     "FacialType": "Rage",
     "TalkFacialType": "RageEye",
     "index": 0,
@@ -5311,7 +5311,7 @@
   },
   {
     "ID": 544,
-    "CharID": 910423,
+    "CharID": 910351,
     "FacialType": "BaseFacial",
     "TalkFacialType": "BaseFacial",
     "index": 0,
@@ -5321,7 +5321,7 @@
   },
   {
     "ID": 545,
-    "CharID": 910423,
+    "CharID": 910351,
     "FacialType": "RageEye",
     "TalkFacialType": "RageEye",
     "index": 0,
@@ -5331,7 +5331,7 @@
   },
   {
     "ID": 546,
-    "CharID": 910423,
+    "CharID": 910351,
     "FacialType": "Rage",
     "TalkFacialType": "RageEye",
     "index": 0,
@@ -5342,6 +5342,36 @@
   {
     "ID": 547,
     "CharID": 910423,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 548,
+    "CharID": 910423,
+    "FacialType": "RageEye",
+    "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 549,
+    "CharID": 910423,
+    "FacialType": "Rage",
+    "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 550,
+    "CharID": 910423,
     "FacialType": "UrgentEye",
     "TalkFacialType": "UrgentEye",
     "index": 0,
@@ -5350,7 +5380,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 548,
+    "ID": 551,
     "CharID": 910423,
     "FacialType": "Urgent",
     "TalkFacialType": "UrgentEye",
@@ -5360,7 +5390,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 549,
+    "ID": 552,
     "CharID": 910423,
     "FacialType": "Shock",
     "TalkFacialType": "ShockEye",
@@ -5370,7 +5400,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 550,
+    "ID": 553,
     "CharID": 910423,
     "FacialType": "ShockEye",
     "TalkFacialType": "ShockEye",
@@ -5380,7 +5410,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 551,
+    "ID": 554,
     "CharID": 910424,
     "FacialType": "BaseFacial",
     "TalkFacialType": "BaseFacial",
@@ -5390,7 +5420,7 @@
     "ResourceName": ""
   },
   {
-    "ID": 552,
+    "ID": 555,
     "CharID": 910424,
     "FacialType": "RageEye",
     "TalkFacialType": "RageEye",
@@ -5400,10 +5430,390 @@
     "ResourceName": ""
   },
   {
-    "ID": 553,
+    "ID": 556,
     "CharID": 910424,
     "FacialType": "Rage",
     "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 557,
+    "CharID": 910435,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 558,
+    "CharID": 910400,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 559,
+    "CharID": 910400,
+    "FacialType": "LaughterEye",
+    "TalkFacialType": "LaughterEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 560,
+    "CharID": 910400,
+    "FacialType": "RageEye",
+    "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 561,
+    "CharID": 910400,
+    "FacialType": "Shock",
+    "TalkFacialType": "ShockEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 562,
+    "CharID": 910400,
+    "FacialType": "ShockEye",
+    "TalkFacialType": "ShockEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 563,
+    "CharID": 910400,
+    "FacialType": "Worries",
+    "TalkFacialType": "WorriesEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 564,
+    "CharID": 910400,
+    "FacialType": "WorriesEye",
+    "TalkFacialType": "WorriesEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 565,
+    "CharID": 910400,
+    "FacialType": "Smile",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 566,
+    "CharID": 910400,
+    "FacialType": "SmileEye",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 567,
+    "CharID": 910349,
+    "FacialType": "Serious",
+    "TalkFacialType": "Serious",
+    "index": 0,
+    "Value": 50,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 568,
+    "CharID": 910440,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 569,
+    "CharID": 910146,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 570,
+    "CharID": 910146,
+    "FacialType": "SeriousEye",
+    "TalkFacialType": "SeriousEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 571,
+    "CharID": 910146,
+    "FacialType": "SmileEye",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 572,
+    "CharID": 910442,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 573,
+    "CharID": 910442,
+    "FacialType": "LaughterEye",
+    "TalkFacialType": "LaughterEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 574,
+    "CharID": 910442,
+    "FacialType": "RageEye",
+    "TalkFacialType": "RageEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 575,
+    "CharID": 910442,
+    "FacialType": "Shock",
+    "TalkFacialType": "ShockEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 576,
+    "CharID": 910442,
+    "FacialType": "ShockEye",
+    "TalkFacialType": "ShockEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 577,
+    "CharID": 910442,
+    "FacialType": "Worries",
+    "TalkFacialType": "WorriesEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 578,
+    "CharID": 910442,
+    "FacialType": "WorriesEye",
+    "TalkFacialType": "WorriesEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 579,
+    "CharID": 910442,
+    "FacialType": "Smile",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 580,
+    "CharID": 910442,
+    "FacialType": "SmileEye",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 581,
+    "CharID": 910443,
+    "FacialType": "Smile",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 582,
+    "CharID": 910443,
+    "FacialType": "SmileEye",
+    "TalkFacialType": "SmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 583,
+    "CharID": 910443,
+    "FacialType": "Sullen",
+    "TalkFacialType": "SullenEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 584,
+    "CharID": 910443,
+    "FacialType": "SullenEye",
+    "TalkFacialType": "SullenEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 585,
+    "CharID": 910443,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 586,
+    "CharID": 910443,
+    "FacialType": "VillainSmile",
+    "TalkFacialType": "VillainSmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 587,
+    "CharID": 910443,
+    "FacialType": "VillainSmileEye",
+    "TalkFacialType": "VillainSmileEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 588,
+    "CharID": 910443,
+    "FacialType": "Sigh",
+    "TalkFacialType": "SighEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 589,
+    "CharID": 910443,
+    "FacialType": "SighEye",
+    "TalkFacialType": "SighEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 590,
+    "CharID": 910443,
+    "FacialType": "Annoyance",
+    "TalkFacialType": "AnnoyanceEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 591,
+    "CharID": 910443,
+    "FacialType": "AnnoyanceEye",
+    "TalkFacialType": "AnnoyanceEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 592,
+    "CharID": 910444,
+    "FacialType": "BaseFacial",
+    "TalkFacialType": "BaseFacial",
+    "index": 0,
+    "Value": 0,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 593,
+    "CharID": 910444,
+    "FacialType": "SeriousEye",
+    "TalkFacialType": "SeriousEye",
+    "index": 0,
+    "Value": 100,
+    "PlayTime": 0.0,
+    "ResourceName": ""
+  },
+  {
+    "ID": 594,
+    "CharID": 910444,
+    "FacialType": "SmileEye",
+    "TalkFacialType": "SmileEye",
     "index": 0,
     "Value": 100,
     "PlayTime": 0.0,

@@ -115,7 +115,19 @@
     "TabBonusBG": "Img_Deco_Npc",
     "Resettable": true,
     "OpenTime": "2024-10-10T09:00:00+09:00",
-    "EndTime": "2024-10-31T09:00:00+09:00",
+    "EndTime": "2024-10-15T09:00:00+09:00",
+    "ResetType": "",
+    "ResetTypeValue": 0
+  },
+  {
+    "ID": 100210,
+    "EventGroupID": 1002,
+    "BonusRewardGroupID": 30,
+    "DailyCountingLimit": 3,
+    "TabBonusBG": "Img_Deco_Npc",
+    "Resettable": true,
+    "OpenTime": "2024-10-31T09:00:00+09:00",
+    "EndTime": "2024-11-28T09:00:00+09:00",
     "ResetType": "",
     "ResetTypeValue": 0
   },
@@ -176,6 +188,18 @@
     "Resettable": true,
     "OpenTime": "2024-10-10T09:00:00+09:00",
     "EndTime": "2024-10-31T09:00:00+09:00",
+    "ResetType": "",
+    "ResetTypeValue": 0
+  },
+  {
+    "ID": 101601,
+    "EventGroupID": 1016,
+    "BonusRewardGroupID": 1016,
+    "DailyCountingLimit": 20,
+    "TabBonusBG": "Img_Deco_Npc",
+    "Resettable": true,
+    "OpenTime": "2024-11-07T09:00:00+09:00",
+    "EndTime": "2024-11-28T09:00:00+09:00",
     "ResetType": "",
     "ResetTypeValue": 0
   }

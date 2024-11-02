@@ -855,6 +855,15 @@
     "Desc": "MoveTarget.Core_Desc"
   },
   {
+    "ID": 1087,
+    "ContentsType": "RaidReplica",
+    "ShortCutType": "Main",
+    "Value1": 0,
+    "ShortCutIndexes": "[0]",
+    "Title": "MoveTarget.RaidReplica_Title",
+    "Desc": ""
+  },
+  {
     "ID": 1091,
     "ContentsType": "Post",
     "ShortCutType": "Post_Buy",
@@ -8280,6 +8289,15 @@
     "Desc": ""
   },
   {
+    "ID": 30047,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Tab",
+    "Value1": 100004,
+    "ShortCutIndexes": "[100004]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
     "ID": 31001,
     "ContentsType": "Shop",
     "ShortCutType": "Shop_Goods",
@@ -8514,6 +8532,24 @@
     "Desc": ""
   },
   {
+    "ID": 31027,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 241016004,
+    "ShortCutIndexes": "[-1,241016004]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 31028,
+    "ContentsType": "Shop",
+    "ShortCutType": "Shop_Goods",
+    "Value1": 241016003,
+    "ShortCutIndexes": "[-1,241016003]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "ContentsType": "Gacha",
     "ShortCutType": "Gacha_Tab",
@@ -8625,8 +8661,8 @@
     "ID": 40014,
     "ContentsType": "Gacha",
     "ShortCutType": "Gacha_Tab",
-    "Value1": 3012,
-    "ShortCutIndexes": "[3012]",
+    "Value1": 3019,
+    "ShortCutIndexes": "[3019]",
     "Title": "MoveTarget.Gacha_Tab",
     "Desc": ""
   },
@@ -8694,11 +8730,20 @@
     "Desc": ""
   },
   {
+    "ID": 40023,
+    "ContentsType": "Gacha",
+    "ShortCutType": "Gacha_Tab",
+    "Value1": 3018,
+    "ShortCutIndexes": "[3018]",
+    "Title": "MoveTarget.Gacha_Tab",
+    "Desc": ""
+  },
+  {
     "ID": 50001,
     "ContentsType": "Event",
     "ShortCutType": "Event_Tab",
-    "Value1": 1,
-    "ShortCutIndexes": "[1]",
+    "Value1": 531,
+    "ShortCutIndexes": "[531]",
     "Title": "MoveTarget.Event_Tab",
     "Desc": ""
   },
@@ -8841,8 +8886,8 @@
     "ID": 50018,
     "ContentsType": "Event",
     "ShortCutType": "Event_Tab",
-    "Value1": 525,
-    "ShortCutIndexes": "[525]",
+    "Value1": 532,
+    "ShortCutIndexes": "[532]",
     "Title": "MoveTarget.Event_Tab",
     "Desc": ""
   },
@@ -8879,6 +8924,24 @@
     "ShortCutType": "Event_Tab",
     "Value1": 528,
     "ShortCutIndexes": "[528]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50023,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 533,
+    "ShortCutIndexes": "[533]",
+    "Title": "MoveTarget.Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50024,
+    "ContentsType": "Event",
+    "ShortCutType": "Event_Tab",
+    "Value1": 10003,
+    "ShortCutIndexes": "[10003]",
     "Title": "MoveTarget.Event_Tab",
     "Desc": ""
   },
@@ -9077,6 +9140,78 @@
     "ShortCutType": "Main",
     "Value1": 2408,
     "ShortCutIndexes": "[3,80102]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55023,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[]",
+    "Title": "Event.24Halloween.Main.Title.Move",
+    "Desc": ""
+  },
+  {
+    "ID": 55024,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[1,40201]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55025,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[1,40202]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55026,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[2]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55027,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[3]",
+    "Title": "Event.24Halloween.Title.Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 55028,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[4]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55029,
+    "ContentsType": "ThemeEventMain",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[5]",
+    "Title": "",
+    "Desc": ""
+  },
+  {
+    "ID": 55030,
+    "ContentsType": "Attendance",
+    "ShortCutType": "Main",
+    "Value1": 2410,
+    "ShortCutIndexes": "[70013]",
     "Title": "",
     "Desc": ""
   },

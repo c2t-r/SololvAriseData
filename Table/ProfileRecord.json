@@ -33,7 +33,7 @@
     "DetailTitle": "Event.TimeAttack.StringName_Kargalgan",
     "Order": 1,
     "DisplayImage": "Img_PlayRecord_Mode4",
-    "DisplayPriority": 7
+    "DisplayPriority": 9
   },
   {
     "ID": 202,
@@ -45,7 +45,7 @@
     "DetailTitle": "Event.TimeAttack.StringName_Cerberus",
     "Order": 2,
     "DisplayImage": "Img_PlayRecord_Mode4",
-    "DisplayPriority": 6
+    "DisplayPriority": 8
   },
   {
     "ID": 203,
@@ -57,7 +57,7 @@
     "DetailTitle": "Event.TimeAttack.StringName_Igris",
     "Order": 3,
     "DisplayImage": "Img_PlayRecord_Mode4",
-    "DisplayPriority": 5
+    "DisplayPriority": 7
   },
   {
     "ID": 204,
@@ -69,7 +69,7 @@
     "DetailTitle": "Event.TimeAttack.StringName_GiantArachne",
     "Order": 4,
     "DisplayImage": "Img_PlayRecord_Mode4",
-    "DisplayPriority": 4
+    "DisplayPriority": 6
   },
   {
     "ID": 205,
@@ -81,7 +81,7 @@
     "DetailTitle": "Event.TimeAttack.StringName_Baruka",
     "Order": 5,
     "DisplayImage": "Img_PlayRecord_Mode4",
-    "DisplayPriority": 3
+    "DisplayPriority": 5
   },
   {
     "ID": 206,
@@ -93,7 +93,7 @@
     "DetailTitle": "Event.TimeAttack.StringName_HobGoblin",
     "Order": 6,
     "DisplayImage": "Img_PlayRecord_Mode4",
-    "DisplayPriority": 2
+    "DisplayPriority": 4
   },
   {
     "ID": 207,
@@ -104,6 +104,30 @@
     "GroupTitle": "eUIType.TimeAttack",
     "DetailTitle": "SysConstStr.ChName.KnightGolemStoner_Boss",
     "Order": 7,
+    "DisplayImage": "Img_PlayRecord_Mode4",
+    "DisplayPriority": 3
+  },
+  {
+    "ID": 208,
+    "GroupID": 2,
+    "GroupSort": 3,
+    "ContentsType": "TimeAtteck",
+    "StepInfo": 70109,
+    "GroupTitle": "eUIType.TimeAttack",
+    "DetailTitle": "SysConstStr.ChName.IceWitchBesteBoss",
+    "Order": 8,
+    "DisplayImage": "Img_PlayRecord_Mode4",
+    "DisplayPriority": 2
+  },
+  {
+    "ID": 209,
+    "GroupID": 2,
+    "GroupSort": 3,
+    "ContentsType": "TimeAtteck",
+    "StepInfo": 70110,
+    "GroupTitle": "eUIType.TimeAttack",
+    "DetailTitle": "SysConstStr.ChName.CursedGiantBoss",
+    "Order": 9,
     "DisplayImage": "Img_PlayRecord_Mode4",
     "DisplayPriority": 1
   },
@@ -226,6 +250,18 @@
     "Order": 5,
     "DisplayImage": "Img_PlayRecord_Mode3_Baran",
     "DisplayPriority": 2
+  },
+  {
+    "ID": 406,
+    "GroupID": 4,
+    "GroupSort": 4,
+    "ContentsType": "Raid",
+    "StepInfo": 20306,
+    "GroupTitle": "eUIType.RaidMain",
+    "DetailTitle": "ProfileRecord.Raid02_hard",
+    "Order": 6,
+    "DisplayImage": "Img_PlayRecord_Mode3_Baran",
+    "DisplayPriority": 1
   },
   {
     "ID": 501,

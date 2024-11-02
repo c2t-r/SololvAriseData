@@ -1,5 +1,18 @@
 [
   {
+    "ID": 1001,
+    "ControllerID": 7,
+    "Name": "GuildLobby_Halloween",
+    "BgImage": "BG_GuildLobby_Halloween",
+    "DecoImage": "BG_GuildLobby_Halloween",
+    "AudioSet": "BGM_Ui_Guild_Halloween_01",
+    "UnlockType": "DefaultOpen",
+    "Value": 0,
+    "OpenTime": "2024-09-12T12:00:00+09:00",
+    "EndTime": "2024-11-28T09:00:00+09:00",
+    "ActiveValue": 2
+  },
+  {
     "ID": 100001,
     "ControllerID": 1,
     "Name": "GuildLobby_Default",
@@ -7,7 +20,10 @@
     "DecoImage": "BG_GuildLobby_Default",
     "AudioSet": "",
     "UnlockType": "DefaultOpen",
-    "Value": 0
+    "Value": 0,
+    "OpenTime": "",
+    "EndTime": "",
+    "ActiveValue": 0
   },
   {
     "ID": 100002,
@@ -17,7 +33,10 @@
     "DecoImage": "BG_GuildLobby_Default_Night",
     "AudioSet": "",
     "UnlockType": "DefaultOpen",
-    "Value": 0
+    "Value": 0,
+    "OpenTime": "",
+    "EndTime": "",
+    "ActiveValue": 0
   },
   {
     "ID": 100004,
@@ -27,7 +46,10 @@
     "DecoImage": "BG_GuildLobby_Corridor",
     "AudioSet": "",
     "UnlockType": "DefaultOpen",
-    "Value": 0
+    "Value": 0,
+    "OpenTime": "",
+    "EndTime": "",
+    "ActiveValue": 0
   },
   {
     "ID": 100006,
@@ -37,6 +59,9 @@
     "DecoImage": "BG_GuildLobby_Rooftop",
     "AudioSet": "",
     "UnlockType": "LevelGuild",
-    "Value": 6
+    "Value": 6,
+    "OpenTime": "",
+    "EndTime": "",
+    "ActiveValue": 0
   }
 ]

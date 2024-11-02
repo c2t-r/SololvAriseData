@@ -1369,10 +1369,37 @@
   },
   {
     "ID": 154,
+    "GroupID": 840,
+    "CharPartsType": "GSWeapon",
+    "Index": 64,
+    "PartsPrefName": "GSWeapon_SpookyPumpkin_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "AwakeActive": true
+  },
+  {
+    "ID": 155,
+    "GroupID": 840,
+    "CharPartsType": "GSWeapon",
+    "Index": 65,
+    "PartsPrefName": "GSWeapon_SpookyPumpkin_PFV",
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "AwakeActive": true
+  },
+  {
+    "ID": 156,
     "GroupID": 331,
     "CharPartsType": "Weapon",
     "Index": 0,
     "PartsPrefName": "IslaWright_Weapon01_PFV",
+    "AttachParentName": "Bone_Weapon_Dummy_01",
+    "AwakeActive": true
+  },
+  {
+    "ID": 157,
+    "GroupID": 332,
+    "CharPartsType": "Weapon",
+    "Index": 0,
+    "PartsPrefName": "IslaWright_Skin_Epic_Halloween2024_Weapon0_PFV",
     "AttachParentName": "Bone_Weapon_Dummy_01",
     "AwakeActive": true
   }

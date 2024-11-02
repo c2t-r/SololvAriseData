@@ -728,5 +728,35 @@
     "AddBattlePower": 0,
     "AddBattlePowerR": 0.07500000298023224,
     "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+  },
+  {
+    "ID": 60301,
+    "ArtifactSetID": 603,
+    "Condition": 2,
+    "Name": "Event.24Halloween.Main.TitleShort",
+    "PassiveBuff": "[64003011]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.02500000037252903,
+    "SetBannerResource": ""
+  },
+  {
+    "ID": 60302,
+    "ArtifactSetID": 603,
+    "Condition": 4,
+    "Name": "Event.24Halloween.Main.TitleShort",
+    "PassiveBuff": "[64003019, 64003014]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.07500000298023224,
+    "SetBannerResource": ""
+  },
+  {
+    "ID": 60303,
+    "ArtifactSetID": 603,
+    "Condition": 8,
+    "Name": "Event.24Halloween.Main.TitleShort",
+    "PassiveBuff": "[64003017]",
+    "AddBattlePower": 0,
+    "AddBattlePowerR": 0.15000000596046448,
+    "SetBannerResource": ""
   }
 ]

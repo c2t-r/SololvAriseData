@@ -7,9 +7,10 @@
     "GuildRankString": "SysConstStr.Guild.RankS",
     "GuildRankIcon": "Icon_GuildRank_6",
     "RankType": "Percent",
-    "RankTypeValue": 5,
-    "RewardID": 705078,
-    "DemotePoint": 0
+    "RankTypeValue": 10,
+    "RewardID": 200233,
+    "DemotePoint": 0,
+    "RankBuff": "[21258,21261,21264]"
   },
   {
     "ID": 10002,
@@ -19,9 +20,10 @@
     "GuildRankString": "SysConstStr.Guild.RankS",
     "GuildRankIcon": "Icon_GuildRank_6",
     "RankType": "Percent",
-    "RankTypeValue": 10,
-    "RewardID": 705078,
-    "DemotePoint": 0
+    "RankTypeValue": 30,
+    "RewardID": 200234,
+    "DemotePoint": 0,
+    "RankBuff": "[21257,21260,21263]"
   },
   {
     "ID": 10003,
@@ -31,9 +33,10 @@
     "GuildRankString": "SysConstStr.Guild.RankS",
     "GuildRankIcon": "Icon_GuildRank_6",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 30000
+    "RankTypeValue": 75000,
+    "RewardID": 200235,
+    "DemotePoint": 75000,
+    "RankBuff": "[21256,21259,21262]"
   },
   {
     "ID": 20001,
@@ -43,9 +46,10 @@
     "GuildRankString": "SysConstStr.Guild.RankA",
     "GuildRankIcon": "Icon_GuildRank_5",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 3000
+    "RankTypeValue": 52000,
+    "RewardID": 200236,
+    "DemotePoint": 52000,
+    "RankBuff": "[21015,21030,21045]"
   },
   {
     "ID": 20002,
@@ -55,9 +59,10 @@
     "GuildRankString": "SysConstStr.Guild.RankA",
     "GuildRankIcon": "Icon_GuildRank_5",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 2970
+    "RankTypeValue": 40500,
+    "RewardID": 200237,
+    "DemotePoint": 40500,
+    "RankBuff": "[21014,21029,21044]"
   },
   {
     "ID": 20003,
@@ -67,9 +72,10 @@
     "GuildRankString": "SysConstStr.Guild.RankA",
     "GuildRankIcon": "Icon_GuildRank_5",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 2670
+    "RankTypeValue": 31500,
+    "RewardID": 200238,
+    "DemotePoint": 31500,
+    "RankBuff": "[21013,21028,21043]"
   },
   {
     "ID": 30001,
@@ -79,9 +85,10 @@
     "GuildRankString": "SysConstStr.Guild.RankB",
     "GuildRankIcon": "Icon_GuildRank_4",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 2370
+    "RankTypeValue": 20500,
+    "RewardID": 200239,
+    "DemotePoint": 20500,
+    "RankBuff": "[21012,21027,21042]"
   },
   {
     "ID": 30002,
@@ -91,9 +98,10 @@
     "GuildRankString": "SysConstStr.Guild.RankB",
     "GuildRankIcon": "Icon_GuildRank_4",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 2070
+    "RankTypeValue": 13500,
+    "RewardID": 200240,
+    "DemotePoint": 13500,
+    "RankBuff": "[21011,21026,21041]"
   },
   {
     "ID": 30003,
@@ -103,9 +111,10 @@
     "GuildRankString": "SysConstStr.Guild.RankB",
     "GuildRankIcon": "Icon_GuildRank_4",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 1770
+    "RankTypeValue": 8200,
+    "RewardID": 200241,
+    "DemotePoint": 8200,
+    "RankBuff": "[21010,21025,21040]"
   },
   {
     "ID": 40001,
@@ -115,9 +124,10 @@
     "GuildRankString": "SysConstStr.Guild.RankC",
     "GuildRankIcon": "Icon_GuildRank_3",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 1470
+    "RankTypeValue": 5300,
+    "RewardID": 200242,
+    "DemotePoint": 5300,
+    "RankBuff": "[21009,21024,21039]"
   },
   {
     "ID": 40002,
@@ -127,9 +137,10 @@
     "GuildRankString": "SysConstStr.Guild.RankC",
     "GuildRankIcon": "Icon_GuildRank_3",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 1170
+    "RankTypeValue": 3900,
+    "RewardID": 200243,
+    "DemotePoint": 3900,
+    "RankBuff": "[21008,21023,21038]"
   },
   {
     "ID": 40003,
@@ -139,9 +150,10 @@
     "GuildRankString": "SysConstStr.Guild.RankC",
     "GuildRankIcon": "Icon_GuildRank_3",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 870
+    "RankTypeValue": 2900,
+    "RewardID": 200244,
+    "DemotePoint": 2900,
+    "RankBuff": "[21007,21022,21037]"
   },
   {
     "ID": 50001,
@@ -151,9 +163,10 @@
     "GuildRankString": "SysConstStr.Guild.RankD",
     "GuildRankIcon": "Icon_GuildRank_2",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 570
+    "RankTypeValue": 2000,
+    "RewardID": 200245,
+    "DemotePoint": 2000,
+    "RankBuff": "[21006,21021,21036]"
   },
   {
     "ID": 50002,
@@ -163,9 +176,10 @@
     "GuildRankString": "SysConstStr.Guild.RankD",
     "GuildRankIcon": "Icon_GuildRank_2",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 300
+    "RankTypeValue": 1750,
+    "RewardID": 200246,
+    "DemotePoint": 1750,
+    "RankBuff": "[21005,21020,21035]"
   },
   {
     "ID": 50003,
@@ -175,9 +189,10 @@
     "GuildRankString": "SysConstStr.Guild.RankD",
     "GuildRankIcon": "Icon_GuildRank_2",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 240
+    "RankTypeValue": 1500,
+    "RewardID": 200247,
+    "DemotePoint": 1500,
+    "RankBuff": "[21004,21019,21034]"
   },
   {
     "ID": 60001,
@@ -187,9 +202,10 @@
     "GuildRankString": "SysConstStr.Guild.RankE",
     "GuildRankIcon": "Icon_GuildRank_1",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 150
+    "RankTypeValue": 1250,
+    "RewardID": 200248,
+    "DemotePoint": 1250,
+    "RankBuff": "[21003,21018,21033]"
   },
   {
     "ID": 60002,
@@ -199,9 +215,10 @@
     "GuildRankString": "SysConstStr.Guild.RankE",
     "GuildRankIcon": "Icon_GuildRank_1",
     "RankType": "Normal",
-    "RankTypeValue": 999999999,
-    "RewardID": 705078,
-    "DemotePoint": 90
+    "RankTypeValue": 800,
+    "RewardID": 200249,
+    "DemotePoint": 800,
+    "RankBuff": "[21002,21017,21032]"
   },
   {
     "ID": 60003,
@@ -212,7 +229,8 @@
     "GuildRankIcon": "Icon_GuildRank_1",
     "RankType": "Normal",
     "RankTypeValue": 0,
-    "RewardID": 0,
-    "DemotePoint": 0
+    "RewardID": 200253,
+    "DemotePoint": 0,
+    "RankBuff": "[21001,21016,21031]"
   }
 ]

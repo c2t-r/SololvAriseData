@@ -4,16 +4,16 @@
     "TargetContents": "InstantDungeon ",
     "Step": 1,
     "UnlockType": "LevelSJW",
-    "UnlockValue": 4,
-    "MultipleMaxCount": 8
+    "UnlockValue": 5,
+    "MultipleMaxCount": 10
   },
   {
     "ID": 4901,
     "TargetContents": "Advent",
     "Step": 1,
     "UnlockType": "LevelSJW",
-    "UnlockValue": 4,
-    "MultipleMaxCount": 8
+    "UnlockValue": 5,
+    "MultipleMaxCount": 10
   },
   {
     "ID": 5001,
@@ -21,7 +21,7 @@
     "Step": 1,
     "UnlockType": "LevelSJW",
     "UnlockValue": 2,
-    "MultipleMaxCount": 4
+    "MultipleMaxCount": 5
   },
   {
     "ID": 6001,
@@ -29,6 +29,14 @@
     "Step": 1,
     "UnlockType": "LevelSJW",
     "UnlockValue": 2,
+    "MultipleMaxCount": 4
+  },
+  {
+    "ID": 7001,
+    "TargetContents": "BossChallenge",
+    "Step": 1,
+    "UnlockType": "LevelSJW",
+    "UnlockValue": 0,
     "MultipleMaxCount": 4
   }
 ]

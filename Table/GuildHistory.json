@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "GuildHistoryMenu": "Person",
+    "GuildHistoryGroupID": 10001,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.Hunters",
+    "GuildHistoryGroupTooltipStringID": "",
+    "GroupSortOrder": 1,
+    "DefaultType": true,
+    "Privileges": "Normal",
+    "GuildHistoryType": "CharEarn",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryEarn"
+  },
+  {
+    "ID": 2,
+    "GuildHistoryMenu": "Person",
+    "GuildHistoryGroupID": 10002,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.Weapon",
+    "GuildHistoryGroupTooltipStringID": "",
+    "GroupSortOrder": 2,
+    "DefaultType": true,
+    "Privileges": "Normal",
+    "GuildHistoryType": "WeaponEarn",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryEarn"
+  },
+  {
+    "ID": 101,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10101,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.Guild",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildInfo",
+    "GroupSortOrder": 3,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "LevelUp",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryLevelUp"
+  },
+  {
+    "ID": 201,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "Join",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryJoin"
+  },
+  {
+    "ID": 202,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "Withdraw",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryWithdraw"
+  },
+  {
+    "ID": 203,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "Expulsion",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryExpulsion"
+  },
+  {
+    "ID": 204,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "SubMasterGrant",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryGrant"
+  },
+  {
+    "ID": 205,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "SubMasterExcept",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryExcept"
+  },
+  {
+    "ID": 206,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "MasterGrant",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryGrant"
+  },
+  {
+    "ID": 207,
+    "GuildHistoryMenu": "Guild",
+    "GuildHistoryGroupID": 10201,
+    "GuildHistoryGroupStringID": "SysConstStr.Guild.GuildHistoryGroup.GuildMembers",
+    "GuildHistoryGroupTooltipStringID": "SysConstStr.Guild.GuildHistory.Popup_GuildMembersInfo",
+    "GroupSortOrder": 4,
+    "DefaultType": true,
+    "Privileges": "Master",
+    "GuildHistoryType": "MasterExcept",
+    "GuildHistoryTypeStringID": "SysConstStr.Guild.HistoryExcept"
+  }
+]

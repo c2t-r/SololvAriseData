@@ -2,8 +2,7 @@
   {
     "ID": 1,
     "Title": "Alone Event Test",
-    "MissionCount": 60,
-    "MissionReward": 60000001,
+    "StepID": 11,
     "BGImg": "BG_ThemeMission_1",
     "RewardBigImg": "LeeBoRa_Swimsuit2024_Portrait_Body",
     "PageBGM": ""
@@ -11,8 +10,7 @@
   {
     "ID": 2,
     "Title": "Event.24Summer.Title.Mission",
-    "MissionCount": 50,
-    "MissionReward": 60000001,
+    "StepID": 21,
     "BGImg": "BG_ThemeMission_1",
     "RewardBigImg": "LeeBoRa_Swimsuit2024_Portrait_Body",
     "PageBGM": ""
@@ -20,8 +18,7 @@
   {
     "ID": 3,
     "Title": "Event.100Anni.MiniGameB.TitleShort",
-    "MissionCount": 50,
-    "MissionReward": 61000032,
+    "StepID": 31,
     "BGImg": "BG_Ev100thDay",
     "RewardBigImg": "LimHaJin_100Anni_Portrait_Body",
     "PageBGM": ""
@@ -29,8 +26,7 @@
   {
     "ID": 4,
     "Title": "Event.DailyMission.FullMoon.Title",
-    "MissionCount": 50,
-    "MissionReward": 61000049,
+    "StepID": 41,
     "BGImg": "BG_EvFullmoon",
     "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
     "PageBGM": ""
@@ -38,10 +34,17 @@
   {
     "ID": 5,
     "Title": "Event.DailyMission.Fall.Title",
-    "MissionCount": 50,
-    "MissionReward": 62000000,
+    "StepID": 51,
     "BGImg": "BG_EvFall",
     "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
+    "PageBGM": ""
+  },
+  {
+    "ID": 6,
+    "Title": "Event.24Halloween.Title.Mission",
+    "StepID": 61,
+    "BGImg": "BG_ThemeMission_24Halloween",
+    "RewardBigImg": "Event_Haloween_Img_Character01",
     "PageBGM": ""
   }
 ]

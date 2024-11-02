@@ -105,7 +105,7 @@
   },
   {
     "ID": 10202,
-    "BTName": "CaveBear_Boss_BT",
+    "BTName": "CaveBear_Boss_BT_10202",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[10200110100,10200110200,10200110300,10200110400,10200110500,10200110600,10200110700,10200110800,10200110900,10200111000]",
@@ -352,7 +352,7 @@
   },
   {
     "ID": 10503,
-    "BTName": "",
+    "BTName": "BT_PoisonFangedGiantCentipede_Boss_B_100156",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[10400110100,10400110200,10400110300,10400110400,10400110500,10400110600,10400110700,10400110800,10400110900,10400111000,10400111100,10400111200,10400111400,10400111500,10400111700,10400111800,153100110100]",
@@ -365,7 +365,7 @@
   },
   {
     "ID": 10504,
-    "BTName": "",
+    "BTName": "BT_PoisonFangedGiantCentipede_Boss_B_100156",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[10400110100,10400110200,10400110300,10400110400,10400110500,10400110600,10400110700,10400110800,10400110900,10400111000,10400111100,10400111200,10400111400,10400111500,10400111700,10400111800,153100110100]",
@@ -378,7 +378,7 @@
   },
   {
     "ID": 10505,
-    "BTName": "",
+    "BTName": "BT_PoisonFangedGiantCentipede_Boss_B_100156",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[10400110100,10400110200,10400110300,10400110400,10400110500,10400110600,10400110700,10400110800,10400110900,10400111000,10400111100,10400111200,10400111400,10400111500,10400111700,10400111800,153100110100]",
@@ -911,7 +911,7 @@
   },
   {
     "ID": 11207,
-    "BTName": "HobgoblinChief_Boss_BT",
+    "BTName": "HobgoblinChief_Boss_BT_11207",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[11200110100,11200110200,11200110300,11200110400,11200110500,11200110600,11200110700,11200110800,11200110900,11200111000,11200111100,11200111200,11200111300,11200111400,11200111500]",
@@ -927,7 +927,7 @@
     "BTName": "BT_HobgoblinChief_Boss_70106",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[11200110100,11200110200,11200110300,11200110400,11200110500,11200110600,11200110700,11200110800,11200110900,11200111000,11200111100,11200111200,11200111300,11200111400,11200111500]",
+    "SkillGroupSet": "[11200110100,11200110200,11200110300,11200110400,11200110500,11200110600,11200110700,11200110800,11200110900,11200111000,11200111100,11200111200,11200111300,11200111400,11200111500,11200112000,11200112100,11200112200]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -1083,7 +1083,7 @@
     "BTName": "BlueGolem_Boss_NEW_BT",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[11400110100,11400110200,11400110300,11400110400,11400110500,11400110600,11400110700,11400110800,11400110900,11400111000,11400111100,11400111400,11400111500,11400111700,11400112100]",
+    "SkillGroupSet": "[11400110100,11400110200,11400110300,11400110400,11400110500,11400110600,11400110700,11400110800,11400110900,11400111000,11400111400,11400111500]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -3016,6 +3016,19 @@
     "PartList": ""
   },
   {
+    "ID": 13604,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[13600110100,13600110200,13600110300,13600110400,13600110500,13600110600,13600110700,13600110800,13600110900,13600111000,13600111100,13600111200,13600111300,13600111400,13600111500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 13701,
     "BTName": "SevenNightsFireEnnio_WorldBoss_BT",
     "MonsterGrade": "Boss",
@@ -3345,7 +3358,7 @@
     "BTName": "",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[14100110100,14100110200,14100110300,14100110400,14100110500,14100110600,14100110700,14100110800,14100110900,14100111000,14100111100,14100111200,14100111300,14100111400,14100111500,14100111600,14100111700,14100111800,14100111900,14100112000,14100112100,14100112200,14100112300,14100112400]",
+    "SkillGroupSet": "[14100110100,14100110200,14100110300,14100110400,14100110500,14100110600,14100110700,14100110800,14100110900,14100111000,14100111100,14100111200,14100111300,14100111400,14100111500,14100111600,14100111700,14100111800,14100111900,14100112000,14100112100,14100112200,14100112300,14100112400,14100112500]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -3384,7 +3397,7 @@
     "BTName": "BT_Kaisellin_Baran_Boss_110405",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[14100110100,14100110200,14100111200,14100111300,14100111400,14100111600,14100111800,14100111900,14100110700,14100110900,14100112000,14100112100,14100112200,14100112300,14100111100,11300113100,14100112400]",
+    "SkillGroupSet": "[14100110100,14100110200,14100111200,14100111300,14100111400,14100111600,14100111800,14100111900,14100110700,14100110900,14100112000,14100112100,14100112200,14100112300,14100111100,11300113100,14100112400,14100112500]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -3540,7 +3553,7 @@
     "BTName": "BT_Baran_Boss_3_110406_01",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[14300110100,14300110200,14300110300,14300110400,14300110500,14300111400,14300110700,14300111500,14300110900,14300111000,14300111700,14300111800,14300111200,11300113100,14300112000,14300112100]",
+    "SkillGroupSet": "[14300110100,14300110200,14300110300,14300110400,14300110500,14300111400,14300110700,14300111600,14300110900,14300111000,14300111700,14300111800,14300111200,11300113100,14300112000,14300112100]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -3615,6 +3628,58 @@
   },
   {
     "ID": 14801,
+    "BTName": "GrimReaper_Scythe_Boss_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[14800110100,14800110200,14800110300,14800110400,14800110500,14800110600,14800110700,14800110800,14800110900,14800111000,14800111100,14800111200]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 14803,
+    "BTName": "GrimReaper_Scythe_Boss_Gimmick_1_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[14810110100,14810110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 14804,
+    "BTName": "GrimReaper_Scythe_Boss_Gimmick_2_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[14810110200,14810110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 14805,
+    "BTName": "GrimReaper_Scythe_Boss_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[14800110100,14800110200,14800110300,14800110400,14800110500,14800110600,14800110700,14800110800,14800110900,14800111000,14800111100,14800111200]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 14806,
     "BTName": "GrimReaper_Scythe_Boss_BT",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
@@ -3779,6 +3844,97 @@
     "BaseInteractionID": 0,
     "KnockDownReplace": 0,
     "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 16002,
+    "BTName": "IceWitch_Beste_Boss_Grade3_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[16000110100,16000110200,16000110300,16000110400,16000110500,16000110600,16000110700,16000110800,16000110900,16000111000,16000111100,16000111200,16000111300,16000111400,16000111500,16000111600,16000111700]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 18001,
+    "BTName": "DarkSjw_TwilightRuler_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[18000111100,18000111200,18000111300,18000111400,18000111500,18000112100,18000112200,18000112300,18000112400,18000112500,18000113100,18000113200,18000113300,18000113400,18000113500,18000114100,18000114200,18000114300,18000114400,18000114500,18000115000,18000115100,18000115200,18000115300,18000115400,18000115500,18000115600,18000115700,18000115800,18000115900]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[3201001996]",
+    "PartList": ""
+  },
+  {
+    "ID": 18101,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[18100110100,18100110200,18100110300,18100110400,18100110500,18100110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 18301,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[18300110100,18300110200,18300110300,18300110400,18300110500,18300110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 17901,
+    "BTName": "Deimos_Cavalry_Boss_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[17900110100,17900110200,17900110300,17900110400,17900110500,17900110600,17900110700,17900110800,17900110900,17900111000,17900111100,17900111200,17900111300,17900111400,17900111500,17900111600,17900111700,17900111800,17900111900,17900112000,17900112100,17900112200,17900112300,17900112400,17900112500,17900112600,17900112700]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 17902,
+    "BTName": "Deimos_Cavalry_Boss_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[17900110100,17900110200,17900110300,17900110400,17900110500,17900110600,17900110700,17900110800,17900110900,17900111000,17900111100,17900111200,17900111300,17900111400,17900111500,17900111600,17900111700,17900111800,17900111900,17900112000,17900112100,17900112200,17900112300,17900112400,17900112500,17900112600,17900112700]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 17903,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[17900111400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
     "PassiveBuffID": "",
     "PartList": ""
   },
@@ -4758,6 +4914,19 @@
     "PartList": ""
   },
   {
+    "ID": 30605,
+    "BTName": "CaveBear_Elite_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[30500110100,30500110200,30500110300,30500110400,30500110500,30500110600,30500110700,30500110800,30500110900,30500111000]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 30701,
     "BTName": "CaveBear_Elite_BT",
     "MonsterGrade": "Boss",
@@ -4914,6 +5083,32 @@
     "PartList": ""
   },
   {
+    "ID": 30812,
+    "BTName": "",
+    "MonsterGrade": "Elite",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[30800110100,30800110200,30800110300,30800110400,30800110500,30800110600,30800110700,30800110800,30800110900,30800111000,30800111100]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 30813,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Elite",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[30800110100,30800110200,30800110300,30800110400,30800110500,30800110600,30800110700,30800110800,30800110900,30800111000,30800111100]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 30901,
     "BTName": "",
     "MonsterGrade": "Boss",
@@ -4993,6 +5188,19 @@
   },
   {
     "ID": 30907,
+    "BTName": "",
+    "MonsterGrade": "Elite",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[30800110100,30800110200,30800110300,30800110400,30800110500,30800110600,30800110700,30800110800,30800110900,30800111000,30800111100]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 30908,
     "BTName": "",
     "MonsterGrade": "Elite",
     "MonsterCategory": "None",
@@ -5330,6 +5538,32 @@
     "PartList": ""
   },
   {
+    "ID": 31311,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 1,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 31312,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[31300110100,31300110200,31300110300,31300110400,31300110500,31300110700,31300110800,31300111000,31300111300,31300111400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 1,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 31401,
     "BTName": "",
     "MonsterGrade": "Boss",
@@ -5655,6 +5889,19 @@
     "PartList": ""
   },
   {
+    "ID": 31519,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[31500110100,31500110200,31500110300,31500110400,31500110500,31500110600,31500110700,31500110900,31500111000,31500111200]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[316050004]",
+    "PartList": ""
+  },
+  {
     "ID": 31520,
     "BTName": "",
     "MonsterGrade": "Boss",
@@ -5850,6 +6097,32 @@
     "PartList": ""
   },
   {
+    "ID": 31615,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[31600110100,31600110200,31600110300,31600110400,31600110500,31600110700,31600110800,31600110900,31600111000,31600111100]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[316050004]",
+    "PartList": ""
+  },
+  {
+    "ID": 31616,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[31600111500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 31701,
     "BTName": "",
     "MonsterGrade": "Elite",
@@ -6023,7 +6296,7 @@
     "BTName": "",
     "MonsterGrade": "Elite",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[31900110100,31900110200,31900110300,31900110400,31900110500,31900110600,31900110700]",
+    "SkillGroupSet": "[31900110100,31900110200,31900110300,31900110400,31900110500,31900110600]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 0,
@@ -6127,7 +6400,7 @@
     "BTName": "",
     "MonsterGrade": "Elite",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[32000110100,32000110200,32000110300,32000110400,32000110500,32000110800,32000110900,32000111100]",
+    "SkillGroupSet": "[32000110100,32000110200,32000110300,32000110400,32000110500,32000111100]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 0,
@@ -6411,6 +6684,19 @@
   {
     "ID": 32113,
     "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[32100110100,32100110200,32100110300,32100110400,32100110500,32100110600,32100110700,32100110800]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 32114,
+    "BTName": "Boss_PlayerTarget_Story_BT",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[32100110100,32100110200,32100110300,32100110400,32100110500,32100110600,32100110700,32100110800]",
@@ -6817,6 +7103,19 @@
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[32400110100,32400110200,32400110300,32400110400,32400110500,32400110600,32400110700,32400110800,32400110900,32400111100,32400111200]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 32408,
+    "BTName": "StoneGolem_Elite_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[32400110100,32400110200,32400110300,32400110400,32400110500,32400110600,32400110700,32400110800,32400110900,32400111000,32400111100,32400111200]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -7401,7 +7700,7 @@
     "BTName": "",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
-    "SkillGroupSet": "[32700111900,32700112000,32700112100,32700112200,32700112300,32700112400]",
+    "SkillGroupSet": "[32700110100,32700110200,32700110300,32700110400,32700111900,32700112000,32700112100,32700110700,32700112300,32700112400]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 0,
@@ -7675,6 +7974,19 @@
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[33100110100,33100110200,33100110300,33100110400,33100110500,33100110600,33100110700,33100110800,33100110900,33100111000,33100111200,33100111300,33100111400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 1,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 33107,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[33300110100,33300110200,33300110300,33300110400,33300110500,33300110600,33300110700,33300110800,33300110900,33300111000,33300111100,33300111200,33300111300,33300111400]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -8039,6 +8351,19 @@
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[33600110100,33600110200,33600110300,33600110400,33600110500,33600110600,33600110700,33600119900]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 33612,
+    "BTName": "Undead_Elite_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[33600110100,33600110200,33600110300,33600110400,33600110500,33600110600,33600110700,33600110800,33600119900]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 1,
@@ -9480,6 +9805,45 @@
     "ID": 34904,
     "BTName": "",
     "MonsterGrade": "Elite",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[34900110100,34900110200,34900110300,34900110400,34900110500,34900110600,34900110700,34900110800]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 34905,
+    "BTName": "",
+    "MonsterGrade": "Elite",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[34900110100,34900110200,34900110300,34900110400,34900110500,34900110700]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 34906,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[34900110100,34900110200,34900110300,34900110400,34900110500,34900110600,34900110700,34900110800]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 34907,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[34900110100,34900110200,34900110300,34900110400,34900110500,34900110600,34900110700,34900110800]",
     "MonarchType": "None",
@@ -12025,6 +12389,19 @@
     "PartList": ""
   },
   {
+    "ID": 53019,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53000110100,53000110200,53000110300,53000110400,53000110500,53000110600,53000110700,53000110800,53000110900]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 53101,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -12194,6 +12571,19 @@
     "PartList": ""
   },
   {
+    "ID": 53115,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53000110100,53000110200,53000110300,53000110400,53000110500,53000110600,53000110700,53000110800,53000110900]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 53201,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -12360,6 +12750,19 @@
     "KnockDownReplace": 0,
     "FloatReplace": 0,
     "PassiveBuffID": "[315000102]",
+    "PartList": ""
+  },
+  {
+    "ID": 53215,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53000110100,53000110200,53000110300,53000110400,53000110500,53000110600,53000110700,53000110800,53000110900]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
     "PartList": ""
   },
   {
@@ -13312,6 +13715,32 @@
     "PartList": ""
   },
   {
+    "ID": 53624,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53600110100,53600110200,53600110300,53600110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 53625,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53610110100,53610110200,53610110300,53610110400,153100111800]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[315000103]",
+    "PartList": ""
+  },
+  {
     "ID": 53626,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -13599,6 +14028,19 @@
   },
   {
     "ID": 53722,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53700110100,53700110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 53723,
     "BTName": "",
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
@@ -14157,6 +14599,32 @@
     "PartList": ""
   },
   {
+    "ID": 53923,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53900110100,53900110200,53900110300,53900110400,53900110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 53924,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[53910110100,53910110200,53910110300,53910110400,53910110500,153100111600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[315000101]",
+    "PartList": ""
+  },
+  {
     "ID": 53925,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -14482,6 +14950,19 @@
     "PartList": ""
   },
   {
+    "ID": 54025,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[54010110100,54010110200,54010110300,54010110400,54010110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 54101,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -14682,6 +15163,19 @@
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
     "SkillGroupSet": "[54100110100,54100110200,54100110300,54100110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 54117,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[54100110100,54100110200,54100110300,54100110400,54100110800]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 0,
@@ -14898,6 +15392,19 @@
     "PartList": ""
   },
   {
+    "ID": 54217,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[54100110100,54100110200,54100110300,54100110400,54100110800]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 54301,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -15098,6 +15605,19 @@
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
     "SkillGroupSet": "[54100110100,54100110200,54100110300,54100110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 54317,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[54100110100,54100110200,54100110300,54100110400,54100110800]",
     "MonarchType": "None",
     "BaseInteractionID": 0,
     "KnockDownReplace": 0,
@@ -16055,6 +16575,19 @@
     "PartList": ""
   },
   {
+    "ID": 55610,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[55600110100,55600110200,55600110300,55600110400,55600110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 55701,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -16159,6 +16692,19 @@
     "PartList": ""
   },
   {
+    "ID": 55710,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[55600110100,55600110200,55600110300,55600110400,55600110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 55801,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -16239,6 +16785,19 @@
   {
     "ID": 55808,
     "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[55600110100,55600110200,55600110300,55600110400,55600110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 1,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 55809,
+    "BTName": "Boss_PlayerTarget_Story_BT",
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
     "SkillGroupSet": "[55600110100,55600110200,55600110300,55600110400,55600110500]",
@@ -19955,6 +20514,19 @@
     "PartList": ""
   },
   {
+    "ID": 57911,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[57900110100,57900110200,57900110300,57900110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 58001,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -20085,6 +20657,19 @@
     "PartList": ""
   },
   {
+    "ID": 58011,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[57900110100,57900110200,57900110300,57900110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 58101,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -20212,6 +20797,19 @@
     "KnockDownReplace": 0,
     "FloatReplace": 0,
     "PassiveBuffID": "[315000101]",
+    "PartList": ""
+  },
+  {
+    "ID": 58111,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[57900110100,57900110200,57900110300,57900110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
     "PartList": ""
   },
   {
@@ -20982,6 +21580,32 @@
     "PartList": ""
   },
   {
+    "ID": 58816,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[58800110100,58800110200,58800110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 58817,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[58800110100,58800110200,58800110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 58901,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -21177,6 +21801,32 @@
     "PartList": ""
   },
   {
+    "ID": 58916,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[58800110100,58800110200,58800110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 58917,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[58800110100,58800110200,58800110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 59001,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -21348,6 +21998,32 @@
   {
     "ID": 59014,
     "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[58800110100,58800110200,58800110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 59016,
+    "BTName": "BuffTarget_Event_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[58800110100,58800110200,58800110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 59017,
+    "BTName": "Boss_PlayerTarget_Story_BT",
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
     "SkillGroupSet": "[58800110100,58800110200,58800110600]",
@@ -24947,6 +25623,19 @@
     "PartList": ""
   },
   {
+    "ID": 61404,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[61400110100,61400110200,61400110300,61400110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 61501,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -24986,6 +25675,19 @@
     "PartList": ""
   },
   {
+    "ID": 61505,
+    "BTName": "",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[61500110100,61500110200,61500110300,61500110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 61601,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -25013,6 +25715,19 @@
   },
   {
     "ID": 61603,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[61600110100,61600110200,61600110300,61600110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 61604,
     "BTName": "",
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
@@ -25087,6 +25802,19 @@
     "KnockDownReplace": 0,
     "FloatReplace": 0,
     "PassiveBuffID": "[315000101]",
+    "PartList": ""
+  },
+  {
+    "ID": 61706,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[61700110100,61700110200,61700110300,61700110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
     "PartList": ""
   },
   {
@@ -26000,6 +26728,19 @@
     "PartList": ""
   },
   {
+    "ID": 62803,
+    "BTName": "BT_Kaisellin_Summon_Ghost_110405",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[62800110200,62800110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 62901,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -26052,6 +26793,32 @@
     "PartList": ""
   },
   {
+    "ID": 62903,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[62900110100,62900110200,62900110300,62900110400,153100111900]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[315000103]",
+    "PartList": ""
+  },
+  {
+    "ID": 62908,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[62900110100,62900110200,62900110300,62900110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 63002,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -26065,8 +26832,60 @@
     "PartList": ""
   },
   {
+    "ID": 63003,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[63000110100,63000110200,63000110300,63000110400,153100112200]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[315000104]",
+    "PartList": ""
+  },
+  {
+    "ID": 63008,
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[63000110100,63000110200,63000110300,63000110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 63102,
     "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[63100110100,63100110200,63100110300,63100110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 63103,
+    "BTName": "",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[63100110100,63100110200,63100110300,63100110400,153100112500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[315000101]",
+    "PartList": ""
+  },
+  {
+    "ID": 63108,
+    "BTName": "Boss_PlayerTarget_Story_BT",
     "MonsterGrade": "Normal",
     "MonsterCategory": "None",
     "SkillGroupSet": "[63100110100,63100110200,63100110300,63100110400]",
@@ -26377,6 +27196,19 @@
     "PartList": ""
   },
   {
+    "ID": 150614,
+    "BTName": "BT_BOT_Gimmick_Totem_C",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[150600110500]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 150701,
     "BTName": "",
     "MonsterGrade": "Normal",
@@ -26599,7 +27431,7 @@
   },
   {
     "ID": 151705,
-    "BTName": "BT_ChallengeTower_SnowTotem_01",
+    "BTName": "BT_ChallengeTower_SnowTotem_05",
     "MonsterGrade": "Boss",
     "MonsterCategory": "None",
     "SkillGroupSet": "[151700110100,151700110400,153100110100]",
@@ -26689,6 +27521,32 @@
     "PartList": ""
   },
   {
+    "ID": 151807,
+    "BTName": "BT_RedGate_DesertTotem_3010309_01",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[151800110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 151808,
+    "BTName": "BT_RedGate_DesertTotem_3010309_01",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[151800110600]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
     "ID": 151901,
     "BTName": "BT_IceBear_Bead_B_151901_01",
     "MonsterGrade": "Normal",
@@ -26731,6 +27589,19 @@
     "ID": 151904,
     "BTName": "BT_IceBear_Bead_B_151901_01",
     "MonsterGrade": "Elite",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[54800110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 151905,
+    "BTName": "BT_IceBear_Bead_B_151901_01",
+    "MonsterGrade": "Normal",
     "MonsterCategory": "None",
     "SkillGroupSet": "[54800110300]",
     "MonarchType": "None",
@@ -27222,6 +28093,32 @@
     "PartList": ""
   },
   {
+    "ID": 155003,
+    "BTName": "BT_Dummy_Gimmick_3010405",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[155000110300]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[152501001]",
+    "PartList": ""
+  },
+  {
+    "ID": 155004,
+    "BTName": "BT_Dummy_Gimmick_3010409",
+    "MonsterGrade": "Normal",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "[155000110400]",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 0,
+    "PassiveBuffID": "[152501001]",
+    "PartList": ""
+  },
+  {
     "ID": 155011,
     "BTName": "BT_TreasureBox_39101_01",
     "MonsterGrade": "Boss",
@@ -27674,6 +28571,45 @@
     "KnockDownReplace": 0,
     "FloatReplace": 0,
     "PassiveBuffID": "[116020012]",
+    "PartList": ""
+  },
+  {
+    "ID": 156001,
+    "BTName": "BT_Event_Pumpkin_01",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 156101,
+    "BTName": "BT_Event_Pumpkin_01",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
+    "PartList": ""
+  },
+  {
+    "ID": 156201,
+    "BTName": "BT_Event_Pumpkin_01",
+    "MonsterGrade": "Boss",
+    "MonsterCategory": "None",
+    "SkillGroupSet": "",
+    "MonarchType": "None",
+    "BaseInteractionID": 0,
+    "KnockDownReplace": 0,
+    "FloatReplace": 2,
+    "PassiveBuffID": "",
     "PartList": ""
   }
 ]

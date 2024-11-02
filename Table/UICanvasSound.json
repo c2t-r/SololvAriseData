@@ -1450,7 +1450,7 @@
   {
     "ID": 185,
     "PageName": "ThemeEventMainPage",
-    "UIOpenSlideOpen": "UI_Fx_Slide_Open_SummerEvent_1_1",
+    "UIOpenSlideOpen": "UI_Fx_Slide_Default_1_1",
     "OpenDuckingPresetIndex": 0,
     "UIOpenSlideClose": "",
     "CloseDuckingPresetIndex": 0
@@ -1626,7 +1626,7 @@
   {
     "ID": 207,
     "PageName": "GuildRankPage",
-    "UIOpenSlideOpen": "",
+    "UIOpenSlideOpen": "UI_Fx_Guild_RankPage_Popup_Open_1_1",
     "OpenDuckingPresetIndex": 0,
     "UIOpenSlideClose": "",
     "CloseDuckingPresetIndex": 0
@@ -1635,6 +1635,62 @@
     "ID": 208,
     "PageName": "ArtifactCraftPage",
     "UIOpenSlideOpen": "",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 209,
+    "PageName": "ThemeMissionEventStepRewardPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Medium_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Medium_1_1",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 210,
+    "PageName": "RewardMergeDisplayPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Medium_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Medium_1_1",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 211,
+    "PageName": "RewardStepPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Medium_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "UI_Fx_PopUp_Close_Medium_1_1",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 212,
+    "PageName": "GuildRankLevelUpResultPopupPage",
+    "UIOpenSlideOpen": "UI_Jingle_LevelUp_Reward_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 213,
+    "PageName": "RaidReplicaTraitInfoPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Medium_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 214,
+    "PageName": "RaidReplicaPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Large_1_1",
+    "OpenDuckingPresetIndex": 0,
+    "UIOpenSlideClose": "",
+    "CloseDuckingPresetIndex": 0
+  },
+  {
+    "ID": 215,
+    "PageName": "RaidReplicaBossSelectPopupPage",
+    "UIOpenSlideOpen": "UI_Fx_PopUp_Open_Large_1_1",
     "OpenDuckingPresetIndex": 0,
     "UIOpenSlideClose": "",
     "CloseDuckingPresetIndex": 0

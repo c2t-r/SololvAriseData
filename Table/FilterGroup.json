@@ -3108,20 +3108,6 @@
     "UseSegement": false
   },
   {
-    "ID": 281,
-    "ContentsType": "Inventory",
-    "GroupID": 7,
-    "CategorySort": 2,
-    "UseSelectPopup": false,
-    "FilterCategory": "Rarity",
-    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity",
-    "FilterDetail": "Common",
-    "DetailString": "SysConstStr.ArtifactPage.Grade.Common",
-    "IconResourceName": "",
-    "IconOutline": false,
-    "UseSegement": false
-  },
-  {
     "ID": 282,
     "ContentsType": "Inventory",
     "GroupID": 7,
@@ -4505,6 +4491,62 @@
     "DetailString": "SysConstStr.Glossary.Element_Darkness",
     "IconResourceName": "Element_Darkness_shape",
     "IconOutline": true,
+    "UseSegement": false
+  },
+  {
+    "ID": 414,
+    "ContentsType": "Collection",
+    "GroupID": 8,
+    "CategorySort": 1,
+    "UseSelectPopup": false,
+    "FilterCategory": "EmblemType",
+    "CategoryString": "SysConstStr.EmblemType",
+    "FilterDetail": "ReinForce",
+    "DetailString": "EPCEmblemType.ReinForce",
+    "IconResourceName": "Icon_Emblem_ReinForce",
+    "IconOutline": true,
+    "UseSegement": false
+  },
+  {
+    "ID": 415,
+    "ContentsType": "Collection",
+    "GroupID": 8,
+    "CategorySort": 1,
+    "UseSelectPopup": false,
+    "FilterCategory": "EmblemType",
+    "CategoryString": "SysConstStr.EmblemType",
+    "FilterDetail": "Survival",
+    "DetailString": "EPCEmblemType.Survival",
+    "IconResourceName": "Icon_Emblem_Survival",
+    "IconOutline": true,
+    "UseSegement": false
+  },
+  {
+    "ID": 416,
+    "ContentsType": "Inventory",
+    "GroupID": 7,
+    "CategorySort": 1,
+    "UseSelectPopup": false,
+    "FilterCategory": "EmblemType",
+    "CategoryString": "SysConstStr.EmblemType",
+    "FilterDetail": "ReinForce",
+    "DetailString": "EPCEmblemType.ReinForce",
+    "IconResourceName": "",
+    "IconOutline": false,
+    "UseSegement": false
+  },
+  {
+    "ID": 417,
+    "ContentsType": "Inventory",
+    "GroupID": 7,
+    "CategorySort": 1,
+    "UseSelectPopup": false,
+    "FilterCategory": "EmblemType",
+    "CategoryString": "SysConstStr.EmblemType",
+    "FilterDetail": "Survival",
+    "DetailString": "EPCEmblemType.Survival",
+    "IconResourceName": "",
+    "IconOutline": false,
     "UseSegement": false
   }
 ]

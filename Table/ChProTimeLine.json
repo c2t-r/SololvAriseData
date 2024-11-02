@@ -4822,5 +4822,122 @@
     "TimeLinePrefab": "IslaWright_Evolve",
     "UseSkip": true,
     "UseSkipFadeOut": true
+  },
+  {
+    "ID": 537,
+    "GroupID": 341,
+    "Type": "SocialMotion",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_SocialMotion",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 538,
+    "GroupID": 341,
+    "Type": "Win",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_Win",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 539,
+    "GroupID": 341,
+    "Type": "Fail",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_Fail",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 540,
+    "GroupID": 341,
+    "Type": "LobbySpawn",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 541,
+    "GroupID": 341,
+    "Type": "TagOut",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_TagOut",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 542,
+    "GroupID": 341,
+    "Type": "LobbyIdle",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_LobbyIdle",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 543,
+    "GroupID": 341,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_StartAction",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 544,
+    "GroupID": 341,
+    "Type": "WinIdle",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_Win_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 545,
+    "GroupID": 341,
+    "Type": "FailIdle",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_Fail_Endloop",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 546,
+    "GroupID": 341,
+    "Type": "Evolve",
+    "Index": 0,
+    "TimeLinePrefab": "ThomasAndre_Evolve",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 560,
+    "GroupID": 17901,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "Deimos_Cavalry_Boss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 561,
+    "GroupID": 17903,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "Deimos_Cavalry_Boss_Intro_B",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
+  },
+  {
+    "ID": 563,
+    "GroupID": 11902,
+    "Type": "Intro",
+    "Index": 0,
+    "TimeLinePrefab": "JackOLanternBoss_Intro_A",
+    "UseSkip": true,
+    "UseSkipFadeOut": true
   }
 ]

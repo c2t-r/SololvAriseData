@@ -418,6 +418,17 @@
     "CalibratedID": 201
   },
   {
+    "ID": 341,
+    "StandardGroup": 103,
+    "AttackRatio": 9507,
+    "ArmorRatio": 10930,
+    "MHPRatio": 9562,
+    "MMP": 1000,
+    "MPReg": 1,
+    "HpBarSplit": 1,
+    "CalibratedID": 201
+  },
+  {
     "ID": 10001,
     "StandardGroup": 1101,
     "AttackRatio": 10000,
@@ -1366,7 +1377,7 @@
   {
     "ID": 20107,
     "StandardGroup": 1102,
-    "AttackRatio": 8333,
+    "AttackRatio": 4166,
     "ArmorRatio": 10000,
     "MHPRatio": 12500,
     "MMP": 100,
@@ -1377,7 +1388,7 @@
   {
     "ID": 20108,
     "StandardGroup": 1102,
-    "AttackRatio": 8333,
+    "AttackRatio": 4166,
     "ArmorRatio": 10000,
     "MHPRatio": 10000,
     "MMP": 100,
@@ -1454,7 +1465,7 @@
   {
     "ID": 20207,
     "StandardGroup": 1102,
-    "AttackRatio": 7916,
+    "AttackRatio": 3958,
     "ArmorRatio": 14761,
     "MHPRatio": 9843,
     "MMP": 100,
@@ -1465,7 +1476,7 @@
   {
     "ID": 20208,
     "StandardGroup": 1102,
-    "AttackRatio": 7916,
+    "AttackRatio": 3958,
     "ArmorRatio": 14761,
     "MHPRatio": 7875,
     "MMP": 100,
@@ -1542,7 +1553,7 @@
   {
     "ID": 20307,
     "StandardGroup": 1102,
-    "AttackRatio": 7500,
+    "AttackRatio": 3750,
     "ArmorRatio": 24285,
     "MHPRatio": 6875,
     "MMP": 100,
@@ -1553,7 +1564,7 @@
   {
     "ID": 20308,
     "StandardGroup": 1102,
-    "AttackRatio": 7500,
+    "AttackRatio": 3750,
     "ArmorRatio": 24285,
     "MHPRatio": 5500,
     "MMP": 100,
@@ -1630,7 +1641,7 @@
   {
     "ID": 20407,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 2307,
     "MHPRatio": 28125,
     "MMP": 100,
@@ -1641,7 +1652,7 @@
   {
     "ID": 20408,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 2307,
     "MHPRatio": 22500,
     "MMP": 100,
@@ -1718,7 +1729,7 @@
   {
     "ID": 20507,
     "StandardGroup": 1102,
-    "AttackRatio": 7500,
+    "AttackRatio": 3750,
     "ArmorRatio": 909,
     "MHPRatio": 40625,
     "MMP": 100,
@@ -1729,7 +1740,7 @@
   {
     "ID": 20508,
     "StandardGroup": 1102,
-    "AttackRatio": 7500,
+    "AttackRatio": 3750,
     "ArmorRatio": 909,
     "MHPRatio": 32500,
     "MMP": 100,
@@ -1806,7 +1817,7 @@
   {
     "ID": 20607,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 14761,
     "MHPRatio": 8437,
     "MMP": 100,
@@ -1817,7 +1828,7 @@
   {
     "ID": 20608,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 14761,
     "MHPRatio": 6750,
     "MMP": 100,
@@ -1916,7 +1927,7 @@
   {
     "ID": 20707,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 2307,
     "MHPRatio": 14322,
     "MMP": 100,
@@ -1927,7 +1938,7 @@
   {
     "ID": 20708,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 2307,
     "MHPRatio": 11458,
     "MMP": 100,
@@ -2004,7 +2015,7 @@
   {
     "ID": 20807,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 14761,
     "MHPRatio": 8437,
     "MMP": 100,
@@ -2015,7 +2026,7 @@
   {
     "ID": 20808,
     "StandardGroup": 1102,
-    "AttackRatio": 9166,
+    "AttackRatio": 4583,
     "ArmorRatio": 14761,
     "MHPRatio": 6750,
     "MMP": 100,
@@ -2092,7 +2103,7 @@
   {
     "ID": 20907,
     "StandardGroup": 1102,
-    "AttackRatio": 8333,
+    "AttackRatio": 4166,
     "ArmorRatio": 4736,
     "MHPRatio": 21875,
     "MMP": 100,
@@ -2103,7 +2114,7 @@
   {
     "ID": 20908,
     "StandardGroup": 1102,
-    "AttackRatio": 8333,
+    "AttackRatio": 4166,
     "ArmorRatio": 4736,
     "MHPRatio": 17500,
     "MMP": 100,
@@ -2497,6 +2508,83 @@
     "CalibratedID": 0
   },
   {
+    "ID": 30046,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 34650,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 25,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30047,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 43972,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 30,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30048,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 38984,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 35,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30049,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 32248,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 20,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30050,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 32248,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 20,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30051,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 32248,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 20,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30052,
+    "StandardGroup": 1103,
+    "AttackRatio": 12000,
+    "ArmorRatio": 8000,
+    "MHPRatio": 32248,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 20,
+    "CalibratedID": 0
+  },
+  {
     "ID": 30101,
     "StandardGroup": 1103,
     "AttackRatio": 10000,
@@ -2598,7 +2686,7 @@
   {
     "ID": 30110,
     "StandardGroup": 1103,
-    "AttackRatio": 6666,
+    "AttackRatio": 3333,
     "ArmorRatio": 10000,
     "MHPRatio": 9000,
     "MMP": 100,
@@ -2609,7 +2697,7 @@
   {
     "ID": 30111,
     "StandardGroup": 1103,
-    "AttackRatio": 6666,
+    "AttackRatio": 3333,
     "ArmorRatio": 10000,
     "MHPRatio": 7600,
     "MMP": 100,
@@ -2774,7 +2862,7 @@
   {
     "ID": 30210,
     "StandardGroup": 1103,
-    "AttackRatio": 6333,
+    "AttackRatio": 3166,
     "ArmorRatio": 14444,
     "MHPRatio": 7846,
     "MMP": 100,
@@ -2785,7 +2873,7 @@
   {
     "ID": 30211,
     "StandardGroup": 1103,
-    "AttackRatio": 6333,
+    "AttackRatio": 3166,
     "ArmorRatio": 14444,
     "MHPRatio": 6276,
     "MMP": 100,
@@ -2939,7 +3027,7 @@
   {
     "ID": 30310,
     "StandardGroup": 1103,
-    "AttackRatio": 6000,
+    "AttackRatio": 3000,
     "ArmorRatio": 23333,
     "MHPRatio": 4125,
     "MMP": 100,
@@ -2950,7 +3038,7 @@
   {
     "ID": 30311,
     "StandardGroup": 1103,
-    "AttackRatio": 6000,
+    "AttackRatio": 3000,
     "ArmorRatio": 23333,
     "MHPRatio": 3300,
     "MMP": 100,
@@ -3104,7 +3192,7 @@
   {
     "ID": 30410,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 2000,
     "MHPRatio": 27000,
     "MMP": 100,
@@ -3115,7 +3203,7 @@
   {
     "ID": 30411,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 2000,
     "MHPRatio": 21600,
     "MMP": 100,
@@ -3172,7 +3260,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 39000,
+    "MHPRatio": 35100,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3183,7 +3271,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 31200,
+    "MHPRatio": 28080,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3194,7 +3282,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 78000,
+    "MHPRatio": 70200,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3205,7 +3293,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 36075,
+    "MHPRatio": 32467,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3216,7 +3304,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 11250,
     "ArmorRatio": 769,
-    "MHPRatio": 78000,
+    "MHPRatio": 70200,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 18,
@@ -3227,7 +3315,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 7650,
     "ArmorRatio": 769,
-    "MHPRatio": 93600,
+    "MHPRatio": 84240,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 24,
@@ -3238,7 +3326,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 11250,
     "ArmorRatio": 769,
-    "MHPRatio": 78000,
+    "MHPRatio": 70200,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3249,7 +3337,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 11250,
     "ArmorRatio": 769,
-    "MHPRatio": 62400,
+    "MHPRatio": 56160,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3260,7 +3348,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 11250,
     "ArmorRatio": 769,
-    "MHPRatio": 58500,
+    "MHPRatio": 52650,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3269,9 +3357,9 @@
   {
     "ID": 30510,
     "StandardGroup": 1103,
-    "AttackRatio": 6000,
+    "AttackRatio": 3000,
     "ArmorRatio": 769,
-    "MHPRatio": 39000,
+    "MHPRatio": 35100,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 9,
@@ -3280,9 +3368,9 @@
   {
     "ID": 30511,
     "StandardGroup": 1103,
-    "AttackRatio": 6000,
+    "AttackRatio": 3000,
     "ArmorRatio": 769,
-    "MHPRatio": 31200,
+    "MHPRatio": 28080,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 9,
@@ -3293,7 +3381,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 65000,
+    "MHPRatio": 58500,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3304,7 +3392,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 52000,
+    "MHPRatio": 46800,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3315,7 +3403,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 55714,
+    "MHPRatio": 50142,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3326,7 +3414,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 44571,
+    "MHPRatio": 40114,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 12,
@@ -3434,7 +3522,7 @@
   {
     "ID": 30610,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 14444,
     "MHPRatio": 6750,
     "MMP": 100,
@@ -3445,7 +3533,7 @@
   {
     "ID": 30611,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 14444,
     "MHPRatio": 5400,
     "MMP": 100,
@@ -3498,7 +3586,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30701,
+    "ID": 31001,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3509,7 +3597,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30702,
+    "ID": 31002,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3520,7 +3608,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30703,
+    "ID": 31003,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3531,7 +3619,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30704,
+    "ID": 31004,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3542,7 +3630,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30705,
+    "ID": 31005,
     "StandardGroup": 1103,
     "AttackRatio": 13750,
     "ArmorRatio": 2000,
@@ -3553,7 +3641,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30706,
+    "ID": 31006,
     "StandardGroup": 1103,
     "AttackRatio": 9350,
     "ArmorRatio": 2000,
@@ -3564,7 +3652,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30707,
+    "ID": 31007,
     "StandardGroup": 1103,
     "AttackRatio": 13750,
     "ArmorRatio": 2000,
@@ -3575,7 +3663,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30708,
+    "ID": 31008,
     "StandardGroup": 1103,
     "AttackRatio": 13750,
     "ArmorRatio": 2000,
@@ -3586,7 +3674,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30709,
+    "ID": 31009,
     "StandardGroup": 1103,
     "AttackRatio": 13750,
     "ArmorRatio": 2000,
@@ -3597,9 +3685,9 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30710,
+    "ID": 31010,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 2000,
     "MHPRatio": 13750,
     "MMP": 100,
@@ -3608,9 +3696,9 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30711,
+    "ID": 31011,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 2000,
     "MHPRatio": 11000,
     "MMP": 100,
@@ -3619,7 +3707,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30721,
+    "ID": 31021,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3630,7 +3718,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30722,
+    "ID": 31022,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3641,7 +3729,7 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30723,
+    "ID": 31023,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
@@ -3652,11 +3740,176 @@
     "CalibratedID": 0
   },
   {
-    "ID": 30724,
+    "ID": 31024,
     "StandardGroup": 1103,
     "AttackRatio": 11000,
     "ArmorRatio": 2000,
     "MHPRatio": 15714,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30701,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 6301,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30702,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 5041,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30703,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 12603,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30704,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 5829,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30705,
+    "StandardGroup": 1103,
+    "AttackRatio": 13750,
+    "ArmorRatio": 2000,
+    "MHPRatio": 12603,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 15,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30706,
+    "StandardGroup": 1103,
+    "AttackRatio": 9350,
+    "ArmorRatio": 2000,
+    "MHPRatio": 15123,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 20,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30707,
+    "StandardGroup": 1103,
+    "AttackRatio": 13750,
+    "ArmorRatio": 2000,
+    "MHPRatio": 12603,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30708,
+    "StandardGroup": 1103,
+    "AttackRatio": 13750,
+    "ArmorRatio": 2000,
+    "MHPRatio": 10082,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30709,
+    "StandardGroup": 1103,
+    "AttackRatio": 13750,
+    "ArmorRatio": 2000,
+    "MHPRatio": 7561,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30710,
+    "StandardGroup": 1103,
+    "AttackRatio": 3666,
+    "ArmorRatio": 2000,
+    "MHPRatio": 6301,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30711,
+    "StandardGroup": 1103,
+    "AttackRatio": 3666,
+    "ArmorRatio": 2000,
+    "MHPRatio": 5041,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30721,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 10502,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30722,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 8402,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30723,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 9002,
+    "MMP": 100,
+    "MPReg": 1,
+    "HpBarSplit": 10,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 30724,
+    "StandardGroup": 1103,
+    "AttackRatio": 11000,
+    "ArmorRatio": 2000,
+    "MHPRatio": 7201,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 10,
@@ -3775,7 +4028,7 @@
   {
     "ID": 30810,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 14444,
     "MHPRatio": 6725,
     "MMP": 100,
@@ -3786,7 +4039,7 @@
   {
     "ID": 30811,
     "StandardGroup": 1103,
-    "AttackRatio": 7333,
+    "AttackRatio": 3666,
     "ArmorRatio": 14444,
     "MHPRatio": 5380,
     "MMP": 100,
@@ -3951,7 +4204,7 @@
   {
     "ID": 30910,
     "StandardGroup": 1103,
-    "AttackRatio": 6666,
+    "AttackRatio": 3333,
     "ArmorRatio": 4285,
     "MHPRatio": 17500,
     "MMP": 100,
@@ -3962,7 +4215,7 @@
   {
     "ID": 30911,
     "StandardGroup": 1103,
-    "AttackRatio": 6666,
+    "AttackRatio": 3333,
     "ArmorRatio": 4285,
     "MHPRatio": 14000,
     "MMP": 100,
@@ -4017,9 +4270,9 @@
   {
     "ID": 60001,
     "StandardGroup": 1103,
-    "AttackRatio": 11250,
+    "AttackRatio": 8437,
     "ArmorRatio": 769,
-    "MHPRatio": 78000,
+    "MHPRatio": 70200,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 18,
@@ -4028,7 +4281,7 @@
   {
     "ID": 60002,
     "StandardGroup": 1103,
-    "AttackRatio": 13750,
+    "AttackRatio": 10312,
     "ArmorRatio": 14444,
     "MHPRatio": 13500,
     "MMP": 100,
@@ -4039,7 +4292,7 @@
   {
     "ID": 60003,
     "StandardGroup": 1103,
-    "AttackRatio": 13750,
+    "AttackRatio": 10312,
     "ArmorRatio": 14444,
     "MHPRatio": 13500,
     "MMP": 100,
@@ -4050,7 +4303,7 @@
   {
     "ID": 60004,
     "StandardGroup": 1103,
-    "AttackRatio": 13750,
+    "AttackRatio": 10312,
     "ArmorRatio": 14444,
     "MHPRatio": 6456,
     "MMP": 100,
@@ -4061,7 +4314,7 @@
   {
     "ID": 60005,
     "StandardGroup": 1103,
-    "AttackRatio": 5250,
+    "AttackRatio": 3937,
     "ArmorRatio": 23333,
     "MHPRatio": 8250,
     "MMP": 100,
@@ -4072,7 +4325,7 @@
   {
     "ID": 60006,
     "StandardGroup": 1103,
-    "AttackRatio": 5250,
+    "AttackRatio": 3937,
     "ArmorRatio": 76667,
     "MHPRatio": 3150,
     "MMP": 100,
@@ -4083,9 +4336,9 @@
   {
     "ID": 60007,
     "StandardGroup": 1103,
-    "AttackRatio": 11250,
+    "AttackRatio": 8437,
     "ArmorRatio": 769,
-    "MHPRatio": 54600,
+    "MHPRatio": 52650,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 18,
@@ -4094,7 +4347,7 @@
   {
     "ID": 60101,
     "StandardGroup": 1103,
-    "AttackRatio": 11250,
+    "AttackRatio": 8437,
     "ArmorRatio": 769,
     "MHPRatio": 23400,
     "MMP": 100,
@@ -4105,7 +4358,7 @@
   {
     "ID": 60102,
     "StandardGroup": 1103,
-    "AttackRatio": 11875,
+    "AttackRatio": 8906,
     "ArmorRatio": 14444,
     "MHPRatio": 15692,
     "MMP": 100,
@@ -4116,7 +4369,7 @@
   {
     "ID": 60103,
     "StandardGroup": 1103,
-    "AttackRatio": 8750,
+    "AttackRatio": 6562,
     "ArmorRatio": 10000,
     "MHPRatio": 14000,
     "MMP": 100,
@@ -4127,7 +4380,7 @@
   {
     "ID": 60104,
     "StandardGroup": 1103,
-    "AttackRatio": 7700,
+    "AttackRatio": 5775,
     "ArmorRatio": 14444,
     "MHPRatio": 7762,
     "MMP": 100,
@@ -4138,7 +4391,7 @@
   {
     "ID": 60105,
     "StandardGroup": 1103,
-    "AttackRatio": 8075,
+    "AttackRatio": 6056,
     "ArmorRatio": 15888,
     "MHPRatio": 20399,
     "MMP": 100,
@@ -4316,7 +4569,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 12375,
     "ArmorRatio": 769,
-    "MHPRatio": 33800,
+    "MHPRatio": 30420,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 10,
@@ -4404,7 +4657,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 1000,
     "ArmorRatio": 10000,
-    "MHPRatio": 360443,
+    "MHPRatio": 1751622,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 500,
@@ -4492,7 +4745,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 9000,
     "ArmorRatio": 769,
-    "MHPRatio": 46800,
+    "MHPRatio": 42120,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 10,
@@ -4558,7 +4811,7 @@
     "StandardGroup": 1103,
     "AttackRatio": 18033,
     "ArmorRatio": 769,
-    "MHPRatio": 66899,
+    "MHPRatio": 60209,
     "MMP": 100,
     "MPReg": 1,
     "HpBarSplit": 15,
@@ -4704,6 +4957,17 @@
     "MHPRatio": 10000,
     "MMP": 100,
     "MPReg": 1,
+    "HpBarSplit": 1,
+    "CalibratedID": 0
+  },
+  {
+    "ID": 3000001,
+    "StandardGroup": 1006,
+    "AttackRatio": 10000,
+    "ArmorRatio": 10000,
+    "MHPRatio": 10000,
+    "MMP": 0,
+    "MPReg": 0,
     "HpBarSplit": 1,
     "CalibratedID": 0
   },
