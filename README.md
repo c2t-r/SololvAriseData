@@ -1,6 +1,6 @@
 # SololvAriseData
 
-current version: `live: 1.1.77 [1000000872]`
+current version: `live: 1.1.85 [1000000875]`
 
 ## Special Thanks
 
