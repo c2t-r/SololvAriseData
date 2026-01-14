@@ -1,184 +1,219 @@
 [
   {
+    "DecomposeAllButton": true,
     "ID": 10101,
-    "InvenType": "Inven",
+    "DecomposeIndividualBtn": true,
+    "Sort": 1,
+    "DisplayTab": true,
     "InvenSubType": 1,
-    "Sort": 1,
     "Name": "Inven.TabName.Use",
-    "DisplayTab": true,
+    "MoveTarget": [
+      15
+    ],
     "IconResource": "Icon_InventoryList_Use",
-    "DecomposeAllButton": true,
-    "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
-    "DecomposePrefab": "InventoryDecompositionPopupPage",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": "SysConstString.InvenQuickMove.Use"
-  },
-  {
-    "ID": 10102,
     "InvenType": "Inven",
-    "InvenSubType": 2,
-    "Sort": 9,
-    "Name": "Inven.TabName.Card",
-    "DisplayTab": true,
-    "IconResource": "",
-    "DecomposeAllButton": true,
+    "UseBtnString": "SysConstString.InvenQuickMove.Use",
     "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
-    "DecomposePrefab": "InventoryDecompositionPopupPage",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": "SysConstString.InvenQuickMove.Use"
+    "DecomposePrefab": "InventoryDecompositionPopupPage"
   },
   {
+    "DecomposeAllButton": true,
     "ID": 10103,
-    "InvenType": "Inven",
-    "InvenSubType": 3,
+    "DecomposeIndividualBtn": true,
     "Sort": 6,
+    "DisplayTab": true,
+    "InvenSubType": 3,
     "Name": "Inven.TabName.Gem",
-    "DisplayTab": true,
+    "MoveTarget": [
+      37
+    ],
     "IconResource": "Icon_InventoryList_Gem",
-    "DecomposeAllButton": true,
+    "InvenType": "Inven",
+    "UseBtnString": "",
     "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
     "ID": 10104,
-    "InvenType": "Inven",
-    "InvenSubType": 4,
+    "DecomposeIndividualBtn": true,
     "Sort": 2,
+    "DisplayTab": true,
+    "InvenSubType": 4,
     "Name": "Inven.TabName.CharUpgrade",
-    "DisplayTab": true,
+    "MoveTarget": [
+      20004
+    ],
     "IconResource": "Icon_InventoryList_CharUpgrade",
-    "DecomposeAllButton": true,
+    "InvenType": "Inven",
+    "UseBtnString": "",
     "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
     "ID": 10105,
-    "InvenType": "Inven",
-    "InvenSubType": 5,
+    "DecomposeIndividualBtn": true,
     "Sort": 3,
+    "DisplayTab": true,
+    "InvenSubType": 5,
     "Name": "Inven.TabName.StoryMemoir",
-    "DisplayTab": true,
+    "MoveTarget": [
+      20005
+    ],
     "IconResource": "Icon_InventoryList_StoryMemoir",
-    "DecomposeAllButton": true,
+    "InvenType": "Inven",
+    "UseBtnString": "SysConstString.InvenQuickMove.Fuse",
     "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
-    "DecomposePrefab": "InventoryDecompositionPopupPage",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": "SysConstString.InvenQuickMove.Fuse"
+    "DecomposePrefab": "InventoryDecompositionPopupPage"
   },
   {
+    "DecomposeAllButton": true,
     "ID": 10106,
-    "InvenType": "Inven",
-    "InvenSubType": 6,
+    "DecomposeIndividualBtn": true,
     "Sort": 4,
+    "DisplayTab": true,
+    "InvenSubType": 6,
     "Name": "EItemSubType.Active",
-    "DisplayTab": true,
+    "MoveTarget": [
+      20006
+    ],
     "IconResource": "Icon_InventoryList_SkillRune",
-    "DecomposeAllButton": true,
+    "InvenType": "Inven",
+    "UseBtnString": "SysConstString.InvenQuickMove.Fuse",
     "DecomposeAllString": "SysConstStr.Inventory.AllDecomposeBtn",
-    "DecomposePrefab": "InventoryDecompositionPopupPage",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": "SysConstString.InvenQuickMove.Fuse"
+    "DecomposePrefab": "InventoryDecompositionPopupPage"
   },
   {
+    "DecomposeAllButton": true,
     "ID": 10107,
-    "InvenType": "Inven",
-    "InvenSubType": 7,
+    "DecomposeIndividualBtn": true,
     "Sort": 5,
+    "DisplayTab": true,
+    "InvenSubType": 7,
     "Name": "EItemSubType.Emblem",
-    "DisplayTab": true,
+    "MoveTarget": [
+      20007
+    ],
     "IconResource": "Icon_InventoryList_BlessingStone",
-    "DecomposeAllButton": true,
-    "DecomposeAllString": "SysConstStr.Inventory.AllDecomposeBtn",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": true,
-    "UseBtnString": ""
-  },
-  {
-    "ID": 10108,
     "InvenType": "Inven",
-    "InvenSubType": 8,
-    "Sort": 10,
-    "Name": "Inven.TabName.Use",
-    "DisplayTab": true,
-    "IconResource": "Icon_InventoryList_Commodities",
+    "UseBtnString": "",
+    "DecomposeAllString": "SysConstStr.Inventory.AllDecomposeBtn",
+    "DecomposePrefab": ""
+  },
+  {
     "DecomposeAllButton": true,
-    "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
-    "DecomposePrefab": "",
+    "ID": 10108,
     "DecomposeIndividualBtn": true,
-    "UseBtnString": "SysConstString.InvenQuickMove.Use"
+    "Sort": 10,
+    "DisplayTab": true,
+    "InvenSubType": 8,
+    "Name": "Inven.TabName.Use",
+    "MoveTarget": [],
+    "IconResource": "Icon_InventoryList_Commodities",
+    "InvenType": "Inven",
+    "UseBtnString": "SysConstString.InvenQuickMove.Use",
+    "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
+    "ID": 10109,
+    "DecomposeIndividualBtn": true,
+    "Sort": 9,
+    "DisplayTab": true,
+    "InvenSubType": 9,
+    "Name": "EContentsType.ArtifactEnchant",
+    "MoveTarget": [
+      20008
+    ],
+    "IconResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "InvenType": "Inven",
+    "UseBtnString": "SysConstString.InvenQuickMove.Use",
+    "DecomposeAllString": "SysConstStr.Inventory.AllSelectBtn",
+    "DecomposePrefab": "InventoryDecompositionPopupPage"
+  },
+  {
+    "DecomposeAllButton": true,
     "ID": 20101,
+    "DecomposeIndividualBtn": true,
+    "Sort": 1,
+    "DisplayTab": true,
+    "InvenSubType": 0,
+    "Name": "EItemSubType.GS",
+    "MoveTarget": [
+      5
+    ],
+    "IconResource": "Icon_InventoryList_GS",
     "InvenType": "GS",
-    "InvenSubType": 0,
-    "Sort": 1,
-    "Name": "",
-    "DisplayTab": true,
-    "IconResource": "",
-    "DecomposeAllButton": false,
+    "UseBtnString": "",
     "DecomposeAllString": "",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": false,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
     "ID": 30101,
+    "DecomposeIndividualBtn": true,
+    "Sort": 1,
+    "DisplayTab": true,
+    "InvenSubType": 0,
+    "Name": "EItemSubType.Relic",
+    "MoveTarget": [
+      6
+    ],
+    "IconResource": "Icon_InventoryList_Relic",
     "InvenType": "Relic",
-    "InvenSubType": 0,
-    "Sort": 1,
-    "Name": "",
-    "DisplayTab": true,
-    "IconResource": "",
-    "DecomposeAllButton": false,
+    "UseBtnString": "",
     "DecomposeAllString": "",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": false,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
     "ID": 40101,
+    "DecomposeIndividualBtn": true,
+    "Sort": 1,
+    "DisplayTab": true,
+    "InvenSubType": 0,
+    "Name": "EItemSubType.Artifact",
+    "MoveTarget": [
+      7
+    ],
+    "IconResource": "Icon_InventoryList_Artifact",
     "InvenType": "Artifact",
-    "InvenSubType": 0,
-    "Sort": 1,
-    "Name": "",
-    "DisplayTab": true,
-    "IconResource": "",
-    "DecomposeAllButton": false,
+    "UseBtnString": "",
     "DecomposeAllString": "",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": false,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
     "ID": 50101,
-    "InvenType": "Coupon",
-    "InvenSubType": 0,
+    "DecomposeIndividualBtn": true,
     "Sort": 1,
-    "Name": "",
     "DisplayTab": true,
-    "IconResource": "",
-    "DecomposeAllButton": false,
+    "InvenSubType": 0,
+    "Name": "EItemSubType.Coupon",
+    "MoveTarget": [],
+    "IconResource": "Icon_InventoryList_Coupon",
+    "InvenType": "Coupon",
+    "UseBtnString": "",
     "DecomposeAllString": "",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": false,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   },
   {
+    "DecomposeAllButton": true,
     "ID": 60101,
-    "InvenType": "Core",
-    "InvenSubType": 0,
+    "DecomposeIndividualBtn": true,
     "Sort": 1,
-    "Name": "",
     "DisplayTab": true,
-    "IconResource": "",
-    "DecomposeAllButton": false,
+    "InvenSubType": 0,
+    "Name": "EItemSubType.Core",
+    "MoveTarget": [
+      1085
+    ],
+    "IconResource": "Icon_InventoryList_Core",
+    "InvenType": "Core",
+    "UseBtnString": "",
     "DecomposeAllString": "",
-    "DecomposePrefab": "",
-    "DecomposeIndividualBtn": false,
-    "UseBtnString": ""
+    "DecomposePrefab": ""
   }
 ]

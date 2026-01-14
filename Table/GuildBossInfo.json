@@ -1,0 +1,50 @@
+[
+  {
+    "StageMonsterSkillLevel": 1,
+    "IngameStatLevel": 80,
+    "StageMonsterLevel": 90,
+    "ID": 1,
+    "BattleSquadID": 500002,
+    "DungeonStageID": 140101,
+    "RecommendedPower": 50000,
+    "RageBuff": [
+      15801010
+    ],
+    "ContentsBTNChange": "Img_Contents2_Btn_11",
+    "GuildBossObjectName": "Fx_GuildLobby_Boss_DesertDragon",
+    "Narrative": "GuildBoss_Narrative_1",
+    "LobbyVideoClip": "DesertDragon_Boss_Page_1"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "IngameStatLevel": 80,
+    "StageMonsterLevel": 90,
+    "ID": 2,
+    "BattleSquadID": 500002,
+    "DungeonStageID": 140102,
+    "RecommendedPower": 50000,
+    "RageBuff": [
+      15701010
+    ],
+    "ContentsBTNChange": "Img_Contents2_Btn_11_GuildBoss_2",
+    "GuildBossObjectName": "Fx_GuildLobby_Boss_QueenAnt",
+    "Narrative": "GuildBoss_Narrative_2",
+    "LobbyVideoClip": "QueenAnt_Boss_Page_2"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "IngameStatLevel": 80,
+    "StageMonsterLevel": 90,
+    "ID": 3,
+    "BattleSquadID": 500002,
+    "DungeonStageID": 140103,
+    "RecommendedPower": 50000,
+    "RageBuff": [
+      15901010
+    ],
+    "ContentsBTNChange": "Img_Contents2_Btn_11_GuildBoss_3",
+    "GuildBossObjectName": "Fx_GuildLobby_Boss_HugeStatue",
+    "Narrative": "GuildBoss_Narrative_3",
+    "LobbyVideoClip": "HugeStatue_Boss_Page_2"
+  }
+]

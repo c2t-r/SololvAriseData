@@ -1,35 +1,35 @@
 [
   {
-    "ID": 1001,
-    "MiniGameType": "LeftRight",
     "MiniGameID": 201,
-    "MiniGameTitle": "Guild.MiniGame.Title.001",
-    "MiniGameThumbnail": "GuildMiniGame_LeftRight_1_Banner",
-    "PagePrefab": "GuildLeftRightSubview01",
+    "ID": 1001,
     "TutorialID": 3001,
     "RankRewardID": 0,
-    "ResetOption": "Weekly"
+    "MiniGameType": "LeftRight",
+    "ResetOption": "Weekly",
+    "MiniGameTitle": "Guild.MiniGame.Title.001",
+    "PagePrefab": "GuildLeftRightSubview01",
+    "MiniGameThumbnail": "GuildMiniGame_LeftRight_1_Banner"
   },
   {
-    "ID": 1002,
-    "MiniGameType": "StackHigher",
     "MiniGameID": 301,
-    "MiniGameTitle": "Guild.MiniGame.Title.002",
-    "MiniGameThumbnail": "GuildMiniGame_StackHigher_1_Banner",
-    "PagePrefab": "GuildStackHigherSubview01",
+    "ID": 1002,
     "TutorialID": 3002,
     "RankRewardID": 0,
-    "ResetOption": "Weekly"
+    "MiniGameType": "StackHigher",
+    "ResetOption": "Weekly",
+    "MiniGameTitle": "Guild.MiniGame.Title.002",
+    "PagePrefab": "GuildStackHigherSubview01",
+    "MiniGameThumbnail": "GuildMiniGame_StackHigher_1_Banner"
   },
   {
-    "ID": 9001,
-    "MiniGameType": "Preview",
     "MiniGameID": 0,
-    "MiniGameTitle": "Guild.MiniGame.Title.Preview",
-    "MiniGameThumbnail": "GuildMiniGame_Capsule_Banner",
-    "PagePrefab": "GuildMiniGamePreivew",
+    "ID": 9001,
     "TutorialID": 0,
     "RankRewardID": 0,
-    "ResetOption": ""
+    "MiniGameType": "Preview",
+    "ResetOption": "",
+    "MiniGameTitle": "Guild.MiniGame.Title.Preview",
+    "PagePrefab": "GuildMiniGamePreivew",
+    "MiniGameThumbnail": "GuildMiniGame_Capsule_Banner"
   }
 ]

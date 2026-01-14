@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "ID": 1,
+    "WebProbability": 0.1666666716337204,
+    "StatType6": "AddMHP",
+    "StatType5": "AddArm",
+    "StatType4": "AddAtt",
+    "StatType3": "MHPR",
+    "StatType2": "ArmR",
+    "StatType1": "AttR",
+    "ArtifactType": "Helmet"
+  },
+  {
+    "ID": 2,
+    "WebProbability": 0.5,
+    "StatType6": "",
+    "StatType5": "",
+    "StatType4": "",
+    "StatType3": "",
+    "StatType2": "ArmR",
+    "StatType1": "AddArm",
+    "ArtifactType": "Chestplate"
+  },
+  {
+    "ID": 3,
+    "WebProbability": 0.5,
+    "StatType6": "",
+    "StatType5": "",
+    "StatType4": "",
+    "StatType3": "",
+    "StatType2": "AttR",
+    "StatType1": "AddAtt",
+    "ArtifactType": "Gloves"
+  },
+  {
+    "ID": 4,
+    "WebProbability": 0.20000000298023224,
+    "StatType6": "",
+    "StatType5": "HealIncreP",
+    "StatType4": "ArmPen",
+    "StatType3": "CriDam",
+    "StatType2": "MHPR",
+    "StatType1": "ArmR",
+    "ArtifactType": "Boots"
+  },
+  {
+    "ID": 5,
+    "WebProbability": 0.5,
+    "StatType6": "",
+    "StatType5": "",
+    "StatType4": "",
+    "StatType3": "",
+    "StatType2": "MHPR",
+    "StatType1": "AddMHP",
+    "ArtifactType": "Necklace"
+  },
+  {
+    "ID": 6,
+    "WebProbability": 0.1666666716337204,
+    "StatType6": "AddMHP",
+    "StatType5": "AddArm",
+    "StatType4": "AddAtt",
+    "StatType3": "MHPR",
+    "StatType2": "ArmR",
+    "StatType1": "AttR",
+    "ArtifactType": "Ring"
+  },
+  {
+    "ID": 7,
+    "WebProbability": 1.0,
+    "StatType6": "",
+    "StatType5": "",
+    "StatType4": "",
+    "StatType3": "",
+    "StatType2": "",
+    "StatType1": "AddMMP",
+    "ArtifactType": "Earring"
+  },
+  {
+    "ID": 8,
+    "WebProbability": 0.20000000298023224,
+    "StatType6": "",
+    "StatType5": "ElementDamDarknessP",
+    "StatType4": "ElementDamLightP",
+    "StatType3": "ElementDamWindP",
+    "StatType2": "ElementDamFireP",
+    "StatType1": "ElementDamWaterP",
+    "ArtifactType": "Bracelet"
+  }
+]

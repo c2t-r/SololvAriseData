@@ -1,785 +1,1759 @@
 [
   {
+    "IsGuild": true,
     "ID": 1,
     "TopMenuPage": "Lobby",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[1]",
-    "TopMenuDisplayGroup": "[]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      1
+    ],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 2,
     "TopMenuPage": "InventorySjw",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 3,
     "TopMenuPage": "InventoryHunter",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 4,
     "TopMenuPage": "InventoryShadow",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[5,3]",
-    "TopMenuDisplayGroup": "[10080006, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      10080006,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 5,
     "TopMenuPage": "InventoryGS",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 6,
     "TopMenuPage": "InventoryItem",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 7,
     "TopMenuPage": "ArtifactGrowth",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 8,
     "TopMenuPage": "WeaponGrowth",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 9,
     "TopMenuPage": "TeamSettingPreset",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 10,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 101,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "MainStory",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 102,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "SubStory",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 103,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "NormalGate",
-    "TopMenuDisplayType": "[6]",
-    "TopMenuDisplayGroup": "[1000009]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6
+    ],
+    "TopMenuDisplayGroup": [
+      1000009
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 104,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "RedGate",
-    "TopMenuDisplayType": "[6]",
-    "TopMenuDisplayGroup": "[1000009]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6
+    ],
+    "TopMenuDisplayGroup": [
+      1000009
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 105,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "DungeonBreak",
-    "TopMenuDisplayType": "[6]",
-    "TopMenuDisplayGroup": "[1000009]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6
+    ],
+    "TopMenuDisplayGroup": [
+      1000009
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 106,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "EventDungeon",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 107,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "InstantDungeon",
-    "TopMenuDisplayType": "[4]",
-    "TopMenuDisplayGroup": "[1000010]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000010
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 108,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "TimeAttack",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 109,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "WorldBoss",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 110,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "Tower",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 111,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "OtherWorld",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 112,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "Raid",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 113,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "Advent",
-    "TopMenuDisplayType": "[4]",
-    "TopMenuDisplayGroup": "[1000015]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000010
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 114,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "TimeAttackRelay",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 115,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "SpecialGate",
-    "TopMenuDisplayType": "[6]",
-    "TopMenuDisplayGroup": "[1000009]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6
+    ],
+    "TopMenuDisplayGroup": [
+      1000009
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 116,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "HunterStory",
-    "TopMenuDisplayType": "[6]",
-    "TopMenuDisplayGroup": "[1000022]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6
+    ],
+    "TopMenuDisplayGroup": [
+      1000022
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 117,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "HunterExperience",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 118,
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "ChaosBattleField",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
+    "ID": 119,
+    "TopMenuPage": "StageReadyPVE",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "MultiBoss",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160186
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 120,
+    "TopMenuPage": "StageReady",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "AsyncPvp",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30003002
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 11,
     "TopMenuPage": "GatePotal",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[6,4,3]",
-    "TopMenuDisplayGroup": "[1000009, 1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6,
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000009,
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 12,
     "TopMenuPage": "Default",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 13,
     "TopMenuPage": "Shop",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 14,
     "TopMenuPage": "InstanceDungeon",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[6,4]",
-    "TopMenuDisplayGroup": "[1000010, 1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000010,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 15,
     "TopMenuPage": "Raid",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[3]",
-    "TopMenuDisplayGroup": "[1000013]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000013
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 16,
     "TopMenuPage": "OtherWorldMain",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[5]",
-    "TopMenuDisplayGroup": "[30004001]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      10160131,
+      1000028
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 17,
     "TopMenuPage": "Gacha",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[3,4]",
-    "TopMenuDisplayGroup": "[1000002,1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000002,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 18,
     "TopMenuPage": "ChaJob",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 19,
     "TopMenuPage": "BattlePass",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[3]",
-    "TopMenuDisplayGroup": "[1000002]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000002
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 20,
     "TopMenuPage": "TimeAttack",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      10
+    ],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 21,
     "TopMenuPage": "Tower",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[3,3]",
-    "TopMenuDisplayGroup": "[1000011, 1000012]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000011,
+      1000012
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 22,
     "TopMenuPage": "GroupStat",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[3,4,3]",
-    "TopMenuDisplayGroup": "[10020001, 1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10020001,
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 23,
     "TopMenuPage": "Craft",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 24,
     "TopMenuPage": "Costume",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10100008,
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 25,
     "TopMenuPage": "Artifact",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 26,
     "TopMenuPage": "Profile",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 27,
     "TopMenuPage": "GateMining",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[5,4]",
-    "TopMenuDisplayGroup": "[10130001, 1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      10130001,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 28,
     "TopMenuPage": "Fate",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 281,
     "TopMenuPage": "Fate",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "FateDetail",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 31,
     "TopMenuPage": "AdventDungeon",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[6,4]",
-    "TopMenuDisplayGroup": "[1000015, 1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000010,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 32,
     "TopMenuPage": "Event",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 321,
     "TopMenuPage": "Event",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "Dice",
-    "TopMenuDisplayType": "[4]",
-    "TopMenuDisplayGroup": "[1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 322,
     "TopMenuPage": "Event",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "RPS",
-    "TopMenuDisplayType": "[5,4]",
-    "TopMenuDisplayGroup": "[30002019,1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      30002094,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 323,
     "TopMenuPage": "Event",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "CapsuleDraw",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 33,
     "TopMenuPage": "WorldBoss",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 34,
     "TopMenuPage": "ContentMenuPopup",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 35,
     "TopMenuPage": "HunterStory",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[6,4]",
-    "TopMenuDisplayGroup": "[1000022, 1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000022,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 36,
     "TopMenuPage": "Ranking",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 37,
     "TopMenuPage": "WeaponArmory",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 38,
     "TopMenuPage": "InventoryShadowCorps",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[5,3]",
-    "TopMenuDisplayGroup": "[10080006, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10080006,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 39,
     "TopMenuPage": "IdleSystem",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[3]",
-    "TopMenuDisplayGroup": "[1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 40,
     "TopMenuPage": "Option",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000002]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000002
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 41,
     "TopMenuPage": "Codex",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 42,
     "TopMenuPage": "Achivement",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 43,
     "TopMenuPage": "Misson",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 44,
     "TopMenuPage": "Attendance",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 45,
     "TopMenuPage": "ChallengeMisson",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 46,
     "TopMenuPage": "Gem",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 47,
     "TopMenuPage": "GachaDeferRecruit",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[5,9]",
-    "TopMenuDisplayGroup": "[10100007,0]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      9
+    ],
+    "TopMenuDisplayGroup": [
+      0
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 48,
     "TopMenuPage": "SubscribeSelectReward",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 49,
     "TopMenuPage": "ChaosBattleField",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[6,4]",
-    "TopMenuDisplayGroup": "[1000025, 1000016]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      6,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000025,
+      1000016
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 50,
     "TopMenuPage": "Achievement_SJW",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 51,
     "TopMenuPage": "Guild",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 52,
     "TopMenuPage": "GuildLobby",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": true
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 53,
     "TopMenuPage": "GuildInfo",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": true
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 56,
     "TopMenuPage": "GuildMiniGame",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[4,3]",
-    "TopMenuDisplayGroup": "[1000016, 1000003]",
-    "IsGuild": true
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 57,
     "TopMenuPage": "SLCSeasonPage",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 58,
     "TopMenuPage": "SLCStagePage",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 59,
     "TopMenuPage": "GuildShop",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": true
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 60,
     "TopMenuPage": "GuildBoss",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": true
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 62,
     "TopMenuPage": "ArtifactCraft",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 63,
     "TopMenuPage": "SLCMainPage",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 64,
     "TopMenuPage": "SLCMainRoomPage",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
     "ID": 65,
     "TopMenuPage": "SLCMainStagePage",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "",
-    "TopMenuDisplayGroup": "",
-    "IsGuild": false
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
+    "IsGuild": true,
+    "ID": 66,
+    "TopMenuPage": "AchiveMedal",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 67,
+    "TopMenuPage": "RecommandSetting",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 68,
+    "TopMenuPage": "DimensionGateChapter",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 69,
+    "TopMenuPage": "StepMission",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 70,
+    "TopMenuPage": "RaidGroup",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000013
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 71,
+    "TopMenuPage": "SkillResearch",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 72,
+    "TopMenuPage": "ArchitectTrial",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 73,
+    "TopMenuPage": "LibraryDungeon",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 74,
+    "TopMenuPage": "ShadowGuard",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 75,
+    "TopMenuPage": "CoopDungeon",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000031
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 76,
+    "TopMenuPage": "ContentsGrowth",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 77,
+    "TopMenuPage": "HunterTrainingClass",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      5,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10035001,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 700,
     "TopMenuPage": "CostumeEncyclopedia",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": "[5,4,3]",
-    "TopMenuDisplayGroup": "[10100008, 1000016, 1000003]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      5,
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10100008,
+      1000016,
+      1000003
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 1000,
     "TopMenuPage": "ThemeEventMain",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "2407",
-    "TopMenuDisplayType": "[3,3]",
-    "TopMenuDisplayGroup": "[10160107,10160108]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160107,
+      10160108
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 1001,
     "TopMenuPage": "ThemeEventMain",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "2408",
-    "TopMenuDisplayType": "[3]",
-    "TopMenuDisplayGroup": "[10160115]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160115
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 1002,
     "TopMenuPage": "ThemeEventMain",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "2410",
-    "TopMenuDisplayType": "[3,3]",
-    "TopMenuDisplayGroup": "[10160124,10160123]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160124,
+      10160123
+    ]
   },
   {
+    "IsGuild": true,
     "ID": 1003,
     "TopMenuPage": "Event",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "StoryOmnibus",
-    "TopMenuDisplayType": "[3,3]",
-    "TopMenuDisplayGroup": "[10160124,10160123]",
-    "IsGuild": false
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160124,
+      10160123
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1004,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2420",
+    "TopMenuDisplayType": [
+      3,
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160133,
+      10160134,
+      10160136
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1005,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_24Holiday",
+    "TopMenuDisplayType": [
+      3,
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160133,
+      10160134,
+      10160136
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1006,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2430",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160137
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1007,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_25Newyear",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160137
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1008,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2440",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002044
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1009,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_25Spring",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160146
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1010,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2450",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160146
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1011,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2460",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002054,
+      10160147
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1012,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_1stAnniversary",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160147
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1013,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2470",
+    "TopMenuDisplayType": [
+      3,
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002054,
+      10160148,
+      10160149
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1014,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2480",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 1015,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2490",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160152,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1016,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_IDLE1_A",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160152,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1017,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2500",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1018,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2510",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160159,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1019,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_25Summer",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160159,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1020,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2520",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1021,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2530",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1022,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_IDLE2",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160177,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1023,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2540",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1024,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_FRR",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      30002087,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1025,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2550",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002086,
+      30002088
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1027,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "Convert",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1028,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "SkinGacha",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      40000001
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1029,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2560",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1030,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_25Holiday",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      30002097,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1031,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2570",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160195,
+      10160196,
+      10160197
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2001,
+    "TopMenuPage": "EventCoop",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "300100",
+    "TopMenuDisplayType": [
+      3,
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160139,
+      10160140,
+      10160141
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2002,
+    "TopMenuPage": "EventCoop",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "300200",
+    "TopMenuDisplayType": [
+      3,
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160142,
+      10160143,
+      10160141
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2003,
+    "TopMenuPage": "EventCoop",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "300300",
+    "TopMenuDisplayType": [
+      3,
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      10160144,
+      10160145
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2004,
+    "TopMenuPage": "EventCoop",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "300500",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160186,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2005,
+    "TopMenuPage": "StageReadyPVE",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2006,
+    "TopMenuPage": "EventCoop",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "300600",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      10160194,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2007,
+    "TopMenuPage": "EventPvp",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "400001",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30003002
+    ]
   }
 ]

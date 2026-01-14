@@ -2,633 +2,863 @@
   {
     "ID": 40101,
     "GroupID": 401,
+    "FilterValue": [
+      "Light",
+      "Water"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Light,Water]",
     "FilterDesc": "BattleSquad.Filter_Light_Water"
   },
   {
     "ID": 40103,
     "GroupID": 401,
+    "FilterValue": [
+      "Assassin",
+      "Fighter"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Assassin,Fighter]",
     "FilterDesc": "BattleSquad.Filter_Assassin_Fighter"
   },
   {
     "ID": 50101,
     "GroupID": 501,
+    "FilterValue": [
+      "SR",
+      "SSR"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "BaseGrade",
-    "FilterValue": "[SR,SSR]",
     "FilterDesc": "BattleSquad.Filter_SR_SSR"
   },
   {
     "ID": 110101,
     "GroupID": 1101,
+    "FilterValue": [
+      "Fire",
+      "Water",
+      "Wind",
+      "Light",
+      "Darkness"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire,Water,Wind,Light,Darkness]",
     "FilterDesc": "속성 편성 제한 없음"
   },
   {
     "ID": 110201,
     "GroupID": 1102,
+    "FilterValue": [
+      "Water"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Water]",
     "FilterDesc": "수속성 헌터 편성 가능"
   },
   {
     "ID": 111101,
     "GroupID": 1111,
+    "FilterValue": [
+      "Light",
+      "Water"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Light,Water]",
     "FilterDesc": "빛속성, 수속성 헌터 편성 가능"
   },
   {
     "ID": 111301,
     "GroupID": 1113,
+    "FilterValue": [
+      "Fire",
+      "Water",
+      "Wind"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire,Water,Wind]",
     "FilterDesc": "화속성, 수속성, 바람속성 편성 가능"
   },
   {
     "ID": 111401,
     "GroupID": 1114,
+    "FilterValue": [
+      "Light",
+      "Darkness"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Light,Darkness]",
     "FilterDesc": "빛속성, 암속성 편성가능"
   },
   {
     "ID": 120101,
     "GroupID": 1201,
+    "FilterValue": [
+      "R",
+      "SR"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "BaseGrade",
-    "FilterValue": "[R,SR]",
     "FilterDesc": "R, SR 등급 헌터 편성 가능"
   },
   {
     "ID": 120201,
     "GroupID": 1202,
+    "FilterValue": [
+      "SSR"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "BaseGrade",
-    "FilterValue": "[SSR]",
     "FilterDesc": "SSR 등급 헌터 편성 가능"
   },
   {
     "ID": 130101,
     "GroupID": 1301,
+    "FilterValue": [
+      "Assassin",
+      "Fighter",
+      "Healer",
+      "Mage",
+      "Ranger",
+      "Tank"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Assassin,Fighter,Healer,Mage,Ranger,Tank]",
     "FilterDesc": "모든 클레스 타입 테스트용"
   },
   {
     "ID": 130201,
     "GroupID": 1302,
+    "FilterValue": [
+      "Fighter",
+      "Mage"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Fighter,Mage]",
     "FilterDesc": "파이터, 메이지 편성 가능"
   },
   {
     "ID": 130301,
     "GroupID": 1303,
+    "FilterValue": [
+      "Healer",
+      "Mage",
+      "Tank"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Healer,Mage,Tank]",
     "FilterDesc": "힐러, 메이지, 탱커 편성가능"
   },
   {
     "ID": 130401,
     "GroupID": 1304,
+    "FilterValue": [
+      "Mage"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Mage]",
     "FilterDesc": "메이지 편성가능"
   },
   {
     "ID": 130501,
     "GroupID": 1305,
+    "FilterValue": [
+      "Assassin",
+      "Fighter",
+      "Healer",
+      "Mage"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Assassin,Fighter,Healer,Mage]",
     "FilterDesc": "어쎄신, 파이터, 힐러, 메이지 편성가능"
   },
   {
     "ID": 140101,
     "GroupID": 1401,
+    "FilterValue": [
+      "11"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ID",
-    "FilterValue": "[11]",
     "FilterDesc": "차해인 편성가능"
   },
   {
     "ID": 140201,
     "GroupID": 1402,
+    "FilterValue": [
+      "81"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ID",
-    "FilterValue": "[81]",
     "FilterDesc": "이주희 편성가능"
   },
   {
     "ID": 140301,
     "GroupID": 1403,
+    "FilterValue": [
+      "11",
+      "131",
+      "151"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ID",
-    "FilterValue": "[11,131,151]",
     "FilterDesc": "차해인, 최종인, 우진철 편성가능"
   },
   {
     "ID": 140401,
     "GroupID": 1404,
+    "FilterValue": [
+      "11",
+      "21",
+      "31",
+      "41",
+      "51",
+      "61",
+      "71",
+      "81"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ID",
-    "FilterValue": "[11,21,31,41,51,61,71,81]",
     "FilterDesc": "차해인, 김철, 박희진, 강태식, 유진호, 백윤호, 임태규, 이주희 편성가능"
   },
   {
     "ID": 210101,
     "GroupID": 2101,
+    "FilterValue": [
+      "100001"
+    ],
     "FilterTarget": "Shadow",
     "FilterType": "ID",
-    "FilterValue": "[100001]",
     "FilterDesc": "아이언 편성가능"
   },
   {
     "ID": 210201,
     "GroupID": 2102,
+    "FilterValue": [
+      "100004",
+      "100020"
+    ],
     "FilterTarget": "Shadow",
     "FilterType": "ID",
-    "FilterValue": "[100004,100020]",
     "FilterDesc": "이그리트, 켈베로스 편성가능"
   },
   {
     "ID": 210301,
     "GroupID": 2103,
+    "FilterValue": [
+      "100001",
+      "100020",
+      "100021",
+      "100022"
+    ],
     "FilterTarget": "Shadow",
     "FilterType": "ID",
-    "FilterValue": "[100001,100020,100021,100022]",
     "FilterDesc": "아이언, 켈베로스, 탱크, 푸른 영혼의 골램 편성가능"
   },
   {
     "ID": 310101,
     "GroupID": 3101,
+    "FilterValue": [
+      "Fire"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire]",
     "FilterDesc": "화속성 헌터 편성 가능"
   },
   {
     "ID": 310102,
     "GroupID": 3101,
+    "FilterValue": [
+      "SSR"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "BaseGrade",
-    "FilterValue": "[SSR]",
     "FilterDesc": "SSR 등급 헌터 편성 가능"
   },
   {
     "ID": 310201,
     "GroupID": 3102,
+    "FilterValue": [
+      "Fire",
+      "Water",
+      "Wind"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire,Water,Wind]",
     "FilterDesc": "화속성, 수속성, 바람속성 편성 가능"
   },
   {
     "ID": 310202,
     "GroupID": 3102,
+    "FilterValue": [
+      "R",
+      "SR"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "BaseGrade",
-    "FilterValue": "[R,SR]",
     "FilterDesc": "R, SR 등급 헌터 편성 가능"
   },
   {
     "ID": 310203,
     "GroupID": 3102,
+    "FilterValue": [
+      "Fighter",
+      "Healer",
+      "Mage",
+      "Ranger"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ClassType",
-    "FilterValue": "[Fighter,Healer,Mage,Ranger]",
     "FilterDesc": "파이터, 힐러, 메이지, 레인저 편성 가능"
   },
   {
     "ID": 400001,
     "GroupID": 400001,
+    "FilterValue": [
+      "Fire",
+      "Wind",
+      "Light",
+      "Water"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire,Wind,Light,Water]",
     "FilterDesc": "화, 풍, 명, 수"
   },
   {
     "ID": 400002,
     "GroupID": 400002,
+    "FilterValue": [
+      "Fire",
+      "Wind",
+      "Light"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire,Wind,Light]",
     "FilterDesc": "화, 풍, 명"
   },
   {
     "ID": 400003,
     "GroupID": 400003,
+    "FilterValue": [
+      "Fire",
+      "Wind"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Fire,Wind]",
     "FilterDesc": "화, 풍"
   },
   {
     "ID": 400004,
     "GroupID": 400004,
+    "FilterValue": [
+      "Wind",
+      "Light",
+      "Water",
+      "Darkness"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Wind,Light,Water,Darkness]",
     "FilterDesc": "풍, 명, 수, 암"
   },
   {
     "ID": 400005,
     "GroupID": 400005,
+    "FilterValue": [
+      "Wind",
+      "Light",
+      "Water"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Wind,Light,Water]",
     "FilterDesc": "풍, 명, 수"
   },
   {
     "ID": 400006,
     "GroupID": 400006,
+    "FilterValue": [
+      "Wind",
+      "Light"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Wind,Light]",
     "FilterDesc": "풍, 명"
   },
   {
     "ID": 400007,
     "GroupID": 400007,
+    "FilterValue": [
+      "Light",
+      "Water",
+      "Darkness",
+      "Fire"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Light,Water,Darkness,Fire]",
     "FilterDesc": "명, 수, 암, 화"
   },
   {
     "ID": 400008,
     "GroupID": 400008,
+    "FilterValue": [
+      "Light",
+      "Water",
+      "Darkness"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Light,Water,Darkness]",
     "FilterDesc": "명, 수, 암"
   },
   {
     "ID": 400009,
     "GroupID": 400009,
+    "FilterValue": [
+      "Light",
+      "Water"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Light,Water]",
     "FilterDesc": "명, 수"
   },
   {
     "ID": 400010,
     "GroupID": 400010,
+    "FilterValue": [
+      "Water",
+      "Darkness",
+      "Fire",
+      "Wind"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Water,Darkness,Fire,Wind]",
     "FilterDesc": "수, 암, 화, 풍"
   },
   {
     "ID": 400011,
     "GroupID": 400011,
+    "FilterValue": [
+      "Water",
+      "Darkness",
+      "Fire"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Water,Darkness,Fire]",
     "FilterDesc": "수, 암, 화"
   },
   {
     "ID": 400012,
     "GroupID": 400012,
+    "FilterValue": [
+      "Water",
+      "Darkness"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Water,Darkness]",
     "FilterDesc": "수, 암"
   },
   {
     "ID": 400013,
     "GroupID": 400013,
+    "FilterValue": [
+      "Darkness",
+      "Fire",
+      "Wind",
+      "Light"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Darkness,Fire,Wind,Light]",
     "FilterDesc": "암, 화, 풍, 명"
   },
   {
     "ID": 400014,
     "GroupID": 400014,
+    "FilterValue": [
+      "Darkness",
+      "Fire",
+      "Wind"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Darkness,Fire,Wind]",
     "FilterDesc": "암, 화, 풍"
   },
   {
     "ID": 400015,
     "GroupID": 400015,
+    "FilterValue": [
+      "Darkness",
+      "Fire"
+    ],
     "FilterTarget": "Hunter",
     "FilterType": "ElementType",
-    "FilterValue": "[Darkness,Fire]",
     "FilterDesc": "암, 화"
   },
   {
     "ID": 900001,
     "GroupID": 900001,
+    "FilterValue": [
+      "200010001"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010001]",
     "FilterDesc": "아라크네의핸드크로스보우"
   },
   {
     "ID": 900002,
     "GroupID": 900002,
+    "FilterValue": [
+      "200010002"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010002]",
     "FilterDesc": "김상식의 검"
   },
   {
     "ID": 900003,
     "GroupID": 900003,
+    "FilterValue": [
+      "200010003"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010003]",
     "FilterDesc": "라이칸슬레이어"
   },
   {
     "ID": 900004,
     "GroupID": 900004,
+    "FilterValue": [
+      "200010004"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010004]",
     "FilterDesc": "아이스 엘프의 활"
   },
   {
     "ID": 900005,
     "GroupID": 900005,
+    "FilterValue": [
+      "200010005"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010005]",
     "FilterDesc": "라잔의 칼날"
   },
   {
     "ID": 900006,
     "GroupID": 900006,
+    "FilterValue": [
+      "200010006"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010006]",
     "FilterDesc": "리자드 글레이브"
   },
   {
     "ID": 900007,
     "GroupID": 900007,
+    "FilterValue": [
+      "200010007"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010007]",
     "FilterDesc": "불타는 악마의 마도서"
   },
   {
     "ID": 900008,
     "GroupID": 900008,
+    "FilterValue": [
+      "200010008"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010008]",
     "FilterDesc": "카사카의 독니"
   },
   {
     "ID": 900009,
     "GroupID": 900009,
+    "FilterValue": [
+      "200010009"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010009]",
     "FilterDesc": "오크의 대검"
   },
   {
     "ID": 900010,
     "GroupID": 900010,
+    "FilterValue": [
+      "200010010"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010010]",
     "FilterDesc": "모래바람의 큐브"
   },
   {
     "ID": 900011,
     "GroupID": 900011,
+    "FilterValue": [
+      "200010011"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010011]",
     "FilterDesc": "바위 골렘 망치"
   },
   {
     "ID": 900012,
     "GroupID": 900012,
+    "FilterValue": [
+      "200010012"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010012]",
     "FilterDesc": "나이트 킬러"
   },
   {
     "ID": 900013,
     "GroupID": 900013,
+    "FilterValue": [
+      "200010013"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010013]",
     "FilterDesc": "묘지기의 낫"
   },
   {
     "ID": 900014,
     "GroupID": 900014,
+    "FilterValue": [
+      "200010014"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200010014]",
     "FilterDesc": "기사의 검"
   },
   {
     "ID": 900015,
     "GroupID": 900015,
+    "FilterValue": [
+      "200020001"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020001]",
     "FilterDesc": "탐욕의 구슬"
   },
   {
     "ID": 900016,
     "GroupID": 900016,
+    "FilterValue": [
+      "200020002"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020002]",
     "FilterDesc": "나가 수호룡의 삼지창"
   },
   {
     "ID": 900017,
     "GroupID": 900017,
+    "FilterValue": [
+      "200020003"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020003]",
     "FilterDesc": "바루카의 단검"
   },
   {
     "ID": 900018,
     "GroupID": 900018,
+    "FilterValue": [
+      "200020004"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020004]",
     "FilterDesc": "라디르 대궁"
   },
   {
     "ID": 900019,
     "GroupID": 900019,
+    "FilterValue": [
+      "200020005"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020005]",
     "FilterDesc": "그림자의 낫"
   },
   {
     "ID": 900020,
     "GroupID": 900020,
+    "FilterValue": [
+      "200020006"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020006]",
     "FilterDesc": "혹한의 빙검"
   },
   {
     "ID": 900021,
     "GroupID": 900021,
+    "FilterValue": [
+      "200020007"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020007]",
     "FilterDesc": "검은매"
   },
   {
     "ID": 900022,
     "GroupID": 900022,
+    "FilterValue": [
+      "200020008"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020008]",
     "FilterDesc": "광룡도"
   },
   {
     "ID": 900023,
     "GroupID": 900023,
+    "FilterValue": [
+      "200020009"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020009]",
     "FilterDesc": "악마기사의 창"
   },
   {
     "ID": 900024,
     "GroupID": 900024,
+    "FilterValue": [
+      "200020010"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020010]",
     "FilterDesc": "서풍"
   },
   {
     "ID": 900025,
     "GroupID": 900025,
+    "FilterValue": [
+      "200020011"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200020011]",
     "FilterDesc": "용비늘 대검"
   },
   {
     "ID": 900026,
     "GroupID": 900026,
+    "FilterValue": [
+      "200030001"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030001]",
     "FilterDesc": "악마왕의 장검"
   },
   {
     "ID": 900027,
     "GroupID": 900027,
+    "FilterValue": [
+      "200030002"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030002]",
     "FilterDesc": "테티스의 마도서"
   },
   {
     "ID": 900028,
     "GroupID": 900028,
+    "FilterValue": [
+      "200030003"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030003]",
     "FilterDesc": "볼칸의 분노"
   },
   {
     "ID": 900029,
     "GroupID": 900029,
+    "FilterValue": [
+      "200030004"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030004]",
     "FilterDesc": "킬더울프"
   },
   {
     "ID": 900030,
     "GroupID": 900030,
+    "FilterValue": [
+      "200030005"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030005]",
     "FilterDesc": "요도 : 매화검"
   },
   {
     "ID": 900031,
     "GroupID": 900031,
+    "FilterValue": [
+      "200030006"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030006]",
     "FilterDesc": "월영"
   },
   {
     "ID": 900032,
     "GroupID": 900032,
+    "FilterValue": [
+      "200030007"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030007]",
     "FilterDesc": "화조령"
   },
   {
     "ID": 900033,
     "GroupID": 900033,
+    "FilterValue": [
+      "200030010"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030010]",
     "FilterDesc": "진 : 악마 기사의 창"
   },
   {
     "ID": 900034,
     "GroupID": 900034,
+    "FilterValue": [
+      "200030008"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030008]",
     "FilterDesc": "스카디"
   },
   {
     "ID": 900035,
     "GroupID": 900035,
+    "FilterValue": [
+      "200030013"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030013]",
     "FilterDesc": "지크의 조각"
   },
   {
     "ID": 900036,
     "GroupID": 900036,
+    "FilterValue": [
+      "200030014"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030014]",
     "FilterDesc": "꽁꽁 청새치 보드"
   },
   {
     "ID": 900037,
     "GroupID": 900037,
+    "FilterValue": [
+      "200030015"
+    ],
     "FilterTarget": "GS",
     "FilterType": "BanID",
-    "FilterValue": "[200030015]",
     "FilterDesc": "육즙 가득 꼬치구이"
   }
 ]

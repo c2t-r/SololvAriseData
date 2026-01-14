@@ -1,444 +1,1769 @@
 [
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 1,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 101,
     "Unused": true,
-    "WorldDropGroupID": 1,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 801,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 1,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 102,
     "Unused": true,
-    "WorldDropGroupID": 1,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 801,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 1,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 103,
     "Unused": true,
-    "WorldDropGroupID": 1,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 801,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 2,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 201,
     "Unused": true,
-    "WorldDropGroupID": 2,
-    "WorldDropDescString": "WorldDropDesc.MagicStone_Test",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 1005005,
-    "DropRate": 5000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.MagicStone_Test",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[1,4]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      1,
+      4
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      8
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[8]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 3,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 301,
     "Unused": true,
-    "WorldDropGroupID": 3,
-    "WorldDropDescString": "WorldDropDesc.Indunkey1_Test",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 1006001,
-    "DropRate": 5000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.Indunkey1_Test",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[1000]",
-    "Class2": "[1,2]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      1,
+      2
+    ],
+    "Class1": [
+      1000
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      9
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[9]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 3,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 302,
     "Unused": true,
-    "WorldDropGroupID": 3,
-    "WorldDropDescString": "WorldDropDesc.Indunkey3_Test",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 1006003,
-    "DropRate": 5000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.Indunkey3_Test",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[1000]",
-    "Class2": "[3,4]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      3,
+      4
+    ],
+    "Class1": [
+      1000
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      9
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[9]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 4,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 401,
     "Unused": true,
-    "WorldDropGroupID": 4,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2000501,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 4,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 402,
     "Unused": true,
-    "WorldDropGroupID": 4,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2000501,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 4,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 403,
     "Unused": true,
-    "WorldDropGroupID": 4,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2000501,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 5,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 501,
     "Unused": true,
-    "WorldDropGroupID": 5,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2002401,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 5,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 502,
     "Unused": true,
-    "WorldDropGroupID": 5,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2002402,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 5,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 503,
     "Unused": true,
-    "WorldDropGroupID": 5,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2002402,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 6,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 601,
     "Unused": true,
-    "WorldDropGroupID": 6,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2002701,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 6,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 602,
     "Unused": true,
-    "WorldDropGroupID": 6,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2002701,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 6,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 603,
     "Unused": true,
-    "WorldDropGroupID": 6,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2002701,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_alphabet",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 7,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 701,
     "Unused": true,
-    "WorldDropGroupID": 7,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Summer",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2003701,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Summer",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 7,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 702,
     "Unused": true,
-    "WorldDropGroupID": 7,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Summer",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2003701,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Summer",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 3000,
+    "WorldDropGroupID": 8,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 801,
     "Unused": true,
-    "WorldDropGroupID": 8,
-    "WorldDropDescString": "Event.RPS.StringDesc.WorldDropRPS",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2003703,
-    "DropRate": 3000,
+    "StringOverlap": true,
+    "WorldDropDescString": "Event.RPS.StringDesc.WorldDropRPS",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 3000,
+    "WorldDropGroupID": 8,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 802,
     "Unused": true,
-    "WorldDropGroupID": 8,
-    "WorldDropDescString": "Event.RPS.StringDesc.WorldDropRPS",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2003703,
-    "DropRate": 3000,
+    "StringOverlap": true,
+    "WorldDropDescString": "Event.RPS.StringDesc.WorldDropRPS",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 3000,
+    "WorldDropGroupID": 8,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 803,
     "Unused": true,
-    "WorldDropGroupID": 8,
-    "WorldDropDescString": "Event.RPS.StringDesc.WorldDropRPS",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2003703,
-    "DropRate": 3000,
+    "StringOverlap": true,
+    "WorldDropDescString": "Event.RPS.StringDesc.WorldDropRPS",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 9,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 901,
     "Unused": true,
-    "WorldDropGroupID": 9,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2011701,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 9,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 902,
     "Unused": true,
-    "WorldDropGroupID": 9,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2011711,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 9,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 903,
     "Unused": true,
-    "WorldDropGroupID": 9,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2011721,
-    "DropRate": 10000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 10,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 1001,
     "Unused": true,
-    "WorldDropGroupID": 10,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2020201,
-    "DropRate": 5000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
     "WorldDropTarget": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 10,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 1002,
     "Unused": true,
-    "WorldDropGroupID": 10,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2020201,
-    "DropRate": 5000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
     "WorldDropTarget": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
   },
   {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 10,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
     "ID": 1003,
     "Unused": true,
-    "WorldDropGroupID": 10,
-    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
-    "IsPrivateData": true,
-    "StringOverlap": true,
     "RewardGroupID": 2020201,
-    "DropRate": 5000,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
     "WorldDropTarget": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
     "WorldDropIcon": "WorldDrop_Default",
-    "ContentsMoveTarget": "[39]"
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 5000,
+    "WorldDropGroupID": 10,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1004,
+    "Unused": true,
+    "RewardGroupID": 2020201,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      39
+    ],
+    "WorldDropIcon": "WorldDrop_Default",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 11,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1101,
+    "Unused": true,
+    "RewardGroupID": 2023801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "WorldDrop_Default",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 11,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1102,
+    "Unused": true,
+    "RewardGroupID": 2023801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "WorldDrop_Default",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 11,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1103,
+    "Unused": true,
+    "RewardGroupID": 2023801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "WorldDrop_Default",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 2500,
+    "WorldDropGroupID": 12,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1201,
+    "Unused": true,
+    "RewardGroupID": 4100011,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 2500,
+    "WorldDropGroupID": 12,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1202,
+    "Unused": true,
+    "RewardGroupID": 4100011,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 2500,
+    "WorldDropGroupID": 12,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1203,
+    "Unused": true,
+    "RewardGroupID": 4100011,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 13,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1301,
+    "Unused": true,
+    "RewardGroupID": 2034301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 13,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1302,
+    "Unused": true,
+    "RewardGroupID": 2034301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 13,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1303,
+    "Unused": true,
+    "RewardGroupID": 2034301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 14,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1401,
+    "Unused": true,
+    "RewardGroupID": 2037600,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 14,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1402,
+    "Unused": true,
+    "RewardGroupID": 2037600,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 14,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1403,
+    "Unused": true,
+    "RewardGroupID": 2037600,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 15,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1501,
+    "Unused": true,
+    "RewardGroupID": 920000701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 15,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1502,
+    "Unused": true,
+    "RewardGroupID": 920000701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 15,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1503,
+    "Unused": true,
+    "RewardGroupID": 920000701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 10000,
+    "WorldDropGroupID": 15,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1504,
+    "Unused": true,
+    "RewardGroupID": 920000701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin_2",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 16,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1601,
+    "Unused": true,
+    "RewardGroupID": 2043001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 16,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1602,
+    "Unused": true,
+    "RewardGroupID": 2043001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 16,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1603,
+    "Unused": true,
+    "RewardGroupID": 2043001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 0,
+    "DropRate": 1500,
+    "WorldDropGroupID": 16,
+    "DisplayRewardGroupID": 0,
+    "IsPrivateData": true,
+    "ID": 1604,
+    "Unused": true,
+    "RewardGroupID": 2043001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventChangeItem_Coin",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "",
+    "DisplayItemName": ""
+  },
+  {
+    "ShopMoveTarget": 1143,
+    "DropRate": 10000,
+    "WorldDropGroupID": 17,
+    "DisplayRewardGroupID": 920005902,
+    "IsPrivateData": true,
+    "ID": 1701,
+    "Unused": true,
+    "RewardGroupID": 920003701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_IDLE2_Btn_Icon_WorldDrop",
+    "DisplayItemName": "WorldDropDesc.EventItemName_IDLE2"
+  },
+  {
+    "ShopMoveTarget": 1143,
+    "DropRate": 10000,
+    "WorldDropGroupID": 17,
+    "DisplayRewardGroupID": 920005902,
+    "IsPrivateData": true,
+    "ID": 1702,
+    "Unused": true,
+    "RewardGroupID": 920003701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_IDLE2_Btn_Icon_WorldDrop",
+    "DisplayItemName": "WorldDropDesc.EventItemName_IDLE2"
+  },
+  {
+    "ShopMoveTarget": 1143,
+    "DropRate": 10000,
+    "WorldDropGroupID": 17,
+    "DisplayRewardGroupID": 920005902,
+    "IsPrivateData": true,
+    "ID": 1703,
+    "Unused": true,
+    "RewardGroupID": 920003701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_IDLE2_Btn_Icon_WorldDrop",
+    "DisplayItemName": "WorldDropDesc.EventItemName_IDLE2"
+  },
+  {
+    "ShopMoveTarget": 1143,
+    "DropRate": 10000,
+    "WorldDropGroupID": 17,
+    "DisplayRewardGroupID": 920005902,
+    "IsPrivateData": true,
+    "ID": 1704,
+    "Unused": true,
+    "RewardGroupID": 920003701,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_IDLE2_Btn_Icon_WorldDrop",
+    "DisplayItemName": "WorldDropDesc.EventItemName_IDLE2"
+  },
+  {
+    "ShopMoveTarget": 50102,
+    "DropRate": 3300,
+    "WorldDropGroupID": 18,
+    "DisplayRewardGroupID": 2045802,
+    "IsPrivateData": true,
+    "ID": 1801,
+    "Unused": true,
+    "RewardGroupID": 2045801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2509",
+    "DisplayItemName": "WorldDropDesc.EventItemName_2"
+  },
+  {
+    "ShopMoveTarget": 50102,
+    "DropRate": 3300,
+    "WorldDropGroupID": 18,
+    "DisplayRewardGroupID": 2045802,
+    "IsPrivateData": true,
+    "ID": 1802,
+    "Unused": true,
+    "RewardGroupID": 2045801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2509",
+    "DisplayItemName": "WorldDropDesc.EventItemName_2"
+  },
+  {
+    "ShopMoveTarget": 50102,
+    "DropRate": 3300,
+    "WorldDropGroupID": 18,
+    "DisplayRewardGroupID": 2045802,
+    "IsPrivateData": true,
+    "ID": 1803,
+    "Unused": true,
+    "RewardGroupID": 2045801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2509",
+    "DisplayItemName": "WorldDropDesc.EventItemName_2"
+  },
+  {
+    "ShopMoveTarget": 50102,
+    "DropRate": 3300,
+    "WorldDropGroupID": 18,
+    "DisplayRewardGroupID": 2045802,
+    "IsPrivateData": true,
+    "ID": 1804,
+    "Unused": true,
+    "RewardGroupID": 2045801,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2509",
+    "DisplayItemName": "WorldDropDesc.EventItemName_2"
+  },
+  {
+    "ShopMoveTarget": 55109,
+    "DropRate": 10000,
+    "WorldDropGroupID": 19,
+    "DisplayRewardGroupID": 920008801,
+    "IsPrivateData": true,
+    "ID": 1901,
+    "Unused": true,
+    "RewardGroupID": 920007201,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2510",
+    "DisplayItemName": "WorldDropDesc.EventItemName_3_FRR"
+  },
+  {
+    "ShopMoveTarget": 55109,
+    "DropRate": 10000,
+    "WorldDropGroupID": 19,
+    "DisplayRewardGroupID": 920008801,
+    "IsPrivateData": true,
+    "ID": 1902,
+    "Unused": true,
+    "RewardGroupID": 920007201,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2510",
+    "DisplayItemName": "WorldDropDesc.EventItemName_3_FRR"
+  },
+  {
+    "ShopMoveTarget": 55109,
+    "DropRate": 10000,
+    "WorldDropGroupID": 19,
+    "DisplayRewardGroupID": 920008801,
+    "IsPrivateData": true,
+    "ID": 1903,
+    "Unused": true,
+    "RewardGroupID": 920007201,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2510",
+    "DisplayItemName": "WorldDropDesc.EventItemName_3_FRR"
+  },
+  {
+    "ShopMoveTarget": 55109,
+    "DropRate": 10000,
+    "WorldDropGroupID": 19,
+    "DisplayRewardGroupID": 920008801,
+    "IsPrivateData": true,
+    "ID": 1904,
+    "Unused": true,
+    "RewardGroupID": 920007201,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2510",
+    "DisplayItemName": "WorldDropDesc.EventItemName_3_FRR"
+  },
+  {
+    "ShopMoveTarget": 55131,
+    "DropRate": 10000,
+    "WorldDropGroupID": 20,
+    "DisplayRewardGroupID": 2049302,
+    "IsPrivateData": true,
+    "ID": 2001,
+    "Unused": true,
+    "RewardGroupID": 2049301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2511",
+    "DisplayItemName": "WorldDropDesc.EventItemName_4"
+  },
+  {
+    "ShopMoveTarget": 55131,
+    "DropRate": 10000,
+    "WorldDropGroupID": 20,
+    "DisplayRewardGroupID": 2049302,
+    "IsPrivateData": true,
+    "ID": 2002,
+    "Unused": true,
+    "RewardGroupID": 2049301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "InstantDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2511",
+    "DisplayItemName": "WorldDropDesc.EventItemName_4"
+  },
+  {
+    "ShopMoveTarget": 55131,
+    "DropRate": 10000,
+    "WorldDropGroupID": 20,
+    "DisplayRewardGroupID": 2049302,
+    "IsPrivateData": true,
+    "ID": 2003,
+    "Unused": true,
+    "RewardGroupID": 2049301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Advent",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2511",
+    "DisplayItemName": "WorldDropDesc.EventItemName_4"
+  },
+  {
+    "ShopMoveTarget": 55131,
+    "DropRate": 10000,
+    "WorldDropGroupID": 20,
+    "DisplayRewardGroupID": 2049302,
+    "IsPrivateData": true,
+    "ID": 2004,
+    "Unused": true,
+    "RewardGroupID": 2049301,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2511",
+    "DisplayItemName": "WorldDropDesc.EventItemName_4"
   }
 ]

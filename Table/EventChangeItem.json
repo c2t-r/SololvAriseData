@@ -1,234 +1,626 @@
 [
   {
-    "ID": 1000101,
-    "Unused": true,
-    "UnitGroupId": 10001,
-    "UnitNum": 1,
     "RewardGroupId": 60001,
+    "UnitNum": 1,
+    "ID": 1000101,
+    "UnitGroupId": 10001,
+    "Unused": true,
     "RewardCount": 10
   },
   {
-    "ID": 1000102,
-    "Unused": true,
-    "UnitGroupId": 10001,
-    "UnitNum": 2,
     "RewardGroupId": 60002,
-    "RewardCount": 30
-  },
-  {
-    "ID": 1000104,
-    "Unused": true,
+    "UnitNum": 2,
+    "ID": 1000102,
     "UnitGroupId": 10001,
-    "UnitNum": 4,
-    "RewardGroupId": 60004,
-    "RewardCount": 4294967295
-  },
-  {
-    "ID": 1000201,
     "Unused": true,
-    "UnitGroupId": 10002,
-    "UnitNum": 1,
-    "RewardGroupId": 2000401,
-    "RewardCount": 10
-  },
-  {
-    "ID": 1000202,
-    "Unused": true,
-    "UnitGroupId": 10002,
-    "UnitNum": 2,
-    "RewardGroupId": 2000402,
     "RewardCount": 30
   },
   {
-    "ID": 1000203,
+    "RewardGroupId": 60004,
+    "UnitNum": 4,
+    "ID": 1000104,
+    "UnitGroupId": 10001,
     "Unused": true,
-    "UnitGroupId": 10002,
-    "UnitNum": 3,
-    "RewardGroupId": 2000403,
-    "RewardCount": 4294967295
+    "RewardCount": -1
   },
   {
-    "ID": 1000301,
-    "Unused": true,
-    "UnitGroupId": 10003,
-    "UnitNum": 1,
     "RewardGroupId": 2000401,
+    "UnitNum": 1,
+    "ID": 1000201,
+    "UnitGroupId": 10002,
+    "Unused": true,
     "RewardCount": 10
   },
   {
-    "ID": 1000302,
-    "Unused": true,
-    "UnitGroupId": 10003,
-    "UnitNum": 2,
     "RewardGroupId": 2000402,
+    "UnitNum": 2,
+    "ID": 1000202,
+    "UnitGroupId": 10002,
+    "Unused": true,
+    "RewardCount": 30
+  },
+  {
+    "RewardGroupId": 2000403,
+    "UnitNum": 3,
+    "ID": 1000203,
+    "UnitGroupId": 10002,
+    "Unused": true,
+    "RewardCount": -1
+  },
+  {
+    "RewardGroupId": 2000401,
+    "UnitNum": 1,
+    "ID": 1000301,
+    "UnitGroupId": 10003,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
+    "RewardGroupId": 2000402,
+    "UnitNum": 2,
+    "ID": 1000302,
+    "UnitGroupId": 10003,
+    "Unused": true,
     "RewardCount": 20
   },
   {
-    "ID": 1000303,
-    "Unused": true,
-    "UnitGroupId": 10003,
-    "UnitNum": 3,
     "RewardGroupId": 2000403,
-    "RewardCount": 10
-  },
-  {
-    "ID": 1000401,
-    "Unused": true,
-    "UnitGroupId": 10004,
-    "UnitNum": 1,
-    "RewardGroupId": 2002301,
-    "RewardCount": 1
-  },
-  {
-    "ID": 1000402,
-    "Unused": true,
-    "UnitGroupId": 10004,
-    "UnitNum": 2,
-    "RewardGroupId": 2002302,
-    "RewardCount": 1
-  },
-  {
-    "ID": 1000403,
-    "Unused": true,
-    "UnitGroupId": 10004,
     "UnitNum": 3,
-    "RewardGroupId": 2002303,
+    "ID": 1000303,
+    "UnitGroupId": 10003,
+    "Unused": true,
     "RewardCount": 10
   },
   {
-    "ID": 1000404,
-    "Unused": true,
+    "RewardGroupId": 2002301,
+    "UnitNum": 1,
+    "ID": 1000401,
     "UnitGroupId": 10004,
-    "UnitNum": 4,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2002302,
+    "UnitNum": 2,
+    "ID": 1000402,
+    "UnitGroupId": 10004,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2002303,
+    "UnitNum": 3,
+    "ID": 1000403,
+    "UnitGroupId": 10004,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
     "RewardGroupId": 2002304,
+    "UnitNum": 4,
+    "ID": 1000404,
+    "UnitGroupId": 10004,
+    "Unused": true,
     "RewardCount": 2
   },
   {
-    "ID": 1000405,
-    "Unused": true,
-    "UnitGroupId": 10004,
-    "UnitNum": 5,
     "RewardGroupId": 2002305,
+    "UnitNum": 5,
+    "ID": 1000405,
+    "UnitGroupId": 10004,
+    "Unused": true,
     "RewardCount": 2
   },
   {
-    "ID": 1000406,
-    "Unused": true,
-    "UnitGroupId": 10004,
-    "UnitNum": 6,
     "RewardGroupId": 2002306,
+    "UnitNum": 6,
+    "ID": 1000406,
+    "UnitGroupId": 10004,
+    "Unused": true,
     "RewardCount": 50
   },
   {
-    "ID": 1000407,
-    "Unused": true,
-    "UnitGroupId": 10004,
-    "UnitNum": 7,
     "RewardGroupId": 2002307,
-    "RewardCount": 4294967295
-  },
-  {
-    "ID": 1000408,
-    "Unused": true,
+    "UnitNum": 7,
+    "ID": 1000407,
     "UnitGroupId": 10004,
-    "UnitNum": 8,
+    "Unused": true,
+    "RewardCount": -1
+  },
+  {
     "RewardGroupId": 2002308,
-    "RewardCount": 4294967295
+    "UnitNum": 8,
+    "ID": 1000408,
+    "UnitGroupId": 10004,
+    "Unused": true,
+    "RewardCount": -1
   },
   {
-    "ID": 1000501,
-    "Unused": true,
-    "UnitGroupId": 10005,
-    "UnitNum": 1,
     "RewardGroupId": 2002601,
-    "RewardCount": 10
-  },
-  {
-    "ID": 1000502,
-    "Unused": true,
-    "UnitGroupId": 10005,
-    "UnitNum": 2,
-    "RewardGroupId": 2002602,
-    "RewardCount": 10
-  },
-  {
-    "ID": 1000503,
-    "Unused": true,
-    "UnitGroupId": 10005,
-    "UnitNum": 3,
-    "RewardGroupId": 2002603,
-    "RewardCount": 10
-  },
-  {
-    "ID": 1000504,
-    "Unused": true,
-    "UnitGroupId": 10005,
-    "UnitNum": 4,
-    "RewardGroupId": 2002604,
-    "RewardCount": 20
-  },
-  {
-    "ID": 1000505,
-    "Unused": true,
-    "UnitGroupId": 10005,
-    "UnitNum": 5,
-    "RewardGroupId": 2002605,
-    "RewardCount": 20
-  },
-  {
-    "ID": 1000601,
-    "Unused": true,
-    "UnitGroupId": 10006,
     "UnitNum": 1,
-    "RewardGroupId": 2011601,
-    "RewardCount": 2
+    "ID": 1000501,
+    "UnitGroupId": 10005,
+    "Unused": true,
+    "RewardCount": 10
   },
   {
-    "ID": 1000602,
-    "Unused": true,
-    "UnitGroupId": 10006,
+    "RewardGroupId": 2002602,
     "UnitNum": 2,
-    "RewardGroupId": 2011602,
+    "ID": 1000502,
+    "UnitGroupId": 10005,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
+    "RewardGroupId": 2002603,
+    "UnitNum": 3,
+    "ID": 1000503,
+    "UnitGroupId": 10005,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
+    "RewardGroupId": 2002604,
+    "UnitNum": 4,
+    "ID": 1000504,
+    "UnitGroupId": 10005,
+    "Unused": true,
+    "RewardCount": 20
+  },
+  {
+    "RewardGroupId": 2002605,
+    "UnitNum": 5,
+    "ID": 1000505,
+    "UnitGroupId": 10005,
+    "Unused": true,
+    "RewardCount": 20
+  },
+  {
+    "RewardGroupId": 2011601,
+    "UnitNum": 1,
+    "ID": 1000601,
+    "UnitGroupId": 10006,
+    "Unused": true,
     "RewardCount": 2
   },
   {
-    "ID": 1000603,
-    "Unused": true,
+    "RewardGroupId": 2011602,
+    "UnitNum": 2,
+    "ID": 1000602,
     "UnitGroupId": 10006,
-    "UnitNum": 3,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
     "RewardGroupId": 2011603,
+    "UnitNum": 3,
+    "ID": 1000603,
+    "UnitGroupId": 10006,
+    "Unused": true,
     "RewardCount": 5
   },
   {
-    "ID": 1000604,
-    "Unused": true,
-    "UnitGroupId": 10006,
-    "UnitNum": 4,
     "RewardGroupId": 2011604,
+    "UnitNum": 4,
+    "ID": 1000604,
+    "UnitGroupId": 10006,
+    "Unused": true,
     "RewardCount": 5
   },
   {
-    "ID": 1000605,
-    "Unused": true,
-    "UnitGroupId": 10006,
-    "UnitNum": 5,
     "RewardGroupId": 2011605,
+    "UnitNum": 5,
+    "ID": 1000605,
+    "UnitGroupId": 10006,
+    "Unused": true,
     "RewardCount": 5
   },
   {
-    "ID": 1000606,
-    "Unused": true,
-    "UnitGroupId": 10006,
-    "UnitNum": 6,
     "RewardGroupId": 2011606,
+    "UnitNum": 6,
+    "ID": 1000606,
+    "UnitGroupId": 10006,
+    "Unused": true,
     "RewardCount": 4
   },
   {
-    "ID": 1000607,
-    "Unused": true,
-    "UnitGroupId": 10006,
-    "UnitNum": 7,
     "RewardGroupId": 2011607,
-    "RewardCount": 4294967295
+    "UnitNum": 7,
+    "ID": 1000607,
+    "UnitGroupId": 10006,
+    "Unused": true,
+    "RewardCount": -1
+  },
+  {
+    "RewardGroupId": 2025601,
+    "UnitNum": 1,
+    "ID": 1000901,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 3
+  },
+  {
+    "RewardGroupId": 2025602,
+    "UnitNum": 2,
+    "ID": 1000902,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2025603,
+    "UnitNum": 3,
+    "ID": 1000903,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2025604,
+    "UnitNum": 4,
+    "ID": 1000904,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2025605,
+    "UnitNum": 5,
+    "ID": 1000905,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2025606,
+    "UnitNum": 6,
+    "ID": 1000906,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
+    "RewardGroupId": 2025607,
+    "UnitNum": 7,
+    "ID": 1000907,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": 55
+  },
+  {
+    "RewardGroupId": 2025608,
+    "UnitNum": 8,
+    "ID": 1000908,
+    "UnitGroupId": 10009,
+    "Unused": true,
+    "RewardCount": -1
+  },
+  {
+    "RewardGroupId": 2038801,
+    "UnitNum": 1,
+    "ID": 1001001,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2038802,
+    "UnitNum": 2,
+    "ID": 1001002,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 3
+  },
+  {
+    "RewardGroupId": 2038803,
+    "UnitNum": 3,
+    "ID": 1001003,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 3
+  },
+  {
+    "RewardGroupId": 2038804,
+    "UnitNum": 4,
+    "ID": 1001004,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 4
+  },
+  {
+    "RewardGroupId": 2038805,
+    "UnitNum": 5,
+    "ID": 1001005,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2038806,
+    "UnitNum": 6,
+    "ID": 1001006,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2038807,
+    "UnitNum": 7,
+    "ID": 1001007,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 5
+  },
+  {
+    "RewardGroupId": 2038808,
+    "UnitNum": 8,
+    "ID": 1001008,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
+    "RewardGroupId": 2038809,
+    "UnitNum": 9,
+    "ID": 1001009,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2038810,
+    "UnitNum": 10,
+    "ID": 1001010,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2038811,
+    "UnitNum": 11,
+    "ID": 1001011,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2038812,
+    "UnitNum": 12,
+    "ID": 1001012,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2038813,
+    "UnitNum": 13,
+    "ID": 1001013,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2038814,
+    "UnitNum": 14,
+    "ID": 1001014,
+    "UnitGroupId": 10010,
+    "Unused": true,
+    "RewardCount": 99
+  },
+  {
+    "RewardGroupId": 920001701,
+    "UnitNum": 1,
+    "ID": 1001101,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 920001702,
+    "UnitNum": 2,
+    "ID": 1001102,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 920001703,
+    "UnitNum": 3,
+    "ID": 1001103,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 920001704,
+    "UnitNum": 4,
+    "ID": 1001104,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 5
+  },
+  {
+    "RewardGroupId": 920001705,
+    "UnitNum": 5,
+    "ID": 1001105,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 4
+  },
+  {
+    "RewardGroupId": 920001706,
+    "UnitNum": 6,
+    "ID": 1001106,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 10
+  },
+  {
+    "RewardGroupId": 920001707,
+    "UnitNum": 7,
+    "ID": 1001107,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 3
+  },
+  {
+    "RewardGroupId": 920001708,
+    "UnitNum": 8,
+    "ID": 1001108,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 3
+  },
+  {
+    "RewardGroupId": 920001709,
+    "UnitNum": 9,
+    "ID": 1001109,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 920001710,
+    "UnitNum": 10,
+    "ID": 1001110,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 920001711,
+    "UnitNum": 11,
+    "ID": 1001111,
+    "UnitGroupId": 10011,
+    "Unused": true,
+    "RewardCount": 99
+  },
+  {
+    "RewardGroupId": 2045701,
+    "UnitNum": 1,
+    "ID": 1001201,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2045702,
+    "UnitNum": 2,
+    "ID": 1001202,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 4
+  },
+  {
+    "RewardGroupId": 2045703,
+    "UnitNum": 3,
+    "ID": 1001203,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 4
+  },
+  {
+    "RewardGroupId": 2045704,
+    "UnitNum": 4,
+    "ID": 1001204,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 4
+  },
+  {
+    "RewardGroupId": 2045705,
+    "UnitNum": 5,
+    "ID": 1001205,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2045706,
+    "UnitNum": 6,
+    "ID": 1001206,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2045707,
+    "UnitNum": 7,
+    "ID": 1001207,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 6
+  },
+  {
+    "RewardGroupId": 2045708,
+    "UnitNum": 8,
+    "ID": 1001208,
+    "UnitGroupId": 10012,
+    "Unused": true,
+    "RewardCount": 99
+  },
+  {
+    "RewardGroupId": 2049201,
+    "UnitNum": 1,
+    "ID": 1001301,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 100
+  },
+  {
+    "RewardGroupId": 2049202,
+    "UnitNum": 2,
+    "ID": 1001302,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2049203,
+    "UnitNum": 3,
+    "ID": 1001303,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 1
+  },
+  {
+    "RewardGroupId": 2049204,
+    "UnitNum": 4,
+    "ID": 1001304,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 2
+  },
+  {
+    "RewardGroupId": 2049205,
+    "UnitNum": 5,
+    "ID": 1001305,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 3
+  },
+  {
+    "RewardGroupId": 2049206,
+    "UnitNum": 6,
+    "ID": 1001306,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 6
+  },
+  {
+    "RewardGroupId": 2049207,
+    "UnitNum": 7,
+    "ID": 1001307,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 5
+  },
+  {
+    "RewardGroupId": 2049208,
+    "UnitNum": 8,
+    "ID": 1001308,
+    "UnitGroupId": 10013,
+    "Unused": true,
+    "RewardCount": 99
   }
 ]

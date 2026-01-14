@@ -1,0 +1,632 @@
+[
+  {
+    "DivisionCnt": 6,
+    "ID": 10001,
+    "GoldValue": 3000,
+    "OptMaxValue": 100,
+    "OptMinValue": 50,
+    "Tier": 1,
+    "StatType": "AddAtt"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10002,
+    "GoldValue": 3000,
+    "OptMaxValue": 100,
+    "OptMinValue": 50,
+    "Tier": 1,
+    "StatType": "AddArm"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10003,
+    "GoldValue": 3000,
+    "OptMaxValue": 210,
+    "OptMinValue": 85,
+    "Tier": 1,
+    "StatType": "AddMHP"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10004,
+    "GoldValue": 3000,
+    "OptMaxValue": 50,
+    "OptMinValue": 25,
+    "Tier": 1,
+    "StatType": "AttR"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10005,
+    "GoldValue": 3000,
+    "OptMaxValue": 50,
+    "OptMinValue": 25,
+    "Tier": 1,
+    "StatType": "ArmR"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10006,
+    "GoldValue": 3000,
+    "OptMaxValue": 50,
+    "OptMinValue": 25,
+    "Tier": 1,
+    "StatType": "MHPR"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10007,
+    "GoldValue": 3000,
+    "OptMaxValue": 310,
+    "OptMinValue": 135,
+    "Tier": 1,
+    "StatType": "Dam"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10008,
+    "GoldValue": 3000,
+    "OptMaxValue": 310,
+    "OptMinValue": 135,
+    "Tier": 1,
+    "StatType": "Critical"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10009,
+    "GoldValue": 3000,
+    "OptMaxValue": 310,
+    "OptMinValue": 135,
+    "Tier": 1,
+    "StatType": "CriDam"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10010,
+    "GoldValue": 3000,
+    "OptMaxValue": 60,
+    "OptMinValue": 35,
+    "Tier": 1,
+    "StatType": "DamRedu"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10011,
+    "GoldValue": 3000,
+    "OptMaxValue": 310,
+    "OptMinValue": 135,
+    "Tier": 1,
+    "StatType": "ArmPen"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10012,
+    "GoldValue": 3000,
+    "OptMaxValue": 30,
+    "OptMinValue": 5,
+    "Tier": 1,
+    "StatType": "AddMMP"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10013,
+    "GoldValue": 3000,
+    "OptMaxValue": 60,
+    "OptMinValue": 35,
+    "Tier": 1,
+    "StatType": "MPCostRedu"
+  },
+  {
+    "DivisionCnt": 6,
+    "ID": 10014,
+    "GoldValue": 3000,
+    "OptMaxValue": 50,
+    "OptMinValue": 25,
+    "Tier": 1,
+    "StatType": "MPRegenR"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20001,
+    "GoldValue": 6000,
+    "OptMaxValue": 150,
+    "OptMinValue": 70,
+    "Tier": 2,
+    "StatType": "AddAtt"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20002,
+    "GoldValue": 6000,
+    "OptMaxValue": 150,
+    "OptMinValue": 70,
+    "Tier": 2,
+    "StatType": "AddArm"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20003,
+    "GoldValue": 6000,
+    "OptMaxValue": 290,
+    "OptMinValue": 130,
+    "Tier": 2,
+    "StatType": "AddMHP"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20004,
+    "GoldValue": 6000,
+    "OptMaxValue": 70,
+    "OptMinValue": 30,
+    "Tier": 2,
+    "StatType": "AttR"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20005,
+    "GoldValue": 6000,
+    "OptMaxValue": 70,
+    "OptMinValue": 30,
+    "Tier": 2,
+    "StatType": "ArmR"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20006,
+    "GoldValue": 6000,
+    "OptMaxValue": 70,
+    "OptMinValue": 30,
+    "Tier": 2,
+    "StatType": "MHPR"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20007,
+    "GoldValue": 6000,
+    "OptMaxValue": 440,
+    "OptMinValue": 200,
+    "Tier": 2,
+    "StatType": "Dam"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20008,
+    "GoldValue": 6000,
+    "OptMaxValue": 440,
+    "OptMinValue": 200,
+    "Tier": 2,
+    "StatType": "Critical"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20009,
+    "GoldValue": 6000,
+    "OptMaxValue": 440,
+    "OptMinValue": 200,
+    "Tier": 2,
+    "StatType": "CriDam"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20010,
+    "GoldValue": 6000,
+    "OptMaxValue": 90,
+    "OptMinValue": 50,
+    "Tier": 2,
+    "StatType": "DamRedu"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20011,
+    "GoldValue": 6000,
+    "OptMaxValue": 440,
+    "OptMinValue": 200,
+    "Tier": 2,
+    "StatType": "ArmPen"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20012,
+    "GoldValue": 6000,
+    "OptMaxValue": 50,
+    "OptMinValue": 10,
+    "Tier": 2,
+    "StatType": "AddMMP"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20013,
+    "GoldValue": 6000,
+    "OptMaxValue": 90,
+    "OptMinValue": 50,
+    "Tier": 2,
+    "StatType": "MPCostRedu"
+  },
+  {
+    "DivisionCnt": 9,
+    "ID": 20014,
+    "GoldValue": 6000,
+    "OptMaxValue": 70,
+    "OptMinValue": 30,
+    "Tier": 2,
+    "StatType": "MPRegenR"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30001,
+    "GoldValue": 12000,
+    "OptMaxValue": 220,
+    "OptMinValue": 110,
+    "Tier": 3,
+    "StatType": "AddAtt"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30002,
+    "GoldValue": 12000,
+    "OptMaxValue": 220,
+    "OptMinValue": 110,
+    "Tier": 3,
+    "StatType": "AddArm"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30003,
+    "GoldValue": 12000,
+    "OptMaxValue": 440,
+    "OptMinValue": 220,
+    "Tier": 3,
+    "StatType": "AddMHP"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30004,
+    "GoldValue": 12000,
+    "OptMaxValue": 100,
+    "OptMinValue": 45,
+    "Tier": 3,
+    "StatType": "AttR"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30005,
+    "GoldValue": 12000,
+    "OptMaxValue": 100,
+    "OptMinValue": 45,
+    "Tier": 3,
+    "StatType": "ArmR"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30006,
+    "GoldValue": 12000,
+    "OptMaxValue": 100,
+    "OptMinValue": 45,
+    "Tier": 3,
+    "StatType": "MHPR"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30007,
+    "GoldValue": 12000,
+    "OptMaxValue": 670,
+    "OptMinValue": 395,
+    "Tier": 3,
+    "StatType": "Dam"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30008,
+    "GoldValue": 12000,
+    "OptMaxValue": 670,
+    "OptMinValue": 395,
+    "Tier": 3,
+    "StatType": "Critical"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30009,
+    "GoldValue": 12000,
+    "OptMaxValue": 670,
+    "OptMinValue": 395,
+    "Tier": 3,
+    "StatType": "CriDam"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30010,
+    "GoldValue": 12000,
+    "OptMaxValue": 130,
+    "OptMinValue": 75,
+    "Tier": 3,
+    "StatType": "DamRedu"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30011,
+    "GoldValue": 12000,
+    "OptMaxValue": 670,
+    "OptMinValue": 395,
+    "Tier": 3,
+    "StatType": "ArmPen"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30012,
+    "GoldValue": 12000,
+    "OptMaxValue": 70,
+    "OptMinValue": 15,
+    "Tier": 3,
+    "StatType": "AddMMP"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30013,
+    "GoldValue": 12000,
+    "OptMaxValue": 130,
+    "OptMinValue": 75,
+    "Tier": 3,
+    "StatType": "MPCostRedu"
+  },
+  {
+    "DivisionCnt": 12,
+    "ID": 30014,
+    "GoldValue": 12000,
+    "OptMaxValue": 110,
+    "OptMinValue": 55,
+    "Tier": 3,
+    "StatType": "MPRegenR"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40001,
+    "GoldValue": 18000,
+    "OptMaxValue": 290,
+    "OptMinValue": 150,
+    "Tier": 4,
+    "StatType": "AddAtt"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40002,
+    "GoldValue": 18000,
+    "OptMaxValue": 290,
+    "OptMinValue": 150,
+    "Tier": 4,
+    "StatType": "AddArm"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40003,
+    "GoldValue": 18000,
+    "OptMaxValue": 590,
+    "OptMinValue": 380,
+    "Tier": 4,
+    "StatType": "AddMHP"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40004,
+    "GoldValue": 18000,
+    "OptMaxValue": 130,
+    "OptMinValue": 60,
+    "Tier": 4,
+    "StatType": "AttR"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40005,
+    "GoldValue": 18000,
+    "OptMaxValue": 130,
+    "OptMinValue": 60,
+    "Tier": 4,
+    "StatType": "ArmR"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40006,
+    "GoldValue": 18000,
+    "OptMaxValue": 130,
+    "OptMinValue": 60,
+    "Tier": 4,
+    "StatType": "MHPR"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40007,
+    "GoldValue": 18000,
+    "OptMaxValue": 890,
+    "OptMinValue": 540,
+    "Tier": 4,
+    "StatType": "Dam"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40008,
+    "GoldValue": 18000,
+    "OptMaxValue": 890,
+    "OptMinValue": 540,
+    "Tier": 4,
+    "StatType": "Critical"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40009,
+    "GoldValue": 18000,
+    "OptMaxValue": 890,
+    "OptMinValue": 540,
+    "Tier": 4,
+    "StatType": "CriDam"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40010,
+    "GoldValue": 18000,
+    "OptMaxValue": 170,
+    "OptMinValue": 100,
+    "Tier": 4,
+    "StatType": "DamRedu"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40011,
+    "GoldValue": 18000,
+    "OptMaxValue": 890,
+    "OptMinValue": 540,
+    "Tier": 4,
+    "StatType": "ArmPen"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40012,
+    "GoldValue": 18000,
+    "OptMaxValue": 90,
+    "OptMinValue": 20,
+    "Tier": 4,
+    "StatType": "AddMMP"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40013,
+    "GoldValue": 18000,
+    "OptMaxValue": 170,
+    "OptMinValue": 100,
+    "Tier": 4,
+    "StatType": "MPCostRedu"
+  },
+  {
+    "DivisionCnt": 15,
+    "ID": 40014,
+    "GoldValue": 18000,
+    "OptMaxValue": 150,
+    "OptMinValue": 80,
+    "Tier": 4,
+    "StatType": "MPRegenR"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50001,
+    "GoldValue": 24000,
+    "OptMaxValue": 350,
+    "OptMinValue": 305,
+    "Tier": 5,
+    "StatType": "AddAtt"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50002,
+    "GoldValue": 24000,
+    "OptMaxValue": 350,
+    "OptMinValue": 305,
+    "Tier": 5,
+    "StatType": "AddArm"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50003,
+    "GoldValue": 24000,
+    "OptMaxValue": 700,
+    "OptMinValue": 620,
+    "Tier": 5,
+    "StatType": "AddMHP"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50004,
+    "GoldValue": 24000,
+    "OptMaxValue": 160,
+    "OptMinValue": 135,
+    "Tier": 5,
+    "StatType": "AttR"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50005,
+    "GoldValue": 24000,
+    "OptMaxValue": 160,
+    "OptMinValue": 135,
+    "Tier": 5,
+    "StatType": "ArmR"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50006,
+    "GoldValue": 24000,
+    "OptMaxValue": 160,
+    "OptMinValue": 135,
+    "Tier": 5,
+    "StatType": "MHPR"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50007,
+    "GoldValue": 24000,
+    "OptMaxValue": 1060,
+    "OptMinValue": 935,
+    "Tier": 5,
+    "StatType": "Dam"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50008,
+    "GoldValue": 24000,
+    "OptMaxValue": 1060,
+    "OptMinValue": 935,
+    "Tier": 5,
+    "StatType": "Critical"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50009,
+    "GoldValue": 24000,
+    "OptMaxValue": 1060,
+    "OptMinValue": 935,
+    "Tier": 5,
+    "StatType": "CriDam"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50010,
+    "GoldValue": 24000,
+    "OptMaxValue": 210,
+    "OptMinValue": 180,
+    "Tier": 5,
+    "StatType": "DamRedu"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50011,
+    "GoldValue": 24000,
+    "OptMaxValue": 1060,
+    "OptMinValue": 935,
+    "Tier": 5,
+    "StatType": "ArmPen"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50012,
+    "GoldValue": 24000,
+    "OptMaxValue": 110,
+    "OptMinValue": 95,
+    "Tier": 5,
+    "StatType": "AddMMP"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50013,
+    "GoldValue": 24000,
+    "OptMaxValue": 210,
+    "OptMinValue": 180,
+    "Tier": 5,
+    "StatType": "MPCostRedu"
+  },
+  {
+    "DivisionCnt": 10,
+    "ID": 50014,
+    "GoldValue": 24000,
+    "OptMaxValue": 180,
+    "OptMinValue": 160,
+    "Tier": 5,
+    "StatType": "MPRegenR"
+  }
+]

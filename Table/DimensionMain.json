@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "UseRanking": true,
+    "FeatureGroup": 1000,
+    "DimensionMissionGroup": 1,
+    "SortOrder": 1,
+    "ID": 1,
+    "DimensionShop": 1000,
+    "DimensionMainGroup": 10001,
+    "SkillTreeGroup": 4,
+    "DimensionShopItem": 10160132,
+    "EventID": 110001,
+    "TitleString": "DimensionMainThema.Title_1",
+    "EndTime": "2030-01-01T00:00:00+09:00",
+    "StageGroup": [
+      1,
+      2,
+      3
+    ],
+    "FeatureType": "Fix",
+    "MainBGResource": "",
+    "ObjectResource": "",
+    "StratTime": "2024-09-01T00:00:00+09:00"
+  },
+  {
+    "UseRanking": true,
+    "FeatureGroup": 2000,
+    "DimensionMissionGroup": 1,
+    "SortOrder": 2,
+    "ID": 2,
+    "DimensionShop": 2,
+    "DimensionMainGroup": 20001,
+    "SkillTreeGroup": 4,
+    "DimensionShopItem": 10160132,
+    "EventID": 0,
+    "TitleString": "DimensionMainThema.Title_1",
+    "EndTime": "2030-01-01T00:00:00+09:00",
+    "StageGroup": [
+      1,
+      2,
+      3
+    ],
+    "FeatureType": "Rate",
+    "MainBGResource": "",
+    "ObjectResource": "",
+    "StratTime": "2024-10-01T00:00:00+09:00"
+  }
+]

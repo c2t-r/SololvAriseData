@@ -1,762 +1,1721 @@
 [
   {
+    "ArtifactSetID": 101,
     "ID": 10101,
-    "ArtifactSetID": 101,
+    "AddBattlePower": 0,
+    "Sort": 3016,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name101",
-    "PassiveBuff": "[64001011]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Toughness"
+    "PassiveBuff": [
+      64001011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Toughness",
+    "SetIcon": "Artifact_Armor_Common_Light_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.101"
   },
   {
+    "ArtifactSetID": 101,
     "ID": 10102,
-    "ArtifactSetID": 101,
+    "AddBattlePower": 0,
+    "Sort": 3016,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name101",
-    "PassiveBuff": "[64001012]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Toughness"
+    "PassiveBuff": [
+      64001012
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Toughness",
+    "SetIcon": "Artifact_Armor_Common_Light_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.101"
   },
   {
+    "ArtifactSetID": 102,
     "ID": 10201,
-    "ArtifactSetID": 102,
+    "AddBattlePower": 0,
+    "Sort": 3015,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name102",
-    "PassiveBuff": "[64001021]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_SolidAnalysis"
+    "PassiveBuff": [
+      64001021
+    ],
+    "SetBannerResource": "Img_Artifact_Set_SolidAnalysis",
+    "SetIcon": "Artifact_Armor_Common_Heavy_6",
+    "SetBannerName": "Filter.ArtifactSetEffect.102"
   },
   {
+    "ArtifactSetID": 102,
     "ID": 10202,
-    "ArtifactSetID": 102,
+    "AddBattlePower": 0,
+    "Sort": 3015,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name102",
-    "PassiveBuff": "[64001022]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_SolidAnalysis"
+    "PassiveBuff": [
+      64001022
+    ],
+    "SetBannerResource": "Img_Artifact_Set_SolidAnalysis",
+    "SetIcon": "Artifact_Armor_Common_Heavy_6",
+    "SetBannerName": "Filter.ArtifactSetEffect.102"
   },
   {
+    "ArtifactSetID": 103,
     "ID": 10301,
-    "ArtifactSetID": 103,
+    "AddBattlePower": 0,
+    "Sort": 3014,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name103",
-    "PassiveBuff": "[64001031]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64001031
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Armor_Common_Heavy_8",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 103,
     "ID": 10302,
-    "ArtifactSetID": 103,
+    "AddBattlePower": 0,
+    "Sort": 3014,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name103",
-    "PassiveBuff": "[64001032]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64001032
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Armor_Common_Heavy_8",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 104,
     "ID": 10401,
-    "ArtifactSetID": 104,
+    "AddBattlePower": 0,
+    "Sort": 3013,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name104",
-    "PassiveBuff": "[64001041]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Guardian"
+    "PassiveBuff": [
+      64001041
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Guardian",
+    "SetIcon": "Artifact_Armor_Common_Heavy_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.104"
   },
   {
+    "ArtifactSetID": 104,
     "ID": 10402,
-    "ArtifactSetID": 104,
+    "AddBattlePower": 0,
+    "Sort": 3013,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name104",
-    "PassiveBuff": "[64001042]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Guardian"
+    "PassiveBuff": [
+      64001042
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Guardian",
+    "SetIcon": "Artifact_Armor_Common_Heavy_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.104"
   },
   {
+    "ArtifactSetID": 105,
     "ID": 10501,
-    "ArtifactSetID": 105,
+    "AddBattlePower": 0,
+    "Sort": 3012,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name105",
-    "PassiveBuff": "[64003051]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_AngelinWhite"
+    "PassiveBuff": [
+      64003051
+    ],
+    "SetBannerResource": "Img_Artifact_Set_AngelinWhite",
+    "SetIcon": "Artifact_Armor_Legendary_Light_8",
+    "SetBannerName": "Filter.ArtifactSetEffect.105"
   },
   {
+    "ArtifactSetID": 105,
     "ID": 10502,
-    "ArtifactSetID": 105,
+    "AddBattlePower": 0,
+    "Sort": 3012,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name105",
-    "PassiveBuff": "[64003052, 64003053]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_AngelinWhite"
+    "PassiveBuff": [
+      64003052,
+      64003053
+    ],
+    "SetBannerResource": "Img_Artifact_Set_AngelinWhite",
+    "SetIcon": "Artifact_Armor_Legendary_Light_8",
+    "SetBannerName": "Filter.ArtifactSetEffect.105"
   },
   {
+    "ArtifactSetID": 106,
     "ID": 10601,
-    "ArtifactSetID": 106,
+    "AddBattlePower": 0,
+    "Sort": 3011,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name106",
-    "PassiveBuff": "[64001061]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_NobleSacrifice"
+    "PassiveBuff": [
+      64001061
+    ],
+    "SetBannerResource": "Img_Artifact_Set_NobleSacrifice",
+    "SetIcon": "Artifact_Armor_Legendary_Light_6",
+    "SetBannerName": "Filter.ArtifactSetEffect.106"
   },
   {
+    "ArtifactSetID": 106,
     "ID": 10602,
-    "ArtifactSetID": 106,
+    "AddBattlePower": 0,
+    "Sort": 3011,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name106",
-    "PassiveBuff": "[64001062, 64001063]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_NobleSacrifice"
+    "PassiveBuff": [
+      64001062,
+      64001063
+    ],
+    "SetBannerResource": "Img_Artifact_Set_NobleSacrifice",
+    "SetIcon": "Artifact_Armor_Legendary_Light_6",
+    "SetBannerName": "Filter.ArtifactSetEffect.106"
   },
   {
+    "ArtifactSetID": 107,
     "ID": 10701,
-    "ArtifactSetID": 107,
+    "AddBattlePower": 0,
+    "Sort": 3010,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name107",
-    "PassiveBuff": "[64001071]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001071
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Equipments_Armor_BlackMage",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 107,
     "ID": 10702,
-    "ArtifactSetID": 107,
+    "AddBattlePower": 0,
+    "Sort": 3010,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name107",
-    "PassiveBuff": "[64001073]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001073
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Equipments_Armor_BlackMage",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 108,
     "ID": 10801,
-    "ArtifactSetID": 108,
+    "AddBattlePower": 0,
+    "Sort": 3009,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name108",
-    "PassiveBuff": "[64001081]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001081
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_6",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 108,
     "ID": 10802,
-    "ArtifactSetID": 108,
+    "AddBattlePower": 0,
+    "Sort": 3009,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name108",
-    "PassiveBuff": "[64001082]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001082
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_6",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 109,
     "ID": 10901,
-    "ArtifactSetID": 109,
+    "AddBattlePower": 0,
+    "Sort": 3008,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name109",
-    "PassiveBuff": "[64001091]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_One-hitKill"
+    "PassiveBuff": [
+      64001091
+    ],
+    "SetBannerResource": "Img_Artifact_Set_One-hitKill",
+    "SetIcon": "Artifact_Armor_Legendary_Light_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.109"
   },
   {
+    "ArtifactSetID": 109,
     "ID": 10902,
-    "ArtifactSetID": 109,
+    "AddBattlePower": 0,
+    "Sort": 3008,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name109",
-    "PassiveBuff": "[64001092]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_One-hitKill"
+    "PassiveBuff": [
+      64001092
+    ],
+    "SetBannerResource": "Img_Artifact_Set_One-hitKill",
+    "SetIcon": "Artifact_Armor_Legendary_Light_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.109"
   },
   {
+    "ArtifactSetID": 110,
     "ID": 11001,
-    "ArtifactSetID": 110,
+    "AddBattlePower": 0,
+    "Sort": 3007,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name110",
-    "PassiveBuff": "[64001101]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001101
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Armor_Legendary_Light_7",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 110,
     "ID": 11002,
-    "ArtifactSetID": 110,
+    "AddBattlePower": 0,
+    "Sort": 3007,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name110",
-    "PassiveBuff": "[64001102]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001102
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Armor_Legendary_Light_7",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 111,
     "ID": 11101,
-    "ArtifactSetID": 111,
+    "AddBattlePower": 0,
+    "Sort": 3006,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name111",
-    "PassiveBuff": "[64001111]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Armed"
+    "PassiveBuff": [
+      64001111
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Armed",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_7",
+    "SetBannerName": "Filter.ArtifactSetEffect.111"
   },
   {
+    "ArtifactSetID": 111,
     "ID": 11102,
-    "ArtifactSetID": 111,
+    "AddBattlePower": 0,
+    "Sort": 3006,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name111",
-    "PassiveBuff": "[64001112]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Armed"
+    "PassiveBuff": [
+      64001112
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Armed",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_7",
+    "SetBannerName": "Filter.ArtifactSetEffect.111"
   },
   {
+    "ArtifactSetID": 112,
     "ID": 11201,
-    "ArtifactSetID": 112,
+    "AddBattlePower": 0,
+    "Sort": 3005,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name112",
-    "PassiveBuff": "[64001121]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_SolidFoundation"
+    "PassiveBuff": [
+      64001121
+    ],
+    "SetBannerResource": "Img_Artifact_Set_SolidFoundation",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_8",
+    "SetBannerName": "Filter.ArtifactSetEffect.112"
   },
   {
+    "ArtifactSetID": 112,
     "ID": 11202,
-    "ArtifactSetID": 112,
+    "AddBattlePower": 0,
+    "Sort": 3005,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name112",
-    "PassiveBuff": "[64001122]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_SolidFoundation"
+    "PassiveBuff": [
+      64001122
+    ],
+    "SetBannerResource": "Img_Artifact_Set_SolidFoundation",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_8",
+    "SetBannerName": "Filter.ArtifactSetEffect.112"
   },
   {
+    "ArtifactSetID": 113,
     "ID": 11301,
-    "ArtifactSetID": 113,
+    "AddBattlePower": 0,
+    "Sort": 3004,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name113",
-    "PassiveBuff": "[64001131]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001131
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Equipments_Armor_Erosion",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 113,
     "ID": 11302,
-    "ArtifactSetID": 113,
+    "AddBattlePower": 0,
+    "Sort": 3004,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name113",
-    "PassiveBuff": "[64001132]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001132
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Equipments_Armor_Erosion",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 114,
     "ID": 11401,
-    "ArtifactSetID": 114,
+    "AddBattlePower": 0,
+    "Sort": 3003,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name114",
-    "PassiveBuff": "[64001141]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Destroyer"
+    "PassiveBuff": [
+      64001141
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Destroyer",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.114"
   },
   {
+    "ArtifactSetID": 114,
     "ID": 11402,
-    "ArtifactSetID": 114,
+    "AddBattlePower": 0,
+    "Sort": 3003,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name114",
-    "PassiveBuff": "[64001142, 64001143]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Destroyer"
+    "PassiveBuff": [
+      64001142,
+      64001143
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Destroyer",
+    "SetIcon": "Artifact_Armor_Legendary_Heavy_9",
+    "SetBannerName": "Filter.ArtifactSetEffect.114"
   },
   {
+    "ArtifactSetID": 115,
     "ID": 11501,
-    "ArtifactSetID": 115,
+    "AddBattlePower": 0,
+    "Sort": 3002,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name115",
-    "PassiveBuff": "[64003041]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Warmonger"
+    "PassiveBuff": [
+      64003041
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Warmonger",
+    "SetIcon": "Artifact_Equipments_Armor_CrimsonKnight",
+    "SetBannerName": "Filter.ArtifactSetEffect.115"
   },
   {
+    "ArtifactSetID": 115,
     "ID": 11502,
-    "ArtifactSetID": 115,
+    "AddBattlePower": 0,
+    "Sort": 3002,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name115",
-    "PassiveBuff": "[64003042]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Warmonger"
+    "PassiveBuff": [
+      64003042
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Warmonger",
+    "SetIcon": "Artifact_Equipments_Armor_CrimsonKnight",
+    "SetBannerName": "Filter.ArtifactSetEffect.115"
   },
   {
+    "ArtifactSetID": 301,
     "ID": 30101,
-    "ArtifactSetID": 301,
+    "AddBattlePower": 0,
+    "Sort": 2017,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name301",
-    "PassiveBuff": "[64002011]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_ChampionontheField"
+    "PassiveBuff": [
+      64002011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChampionontheField",
+    "SetIcon": "Artifact_Bracelet_Common_Fire_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.301"
   },
   {
+    "ArtifactSetID": 301,
     "ID": 30102,
-    "ArtifactSetID": 301,
+    "AddBattlePower": 0,
+    "Sort": 2017,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name301",
-    "PassiveBuff": "[64002013]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_ChampionontheField"
+    "PassiveBuff": [
+      64002013
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChampionontheField",
+    "SetIcon": "Artifact_Bracelet_Common_Fire_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.301"
   },
   {
+    "ArtifactSetID": 302,
     "ID": 30201,
-    "ArtifactSetID": 302,
+    "AddBattlePower": 0,
+    "Sort": 2016,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name302",
-    "PassiveBuff": "[64002021]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Executioner"
+    "PassiveBuff": [
+      64002021
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Executioner",
+    "SetIcon": "Artifact_Bracelet_Common_Naga_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.302"
   },
   {
+    "ArtifactSetID": 302,
     "ID": 30202,
-    "ArtifactSetID": 302,
+    "AddBattlePower": 0,
+    "Sort": 2016,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name302",
-    "PassiveBuff": "[64002022]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Executioner"
+    "PassiveBuff": [
+      64002022
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Executioner",
+    "SetIcon": "Artifact_Bracelet_Common_Naga_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.302"
   },
   {
+    "ArtifactSetID": 303,
     "ID": 30301,
-    "ArtifactSetID": 303,
+    "AddBattlePower": 0,
+    "Sort": 2015,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name303",
-    "PassiveBuff": "[64002031]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Berserker"
+    "PassiveBuff": [
+      64002031
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Berserker",
+    "SetIcon": "Artifact_Bracelet_Common_Bone_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.303"
   },
   {
+    "ArtifactSetID": 303,
     "ID": 30302,
-    "ArtifactSetID": 303,
+    "AddBattlePower": 0,
+    "Sort": 2015,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name303",
-    "PassiveBuff": "[64002033]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Berserker"
+    "PassiveBuff": [
+      64002033
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Berserker",
+    "SetIcon": "Artifact_Bracelet_Common_Bone_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.303"
   },
   {
+    "ArtifactSetID": 304,
     "ID": 30401,
-    "ArtifactSetID": 304,
+    "AddBattlePower": 0,
+    "Sort": 2014,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name304",
-    "PassiveBuff": "[64003071]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_OutstandingAbility"
+    "PassiveBuff": [
+      64003071
+    ],
+    "SetBannerResource": "Img_Artifact_Set_OutstandingAbility",
+    "SetIcon": "Artifact_Bracelet_Common_Darkness_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.304"
   },
   {
+    "ArtifactSetID": 304,
     "ID": 30402,
-    "ArtifactSetID": 304,
+    "AddBattlePower": 0,
+    "Sort": 2014,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name304",
-    "PassiveBuff": "[64013071]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_OutstandingAbility"
+    "PassiveBuff": [
+      64013071
+    ],
+    "SetBannerResource": "Img_Artifact_Set_OutstandingAbility",
+    "SetIcon": "Artifact_Bracelet_Common_Darkness_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.304"
   },
   {
+    "ArtifactSetID": 305,
     "ID": 30501,
-    "ArtifactSetID": 305,
+    "AddBattlePower": 0,
+    "Sort": 2013,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name305",
-    "PassiveBuff": "[64002051]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002051
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 305,
     "ID": 30502,
-    "ArtifactSetID": 305,
+    "AddBattlePower": 0,
+    "Sort": 2013,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name305",
-    "PassiveBuff": "[64002052]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002052
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 306,
     "ID": 30601,
-    "ArtifactSetID": 306,
+    "AddBattlePower": 0,
+    "Sort": 2012,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name306",
-    "PassiveBuff": "[64002061]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_Expert"
+    "PassiveBuff": [
+      64002061
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Expert",
+    "SetIcon": "Artifact_Bracelet_Common_Beast_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.306"
   },
   {
+    "ArtifactSetID": 306,
     "ID": 30602,
-    "ArtifactSetID": 306,
+    "AddBattlePower": 0,
+    "Sort": 2012,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name306",
-    "PassiveBuff": "[64002063]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_Expert"
+    "PassiveBuff": [
+      64002063
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Expert",
+    "SetIcon": "Artifact_Bracelet_Common_Beast_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.306"
   },
   {
+    "ArtifactSetID": 307,
     "ID": 30701,
-    "ArtifactSetID": 307,
+    "AddBattlePower": 0,
+    "Sort": 2011,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name307",
-    "PassiveBuff": "[64002071]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002071
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Accessories_Bracelet_GateKeeper",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 307,
     "ID": 30702,
-    "ArtifactSetID": 307,
+    "AddBattlePower": 0,
+    "Sort": 2011,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name307",
-    "PassiveBuff": "[64002072]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002072
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Accessories_Bracelet_GateKeeper",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 308,
     "ID": 30801,
-    "ArtifactSetID": 308,
+    "AddBattlePower": 0,
+    "Sort": 2010,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name308",
-    "PassiveBuff": "[64002081, 64002082]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002081,
+      64002082
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet_Common_Orc_1",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 308,
     "ID": 30802,
-    "ArtifactSetID": 308,
+    "AddBattlePower": 0,
+    "Sort": 2010,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name308",
-    "PassiveBuff": "[64002083, 64002084]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002083,
+      64002084
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet_Common_Orc_1",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 309,
     "ID": 30901,
-    "ArtifactSetID": 309,
+    "AddBattlePower": 0,
+    "Sort": 2009,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name309",
-    "PassiveBuff": "[64002091]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002091
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 309,
     "ID": 30902,
-    "ArtifactSetID": 309,
+    "AddBattlePower": 0,
+    "Sort": 2009,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name309",
-    "PassiveBuff": "[64002092]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002092
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 310,
     "ID": 31001,
-    "ArtifactSetID": 310,
+    "AddBattlePower": 0,
+    "Sort": 2008,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name310",
-    "PassiveBuff": "[64002101]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002101
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 310,
     "ID": 31002,
-    "ArtifactSetID": 310,
+    "AddBattlePower": 0,
+    "Sort": 2008,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name310",
-    "PassiveBuff": "[64002102]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002102
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 311,
     "ID": 31101,
-    "ArtifactSetID": 311,
+    "AddBattlePower": 0,
+    "Sort": 2007,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name311",
-    "PassiveBuff": "[64003061]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_SylphBlessing"
+    "PassiveBuff": [
+      64003061
+    ],
+    "SetBannerResource": "Img_Artifact_Set_SylphBlessing",
+    "SetIcon": "Artifact_Bracelet_Common_Wind_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.311"
   },
   {
+    "ArtifactSetID": 311,
     "ID": 31102,
-    "ArtifactSetID": 311,
+    "AddBattlePower": 0,
+    "Sort": 2007,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name311",
-    "PassiveBuff": "[64013061]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_SylphBlessing"
+    "PassiveBuff": [
+      64013061
+    ],
+    "SetBannerResource": "Img_Artifact_Set_SylphBlessing",
+    "SetIcon": "Artifact_Bracelet_Common_Wind_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.311"
   },
   {
+    "ArtifactSetID": 312,
     "ID": 31201,
-    "ArtifactSetID": 312,
+    "AddBattlePower": 0,
+    "Sort": 2006,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name312",
-    "PassiveBuff": "[64002121]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_OutstandingConnection"
+    "PassiveBuff": [
+      64002121
+    ],
+    "SetBannerResource": "Img_Artifact_Set_OutstandingConnection",
+    "SetIcon": "Artifact_Bracelet_Common_Water_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.312"
   },
   {
+    "ArtifactSetID": 312,
     "ID": 31202,
-    "ArtifactSetID": 312,
+    "AddBattlePower": 0,
+    "Sort": 2006,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name312",
-    "PassiveBuff": "[64002123]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_OutstandingConnection"
+    "PassiveBuff": [
+      64002123
+    ],
+    "SetBannerResource": "Img_Artifact_Set_OutstandingConnection",
+    "SetIcon": "Artifact_Bracelet_Common_Water_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.312"
   },
   {
+    "ArtifactSetID": 313,
     "ID": 31301,
-    "ArtifactSetID": 313,
+    "AddBattlePower": 0,
+    "Sort": 2005,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name313",
-    "PassiveBuff": "[64002131]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64002131
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Accessories_Bracelet_Mage",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 313,
     "ID": 31302,
-    "ArtifactSetID": 313,
+    "AddBattlePower": 0,
+    "Sort": 2005,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name313",
-    "PassiveBuff": "[64002132]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64002132
+    ],
+    "SetBannerResource": "Img_Artifact_Set_thumbnail_01",
+    "SetIcon": "Artifact_Accessories_Bracelet_Mage",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 314,
     "ID": 31401,
-    "ArtifactSetID": 314,
+    "AddBattlePower": 0,
+    "Sort": 2004,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name314",
-    "PassiveBuff": "[64002141]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_ConcentrationofFirepower"
+    "PassiveBuff": [
+      64002141
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ConcentrationofFirepower",
+    "SetIcon": "Artifact_Bracelet_Common_Nature_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.314"
   },
   {
+    "ArtifactSetID": 314,
     "ID": 31402,
-    "ArtifactSetID": 314,
+    "AddBattlePower": 0,
+    "Sort": 2004,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name314",
-    "PassiveBuff": "[64002142]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_ConcentrationofFirepower"
+    "PassiveBuff": [
+      64002142
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ConcentrationofFirepower",
+    "SetIcon": "Artifact_Bracelet_Common_Nature_1",
+    "SetBannerName": "Filter.ArtifactSetEffect.314"
   },
   {
+    "ArtifactSetID": 315,
     "ID": 31501,
-    "ArtifactSetID": 315,
+    "AddBattlePower": 0,
+    "Sort": 2003,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name315",
-    "PassiveBuff": "[64002151]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002151
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet_Common_Light_1",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 315,
     "ID": 31502,
-    "ArtifactSetID": 315,
+    "AddBattlePower": 0,
+    "Sort": 2003,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name315",
-    "PassiveBuff": "[64002153]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64002153
+    ],
+    "SetBannerResource": "",
+    "SetIcon": "Artifact_Bracelet_Common_Light_1",
+    "SetBannerName": ""
   },
   {
+    "ArtifactSetID": 501,
     "ID": 50101,
-    "ArtifactSetID": 501,
+    "AddBattlePower": 0,
+    "Sort": 4003,
+    "AddBattlePowerR": 0.04500000178813934,
     "Condition": 2,
     "Name": "ArtifactSet.Name501",
-    "PassiveBuff": "[64003011]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.04500000178813934,
-    "SetBannerResource": "Img_Artifact_Set_BurningCurse"
+    "PassiveBuff": [
+      64003011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningCurse",
+    "SetIcon": "Artifact_Armor_DemonCastle_Heavy_1",
+    "SetBannerName": "ArtifactSet.Name501"
   },
   {
+    "ArtifactSetID": 501,
     "ID": 50102,
-    "ArtifactSetID": 501,
+    "AddBattlePower": 0,
+    "Sort": 4003,
+    "AddBattlePowerR": 0.13500000536441803,
     "Condition": 4,
     "Name": "ArtifactSet.Name501",
-    "PassiveBuff": "[64003019, 64003014]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.13500000536441803,
-    "SetBannerResource": "Img_Artifact_Set_BurningCurse"
+    "PassiveBuff": [
+      64003019,
+      64003014
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningCurse",
+    "SetIcon": "Artifact_Armor_DemonCastle_Heavy_1",
+    "SetBannerName": "ArtifactSet.Name501"
   },
   {
+    "ArtifactSetID": 501,
     "ID": 50103,
-    "ArtifactSetID": 501,
+    "AddBattlePower": 0,
+    "Sort": 4003,
+    "AddBattlePowerR": 0.1897200047969818,
     "Condition": 8,
     "Name": "ArtifactSet.Name501",
-    "PassiveBuff": "[64003017]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.1897200047969818,
-    "SetBannerResource": "Img_Artifact_Set_BurningCurse"
+    "PassiveBuff": [
+      64003017
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningCurse",
+    "SetIcon": "Artifact_Armor_DemonCastle_Heavy_1",
+    "SetBannerName": "ArtifactSet.Name501"
   },
   {
+    "ArtifactSetID": 502,
     "ID": 50201,
-    "ArtifactSetID": 502,
+    "AddBattlePower": 0,
+    "Sort": 4002,
+    "AddBattlePowerR": 0.04500000178813934,
     "Condition": 2,
     "Name": "ArtifactSet.Name502",
-    "PassiveBuff": "[64003021]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.04500000178813934,
-    "SetBannerResource": "Img_Artifact_Set_BurningGreed"
+    "PassiveBuff": [
+      64003021
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningGreed",
+    "SetIcon": "Artifact_Armor_DemonCastle_Light_2",
+    "SetBannerName": "ArtifactSet.Name502"
   },
   {
+    "ArtifactSetID": 502,
     "ID": 50202,
-    "ArtifactSetID": 502,
+    "AddBattlePower": 0,
+    "Sort": 4002,
+    "AddBattlePowerR": 0.13500000536441803,
     "Condition": 4,
     "Name": "ArtifactSet.Name502",
-    "PassiveBuff": "[64003024]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.13500000536441803,
-    "SetBannerResource": "Img_Artifact_Set_BurningGreed"
+    "PassiveBuff": [
+      64003024
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningGreed",
+    "SetIcon": "Artifact_Armor_DemonCastle_Light_2",
+    "SetBannerName": "ArtifactSet.Name502"
   },
   {
+    "ArtifactSetID": 502,
     "ID": 50203,
-    "ArtifactSetID": 502,
+    "AddBattlePower": 0,
+    "Sort": 4002,
+    "AddBattlePowerR": 0.1897200047969818,
     "Condition": 8,
     "Name": "ArtifactSet.Name502",
-    "PassiveBuff": "[64003027, 64003029]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.1897200047969818,
-    "SetBannerResource": "Img_Artifact_Set_BurningGreed"
+    "PassiveBuff": [
+      64003027,
+      64003029
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningGreed",
+    "SetIcon": "Artifact_Armor_DemonCastle_Light_2",
+    "SetBannerName": "ArtifactSet.Name502"
   },
   {
+    "ArtifactSetID": 503,
     "ID": 50301,
-    "ArtifactSetID": 503,
-    "Condition": 2,
-    "Name": "ArtifactSet.Name503",
-    "PassiveBuff": "[64003031, 64003032]",
     "AddBattlePower": 0,
+    "Sort": 4001,
     "AddBattlePowerR": 0.04500000178813934,
-    "SetBannerResource": "Img_Artifact_Set_BurningBlessing"
+    "Condition": 2,
+    "Name": "ArtifactSet.Name503",
+    "PassiveBuff": [
+      64003031,
+      64003032
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningBlessing",
+    "SetIcon": "Artifact_Armor_DemonCastle_Light_1",
+    "SetBannerName": "ArtifactSet.Name503"
   },
   {
+    "ArtifactSetID": 503,
     "ID": 50302,
-    "ArtifactSetID": 503,
-    "Condition": 4,
-    "Name": "ArtifactSet.Name503",
-    "PassiveBuff": "[64003035, 64003036]",
     "AddBattlePower": 0,
+    "Sort": 4001,
     "AddBattlePowerR": 0.13500000536441803,
-    "SetBannerResource": "Img_Artifact_Set_BurningBlessing"
+    "Condition": 4,
+    "Name": "ArtifactSet.Name503",
+    "PassiveBuff": [
+      64003035,
+      64003036
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningBlessing",
+    "SetIcon": "Artifact_Armor_DemonCastle_Light_1",
+    "SetBannerName": "ArtifactSet.Name503"
   },
   {
-    "ID": 50303,
     "ArtifactSetID": 503,
+    "ID": 50303,
+    "AddBattlePower": 0,
+    "Sort": 4001,
+    "AddBattlePowerR": 0.1897200047969818,
     "Condition": 8,
     "Name": "ArtifactSet.Name503",
-    "PassiveBuff": "[64013031, 64013032, 64013038]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.1897200047969818,
-    "SetBannerResource": "Img_Artifact_Set_BurningBlessing"
+    "PassiveBuff": [
+      64013031,
+      64013032,
+      64013038
+    ],
+    "SetBannerResource": "Img_Artifact_Set_BurningBlessing",
+    "SetIcon": "Artifact_Armor_DemonCastle_Light_1",
+    "SetBannerName": "ArtifactSet.Name503"
   },
   {
+    "ArtifactSetID": 601,
     "ID": 60101,
-    "ArtifactSetID": 601,
+    "AddBattlePower": 0,
+    "Sort": 1099,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name601",
-    "PassiveBuff": "[64001011]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Summer_1",
+    "SetIcon": "Artifact_Armor_Summer_1",
+    "SetBannerName": "ArtifactSet.Name601"
   },
   {
+    "ArtifactSetID": 601,
     "ID": 60102,
-    "ArtifactSetID": 601,
+    "AddBattlePower": 0,
+    "Sort": 1099,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name601",
-    "PassiveBuff": "[64001012]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64001012
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Summer_1",
+    "SetIcon": "Artifact_Armor_Summer_1",
+    "SetBannerName": "ArtifactSet.Name601"
   },
   {
+    "ArtifactSetID": 602,
     "ID": 60201,
-    "ArtifactSetID": 602,
+    "AddBattlePower": 0,
+    "Sort": 1098,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "ArtifactSet.Name602",
-    "PassiveBuff": "[64002061]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64002061
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Summer_2",
+    "SetIcon": "Artifact_Bracelet_Summer_1",
+    "SetBannerName": "ArtifactSet.Name602"
   },
   {
+    "ArtifactSetID": 602,
     "ID": 60202,
-    "ArtifactSetID": 602,
+    "AddBattlePower": 0,
+    "Sort": 1098,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "ArtifactSet.Name602",
-    "PassiveBuff": "[64002063]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": "Img_Artifact_Set_thumbnail_01"
+    "PassiveBuff": [
+      64002063
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Summer_2",
+    "SetIcon": "Artifact_Bracelet_Summer_1",
+    "SetBannerName": "ArtifactSet.Name602"
   },
   {
-    "ID": 60301,
     "ArtifactSetID": 603,
+    "ID": 60301,
+    "AddBattlePower": 0,
+    "Sort": 1097,
+    "AddBattlePowerR": 0.02500000037252903,
     "Condition": 2,
     "Name": "Event.24Halloween.Main.TitleShort",
-    "PassiveBuff": "[64003011]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.02500000037252903,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64003011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Halloween_1",
+    "SetIcon": "Artifact_Armor_Halloween_1",
+    "SetBannerName": "Event.24Halloween.Main.TitleShort"
   },
   {
-    "ID": 60302,
     "ArtifactSetID": 603,
+    "ID": 60302,
+    "AddBattlePower": 0,
+    "Sort": 1097,
+    "AddBattlePowerR": 0.07500000298023224,
     "Condition": 4,
     "Name": "Event.24Halloween.Main.TitleShort",
-    "PassiveBuff": "[64003019, 64003014]",
-    "AddBattlePower": 0,
-    "AddBattlePowerR": 0.07500000298023224,
-    "SetBannerResource": ""
+    "PassiveBuff": [
+      64003019,
+      64003014
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Halloween_1",
+    "SetIcon": "Artifact_Armor_Halloween_1",
+    "SetBannerName": "Event.24Halloween.Main.TitleShort"
   },
   {
-    "ID": 60303,
     "ArtifactSetID": 603,
+    "ID": 60303,
+    "AddBattlePower": 0,
+    "Sort": 1096,
+    "AddBattlePowerR": 0.15000000596046448,
     "Condition": 8,
     "Name": "Event.24Halloween.Main.TitleShort",
-    "PassiveBuff": "[64003017]",
+    "PassiveBuff": [
+      64003017
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Halloween_1",
+    "SetIcon": "Artifact_Armor_Halloween_1",
+    "SetBannerName": "Event.24Halloween.Main.TitleShort"
+  },
+  {
+    "ArtifactSetID": 604,
+    "ID": 60401,
     "AddBattlePower": 0,
+    "Sort": 1096,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "Event.24Holiday.Main.Title",
+    "PassiveBuff": [
+      64003041
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Xmas_1",
+    "SetIcon": "Artifact_Armor_Xmas_1",
+    "SetBannerName": "Event.24Holiday.Main.Title"
+  },
+  {
+    "ArtifactSetID": 604,
+    "ID": 60402,
+    "AddBattlePower": 0,
+    "Sort": 1095,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "Event.24Holiday.Main.Title",
+    "PassiveBuff": [
+      64003042
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Xmas_1",
+    "SetIcon": "Artifact_Armor_Xmas_1",
+    "SetBannerName": "Event.24Holiday.Main.Title"
+  },
+  {
+    "ArtifactSetID": 605,
+    "ID": 60501,
+    "AddBattlePower": 0,
+    "Sort": 1095,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "Skin.Name.ShimizuAkari.00001",
+    "PassiveBuff": [
+      64003071
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Xmas_2",
+    "SetIcon": "Artifact_Bracelet_Xmas_1",
+    "SetBannerName": "Skin.Name.ShimizuAkari.00001"
+  },
+  {
+    "ArtifactSetID": 605,
+    "ID": 60502,
+    "AddBattlePower": 0,
+    "Sort": 1094,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "Skin.Name.ShimizuAkari.00001",
+    "PassiveBuff": [
+      64013071
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Xmas_2",
+    "SetIcon": "Artifact_Bracelet_Xmas_1",
+    "SetBannerName": "Skin.Name.ShimizuAkari.00001"
+  },
+  {
+    "ArtifactSetID": 606,
+    "ID": 60601,
+    "AddBattlePower": 0,
+    "Sort": 1094,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "EventArtifact_2025_cherryblossom_set1",
+    "PassiveBuff": [
+      64001011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_25Spring_1",
+    "SetIcon": "Artifact_Armor_25Spring",
+    "SetBannerName": "EventArtifact_2025_cherryblossom_set1"
+  },
+  {
+    "ArtifactSetID": 606,
+    "ID": 60602,
+    "AddBattlePower": 0,
+    "Sort": 1093,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "EventArtifact_2025_cherryblossom_set1",
+    "PassiveBuff": [
+      64001012
+    ],
+    "SetBannerResource": "Img_Artifact_Set_25Spring_1",
+    "SetIcon": "Artifact_Armor_25Spring",
+    "SetBannerName": "EventArtifact_2025_cherryblossom_set1"
+  },
+  {
+    "ArtifactSetID": 607,
+    "ID": 60701,
+    "AddBattlePower": 0,
+    "Sort": 1093,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "EventArtifact_2025_cherryblossom_set2",
+    "PassiveBuff": [
+      64002011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_25Spring_2",
+    "SetIcon": "Artifact_Bracelet_25Spring",
+    "SetBannerName": "EventArtifact_2025_cherryblossom_set2"
+  },
+  {
+    "ArtifactSetID": 607,
+    "ID": 60702,
+    "AddBattlePower": 0,
+    "Sort": 1092,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "EventArtifact_2025_cherryblossom_set2",
+    "PassiveBuff": [
+      64002013
+    ],
+    "SetBannerResource": "Img_Artifact_Set_25Spring_2",
+    "SetIcon": "Artifact_Bracelet_25Spring",
+    "SetBannerName": "EventArtifact_2025_cherryblossom_set2"
+  },
+  {
+    "ArtifactSetID": 504,
+    "ID": 50401,
+    "AddBattlePower": 0,
+    "Sort": 4006,
+    "AddBattlePowerR": 0.04500000178813934,
+    "Condition": 2,
+    "Name": "BuffName.ChaosStigma",
+    "PassiveBuff": [
+      64003078,
+      64003079,
+      64003080,
+      64003083
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosStigma",
+    "SetIcon": "Artifact_Equipments_Armor_Stigma",
+    "SetBannerName": "BuffName.ChaosStigma"
+  },
+  {
+    "ArtifactSetID": 504,
+    "ID": 50402,
+    "AddBattlePower": 0,
+    "Sort": 4006,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "BuffName.ChaosStigma",
+    "PassiveBuff": [
+      64003085,
+      64003086,
+      64003087,
+      64003090,
+      64003093
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosStigma",
+    "SetIcon": "Artifact_Equipments_Armor_Stigma",
+    "SetBannerName": "BuffName.ChaosStigma"
+  },
+  {
+    "ArtifactSetID": 504,
+    "ID": 50403,
+    "AddBattlePower": 0,
+    "Sort": 4006,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "BuffName.ChaosStigma",
+    "PassiveBuff": [
+      64003095,
+      64003096,
+      64003097,
+      64003103,
+      64003106,
+      64003112,
+      64003114
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosStigma",
+    "SetIcon": "Artifact_Equipments_Armor_Stigma",
+    "SetBannerName": "BuffName.ChaosStigma"
+  },
+  {
+    "ArtifactSetID": 505,
+    "ID": 50501,
+    "AddBattlePower": 0,
+    "Sort": 4005,
+    "AddBattlePowerR": 0.04500000178813934,
+    "Condition": 2,
+    "Name": "BuffName.ChaosCarving",
+    "PassiveBuff": [
+      64003115
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosCarving",
+    "SetIcon": "Artifact_Equipments_Armor_Carving",
+    "SetBannerName": "BuffName.ChaosCarving"
+  },
+  {
+    "ArtifactSetID": 505,
+    "ID": 50502,
+    "AddBattlePower": 0,
+    "Sort": 4005,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "BuffName.ChaosCarving",
+    "PassiveBuff": [
+      64003119
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosCarving",
+    "SetIcon": "Artifact_Equipments_Armor_Carving",
+    "SetBannerName": "BuffName.ChaosCarving"
+  },
+  {
+    "ArtifactSetID": 505,
+    "ID": 50503,
+    "AddBattlePower": 0,
+    "Sort": 4005,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "BuffName.ChaosCarving",
+    "PassiveBuff": [
+      64003123,
+      64003127
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosCarving",
+    "SetIcon": "Artifact_Equipments_Armor_Carving",
+    "SetBannerName": "BuffName.ChaosCarving"
+  },
+  {
+    "ArtifactSetID": 506,
+    "ID": 50601,
+    "AddBattlePower": 0,
+    "Sort": 4004,
+    "AddBattlePowerR": 0.04500000178813934,
+    "Condition": 2,
+    "Name": "BuffName.ChaosPrayer",
+    "PassiveBuff": [
+      64003130
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosPrayer",
+    "SetIcon": "Artifact_Equipments_Armor_Prayer",
+    "SetBannerName": "BuffName.ChaosPrayer"
+  },
+  {
+    "ArtifactSetID": 506,
+    "ID": 50602,
+    "AddBattlePower": 0,
+    "Sort": 4004,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "BuffName.ChaosPrayer",
+    "PassiveBuff": [
+      64003132,
+      64003133
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosPrayer",
+    "SetIcon": "Artifact_Equipments_Armor_Prayer",
+    "SetBannerName": "BuffName.ChaosPrayer"
+  },
+  {
+    "ArtifactSetID": 506,
+    "ID": 50603,
+    "AddBattlePower": 0,
+    "Sort": 4004,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "BuffName.ChaosPrayer",
+    "PassiveBuff": [
+      64003137,
+      64003138,
+      64003139,
+      64003140
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosPrayer",
+    "SetIcon": "Artifact_Equipments_Armor_Prayer",
+    "SetBannerName": "BuffName.ChaosPrayer"
+  },
+  {
+    "ArtifactSetID": 116,
+    "ID": 11601,
+    "AddBattlePower": 0,
+    "Sort": 3001,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "BuffName.IronWill",
+    "PassiveBuff": [
+      64003147
+    ],
+    "SetBannerResource": "Img_Artifact_Set_IronWill",
+    "SetIcon": "Artifact_Equipments_Armor_Ironwill",
+    "SetBannerName": "BuffName.IronWill"
+  },
+  {
+    "ArtifactSetID": 116,
+    "ID": 11602,
+    "AddBattlePower": 0,
+    "Sort": 3001,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "BuffName.IronWill",
+    "PassiveBuff": [
+      64003148,
+      64003149
+    ],
+    "SetBannerResource": "Img_Artifact_Set_IronWill",
+    "SetIcon": "Artifact_Equipments_Armor_Ironwill",
+    "SetBannerName": "BuffName.IronWill"
+  },
+  {
+    "ArtifactSetID": 316,
+    "ID": 31601,
+    "AddBattlePower": 0,
+    "Sort": 2002,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "BuffName.ShiningStar",
+    "PassiveBuff": [
+      64003158,
+      64003162
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ShiningStar",
+    "SetIcon": "Artifact_Bracelet_Common_Light_1",
+    "SetBannerName": "BuffName.ShiningStar"
+  },
+  {
+    "ArtifactSetID": 316,
+    "ID": 31602,
+    "AddBattlePower": 0,
+    "Sort": 2002,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "BuffName.ShiningStar",
+    "PassiveBuff": [
+      64003160,
+      64003164
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ShiningStar",
+    "SetIcon": "Artifact_Bracelet_Common_Light_1",
+    "SetBannerName": "BuffName.ShiningStar"
+  },
+  {
+    "ArtifactSetID": 317,
+    "ID": 31701,
+    "AddBattlePower": 0,
+    "Sort": 2001,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "BuffName.Instinct",
+    "PassiveBuff": [
+      64003155
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Instinct",
+    "SetIcon": "Artifact_Accessories_Bracelet_Instinct",
+    "SetBannerName": "BuffName.Instinct"
+  },
+  {
+    "ArtifactSetID": 317,
+    "ID": 31702,
+    "AddBattlePower": 0,
+    "Sort": 2001,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "BuffName.Instinct",
+    "PassiveBuff": [
+      64003156
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Instinct",
+    "SetIcon": "Artifact_Accessories_Bracelet_Instinct",
+    "SetBannerName": "BuffName.Instinct"
+  },
+  {
+    "ArtifactSetID": 608,
+    "ID": 60801,
+    "AddBattlePower": 0,
+    "Sort": 1091,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "EventArtifact_2025_1st_annivarsary_set1",
+    "PassiveBuff": [
+      64003011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set1"
+  },
+  {
+    "ArtifactSetID": 608,
+    "ID": 60802,
+    "AddBattlePower": 0,
+    "Sort": 1091,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "EventArtifact_2025_1st_annivarsary_set1",
+    "PassiveBuff": [
+      64003019,
+      64003014
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set1"
+  },
+  {
+    "ArtifactSetID": 608,
+    "ID": 60803,
+    "AddBattlePower": 0,
+    "Sort": 1091,
     "AddBattlePowerR": 0.15000000596046448,
-    "SetBannerResource": ""
+    "Condition": 8,
+    "Name": "EventArtifact_2025_1st_annivarsary_set1",
+    "PassiveBuff": [
+      64003017
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set1"
+  },
+  {
+    "ArtifactSetID": 609,
+    "ID": 60901,
+    "AddBattlePower": 0,
+    "Sort": 1090,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "EventArtifact_2025_1st_annivarsary_set2",
+    "PassiveBuff": [
+      64003021
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow2",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow2",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set2"
+  },
+  {
+    "ArtifactSetID": 609,
+    "ID": 60902,
+    "AddBattlePower": 0,
+    "Sort": 1090,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "EventArtifact_2025_1st_annivarsary_set2",
+    "PassiveBuff": [
+      64003024
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow2",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow2",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set2"
+  },
+  {
+    "ArtifactSetID": 609,
+    "ID": 60903,
+    "AddBattlePower": 0,
+    "Sort": 1090,
+    "AddBattlePowerR": 0.15000000596046448,
+    "Condition": 8,
+    "Name": "EventArtifact_2025_1st_annivarsary_set2",
+    "PassiveBuff": [
+      64003027,
+      64003029
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow2",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow2",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set2"
+  },
+  {
+    "ArtifactSetID": 610,
+    "ID": 61001,
+    "AddBattlePower": 0,
+    "Sort": 1089,
+    "AddBattlePowerR": 0.02500000037252903,
+    "Condition": 2,
+    "Name": "EventArtifact_2025_1st_annivarsary_set3",
+    "PassiveBuff": [
+      64003031,
+      64003032
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow3",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow3",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set3"
+  },
+  {
+    "ArtifactSetID": 610,
+    "ID": 61002,
+    "AddBattlePower": 0,
+    "Sort": 1089,
+    "AddBattlePowerR": 0.07500000298023224,
+    "Condition": 4,
+    "Name": "EventArtifact_2025_1st_annivarsary_set3",
+    "PassiveBuff": [
+      64003035,
+      64003036
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow3",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow3",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set3"
+  },
+  {
+    "ArtifactSetID": 610,
+    "ID": 61003,
+    "AddBattlePower": 0,
+    "Sort": 1089,
+    "AddBattlePowerR": 0.15000000596046448,
+    "Condition": 8,
+    "Name": "EventArtifact_2025_1st_annivarsary_set3",
+    "PassiveBuff": [
+      64013031,
+      64013032,
+      64013038
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Shadow3",
+    "SetIcon": "Artifact_Equipments_Armor_Shadow3",
+    "SetBannerName": "EventArtifact_2025_1st_annivarsary_set3"
+  },
+  {
+    "ArtifactSetID": 510,
+    "ID": 51001,
+    "AddBattlePower": 0,
+    "Sort": 1087,
+    "AddBattlePowerR": 0.04500000178813934,
+    "Condition": 2,
+    "Name": "ArtifactSet.Name.Event.Equipments_FRR",
+    "PassiveBuff": [
+      64001011
+    ],
+    "SetBannerResource": "Img_Artifact_Set_FRR_2",
+    "SetIcon": "Artifact_Equipments_Armor_FRR",
+    "SetBannerName": "ArtifactSet.Name.Event.Equipments_FRR"
+  },
+  {
+    "ArtifactSetID": 510,
+    "ID": 51002,
+    "AddBattlePower": 0,
+    "Sort": 1087,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Event.Equipments_FRR",
+    "PassiveBuff": [
+      64001012
+    ],
+    "SetBannerResource": "Img_Artifact_Set_FRR_2",
+    "SetIcon": "Artifact_Equipments_Armor_FRR",
+    "SetBannerName": "ArtifactSet.Name.Event.Equipments_FRR"
+  },
+  {
+    "ArtifactSetID": 511,
+    "ID": 51101,
+    "AddBattlePower": 0,
+    "Sort": 1088,
+    "AddBattlePowerR": 0.04500000178813934,
+    "Condition": 2,
+    "Name": "ArtifactSet.Name.Event.Accessories_FRR",
+    "PassiveBuff": [
+      64002061
+    ],
+    "SetBannerResource": "Img_Artifact_Set_FRR_1",
+    "SetIcon": "Artifact_Accessories_Bracelet_FRR",
+    "SetBannerName": "ArtifactSet.Name.Event.Accessories_FRR"
+  },
+  {
+    "ArtifactSetID": 511,
+    "ID": 51102,
+    "AddBattlePower": 0,
+    "Sort": 1088,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Event.Accessories_FRR",
+    "PassiveBuff": [
+      64002063
+    ],
+    "SetBannerResource": "Img_Artifact_Set_FRR_1",
+    "SetIcon": "Artifact_Accessories_Bracelet_FRR",
+    "SetBannerName": "ArtifactSet.Name.Event.Accessories_FRR"
   }
 ]

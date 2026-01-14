@@ -1,0 +1,138 @@
+[
+  {
+    "ID": 1,
+    "MiniGameActiveValue": 0,
+    "MiniGameOrder": 1,
+    "MiniGameGroup": 1,
+    "EventRate": 3000,
+    "ResultGroup": 300110,
+    "Banner": "Img_Simulation_Minigame_RPS",
+    "MiniGameActiveType": "Win",
+    "MiniGameType": "RPS",
+    "DialogTitle": "Simulation.RPS.Title",
+    "DialogTag": [
+      "Simulation.RPS.desc"
+    ]
+  },
+  {
+    "ID": 2,
+    "MiniGameActiveValue": 0,
+    "MiniGameOrder": 2,
+    "MiniGameGroup": 1,
+    "EventRate": 3000,
+    "ResultGroup": 300130,
+    "Banner": "",
+    "MiniGameActiveType": "Lose",
+    "MiniGameType": "RPS",
+    "DialogTitle": "",
+    "DialogTag": []
+  },
+  {
+    "ID": 3,
+    "MiniGameActiveValue": 0,
+    "MiniGameOrder": 3,
+    "MiniGameGroup": 1,
+    "EventRate": 3000,
+    "ResultGroup": 300120,
+    "Banner": "",
+    "MiniGameActiveType": "Draw",
+    "MiniGameType": "RPS",
+    "DialogTitle": "",
+    "DialogTag": []
+  },
+  {
+    "ID": 4,
+    "MiniGameActiveValue": 0,
+    "MiniGameOrder": 1,
+    "MiniGameGroup": 2,
+    "EventRate": 1000,
+    "ResultGroup": 300220,
+    "Banner": "Img_Simulation_Minigame_Dice",
+    "MiniGameActiveType": "Lose",
+    "MiniGameType": "Dice",
+    "DialogTitle": "Simulation.Dice.Title",
+    "DialogTag": [
+      "Simulation.Dice.desc"
+    ]
+  },
+  {
+    "ID": 5,
+    "MiniGameActiveValue": 0,
+    "MiniGameOrder": 2,
+    "MiniGameGroup": 2,
+    "EventRate": 1000,
+    "ResultGroup": 300210,
+    "Banner": "",
+    "MiniGameActiveType": "Win",
+    "MiniGameType": "Dice",
+    "DialogTitle": "",
+    "DialogTag": []
+  },
+  {
+    "ID": 10,
+    "MiniGameActiveValue": 1,
+    "MiniGameOrder": 1,
+    "MiniGameGroup": 3,
+    "EventRate": 5000,
+    "ResultGroup": 1,
+    "Banner": "Img_Ch0_CartenonTemple_ClosedDoor",
+    "MiniGameActiveType": "Capsule",
+    "MiniGameType": "Capsule",
+    "DialogTitle": "DialogMain.Title1",
+    "DialogTag": [
+      "DialogMain.Desc1"
+    ]
+  },
+  {
+    "ID": 11,
+    "MiniGameActiveValue": 2,
+    "MiniGameOrder": 2,
+    "MiniGameGroup": 3,
+    "EventRate": 2700,
+    "ResultGroup": 3,
+    "Banner": "",
+    "MiniGameActiveType": "Capsule",
+    "MiniGameType": "Capsule",
+    "DialogTitle": "",
+    "DialogTag": []
+  },
+  {
+    "ID": 12,
+    "MiniGameActiveValue": 3,
+    "MiniGameOrder": 3,
+    "MiniGameGroup": 3,
+    "EventRate": 1200,
+    "ResultGroup": 4,
+    "Banner": "",
+    "MiniGameActiveType": "Capsule",
+    "MiniGameType": "Capsule",
+    "DialogTitle": "",
+    "DialogTag": []
+  },
+  {
+    "ID": 13,
+    "MiniGameActiveValue": 4,
+    "MiniGameOrder": 4,
+    "MiniGameGroup": 3,
+    "EventRate": 800,
+    "ResultGroup": 5,
+    "Banner": "",
+    "MiniGameActiveType": "Capsule",
+    "MiniGameType": "Capsule",
+    "DialogTitle": "",
+    "DialogTag": []
+  },
+  {
+    "ID": 14,
+    "MiniGameActiveValue": 5,
+    "MiniGameOrder": 5,
+    "MiniGameGroup": 3,
+    "EventRate": 300,
+    "ResultGroup": 6,
+    "Banner": "",
+    "MiniGameActiveType": "Capsule",
+    "MiniGameType": "Capsule",
+    "DialogTitle": "",
+    "DialogTag": []
+  }
+]

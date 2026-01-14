@@ -1,0 +1,56 @@
+[
+  {
+    "LineBlockCount": 8,
+    "HPMax": 70,
+    "ID": 70000,
+    "RecordReward": 421,
+    "TutorialID": 2027,
+    "RankingGroupMain": 503,
+    "PCSpeed": 250,
+    "StartBlockLineCount": 4,
+    "RankingGroupSub": 0,
+    "BlockBreakScore": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Event.Minigame.Mine.Title.Sea",
+    "PCPrefab": "MiniGame_Mine_Char_PC_01",
+    "ModuleName": "MiniGameMine_Module_Sea",
+    "RecordRewardReset": "Weekly",
+    "BGImg": "BG_MiniGame_Mine_Sea",
+    "BlockBreakCount": [
+      1,
+      2,
+      3
+    ],
+    "ResultPopupImg": "Img_Event_Result_Mine_Sea"
+  },
+  {
+    "LineBlockCount": 8,
+    "HPMax": 70,
+    "ID": 70001,
+    "RecordReward": 426,
+    "TutorialID": 2033,
+    "RankingGroupMain": 503,
+    "PCSpeed": 250,
+    "StartBlockLineCount": 4,
+    "RankingGroupSub": 0,
+    "BlockBreakScore": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Event.25Party_MiniA.Title",
+    "PCPrefab": "MiniGame_Mine_Char_PC_01",
+    "ModuleName": "MiniGameMine_Module_Party",
+    "RecordRewardReset": "Weekly",
+    "BGImg": "BG_MiniGame_Mine_Party",
+    "BlockBreakCount": [
+      1,
+      2,
+      3
+    ],
+    "ResultPopupImg": "Img_Event_Result_Mine_Party"
+  }
+]

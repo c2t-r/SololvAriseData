@@ -1,786 +1,1114 @@
 [
   {
+    "Order": 1,
     "ID": 1,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 1,
+    "ContentsType": "Hunter",
     "CategoryString": "SysConstStr.Glossary.Power"
   },
   {
+    "Order": 2,
     "ID": 2,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 2,
+    "ContentsType": "Hunter",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 3,
     "ID": 3,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 3,
+    "ContentsType": "Hunter",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 4,
     "ID": 4,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "Att",
-    "Order": 4,
+    "ContentsType": "Hunter",
     "CategoryString": "ESortCategory.Att"
   },
   {
+    "Order": 5,
     "ID": 5,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "HP",
-    "Order": 5,
+    "ContentsType": "Hunter",
     "CategoryString": "SysConstStr.GlossaryCombat.StatMHP"
   },
   {
+    "Order": 6,
     "ID": 6,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "Arm",
-    "Order": 6,
+    "ContentsType": "Hunter",
     "CategoryString": "EStatType.Arm"
   },
   {
+    "Order": 7,
     "ID": 7,
-    "ContentsType": "Hunter",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 7,
+    "ContentsType": "Hunter",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 8,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 1,
+    "ContentsType": "GS",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 2,
     "ID": 9,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 2,
+    "ContentsType": "GS",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 3,
     "ID": 10,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "ID",
-    "Order": 3,
+    "ContentsType": "GS",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 4,
     "ID": 11,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 4,
+    "ContentsType": "GS",
     "CategoryString": "SysConstStr.Glossary.Power"
   },
   {
+    "Order": 5,
     "ID": 12,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "SkillLevel",
-    "Order": 5,
+    "ContentsType": "GS",
     "CategoryString": "SysConstStr.SJWPage.PassiveSkillRuneSkillLevel"
   },
   {
+    "Order": 6,
     "ID": 13,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "Evolve",
-    "Order": 6,
+    "ContentsType": "GS",
     "CategoryString": "SysConstStr.Glossary.Ascend"
   },
   {
+    "Order": 7,
     "ID": 14,
-    "ContentsType": "GS",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 7,
+    "ContentsType": "GS",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 15,
-    "ContentsType": "Relic",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 1,
+    "ContentsType": "Relic",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 2,
     "ID": 16,
-    "ContentsType": "Relic",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 2,
+    "ContentsType": "Relic",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 3,
     "ID": 17,
-    "ContentsType": "Relic",
     "GroupID": 1,
     "SortCategory": "ID",
-    "Order": 3,
+    "ContentsType": "Relic",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 4,
     "ID": 18,
-    "ContentsType": "Relic",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 4,
+    "ContentsType": "Relic",
     "CategoryString": "SysConstStr.Glossary.Power"
   },
   {
+    "Order": 5,
     "ID": 19,
-    "ContentsType": "Relic",
     "GroupID": 1,
     "SortCategory": "Evolve",
-    "Order": 5,
+    "ContentsType": "Relic",
     "CategoryString": "SysConstStr.Glossary.Ascend"
   },
   {
+    "Order": 6,
     "ID": 20,
-    "ContentsType": "Relic",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 6,
+    "ContentsType": "Relic",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 21,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "Grade",
-    "Order": 1,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 2,
     "ID": 22,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "Rarity",
-    "Order": 2,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 3,
     "ID": 23,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "Enhance",
-    "Order": 3,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.Glossary.EnhanceStep"
   },
   {
+    "Order": 4,
     "ID": 24,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "EquipmentType",
-    "Order": 4,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
   },
   {
+    "Order": 6,
     "ID": 25,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 6,
+    "ContentsType": "Artifact",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 26,
-    "ContentsType": "Artifact",
     "GroupID": 2,
     "SortCategory": "Grade",
-    "Order": 1,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 2,
     "ID": 27,
-    "ContentsType": "Artifact",
     "GroupID": 2,
     "SortCategory": "Rarity",
-    "Order": 2,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 3,
     "ID": 28,
-    "ContentsType": "Artifact",
     "GroupID": 2,
     "SortCategory": "Enhance",
-    "Order": 3,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.Glossary.EnhanceStep"
   },
   {
+    "Order": 5,
     "ID": 29,
-    "ContentsType": "Artifact",
     "GroupID": 2,
     "SortCategory": "Acquisition",
-    "Order": 5,
+    "ContentsType": "Artifact",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 30,
-    "ContentsType": "Shadow",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 1,
+    "ContentsType": "Shadow",
     "CategoryString": "SysConstStr.Glossary.Power"
   },
   {
+    "Order": 3,
     "ID": 31,
-    "ContentsType": "Shadow",
     "GroupID": 1,
     "SortCategory": "Promotion",
-    "Order": 3,
+    "ContentsType": "Shadow",
     "CategoryString": "SysConstStr.ShadowPage.Promotion"
   },
   {
+    "Order": 3,
     "ID": 32,
-    "ContentsType": "Shadow",
     "GroupID": 1,
     "SortCategory": "Proficiency",
-    "Order": 3,
+    "ContentsType": "Shadow",
     "CategoryString": "SysConstStr.ShadowPage.Upgrade"
   },
   {
+    "Order": 1,
     "ID": 33,
-    "ContentsType": "Inventory",
     "GroupID": 1,
     "SortCategory": "InvenCategory",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.SortType"
   },
   {
+    "Order": 2,
     "ID": 34,
-    "ContentsType": "Inventory",
     "GroupID": 1,
     "SortCategory": "Rarity",
-    "Order": 2,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 1,
     "ID": 35,
-    "ContentsType": "Inventory",
     "GroupID": 2,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 3,
     "ID": 37,
-    "ContentsType": "Inventory",
     "GroupID": 3,
     "SortCategory": "GemType",
-    "Order": 3,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.Glossary.GemType"
   },
   {
+    "Order": 1,
     "ID": 38,
-    "ContentsType": "Inventory",
     "GroupID": 4,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 2,
     "ID": 39,
-    "ContentsType": "Inventory",
     "GroupID": 4,
     "SortCategory": "CharUpgrade",
-    "Order": 2,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiType"
   },
   {
+    "Order": 1,
     "ID": 40,
-    "ContentsType": "Inventory",
     "GroupID": 5,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
-    "ID": 41,
-    "ContentsType": "Craft",
-    "GroupID": 1,
-    "SortCategory": "ID",
     "Order": 1,
+    "ID": 41,
+    "GroupID": 2,
+    "SortCategory": "ID",
+    "ContentsType": "Craft",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiType"
   },
   {
-    "ID": 42,
-    "ContentsType": "Craft",
-    "GroupID": 1,
-    "SortCategory": "TotalRarity",
     "Order": 2,
-    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
-  },
-  {
-    "ID": 43,
-    "ContentsType": "Craft",
+    "ID": 42,
     "GroupID": 2,
     "SortCategory": "TotalRarity",
-    "Order": 1,
+    "ContentsType": "Craft",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 1,
+    "ID": 43,
+    "GroupID": 1,
+    "SortCategory": "TotalRarity",
+    "ContentsType": "Craft",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 1,
     "ID": 44,
-    "ContentsType": "Collection",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 1,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 2,
     "ID": 45,
-    "ContentsType": "Collection",
     "GroupID": 1,
     "SortCategory": "ID",
-    "Order": 2,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 1,
     "ID": 46,
-    "ContentsType": "Collection",
     "GroupID": 3,
     "SortCategory": "BaseGradeType",
-    "Order": 1,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 2,
     "ID": 47,
-    "ContentsType": "Collection",
     "GroupID": 3,
     "SortCategory": "Weapon",
-    "Order": 2,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.InventoryFilter.WeaponType"
   },
   {
+    "Order": 3,
     "ID": 48,
-    "ContentsType": "Collection",
     "GroupID": 3,
     "SortCategory": "ID",
-    "Order": 3,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 1,
     "ID": 49,
-    "ContentsType": "Collection",
     "GroupID": 4,
     "SortCategory": "ID",
-    "Order": 1,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 1,
     "ID": 50,
-    "ContentsType": "Collection",
     "GroupID": 5,
-    "SortCategory": "Grade",
+    "SortCategory": "ArtifactSetSort",
+    "ContentsType": "Collection",
+    "CategoryString": ""
+  },
+  {
     "Order": 1,
-    "CategoryString": "SysConstStr.Glossary.Level"
-  },
-  {
-    "ID": 51,
-    "ContentsType": "Collection",
-    "GroupID": 5,
-    "SortCategory": "Rarity",
-    "Order": 2,
-    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
-  },
-  {
-    "ID": 52,
-    "ContentsType": "Collection",
-    "GroupID": 5,
-    "SortCategory": "EquipmentType",
-    "Order": 3,
-    "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
-  },
-  {
-    "ID": 53,
-    "ContentsType": "Collection",
-    "GroupID": 6,
-    "SortCategory": "Rarity",
-    "Order": 1,
-    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
-  },
-  {
     "ID": 54,
-    "ContentsType": "Collection",
     "GroupID": 7,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Collection",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 2,
     "ID": 55,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 2,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 1,
     "ID": 56,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 1,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 3,
     "ID": 57,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "Weapon",
-    "Order": 3,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.InventoryFilter.WeaponType"
   },
   {
+    "Order": 4,
     "ID": 58,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "ID",
-    "Order": 4,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 7,
     "ID": 59,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 7,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.Glossary.Power"
   },
   {
+    "Order": 6,
     "ID": 60,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "SkillLevel",
-    "Order": 6,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.SJWPage.PassiveSkillRuneSkillLevel"
   },
   {
+    "Order": 5,
     "ID": 61,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "Evolve",
-    "Order": 5,
+    "ContentsType": "Weapon",
     "CategoryString": "SysConstStr.Glossary.Ascend"
   },
   {
+    "Order": 8,
     "ID": 62,
-    "ContentsType": "Weapon",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 8,
+    "ContentsType": "Weapon",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 63,
-    "ContentsType": "Mail",
     "GroupID": 1,
     "SortCategory": "ReceivedTime",
-    "Order": 1,
+    "ContentsType": "Mail",
     "CategoryString": "SysConstStr.Glossary.SortTypeReceivedTime"
   },
   {
+    "Order": 2,
     "ID": 64,
-    "ContentsType": "Mail",
     "GroupID": 1,
     "SortCategory": "RemainTime",
-    "Order": 2,
+    "ContentsType": "Mail",
     "CategoryString": "SysConstStr.Glossary.SortTypeRemainTime"
   },
   {
+    "Order": 3,
     "ID": 65,
-    "ContentsType": "Mail",
     "GroupID": 1,
     "SortCategory": "Reward",
-    "Order": 3,
+    "ContentsType": "Mail",
     "CategoryString": "SysConstStr.Glossary.SortTypeReward"
   },
   {
-    "ID": 66,
-    "ContentsType": "Collection",
-    "GroupID": 8,
-    "SortCategory": "Rarity",
     "Order": 1,
-    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
-  },
-  {
     "ID": 67,
-    "ContentsType": "Inventory",
     "GroupID": 6,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 1,
     "ID": 68,
-    "ContentsType": "Inventory",
     "GroupID": 7,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 1,
     "ID": 69,
-    "ContentsType": "Inventory",
     "GroupID": 8,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 1,
     "ID": 70,
-    "ContentsType": "Craft",
     "GroupID": 3,
     "SortCategory": "TotalRarity",
-    "Order": 1,
+    "ContentsType": "Craft",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 7,
     "ID": 71,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "SetEffect",
-    "Order": 7,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.ArtifactPage.Set"
   },
   {
+    "Order": 6,
     "ID": 72,
-    "ContentsType": "Artifact",
     "GroupID": 2,
     "SortCategory": "SetEffect",
-    "Order": 6,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.ArtifactPage.Set"
   },
   {
+    "Order": 2,
     "ID": 73,
-    "ContentsType": "Inventory",
     "GroupID": 3,
     "SortCategory": "Grade",
-    "Order": 2,
+    "ContentsType": "Inventory",
     "CategoryString": "SysConstStr.Achievement.Step"
   },
   {
+    "Order": 5,
     "ID": 74,
-    "ContentsType": "Artifact",
     "GroupID": 1,
     "SortCategory": "ArtifactScore",
-    "Order": 5,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.RecommendedEquip.Select.BattlePower"
   },
   {
+    "Order": 4,
     "ID": 75,
-    "ContentsType": "Artifact",
     "GroupID": 2,
     "SortCategory": "ArtifactScore",
-    "Order": 4,
+    "ContentsType": "Artifact",
     "CategoryString": "SysConstStr.RecommendedEquip.Select.BattlePower"
   },
   {
+    "Order": 1,
     "ID": 76,
-    "ContentsType": "Profile",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 1,
+    "ContentsType": "Profile",
     "CategoryString": ""
   },
   {
+    "Order": 2,
     "ID": 77,
-    "ContentsType": "Profile",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 2,
+    "ContentsType": "Profile",
     "CategoryString": ""
   },
   {
+    "Order": 3,
     "ID": 78,
-    "ContentsType": "Profile",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 3,
+    "ContentsType": "Profile",
     "CategoryString": ""
   },
   {
+    "Order": 4,
     "ID": 79,
-    "ContentsType": "Profile",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 4,
+    "ContentsType": "Profile",
     "CategoryString": ""
   },
   {
+    "Order": 1,
     "ID": 80,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "RewardBoost",
-    "Order": 1,
+    "ContentsType": "HunterStory",
     "CategoryString": "UIString.SecretArchive.BonusPreview"
   },
   {
+    "Order": 2,
     "ID": 81,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "Power",
-    "Order": 2,
+    "ContentsType": "HunterStory",
     "CategoryString": "SysConstStr.Glossary.Power"
   },
   {
+    "Order": 3,
     "ID": 82,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 3,
+    "ContentsType": "HunterStory",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 4,
     "ID": 83,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "BaseGradeType",
-    "Order": 4,
+    "ContentsType": "HunterStory",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 5,
     "ID": 84,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "Att",
-    "Order": 5,
+    "ContentsType": "HunterStory",
     "CategoryString": "ESortCategory.Att"
   },
   {
+    "Order": 6,
     "ID": 85,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "HP",
-    "Order": 6,
+    "ContentsType": "HunterStory",
     "CategoryString": "SysConstStr.GlossaryCombat.StatMHP"
   },
   {
+    "Order": 7,
     "ID": 86,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "Arm",
-    "Order": 7,
+    "ContentsType": "HunterStory",
     "CategoryString": "EStatType.Arm"
   },
   {
+    "Order": 8,
     "ID": 87,
-    "ContentsType": "HunterStory",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 8,
+    "ContentsType": "HunterStory",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 88,
-    "ContentsType": "CostumeEncyclopedia",
     "GroupID": 1,
     "SortCategory": "ID",
-    "Order": 1,
+    "ContentsType": "CostumeEncyclopedia",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
   },
   {
+    "Order": 1,
     "ID": 89,
-    "ContentsType": "Core",
     "GroupID": 1,
     "SortCategory": "Level",
-    "Order": 1,
+    "ContentsType": "Core",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 2,
     "ID": 90,
-    "ContentsType": "Core",
     "GroupID": 1,
     "SortCategory": "Rarity",
-    "Order": 2,
+    "ContentsType": "Core",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 4,
     "ID": 91,
-    "ContentsType": "Core",
     "GroupID": 1,
     "SortCategory": "CoreType",
-    "Order": 4,
+    "ContentsType": "Core",
     "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
   },
   {
+    "Order": 5,
     "ID": 92,
-    "ContentsType": "Core",
     "GroupID": 1,
     "SortCategory": "Acquisition",
-    "Order": 5,
+    "ContentsType": "Core",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
+    "Order": 1,
     "ID": 93,
-    "ContentsType": "Core",
     "GroupID": 2,
     "SortCategory": "Level",
-    "Order": 1,
+    "ContentsType": "Core",
     "CategoryString": "SysConstStr.Glossary.Level"
   },
   {
+    "Order": 2,
     "ID": 94,
-    "ContentsType": "Core",
     "GroupID": 2,
     "SortCategory": "Rarity",
-    "Order": 2,
+    "ContentsType": "Core",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
+    "Order": 5,
     "ID": 95,
-    "ContentsType": "Core",
     "GroupID": 2,
     "SortCategory": "Acquisition",
-    "Order": 4,
+    "ContentsType": "Core",
     "CategoryString": "ESortCategory.Obtain"
   },
   {
-    "ID": 96,
-    "ContentsType": "Collection",
-    "GroupID": 9,
+    "Order": 3,
+    "ID": 98,
+    "GroupID": 1,
+    "SortCategory": "CoreOption",
+    "ContentsType": "Core",
+    "CategoryString": "SysConstStr.InventoryFilter.CoreOption"
+  },
+  {
+    "Order": 3,
+    "ID": 99,
+    "GroupID": 2,
+    "SortCategory": "CoreOption",
+    "ContentsType": "Core",
+    "CategoryString": "SysConstStr.InventoryFilter.CoreOption"
+  },
+  {
+    "Order": 2,
+    "ID": 100,
+    "GroupID": 1,
     "SortCategory": "Rarity",
-    "Order": 1,
+    "ContentsType": "AchieveMedal",
     "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
   },
   {
-    "ID": 97,
-    "ContentsType": "Collection",
-    "GroupID": 9,
-    "SortCategory": "ID",
-    "Order": 2,
-    "CategoryString": "SysConstStr.Glossary.SortTypeID"
-  },
-  {
-    "ID": 98,
-    "ContentsType": "Core",
+    "Order": 4,
+    "ID": 101,
     "GroupID": 1,
-    "SortCategory": "CoreOption",
-    "Order": 3,
-    "CategoryString": "SysConstStr.InventoryFilter.CoreOption"
+    "SortCategory": "Acquisition",
+    "ContentsType": "AchieveMedal",
+    "CategoryString": "ESortCategory.Obtain"
   },
   {
-    "ID": 99,
-    "ContentsType": "Core",
-    "GroupID": 2,
-    "SortCategory": "CoreOption",
+    "Order": 1,
+    "ID": 102,
+    "GroupID": 9,
+    "SortCategory": "Rarity",
+    "ContentsType": "Inventory",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 1,
+    "ID": 103,
+    "GroupID": 1,
+    "SortCategory": "Power",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 2,
+    "ID": 104,
+    "GroupID": 1,
+    "SortCategory": "SkillLevel",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.SJWPage.PassiveSkillRuneSkillLevel"
+  },
+  {
     "Order": 3,
-    "CategoryString": "SysConstStr.InventoryFilter.CoreOption"
+    "ID": 105,
+    "GroupID": 1,
+    "SortCategory": "Level",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 4,
+    "ID": 106,
+    "GroupID": 1,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 5,
+    "ID": 107,
+    "GroupID": 1,
+    "SortCategory": "Att",
+    "ContentsType": "Event",
+    "CategoryString": "ESortCategory.Att"
+  },
+  {
+    "Order": 6,
+    "ID": 108,
+    "GroupID": 1,
+    "SortCategory": "HP",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.GlossaryCombat.StatMHP"
+  },
+  {
+    "Order": 7,
+    "ID": 109,
+    "GroupID": 1,
+    "SortCategory": "Arm",
+    "ContentsType": "Event",
+    "CategoryString": "EStatType.Arm"
+  },
+  {
+    "Order": 8,
+    "ID": 110,
+    "GroupID": 1,
+    "SortCategory": "Acquisition",
+    "ContentsType": "Event",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 111,
+    "GroupID": 2,
+    "SortCategory": "Power",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 2,
+    "ID": 112,
+    "GroupID": 2,
+    "SortCategory": "Proficiency",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.ShadowPage.Upgrade"
+  },
+  {
+    "Order": 3,
+    "ID": 113,
+    "GroupID": 2,
+    "SortCategory": "Level",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 4,
+    "ID": 114,
+    "GroupID": 2,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 5,
+    "ID": 115,
+    "GroupID": 2,
+    "SortCategory": "Att",
+    "ContentsType": "Event",
+    "CategoryString": "ESortCategory.Att"
+  },
+  {
+    "Order": 6,
+    "ID": 116,
+    "GroupID": 2,
+    "SortCategory": "HP",
+    "ContentsType": "Event",
+    "CategoryString": "SysConstStr.GlossaryCombat.StatMHP"
+  },
+  {
+    "Order": 7,
+    "ID": 117,
+    "GroupID": 2,
+    "SortCategory": "Arm",
+    "ContentsType": "Event",
+    "CategoryString": "EStatType.Arm"
+  },
+  {
+    "Order": 8,
+    "ID": 118,
+    "GroupID": 2,
+    "SortCategory": "Acquisition",
+    "ContentsType": "Event",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 119,
+    "GroupID": 3,
+    "SortCategory": "Recommend",
+    "ContentsType": "Artifact",
+    "CategoryString": "ESortCategory.Recommend"
+  },
+  {
+    "Order": 2,
+    "ID": 120,
+    "GroupID": 3,
+    "SortCategory": "Grade",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.Glossary.ArtifactGrade"
+  },
+  {
+    "Order": 3,
+    "ID": 121,
+    "GroupID": 3,
+    "SortCategory": "Rarity",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 4,
+    "ID": 122,
+    "GroupID": 3,
+    "SortCategory": "Enhance",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.Glossary.EnhanceStep"
+  },
+  {
+    "Order": 5,
+    "ID": 123,
+    "GroupID": 3,
+    "SortCategory": "EquipmentType",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
+  },
+  {
+    "Order": 6,
+    "ID": 124,
+    "GroupID": 3,
+    "SortCategory": "ArtifactScore",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.RecommendedEquip.Select.BattlePower"
+  },
+  {
+    "Order": 7,
+    "ID": 125,
+    "GroupID": 3,
+    "SortCategory": "Acquisition",
+    "ContentsType": "Artifact",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 8,
+    "ID": 126,
+    "GroupID": 3,
+    "SortCategory": "SetEffect",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.ArtifactPage.Set"
+  },
+  {
+    "Order": 1,
+    "ID": 127,
+    "GroupID": 1,
+    "SortCategory": "SkillCraftAble",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_CraftAble"
+  },
+  {
+    "Order": 2,
+    "ID": 128,
+    "GroupID": 1,
+    "SortCategory": "ID",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_ID"
+  },
+  {
+    "Order": 1,
+    "ID": 129,
+    "GroupID": 2,
+    "SortCategory": "SkillCraftAble",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_CraftAble"
+  },
+  {
+    "Order": 2,
+    "ID": 130,
+    "GroupID": 2,
+    "SortCategory": "ID",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_ID"
+  },
+  {
+    "Order": 1,
+    "ID": 131,
+    "GroupID": 3,
+    "SortCategory": "SkillEnhanceAble",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_EnhanceAble"
+  },
+  {
+    "Order": 2,
+    "ID": 132,
+    "GroupID": 3,
+    "SortCategory": "ID",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_ID"
+  },
+  {
+    "Order": 1,
+    "ID": 133,
+    "GroupID": 4,
+    "SortCategory": "SkillEnhanceAble",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_EnhanceAble"
+  },
+  {
+    "Order": 2,
+    "ID": 134,
+    "GroupID": 4,
+    "SortCategory": "ID",
+    "ContentsType": "SkillResearch",
+    "CategoryString": "SysConStr.SortGroup.SkillResearch_ID"
+  },
+  {
+    "Order": 1,
+    "ID": 136,
+    "GroupID": 2,
+    "SortCategory": "Power",
+    "ContentsType": "Hunter",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 2,
+    "ID": 137,
+    "GroupID": 2,
+    "SortCategory": "Level",
+    "ContentsType": "Hunter",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 138,
+    "GroupID": 2,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "Hunter",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 4,
+    "ID": 139,
+    "GroupID": 2,
+    "SortCategory": "Att",
+    "ContentsType": "Hunter",
+    "CategoryString": "ESortCategory.Att"
+  },
+  {
+    "Order": 5,
+    "ID": 140,
+    "GroupID": 2,
+    "SortCategory": "HP",
+    "ContentsType": "Hunter",
+    "CategoryString": "SysConstStr.GlossaryCombat.StatMHP"
+  },
+  {
+    "Order": 6,
+    "ID": 141,
+    "GroupID": 2,
+    "SortCategory": "Arm",
+    "ContentsType": "Hunter",
+    "CategoryString": "EStatType.Arm"
+  },
+  {
+    "Order": 7,
+    "ID": 142,
+    "GroupID": 2,
+    "SortCategory": "Acquisition",
+    "ContentsType": "Hunter",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 143,
+    "GroupID": 1,
+    "SortCategory": "TotalStar",
+    "ContentsType": "MonsterGathering",
+    "CategoryString": "ESortCategory.TotalStar"
+  },
+  {
+    "Order": 1,
+    "ID": 144,
+    "GroupID": 2,
+    "SortCategory": "MonsterPortraitID",
+    "ContentsType": "MonsterGathering",
+    "CategoryString": "ESortCategory.MonsterPortraitID"
+  },
+  {
+    "Order": 2,
+    "ID": 145,
+    "GroupID": 2,
+    "SortCategory": "MonsterPortraitQty",
+    "ContentsType": "MonsterGathering",
+    "CategoryString": "ESortCategory.MonsterPortraitQty"
+  },
+  {
+    "Order": 1,
+    "ID": 154,
+    "GroupID": 1,
+    "SortCategory": "PvpSpell",
+    "ContentsType": "EventPvp",
+    "CategoryString": "ESortCategory.PvpSpell"
+  },
+  {
+    "Order": 4,
+    "ID": 155,
+    "GroupID": 2,
+    "SortCategory": "CoreType",
+    "ContentsType": "Core",
+    "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
   }
 ]

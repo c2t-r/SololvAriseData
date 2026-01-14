@@ -1,16 +1,54 @@
 [
   {
+    "FixedProbability": 12500000,
+    "SelectPickupNumber": 4,
     "ID": 1001,
     "SelectPickupGrade": 5,
-    "SelectPickupNumber": 4,
-    "FixedProbability": 1250,
+    "LimitedSelectGroup": [],
     "SelectPickupPolicy": " SysConstStr.SelectPickUp_SelectGuide_Policy"
   },
   {
+    "FixedProbability": 25000000,
+    "SelectPickupNumber": 2,
     "ID": 1002,
     "SelectPickupGrade": 5,
-    "SelectPickupNumber": 2,
-    "FixedProbability": 2500,
+    "LimitedSelectGroup": [],
     "SelectPickupPolicy": " SysConstStr.SelectPickUp_SelectGuide_Policy_01"
+  },
+  {
+    "FixedProbability": 100000000,
+    "SelectPickupNumber": 1,
+    "ID": 1003,
+    "SelectPickupGrade": 5,
+    "LimitedSelectGroup": [],
+    "SelectPickupPolicy": "SysConstStr.SelectPickUp_SelectGuide_Policy_02_1"
+  },
+  {
+    "FixedProbability": 16666667,
+    "SelectPickupNumber": 3,
+    "ID": 1004,
+    "SelectPickupGrade": 5,
+    "LimitedSelectGroup": [],
+    "SelectPickupPolicy": " SysConstStr.SelectPickUp_SelectGuide_Policy"
+  },
+  {
+    "FixedProbability": 2,
+    "SelectPickupNumber": 1,
+    "ID": 6001,
+    "SelectPickupGrade": 5,
+    "LimitedSelectGroup": [
+      7001
+    ],
+    "SelectPickupPolicy": "SysConstStr.SelectPickUp_SelectGuide_Policy_IDLE_01"
+  },
+  {
+    "FixedProbability": 4,
+    "SelectPickupNumber": 1,
+    "ID": 6002,
+    "SelectPickupGrade": 5,
+    "LimitedSelectGroup": [
+      7002
+    ],
+    "SelectPickupPolicy": "SysConstStr.SelectPickUp_SelectGuide_Policy_IDLE_02"
   }
 ]

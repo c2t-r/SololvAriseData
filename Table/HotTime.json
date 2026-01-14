@@ -1,506 +1,2173 @@
 [
   {
-    "ID": 501,
-    "Unused": true,
-    "HotTimeType": "HotTime",
-    "PackageGroup": true,
-    "HotTimeGroupID": 5,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 0,
-    "HotTimeDescString": "HotTimeDesc.ArtifactCostDiscount",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "ArtifactUnequipCostDiscount",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "DiscountRate",
-    "HotTimeTargetGroup": 0,
     "HotTimeEffectValue": 10000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 501,
+    "HotTimeGroupID": 5,
+    "Unused": true,
     "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_ArtifactUnEquipCost",
-    "ContentsMoveTarget": "[0]",
-    "HotTimeEffectFocus": "[]"
+    "HotTimeEffect": "DiscountRate",
+    "HotTimeContents": "ArtifactUnequipCostDiscount",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.ArtifactCostDiscount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 7000201,
-    "Unused": true,
-    "HotTimeType": "Monthly",
-    "PackageGroup": true,
-    "HotTimeGroupID": 70002,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 1,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_Gate_01",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "InstantDungeon",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "MultiplePlay",
-    "HotTimeTargetGroup": 0,
     "HotTimeEffectValue": 1,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "HotTime_Monthly_GateSweep",
-    "ContentsMoveTarget": "[8]",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 7000202,
-    "Unused": true,
-    "HotTimeType": "Monthly",
-    "PackageGroup": true,
-    "HotTimeGroupID": 70002,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 2,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_Gate_00",
-    "StringOverlap": true,
     "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 7,
+    "ID": 901,
+    "HotTimeGroupID": 901,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 901,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_GoldUp",
+    "HotTimeEffect": "RewardExtraAdd",
     "HotTimeContents": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "Sweep",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 10,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "HotTime_Monthly_SpecialSweep",
-    "ContentsMoveTarget": "[8]",
-    "HotTimeEffectFocus": ""
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      39
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.901",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 7000203,
-    "Unused": true,
-    "HotTimeType": "Monthly",
-    "PackageGroup": true,
-    "HotTimeGroupID": 70002,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 7,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_Gate_02",
-    "StringOverlap": true,
+    "HotTimeEffectValue": 5000,
     "DuplicationType": true,
-    "HotTimeContents": "GateMission",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 902,
+    "HotTimeGroupID": 902,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30002,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_ExpUp",
     "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 70002,
-    "HotTimeEffectValue": 3000,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "HotTime_Monthly_GateRewardUp",
-    "ContentsMoveTarget": "[8]",
-    "HotTimeEffectFocus": ""
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.902",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 7000204,
-    "Unused": true,
-    "HotTimeType": "Monthly",
-    "PackageGroup": true,
-    "HotTimeGroupID": 70002,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 3,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_Idle00",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "Idle",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 70003,
-    "HotTimeEffectValue": 3000,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "HotTime_Monthly_IdleRewardUp",
-    "ContentsMoveTarget": "[35]",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 7000206,
-    "Unused": true,
-    "HotTimeType": "Monthly",
-    "PackageGroup": true,
-    "HotTimeGroupID": 70002,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 4,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_Idle02",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "Idle",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "Instant",
-    "HotTimeTargetGroup": 0,
     "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 903,
+    "HotTimeGroupID": 903,
+    "Unused": true,
     "CommonBuffID": 0,
-    "HotTimeIcon": "HotTime_Monthly_SpecialIdleReward",
-    "ContentsMoveTarget": "[35]",
-    "HotTimeEffectFocus": ""
+    "HotTimeTargetGroup": 903,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_ShadowUpgrade01UP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.903",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 7000207,
-    "Unused": true,
-    "HotTimeType": "Monthly",
-    "PackageGroup": true,
-    "HotTimeGroupID": 70002,
-    "HotTimeRootGroup": 0,
-    "DisplayOrder": 5,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_MultiplePlay00",
-    "StringOverlap": true,
+    "HotTimeEffectValue": 1,
     "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 904,
+    "HotTimeGroupID": 904,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 904,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_ShadowEssenceUP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.904",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 905,
+    "HotTimeGroupID": 905,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30002,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_ExpUp",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.905",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 906,
+    "HotTimeGroupID": 906,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 906,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_HunterUpgrade01UP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.906",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 907,
+    "HotTimeGroupID": 907,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 907,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_HunterSkillUpgrade01UP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.907",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 908,
+    "HotTimeGroupID": 908,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 908,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_MarksofTime01UP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.908",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 909,
+    "HotTimeGroupID": 909,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 909,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_AdvancedManaCrystalUP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.909",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 910,
+    "HotTimeGroupID": 910,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 910,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_GoldUp",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.910",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 911,
+    "HotTimeGroupID": 911,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 911,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_ShadowEnergyUP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.911",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 912,
+    "HotTimeGroupID": 912,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 912,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_ArtifactEnhancementChip02UP",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.912",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 998,
+    "HotTimeGroupID": 998,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_ArtifactDropUP01",
+    "HotTimeEffect": "None",
     "HotTimeContents": "Advent",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "MultiplePlay",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 9,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "HotTime_Monthly_MultiplePlay",
-    "ContentsMoveTarget": "[40]",
-    "HotTimeEffectFocus": ""
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "HotTimeDescString": "HotTimeDesc.ArtifactDrop_UIShow",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 7000208,
-    "Unused": true,
-    "HotTimeType": "Monthly",
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
     "PackageGroup": true,
-    "HotTimeGroupID": 70002,
     "HotTimeRootGroup": 0,
-    "DisplayOrder": 6,
-    "HotTimeDescString": "HotTimeDesc.MonthlyB_ChaosBattleField",
+    "ID": 999,
+    "HotTimeGroupID": 998,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
     "StringOverlap": true,
+    "DisplayOrder": 2,
+    "HotTimeIcon": "HotTime_ArtifactDropUP01",
+    "HotTimeEffect": "None",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "HotTimeDescString": "HotTimeDesc.ArtifactDrop_UIShow",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
     "DuplicationType": true,
-    "HotTimeContents": "ChaosBattleField",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000201,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_Monthly_GateSweep",
     "HotTimeEffect": "MultiplePlay",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_Gate_01",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 20,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000202,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
     "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 2,
+    "HotTimeIcon": "HotTime_Monthly_SpecialSweep",
+    "HotTimeEffect": "Sweep",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_Gate_00",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 3000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000203,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 70002,
+    "StringOverlap": true,
+    "DisplayOrder": 7,
+    "HotTimeIcon": "HotTime_Monthly_GateRewardUp",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "GateMission",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_Gate_02",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 3000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000204,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 70003,
+    "StringOverlap": true,
+    "DisplayOrder": 3,
+    "HotTimeIcon": "HotTime_Monthly_IdleRewardUp",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Idle",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      35
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_Idle00",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000206,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 4,
+    "HotTimeIcon": "HotTime_Monthly_SpecialIdleReward",
+    "HotTimeEffect": "Instant",
+    "HotTimeContents": "Idle",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      35
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_Idle02",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 9,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000207,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 5,
+    "HotTimeIcon": "HotTime_Monthly_MultiplePlay",
+    "HotTimeEffect": "MultiplePlay",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_MultiplePlay00",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
     "HotTimeEffectValue": 4,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000208,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
     "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 6,
     "HotTimeIcon": "HotTime_Monthly_ChaosBattleField",
-    "ContentsMoveTarget": "[47]",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "MultiplePlay",
+    "HotTimeContents": "ChaosBattleField",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_ChaosBattleField",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 2000001,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000001,
-    "HotTimeRootGroup": 1,
-    "DisplayOrder": 1,
-    "HotTimeDescString": "GuildShop.Effort_Lv1",
-    "StringOverlap": true,
+    "HotTimeEffectValue": 10,
     "DuplicationType": true,
-    "HotTimeContents": "Idle",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 20001,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000209,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 8,
+    "HotTimeIcon": "HotTime_Monthly_Raid",
+    "HotTimeEffect": "MultiplePlay",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      23
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_Raid",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000210,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 9,
+    "HotTimeIcon": "HotTime_Monthly_DimensionGate_4",
+    "HotTimeEffect": "MultiplePlay",
+    "HotTimeContents": "SimulationGate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      110502
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_MultiplePlay_DimensionGate01",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 7000211,
+    "HotTimeGroupID": 70002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 10,
+    "HotTimeIcon": "HotTime_Monthly_HunterStory",
+    "HotTimeEffect": "MultiplePlay",
+    "HotTimeContents": "HunterStory",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Monthly",
+    "ContentsMoveTarget": [
+      46
+    ],
+    "HotTimeDescString": "HotTimeDesc.MonthlyB_MultiplePlay_HunterStory",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
     "HotTimeEffectValue": 300,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 1,
+    "ID": 2000001,
+    "HotTimeGroupID": 2000001,
+    "Unused": true,
     "CommonBuffID": 0,
+    "HotTimeTargetGroup": 20001,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
     "HotTimeIcon": "GuildSkill_Item_Effort_Lv1",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Idle",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop.Effort_Lv1",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 2000002,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000002,
-    "HotTimeRootGroup": 1,
-    "DisplayOrder": 2,
-    "HotTimeDescString": "GuildShop.Effort_Lv2",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "Idle",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 20002,
     "HotTimeEffectValue": 600,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "GuildSkill_Item_Effort_Lv2",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 2000003,
-    "Unused": true,
-    "HotTimeType": "Guild",
+    "DuplicationType": true,
     "PackageGroup": true,
-    "HotTimeGroupID": 2000003,
     "HotTimeRootGroup": 1,
-    "DisplayOrder": 3,
-    "HotTimeDescString": "GuildShop.Effort_Lv3",
+    "ID": 2000002,
+    "HotTimeGroupID": 2000002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 20002,
     "StringOverlap": true,
-    "DuplicationType": true,
+    "DisplayOrder": 2,
+    "HotTimeIcon": "GuildSkill_Item_Effort_Lv2",
+    "HotTimeEffect": "RewardRate",
     "HotTimeContents": "Idle",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop.Effort_Lv2",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 1,
+    "ID": 2000003,
+    "HotTimeGroupID": 2000003,
+    "Unused": true,
+    "CommonBuffID": 0,
     "HotTimeTargetGroup": 20003,
-    "HotTimeEffectValue": 1000,
-    "CommonBuffID": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 3,
     "HotTimeIcon": "GuildSkill_Item_Effort_Lv3",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Idle",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop.Effort_Lv3",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 2,
     "ID": 2000101,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
     "HotTimeGroupID": 2000101,
-    "HotTimeRootGroup": 2,
-    "DisplayOrder": 1,
-    "HotTimeDescString": "GuildShop.Trinity_Force_Lv1",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "GuildBuff",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 0,
+    "Unused": true,
     "CommonBuffID": 29001,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
     "HotTimeIcon": "GuildSkill_Item_Trinity_Force_Lv1",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "GuildBuff",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop.Trinity_Force_Lv1",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 2,
     "ID": 2000102,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
     "HotTimeGroupID": 2000102,
-    "HotTimeRootGroup": 2,
-    "DisplayOrder": 2,
-    "HotTimeDescString": "GuildShop.Trinity_Force_Lv2",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "GuildBuff",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 0,
+    "Unused": true,
     "CommonBuffID": 29002,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 2,
     "HotTimeIcon": "GuildSkill_Item_Trinity_Force_Lv2",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 2000103,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000103,
-    "HotTimeRootGroup": 2,
-    "DisplayOrder": 3,
-    "HotTimeDescString": "GuildShop.Trinity_Force_Lv3",
-    "StringOverlap": true,
-    "DuplicationType": true,
+    "HotTimeEffect": "CommonBuffID",
     "HotTimeContents": "GuildBuff",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop.Trinity_Force_Lv2",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
     "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 2,
+    "ID": 2000103,
+    "HotTimeGroupID": 2000103,
+    "Unused": true,
     "CommonBuffID": 29003,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 3,
     "HotTimeIcon": "GuildSkill_Item_Trinity_Force_Lv3",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "GuildBuff",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop.Trinity_Force_Lv3",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 2000201,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000201,
-    "HotTimeRootGroup": 3,
-    "DisplayOrder": 1,
-    "HotTimeDescString": "GuildShop_Item_Resurrection_King_Lv1",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 20004,
     "HotTimeEffectValue": 500,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 3,
+    "ID": 2000201,
+    "HotTimeGroupID": 2000201,
+    "Unused": true,
     "CommonBuffID": 0,
+    "HotTimeTargetGroup": 20004,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
     "HotTimeIcon": "GuildSkill_Item_Resurrection_King_Lv1",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Resurrection_King_Lv1",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 2000202,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000202,
-    "HotTimeRootGroup": 3,
-    "DisplayOrder": 2,
-    "HotTimeDescString": "GuildShop_Item_Resurrection_King_Lv2",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 20005,
     "HotTimeEffectValue": 1000,
-    "CommonBuffID": 0,
-    "HotTimeIcon": "GuildSkill_Item_Resurrection_King_Lv2",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 2000203,
-    "Unused": true,
-    "HotTimeType": "Guild",
+    "DuplicationType": true,
     "PackageGroup": true,
-    "HotTimeGroupID": 2000203,
     "HotTimeRootGroup": 3,
-    "DisplayOrder": 3,
-    "HotTimeDescString": "GuildShop_Item_Resurrection_King_Lv3",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "Gate",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "RewardRate",
-    "HotTimeTargetGroup": 20006,
-    "HotTimeEffectValue": 1500,
+    "ID": 2000202,
+    "HotTimeGroupID": 2000202,
+    "Unused": true,
     "CommonBuffID": 0,
-    "HotTimeIcon": "GuildSkill_Item_Resurrection_King_Lv3",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 2000301,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000301,
-    "HotTimeRootGroup": 4,
-    "DisplayOrder": 1,
-    "HotTimeDescString": "GuildShop_Item_Strong_SeatPower_Blessing_Lv1",
+    "HotTimeTargetGroup": 20005,
     "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "WorldBoss",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 0,
-    "CommonBuffID": 29004,
-    "HotTimeIcon": "GuildSkill_Item_Strong_SeatPower_Blessing_Lv1",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
-  },
-  {
-    "ID": 2000302,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2000302,
-    "HotTimeRootGroup": 4,
     "DisplayOrder": 2,
-    "HotTimeDescString": "GuildShop_Item_Strong_SeatPower_Blessing_Lv2",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "WorldBoss",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 0,
-    "CommonBuffID": 29005,
-    "HotTimeIcon": "GuildSkill_Item_Strong_SeatPower_Blessing_Lv2",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeIcon": "GuildSkill_Item_Resurrection_King_Lv2",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Resurrection_King_Lv2",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 2000303,
-    "Unused": true,
-    "HotTimeType": "Guild",
+    "HotTimeEffectValue": 1500,
+    "DuplicationType": true,
     "PackageGroup": true,
-    "HotTimeGroupID": 2000303,
-    "HotTimeRootGroup": 4,
+    "HotTimeRootGroup": 3,
+    "ID": 2000203,
+    "HotTimeGroupID": 2000203,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 20006,
+    "StringOverlap": true,
     "DisplayOrder": 3,
-    "HotTimeDescString": "GuildShop_Item_Strong_SeatPower_Blessing_Lv3",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "WorldBoss",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
-    "HotTimeEffectValue": 0,
-    "CommonBuffID": 29006,
-    "HotTimeIcon": "GuildSkill_Item_Strong_SeatPower_Blessing_Lv3",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeIcon": "GuildSkill_Item_Resurrection_King_Lv3",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Resurrection_King_Lv3",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
   },
   {
-    "ID": 2030401,
-    "Unused": true,
-    "HotTimeType": "Guild",
-    "PackageGroup": true,
-    "HotTimeGroupID": 2030401,
-    "HotTimeRootGroup": 5,
-    "DisplayOrder": 1,
-    "HotTimeDescString": "GuildShop_Item_Uncontrollable_Force_Lv1",
-    "StringOverlap": true,
-    "DuplicationType": true,
-    "HotTimeContents": "GuildBoss",
-    "Class1": "[0]",
-    "Class2": "[0]",
-    "Class3": "",
-    "Class4": "",
-    "HotTimeEffect": "CommonBuffID",
-    "HotTimeTargetGroup": 0,
     "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 4,
+    "ID": 2000301,
+    "HotTimeGroupID": 2000301,
+    "Unused": true,
+    "CommonBuffID": 29004,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "GuildSkill_Item_Strong_SeatPower_Blessing_Lv1",
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "WorldBoss",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Strong_SeatPower_Blessing_Lv1",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 4,
+    "ID": 2000302,
+    "HotTimeGroupID": 2000302,
+    "Unused": true,
+    "CommonBuffID": 29005,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 2,
+    "HotTimeIcon": "GuildSkill_Item_Strong_SeatPower_Blessing_Lv2",
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "WorldBoss",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Strong_SeatPower_Blessing_Lv2",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 4,
+    "ID": 2000303,
+    "HotTimeGroupID": 2000303,
+    "Unused": true,
+    "CommonBuffID": 29006,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 3,
+    "HotTimeIcon": "GuildSkill_Item_Strong_SeatPower_Blessing_Lv3",
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "WorldBoss",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Strong_SeatPower_Blessing_Lv3",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 5,
+    "ID": 2030401,
+    "HotTimeGroupID": 2030401,
+    "Unused": true,
     "CommonBuffID": 29007,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
     "HotTimeIcon": "GuildSkill_Item_Uncontrollable_Force_Lv1",
-    "ContentsMoveTarget": "",
-    "HotTimeEffectFocus": ""
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "GuildBoss",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Uncontrollable_Force_Lv1",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 5,
+    "ID": 2030402,
+    "HotTimeGroupID": 2030402,
+    "Unused": true,
+    "CommonBuffID": 29008,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 2,
+    "HotTimeIcon": "GuildSkill_Item_Uncontrollable_Force_Lv2",
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "GuildBoss",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Uncontrollable_Force_Lv2",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 0,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 5,
+    "ID": 2030403,
+    "HotTimeGroupID": 2030403,
+    "Unused": true,
+    "CommonBuffID": 29009,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 3,
+    "HotTimeIcon": "GuildSkill_Item_Uncontrollable_Force_Lv3",
+    "HotTimeEffect": "CommonBuffID",
+    "HotTimeContents": "GuildBoss",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Guild",
+    "ContentsMoveTarget": [],
+    "HotTimeDescString": "GuildShop_Item_Uncontrollable_Force_Lv3",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 3000001,
+    "HotTimeGroupID": 3000001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30001,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_ExpGoldUp",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "HotTimeDesc.ComebackUserGateGoldExp",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 3000002,
+    "HotTimeGroupID": 3000002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30002,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_ExpUp",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "HotTimeDescString": "HotTimeDesc.ComebackUserGateExp3",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 3000003,
+    "HotTimeGroupID": 3000003,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30003,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_Gem_03_Up",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "ChaosBattleField",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.ChaosBattleField_GemUp",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 3000004,
+    "HotTimeGroupID": 3000004,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30004,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_ArtifactDropUP01",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.Advent_ArtifactUp",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 3000005,
+    "HotTimeGroupID": 3000005,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 30005,
+    "StringOverlap": true,
+    "DisplayOrder": 1,
+    "HotTimeIcon": "HotTime_ArtifactDropUP01",
+    "HotTimeEffect": "RewardExtraAdd",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "HotTime",
+    "ContentsMoveTarget": [
+      9
+    ],
+    "HotTimeDescString": "Event.HotTime.StringDesc.Instant_ArtifactUp",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 1000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000002,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_7",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "ArtifactInvenCount",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_00",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 40,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000003,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_1",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_01",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000004,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_2",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "ChaosBattleField",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_02",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000005,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_8",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "HunterStory",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_03",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000006,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_5",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "Gate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_04",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 2,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000007,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_4",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_05",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 2,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000008,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_6",
+    "HotTimeEffect": "AddMaxCount",
+    "HotTimeContents": "SimulationGate",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_07",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 10000,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 4000009,
+    "HotTimeGroupID": 400001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 4000009,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "Subscribe_Benefits_3",
+    "HotTimeEffect": "RewardRate",
+    "HotTimeContents": "GateMining",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "Subscribe",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.Subscribe_06",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": ""
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000001,
+    "HotTimeGroupID": 500001,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000002,
+    "HotTimeGroupID": 500002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000003,
+    "HotTimeGroupID": 500002,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000004,
+    "HotTimeGroupID": 500003,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000005,
+    "HotTimeGroupID": 500004,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000006,
+    "HotTimeGroupID": 500004,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000007,
+    "HotTimeGroupID": 500005,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000008,
+    "HotTimeGroupID": 500005,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000009,
+    "HotTimeGroupID": 500006,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000010,
+    "HotTimeGroupID": 500007,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000011,
+    "HotTimeGroupID": 500007,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000012,
+    "HotTimeGroupID": 500008,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000013,
+    "HotTimeGroupID": 500009,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000014,
+    "HotTimeGroupID": 500009,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000015,
+    "HotTimeGroupID": 500010,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000016,
+    "HotTimeGroupID": 500011,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "InstantDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000017,
+    "HotTimeGroupID": 500011,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Advent",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000018,
+    "HotTimeGroupID": 500012,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
   }
 ]

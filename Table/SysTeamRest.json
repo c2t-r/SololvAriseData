@@ -2,65 +2,79 @@
   {
     "ID": 1,
     "Unused": true,
+    "RestrictedClass": [],
     "RestrictionType": "None",
-    "RestrictedAffinity": "[]",
-    "RestrictedClass": "[]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": []
   },
   {
     "ID": 2,
     "Unused": true,
+    "RestrictedClass": [],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[\"Red\"]",
-    "RestrictedClass": "[]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": [
+      "\"Red\""
+    ]
   },
   {
     "ID": 3,
     "Unused": true,
+    "RestrictedClass": [],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[\"Blue\"]",
-    "RestrictedClass": "[]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": [
+      "\"Blue\""
+    ]
   },
   {
     "ID": 4,
     "Unused": true,
+    "RestrictedClass": [],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[\"Green\"]",
-    "RestrictedClass": "[]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": [
+      "\"Green\""
+    ]
   },
   {
     "ID": 5,
     "Unused": true,
+    "RestrictedClass": [],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[\"None\"]",
-    "RestrictedClass": "[]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": [
+      "\"None\""
+    ]
   },
   {
     "ID": 6,
     "Unused": true,
+    "RestrictedClass": [],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[\"None\"]",
-    "RestrictedClass": "[]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": [
+      "\"None\""
+    ]
   },
   {
     "ID": 7,
     "Unused": true,
+    "RestrictedClass": [
+      "\"Fighter\""
+    ],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[]",
-    "RestrictedClass": "[\"Fighter\"]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": []
   },
   {
     "ID": 8,
     "Unused": true,
+    "RestrictedClass": [
+      "\"Ranger\""
+    ],
     "RestrictionType": "All",
-    "RestrictedAffinity": "[]",
-    "RestrictedClass": "[\"Ranger\"]",
-    "RestrictedOriginRank": "[]"
+    "RestrictedOriginRank": [],
+    "RestrictedAffinity": []
   }
 ]

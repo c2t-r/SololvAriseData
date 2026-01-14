@@ -1,106 +1,139 @@
 [
   {
-    "ID": 100001,
-    "GLObjType": "Secretary",
-    "GLMenuTypeList": "[Attendance, GuildInfo, GuildManage]",
-    "ObjectID": 500240,
-    "Name": "",
-    "LobbySlotIndex": 1,
     "GreetingMent": 2009,
-    "ResourceName": "",
-    "UnlockType": "DefaultOpen",
+    "ID": 100001,
+    "ObjectID": 500240,
+    "IsEnable": true,
+    "LobbySlotIndex": 1,
     "Value": 0,
-    "IsEnable": true
-  },
-  {
-    "ID": 100002,
-    "GLObjType": "GuildMember",
-    "GLMenuTypeList": "[Profile]",
-    "ObjectID": 0,
     "Name": "",
-    "LobbySlotIndex": 0,
-    "GreetingMent": 0,
+    "UnlockType": "DefaultOpen",
+    "GLMenuTypeList": [
+      "Attendance",
+      "GuildInfo",
+      "GuildManage"
+    ],
     "ResourceName": "",
-    "UnlockType": "",
-    "Value": 0,
-    "IsEnable": true
+    "GLObjType": "Secretary"
   },
   {
+    "GreetingMent": 0,
+    "ID": 100002,
+    "ObjectID": 0,
+    "IsEnable": true,
+    "LobbySlotIndex": 0,
+    "Value": 0,
+    "Name": "",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "Profile"
+    ],
+    "ResourceName": "",
+    "GLObjType": "GuildMember"
+  },
+  {
+    "GreetingMent": 0,
     "ID": 100011,
-    "GLObjType": "GuildBoss",
-    "GLMenuTypeList": "[GuildBoss]",
     "ObjectID": 0,
-    "Name": "SysConstStr.Guild.MenuGuildBoss",
+    "IsEnable": true,
     "LobbySlotIndex": 0,
-    "GreetingMent": 0,
-    "ResourceName": "",
-    "UnlockType": "",
     "Value": 0,
-    "IsEnable": true
+    "Name": "SysConstStr.GuildLobbyMenu_GuildBoss",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "GuildBoss"
+    ],
+    "ResourceName": "",
+    "GLObjType": "GuildBoss"
   },
   {
+    "GreetingMent": 0,
     "ID": 100012,
-    "GLObjType": "GuildShop",
-    "GLMenuTypeList": "[GuildShop]",
     "ObjectID": 0,
-    "Name": "SysConstStr.Guild.MenuShop",
+    "IsEnable": true,
     "LobbySlotIndex": 0,
-    "GreetingMent": 0,
-    "ResourceName": "",
-    "UnlockType": "",
     "Value": 0,
-    "IsEnable": true
+    "Name": "SysConstStr.GuildLobbyMenu_GuildShop",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "GuildShop"
+    ],
+    "ResourceName": "",
+    "GLObjType": "GuildShop"
   },
   {
+    "GreetingMent": 0,
     "ID": 100013,
-    "GLObjType": "GuildRank",
-    "GLMenuTypeList": "[GuildRank]",
     "ObjectID": 0,
-    "Name": "SysConstStr.Guild.MenuRank",
+    "IsEnable": true,
     "LobbySlotIndex": 0,
-    "GreetingMent": 0,
-    "ResourceName": "",
-    "UnlockType": "",
     "Value": 0,
-    "IsEnable": true
+    "Name": "SysConstStr.GuildLobbyMenu_GuildRank",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "GuildRank"
+    ],
+    "ResourceName": "",
+    "GLObjType": "GuildRank"
   },
   {
+    "GreetingMent": 0,
     "ID": 100014,
-    "GLObjType": "MiniGame",
-    "GLMenuTypeList": "[MiniGame]",
     "ObjectID": 0,
-    "Name": "SysConstStr.Guild.MenuMiniGame",
+    "IsEnable": true,
     "LobbySlotIndex": 0,
-    "GreetingMent": 0,
-    "ResourceName": "",
-    "UnlockType": "",
     "Value": 0,
-    "IsEnable": true
+    "Name": "SysConstStr.GuildLobbyMenu_MiniGame",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "MiniGame"
+    ],
+    "ResourceName": "",
+    "GLObjType": "MiniGame"
   },
   {
+    "GreetingMent": 0,
     "ID": 100015,
-    "GLObjType": "JukeBox",
-    "GLMenuTypeList": "[JukeBox]",
     "ObjectID": 0,
-    "Name": "SysConstStr.Guild.MenuJukebox",
+    "IsEnable": true,
     "LobbySlotIndex": 0,
-    "GreetingMent": 0,
-    "ResourceName": "",
-    "UnlockType": "",
     "Value": 0,
-    "IsEnable": true
+    "Name": "SysConstStr.GuildLobbyMenu_JukeBox",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "JukeBox"
+    ],
+    "ResourceName": "",
+    "GLObjType": "JukeBox"
   },
   {
-    "ID": 100016,
-    "GLObjType": "GuildMission",
-    "GLMenuTypeList": "[GuildMission]",
-    "ObjectID": 0,
-    "Name": "SysConstStr.Guild.MenuMission",
-    "LobbySlotIndex": 0,
     "GreetingMent": 0,
-    "ResourceName": "",
-    "UnlockType": "",
+    "ID": 100016,
+    "ObjectID": 0,
+    "IsEnable": true,
+    "LobbySlotIndex": 0,
     "Value": 0,
-    "IsEnable": true
+    "Name": "SysConstStr.GuildLobbyMenu_GuildMission",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "GuildMission"
+    ],
+    "ResourceName": "",
+    "GLObjType": "GuildMission"
+  },
+  {
+    "GreetingMent": 0,
+    "ID": 100017,
+    "ObjectID": 0,
+    "IsEnable": true,
+    "LobbySlotIndex": 0,
+    "Value": 0,
+    "Name": "SysConstStr.GuildLobbyMenu_GuildAchievement",
+    "UnlockType": "",
+    "GLMenuTypeList": [
+      "GuildAchievement"
+    ],
+    "ResourceName": "",
+    "GLObjType": "GuildAchievement"
   }
 ]

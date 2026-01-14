@@ -1,0 +1,248 @@
+[
+  {
+    "ID": 1,
+    "MenuDesc": "",
+    "MenuIconResource": "",
+    "NpcInteractionType": "None"
+  },
+  {
+    "ID": 2,
+    "MenuDesc": "",
+    "MenuIconResource": "",
+    "NpcInteractionType": "LobbySceneChange"
+  },
+  {
+    "ID": 3,
+    "MenuDesc": "",
+    "MenuIconResource": "",
+    "NpcInteractionType": "Dialog"
+  },
+  {
+    "ID": 4,
+    "MenuDesc": "LobbyMenuBtnString.GateStatusBoard",
+    "MenuIconResource": "Icon_QuickMenu_Gate",
+    "NpcInteractionType": "GateStatusBoard"
+  },
+  {
+    "ID": 5,
+    "MenuDesc": "EDungeonType.MainStory",
+    "MenuIconResource": "Icon_QuickMenu_Story",
+    "NpcInteractionType": "MainStory"
+  },
+  {
+    "ID": 6,
+    "MenuDesc": "LobbyMenuBtnString.Shop",
+    "MenuIconResource": "Icon_QuickMenu_Shop",
+    "NpcInteractionType": "Shop"
+  },
+  {
+    "ID": 7,
+    "MenuDesc": "",
+    "MenuIconResource": "",
+    "NpcInteractionType": "PreemitiveInteraction"
+  },
+  {
+    "ID": 8,
+    "MenuDesc": "LobbyMenuBtnString.IdleSystem",
+    "MenuIconResource": "Icon_Loddy_Main_Idle",
+    "NpcInteractionType": "IdleSystem"
+  },
+  {
+    "ID": 9,
+    "MenuDesc": "LobbyMenuBtnString.Event",
+    "MenuIconResource": "Icon_QuickMenu_Event",
+    "NpcInteractionType": "Event"
+  },
+  {
+    "ID": 10,
+    "MenuDesc": "LobbyMenuBtnString.Notice",
+    "MenuIconResource": "Icon_QuickMenu_Notice",
+    "NpcInteractionType": "Notice"
+  },
+  {
+    "ID": 11,
+    "MenuDesc": "eUIType.Attendance",
+    "MenuIconResource": "Icon_QuickMenu_Attendance",
+    "NpcInteractionType": "LoginBonus"
+  },
+  {
+    "ID": 12,
+    "MenuDesc": "LobbyMenuBtnString.Gacha",
+    "MenuIconResource": "Icon_QuickMenu_Gacha",
+    "NpcInteractionType": "Gacha"
+  },
+  {
+    "ID": 13,
+    "MenuDesc": "LobbyMenuBtnString.Craft",
+    "MenuIconResource": "Icon_QuickMenu_Build",
+    "NpcInteractionType": "Craft"
+  },
+  {
+    "ID": 14,
+    "MenuDesc": "eUIType.Combine",
+    "MenuIconResource": "Icon_QuickMenu_Mix",
+    "NpcInteractionType": "Combine"
+  },
+  {
+    "ID": 15,
+    "MenuDesc": "eUIType.ItemGem",
+    "MenuIconResource": "Icon_QuickMenu_Jewel",
+    "NpcInteractionType": "Jewel"
+  },
+  {
+    "ID": 16,
+    "MenuDesc": "",
+    "MenuIconResource": "",
+    "NpcInteractionType": "Card"
+  },
+  {
+    "ID": 17,
+    "MenuDesc": "LobbyMenuBtnString.GroupStat",
+    "MenuIconResource": "Icon_QuickMenu_Enchant",
+    "NpcInteractionType": "GroupStat"
+  },
+  {
+    "ID": 18,
+    "MenuDesc": "DimensionGate.MainTitle",
+    "MenuIconResource": "Icon_QuickMenu_DG",
+    "NpcInteractionType": "DimensionEnhance"
+  },
+  {
+    "ID": 19,
+    "MenuDesc": "LobbyMenuBtnString.MineTeam",
+    "MenuIconResource": "Icon_QuickMenu_Mine",
+    "NpcInteractionType": "MineTeam"
+  },
+  {
+    "ID": 20,
+    "MenuDesc": "eUIType.ContentMenuPopup",
+    "MenuIconResource": "Icon_QuickMenu_Contents",
+    "NpcInteractionType": "Contents"
+  },
+  {
+    "ID": 21,
+    "MenuDesc": "SysConstStr.ChName.Ranking",
+    "MenuIconResource": "Icon_QuickMenu_Ranking",
+    "NpcInteractionType": "Ranking"
+  },
+  {
+    "ID": 22,
+    "MenuDesc": "eUIType.Guild",
+    "MenuIconResource": "Icon_QuickMenu_Guild",
+    "NpcInteractionType": "Guild"
+  },
+  {
+    "ID": 23,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Incident",
+    "MenuIconResource": "Icon_Dimension_Episode",
+    "NpcInteractionType": "Incident"
+  },
+  {
+    "ID": 24,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Revival",
+    "MenuIconResource": "Icon_Dimension_Revival",
+    "NpcInteractionType": "Revival"
+  },
+  {
+    "ID": 25,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Formation",
+    "MenuIconResource": "Icon_QuickMenu_Formation",
+    "NpcInteractionType": "Formation"
+  },
+  {
+    "ID": 26,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Management",
+    "MenuIconResource": "Icon_QuickMenu_Build",
+    "NpcInteractionType": "Management"
+  },
+  {
+    "ID": 27,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Exchange",
+    "MenuIconResource": "Icon_QuickMenu_Shop",
+    "NpcInteractionType": "Exchange"
+  },
+  {
+    "ID": 28,
+    "MenuDesc": "DimensionGate.CodeEnhance_Title",
+    "MenuIconResource": "Icon_QuickMenu_MemoryCode",
+    "NpcInteractionType": "Ehance"
+  },
+  {
+    "ID": 29,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_NormalBattle",
+    "MenuIconResource": "Icon_Dimension_NormalBT",
+    "NpcInteractionType": "Portal_NormalBattle"
+  },
+  {
+    "ID": 30,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_EliteBattle",
+    "MenuIconResource": "Icon_Dimension_NormalBT",
+    "NpcInteractionType": "Portal_EliteBattle"
+  },
+  {
+    "ID": 31,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_HardBattle",
+    "MenuIconResource": "Icon_Dimension_EnhanceBT",
+    "NpcInteractionType": "Portal_HardBattle"
+  },
+  {
+    "ID": 32,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_BossBattle",
+    "MenuIconResource": "Icon_Dimension_EnhanceBT",
+    "NpcInteractionType": "Portal_BossBattle"
+  },
+  {
+    "ID": 33,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_HunterBoss",
+    "MenuIconResource": "Icon_Dimension_SpecialBT",
+    "NpcInteractionType": "Portal_HunterBoss"
+  },
+  {
+    "ID": 34,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_SJWBoss",
+    "MenuIconResource": "Icon_Dimension_SpecialBT",
+    "NpcInteractionType": "Portal_SJWBoss"
+  },
+  {
+    "ID": 35,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_Episode",
+    "MenuIconResource": "Icon_Dimension_Episode",
+    "NpcInteractionType": "Portal_Episode"
+  },
+  {
+    "ID": 36,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_Repair",
+    "MenuIconResource": "Icon_QuickMenu_Build",
+    "NpcInteractionType": "Portal_Repair"
+  },
+  {
+    "ID": 37,
+    "MenuDesc": "SysConst.NpcInteractionMenu.Portal_Repair",
+    "MenuIconResource": "Icon_QuickMenu_Build",
+    "NpcInteractionType": "Portal_Shop"
+  },
+  {
+    "ID": 38,
+    "MenuDesc": "SysConst.NpcInteractionMenu.RewardBox",
+    "MenuIconResource": "Icon_Dimension_RewardBox",
+    "NpcInteractionType": "RewardBox"
+  },
+  {
+    "ID": 39,
+    "MenuDesc": "eUIType.SkillResearch",
+    "MenuIconResource": "Icon_QuickMenu_SkillResearch",
+    "NpcInteractionType": "SkillResearch"
+  },
+  {
+    "ID": 40,
+    "MenuDesc": "eUIType.TrainingRoom",
+    "MenuIconResource": "Icon_QuickMenu_TrainingRoom",
+    "NpcInteractionType": "TrainingRoom"
+  },
+  {
+    "ID": 41,
+    "MenuDesc": "LobbyBtn.ThemeEvent.Title.Short_FRR",
+    "MenuIconResource": "EventTab_Icon_FRR",
+    "NpcInteractionType": "ThemeEventMain"
+  }
+]

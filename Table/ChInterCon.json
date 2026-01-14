@@ -1,52 +1,57 @@
 [
   {
     "ID": 1,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 20.0
+    "ValueFloat1": 20.0,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 2,
-    "ConditionType": "CheckDead",
-    "ValueFloat1": 0.0
+    "ValueFloat1": 0.0,
+    "ConditionType": "CheckDead"
   },
   {
     "ID": 3,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 3.0
+    "ValueFloat1": 3.0,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 4,
-    "ConditionType": "CheckReceiveActionEvent",
-    "ValueFloat1": 0.0
+    "ValueFloat1": 0.0,
+    "ConditionType": "CheckReceiveActionEvent"
   },
   {
     "ID": 5,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 3.0
+    "ValueFloat1": 3.0,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 6,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 5.0
+    "ValueFloat1": 5.0,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 7,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 6.0
+    "ValueFloat1": 6.0,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 8,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 1000.0
+    "ValueFloat1": 1000.0,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 9,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 2.5
+    "ValueFloat1": 2.5,
+    "ConditionType": "CheckRange"
   },
   {
     "ID": 10,
-    "ConditionType": "CheckRange",
-    "ValueFloat1": 3.319999933242798
+    "ValueFloat1": 3.319999933242798,
+    "ConditionType": "CheckRange"
+  },
+  {
+    "ID": 11,
+    "ValueFloat1": 6.0,
+    "ConditionType": "CheckRange"
   }
 ]

@@ -1,50 +1,222 @@
 [
   {
     "ID": 1,
-    "Title": "Alone Event Test",
     "StepID": 11,
-    "BGImg": "BG_ThemeMission_1",
     "RewardBigImg": "LeeBoRa_Swimsuit2024_Portrait_Body",
-    "PageBGM": ""
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Alone Event Test",
+    "BGImg": "BG_ThemeMission_1",
+    "TitleResourceName": ""
   },
   {
     "ID": 2,
-    "Title": "Event.24Summer.Title.Mission",
     "StepID": 21,
-    "BGImg": "BG_ThemeMission_1",
     "RewardBigImg": "LeeBoRa_Swimsuit2024_Portrait_Body",
-    "PageBGM": ""
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.24Summer.Title.Mission",
+    "BGImg": "BG_ThemeMission_1",
+    "TitleResourceName": ""
   },
   {
     "ID": 3,
-    "Title": "Event.100Anni.MiniGameB.TitleShort",
     "StepID": 31,
-    "BGImg": "BG_Ev100thDay",
     "RewardBigImg": "LimHaJin_100Anni_Portrait_Body",
-    "PageBGM": ""
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.100Anni.MiniGameB.TitleShort",
+    "BGImg": "BG_Ev100thDay",
+    "TitleResourceName": ""
   },
   {
     "ID": 4,
-    "Title": "Event.DailyMission.FullMoon.Title",
     "StepID": 41,
-    "BGImg": "BG_EvFullmoon",
     "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
-    "PageBGM": ""
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.FullMoon.Title",
+    "BGImg": "BG_EvFullmoon",
+    "TitleResourceName": ""
   },
   {
     "ID": 5,
-    "Title": "Event.DailyMission.Fall.Title",
     "StepID": 51,
-    "BGImg": "BG_EvFall",
     "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
-    "PageBGM": ""
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.Fall.Title",
+    "BGImg": "BG_EvFall",
+    "TitleResourceName": ""
   },
   {
     "ID": 6,
-    "Title": "Event.24Halloween.Title.Mission",
     "StepID": 61,
-    "BGImg": "BG_ThemeMission_24Halloween",
     "RewardBigImg": "Event_Haloween_Img_Character01",
-    "PageBGM": ""
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.24Halloween.Title.Mission",
+    "BGImg": "BG_ThemeMission_24Halloween",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 7,
+    "StepID": 71,
+    "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.Winter.Title",
+    "BGImg": "BG_EventMission_Winter",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 8,
+    "StepID": 81,
+    "RewardBigImg": "ChaHaeInSkinEpicRedParty_Portrait_Body",
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.24Holiday.Title.Mission",
+    "BGImg": "BG_24Holiday_ThemeMission",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 9,
+    "StepID": 91,
+    "RewardBigImg": "AliciaBlanchet_25Newyear_Portrait_Body",
+    "TitleColor1": "",
+    "TitleColor2": "",
+    "PageBGM": "",
+    "Title": "Event.25NewYear.Title.Mission",
+    "BGImg": "BG_EventMission_25Newyear",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 10,
+    "StepID": 101,
+    "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.25Snowflower.Title.Mission",
+    "BGImg": "BG_EventMission_Winter",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 11,
+    "StepID": 111,
+    "RewardBigImg": "TawataKanae_25Valentineday_Portrait_Body",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.25Valentine.Title.Mission",
+    "BGImg": "BG_25valentineday_ThemeMission",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 12,
+    "StepID": 121,
+    "RewardBigImg": "Gina_25Spring_Portrait_Body",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.25Spring.Title.Mission",
+    "BGImg": "BG_25Spring_ThemeMission",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 13,
+    "StepID": 131,
+    "RewardBigImg": "BG_ThemeMissionEvent_1stAnniversary_Reward",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.1stAnniversary.Title.Mission",
+    "BGImg": "BG_ThemeMissionEvent_1stAnniversary",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 14,
+    "StepID": 141,
+    "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.25NewStart.Title.Mission",
+    "BGImg": "BG_ThemeMissionEventSubView_1_EarlySummer",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 15,
+    "StepID": 151,
+    "RewardBigImg": "BG_ThemeMissionEvent_CollaboIllust01",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event._IDLE1.Title.Mission",
+    "BGImg": "BG_ThemeMissionEvent_Collabo01",
+    "TitleResourceName": ""
+  },
+  {
+    "ID": 16,
+    "StepID": 161,
+    "RewardBigImg": "LimHaJin_Fullmoon_Portrait_Body",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.FullMoon.Title",
+    "BGImg": "BG_EvFullmoon",
+    "TitleResourceName": "Img_EventMission_Winter_Title"
+  },
+  {
+    "ID": 17,
+    "StepID": 171,
+    "RewardBigImg": "LimHaJin_100Anni_Portrait_Body",
+    "TitleColor1": "fdffc8",
+    "TitleColor2": "b4fecb",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.FullMoon.Title",
+    "BGImg": "BG_ThemeMissionEvent_1.5Anniversary",
+    "TitleResourceName": "Img_1.5Anniversary_ThemeMission_Title"
+  },
+  {
+    "ID": 18,
+    "StepID": 181,
+    "RewardBigImg": "Char_ThemeMissionEvent_2511",
+    "TitleColor1": "ffffff",
+    "TitleColor2": "c4efff",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.2511",
+    "BGImg": "BG_ThemeMissionEvent_2511",
+    "TitleResourceName": "Img_EventMission_Winter_Title"
+  },
+  {
+    "ID": 19,
+    "StepID": 191,
+    "RewardBigImg": "Char_ThemeMissionEvent_25Holi",
+    "TitleColor1": "ffffff",
+    "TitleColor2": "deffd6",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.2512_Holiday",
+    "BGImg": "BG_ThemeMissionEvent_25Holi",
+    "TitleResourceName": "Img_EventMission_25Holi_Title"
+  },
+  {
+    "ID": 20,
+    "StepID": 201,
+    "RewardBigImg": "Char_ThemeMissionEvent_26Newyear",
+    "TitleColor1": "ffffff",
+    "TitleColor2": "c4efff",
+    "PageBGM": "",
+    "Title": "Event.DailyMission.26Newyear.Title",
+    "BGImg": "BG_ThemeMissionEvent_26Newyear",
+    "TitleResourceName": "Img_EventMission_26Newyear_Title"
   }
 ]

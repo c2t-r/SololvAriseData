@@ -1,20 +1,20 @@
 [
   {
-    "ID": 1,
-    "ItemSubType": "Active",
-    "Rarity": "Rare",
-    "RewardGroup": 3010000,
-    "CostType": "Gold",
     "CostID": 1000003,
-    "CostValue": 100
+    "ID": 1,
+    "CostValue": 100,
+    "RewardGroup": 3010000,
+    "ItemSubType": "Active",
+    "CostType": "Gold",
+    "Rarity": "Rare"
   },
   {
-    "ID": 2,
-    "ItemSubType": "Active",
-    "Rarity": "Epic",
-    "RewardGroup": 3020000,
-    "CostType": "Gold",
     "CostID": 1000003,
-    "CostValue": 500
+    "ID": 2,
+    "CostValue": 500,
+    "RewardGroup": 3020000,
+    "ItemSubType": "Active",
+    "CostType": "Gold",
+    "Rarity": "Epic"
   }
 ]

@@ -1,132 +1,132 @@
 [
   {
+    "DelayTime": 0,
     "ID": 101,
-    "Unused": true,
-    "LocalPushGroupID": 1,
-    "LocalPushType": "NotLoginTime",
     "PushValue": 2160,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 1,
+    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime1_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.NotLoginTime1_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime1_Text"
+    "LocalPushType": "NotLoginTime"
   },
   {
+    "DelayTime": 0,
     "ID": 102,
-    "Unused": true,
-    "LocalPushGroupID": 1,
-    "LocalPushType": "NotLoginTime",
     "PushValue": 4320,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 1,
+    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime2_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.NotLoginTime2_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime2_Text"
+    "LocalPushType": "NotLoginTime"
   },
   {
+    "DelayTime": 0,
     "ID": 103,
-    "Unused": true,
-    "LocalPushGroupID": 1,
-    "LocalPushType": "NotLoginTime",
     "PushValue": 6480,
-    "DelayTime": 0,
-    "PushMassageTitleString": "SysConstStr.LocalPush.NotLoginTime3_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime3_Text"
-  },
-  {
-    "ID": 104,
     "Unused": true,
     "LocalPushGroupID": 1,
-    "LocalPushType": "NotLoginTime",
+    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime3_Text",
+    "PushMassageTitleString": "SysConstStr.LocalPush.NotLoginTime3_Title",
+    "LocalPushType": "NotLoginTime"
+  },
+  {
+    "DelayTime": 0,
+    "ID": 104,
     "PushValue": 8640,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 1,
+    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime4_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.NotLoginTime4_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.NotLoginTime4_Text"
+    "LocalPushType": "NotLoginTime"
   },
   {
+    "DelayTime": 0,
     "ID": 201,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "IdleSystem",
     "PushValue": 1,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem1_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.IdleSystem1_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem1_Text"
+    "LocalPushType": "IdleSystem"
   },
   {
+    "DelayTime": 0,
     "ID": 202,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "IdleSystem",
     "PushValue": 2,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem2_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.IdleSystem2_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem2_Text"
+    "LocalPushType": "IdleSystem"
   },
   {
+    "DelayTime": 0,
     "ID": 203,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "IdleSystem",
     "PushValue": 3,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem3_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.IdleSystem3_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem3_Text"
+    "LocalPushType": "IdleSystem"
   },
   {
+    "DelayTime": 0,
     "ID": 204,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "IdleSystem",
     "PushValue": 4,
-    "DelayTime": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem4_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.IdleSystem4_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.IdleSystem4_Text"
+    "LocalPushType": "IdleSystem"
   },
   {
-    "ID": 205,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "MineTeam",
-    "PushValue": 0,
     "DelayTime": 0,
+    "ID": 205,
+    "PushValue": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.MineTeam_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.MineTeam_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.MineTeam_Text"
+    "LocalPushType": "MineTeam"
   },
   {
-    "ID": 206,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "WorldBoss",
-    "PushValue": 0,
     "DelayTime": 120,
+    "ID": 206,
+    "PushValue": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.WorldBossOpen_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.WorldBossOpen_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.WorldBossOpen_Text"
+    "LocalPushType": "WorldBoss"
   },
   {
-    "ID": 207,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "TimeAttack",
-    "PushValue": 0,
     "DelayTime": 180,
+    "ID": 207,
+    "PushValue": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.TimeAttackOpen_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.TimeAttackOpen_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.TimeAttackOpen_Text"
+    "LocalPushType": "TimeAttack"
   },
   {
-    "ID": 208,
-    "Unused": true,
-    "LocalPushGroupID": 2,
-    "LocalPushType": "Raid",
-    "PushValue": 0,
     "DelayTime": 240,
-    "PushMassageTitleString": "SysConstStr.LocalPush.RaidOpen_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.RaidOpen_Text"
-  },
-  {
-    "ID": 209,
+    "ID": 208,
+    "PushValue": 0,
     "Unused": true,
     "LocalPushGroupID": 2,
-    "LocalPushType": "OtherWorld",
-    "PushValue": 0,
+    "PushMassageTextString": "SysConstStr.LocalPush.RaidOpen_Text",
+    "PushMassageTitleString": "SysConstStr.LocalPush.RaidOpen_Title",
+    "LocalPushType": "Raid"
+  },
+  {
     "DelayTime": 300,
+    "ID": 209,
+    "PushValue": 0,
+    "Unused": true,
+    "LocalPushGroupID": 2,
+    "PushMassageTextString": "SysConstStr.LocalPush.OtherWorldOpen_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.OtherWorldOpen_Title",
-    "PushMassageTextString": "SysConstStr.LocalPush.OtherWorldOpen_Text"
+    "LocalPushType": "OtherWorld"
   }
 ]

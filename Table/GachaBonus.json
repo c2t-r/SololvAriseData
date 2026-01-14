@@ -1,92 +1,92 @@
 [
   {
+    "BonusFirst": -1,
+    "BonusMax": 15,
+    "GoodsIndex": 10100004,
     "ID": 1,
-    "BonusRarity": "R",
-    "ItemSubType": "Hunter",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100004,
-    "BonusFirst": 4294967295,
     "BonusDuplication": 15,
-    "BonusMax": 15
+    "ItemSubType": "Hunter",
+    "BonusRarity": "R",
+    "GoodsType": "Material"
   },
   {
+    "BonusFirst": -1,
+    "BonusMax": 2,
+    "GoodsIndex": 10100005,
     "ID": 2,
-    "BonusRarity": "SR",
-    "ItemSubType": "Hunter",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100005,
-    "BonusFirst": 4294967295,
     "BonusDuplication": 2,
-    "BonusMax": 2
+    "ItemSubType": "Hunter",
+    "BonusRarity": "SR",
+    "GoodsType": "Material"
   },
   {
+    "BonusFirst": -1,
+    "BonusMax": 10,
+    "GoodsIndex": 10100005,
     "ID": 3,
-    "BonusRarity": "SSR",
+    "BonusDuplication": 10,
     "ItemSubType": "Hunter",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100005,
-    "BonusFirst": 4294967295,
-    "BonusDuplication": 10,
-    "BonusMax": 10
+    "BonusRarity": "SSR",
+    "GoodsType": "Material"
   },
   {
+    "BonusFirst": 15,
+    "BonusMax": -1,
+    "GoodsIndex": 10100004,
     "ID": 4,
-    "BonusRarity": "R",
-    "ItemSubType": "GS",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100004,
-    "BonusFirst": 15,
     "BonusDuplication": 15,
-    "BonusMax": 4294967295
+    "ItemSubType": "GS",
+    "BonusRarity": "R",
+    "GoodsType": "Material"
   },
   {
+    "BonusFirst": 2,
+    "BonusMax": -1,
+    "GoodsIndex": 10100005,
     "ID": 5,
-    "BonusRarity": "SR",
-    "ItemSubType": "GS",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100005,
-    "BonusFirst": 2,
     "BonusDuplication": 2,
-    "BonusMax": 4294967295
+    "ItemSubType": "GS",
+    "BonusRarity": "SR",
+    "GoodsType": "Material"
   },
   {
+    "BonusFirst": 10,
+    "BonusMax": -1,
+    "GoodsIndex": 10100005,
     "ID": 6,
-    "BonusRarity": "SSR",
+    "BonusDuplication": 10,
     "ItemSubType": "GS",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100005,
-    "BonusFirst": 10,
-    "BonusDuplication": 10,
-    "BonusMax": 4294967295
-  },
-  {
-    "ID": 7,
-    "BonusRarity": "R",
-    "ItemSubType": "Relic",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100004,
-    "BonusFirst": 15,
-    "BonusDuplication": 15,
-    "BonusMax": 4294967295
-  },
-  {
-    "ID": 8,
-    "BonusRarity": "SR",
-    "ItemSubType": "Relic",
-    "GoodsType": "Material",
-    "GoodsIndex": 10100005,
-    "BonusFirst": 2,
-    "BonusDuplication": 2,
-    "BonusMax": 4294967295
-  },
-  {
-    "ID": 9,
     "BonusRarity": "SSR",
+    "GoodsType": "Material"
+  },
+  {
+    "BonusFirst": 15,
+    "BonusMax": -1,
+    "GoodsIndex": 10100004,
+    "ID": 7,
+    "BonusDuplication": 15,
     "ItemSubType": "Relic",
-    "GoodsType": "Material",
+    "BonusRarity": "R",
+    "GoodsType": "Material"
+  },
+  {
+    "BonusFirst": 2,
+    "BonusMax": -1,
     "GoodsIndex": 10100005,
+    "ID": 8,
+    "BonusDuplication": 2,
+    "ItemSubType": "Relic",
+    "BonusRarity": "SR",
+    "GoodsType": "Material"
+  },
+  {
     "BonusFirst": 10,
+    "BonusMax": -1,
+    "GoodsIndex": 10100005,
+    "ID": 9,
     "BonusDuplication": 10,
-    "BonusMax": 4294967295
+    "ItemSubType": "Relic",
+    "BonusRarity": "SSR",
+    "GoodsType": "Material"
   }
 ]

@@ -1,16 +1,54 @@
 [
   {
-    "ID": 1,
     "GemSubGroupID": 1001,
+    "ID": 1,
     "GemSlotGroupID": 1001,
-    "Unused": true,
-    "Area1Count": 8,
-    "Area2Count": 3,
-    "RarityPoint": "[1,10,100,1000]",
-    "GradePoint": "[1,5,10,25]",
-    "StringName": "GemMain.StringName.1001",
-    "StringDesc": "GemMain.StringDesc.1001",
     "PageNum": 1,
-    "PageUnlock": "Gem"
+    "Area1Count": 8,
+    "Unused": true,
+    "Area2Count": 3,
+    "PageUnlock": "Gem",
+    "RarityPoint": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "GradePoint": [
+      1,
+      5,
+      10,
+      25
+    ],
+    "StringDesc": "GemMain.StringDesc.1001",
+    "PagePrefab": "GemMapPrefab_01",
+    "StringName": "GemMain.StringName.1001",
+    "TabIcon": "Icon_GemPage_Tab_01"
+  },
+  {
+    "GemSubGroupID": 1002,
+    "ID": 2,
+    "GemSlotGroupID": 1002,
+    "PageNum": 2,
+    "Area1Count": 8,
+    "Unused": true,
+    "Area2Count": 5,
+    "PageUnlock": "GemPage2",
+    "RarityPoint": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "GradePoint": [
+      1,
+      5,
+      10,
+      25
+    ],
+    "StringDesc": "GemMain.StringDesc.1002",
+    "PagePrefab": "GemMapPrefab_02",
+    "StringName": "GemMain.StringName.1002",
+    "TabIcon": "Icon_GemPage_Tab_02"
   }
 ]

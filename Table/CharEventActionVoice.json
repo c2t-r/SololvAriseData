@@ -1,2060 +1,3292 @@
 [
   {
     "ID": 1,
-    "GroupID": 1,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 1001,
-    "Priority": 6.0
+    "GroupID": 1,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 2,
-    "GroupID": 1,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 1002,
-    "Priority": 6.0
+    "GroupID": 1,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 3,
-    "GroupID": 1,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 1003,
-    "Priority": 1.0
+    "GroupID": 1,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 4,
-    "GroupID": 1,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 1004,
-    "Priority": 3.0
+    "GroupID": 1,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 5,
-    "GroupID": 1,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 1005,
-    "Priority": 3.0
+    "GroupID": 1,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 6,
-    "GroupID": 1,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 1006,
-    "Priority": 7.0
+    "GroupID": 1,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 7,
-    "GroupID": 1,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 1007,
-    "Priority": 2.0
+    "GroupID": 1,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 8,
-    "GroupID": 2,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 2001,
-    "Priority": 6.0
+    "GroupID": 2,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 9,
-    "GroupID": 2,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 2002,
-    "Priority": 6.0
+    "GroupID": 2,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 10,
-    "GroupID": 2,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 2003,
-    "Priority": 1.0
+    "GroupID": 2,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 11,
-    "GroupID": 2,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 2004,
-    "Priority": 3.0
+    "GroupID": 2,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 12,
-    "GroupID": 2,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 2005,
-    "Priority": 3.0
+    "GroupID": 2,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 13,
-    "GroupID": 2,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 2006,
-    "Priority": 7.0
+    "GroupID": 2,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 14,
-    "GroupID": 2,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 2007,
-    "Priority": 2.0
+    "GroupID": 2,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 15,
-    "GroupID": 11,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 11001,
-    "Priority": 6.0
+    "GroupID": 11,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 16,
-    "GroupID": 11,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 11002,
-    "Priority": 6.0
+    "GroupID": 11,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 17,
-    "GroupID": 11,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 11003,
-    "Priority": 1.0
+    "GroupID": 11,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 18,
-    "GroupID": 11,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 11004,
-    "Priority": 3.0
+    "GroupID": 11,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 19,
-    "GroupID": 11,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 11005,
-    "Priority": 3.0
+    "GroupID": 11,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 20,
-    "GroupID": 11,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 11006,
-    "Priority": 7.0
+    "GroupID": 11,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 21,
-    "GroupID": 11,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 11007,
-    "Priority": 2.0
+    "GroupID": 11,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 22,
-    "GroupID": 11,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 11008,
-    "Priority": 5.0
+    "GroupID": 11,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 23,
-    "GroupID": 21,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 21001,
-    "Priority": 6.0
+    "GroupID": 21,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 24,
-    "GroupID": 21,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 21002,
-    "Priority": 6.0
+    "GroupID": 21,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 25,
-    "GroupID": 21,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 21003,
-    "Priority": 1.0
+    "GroupID": 21,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 26,
-    "GroupID": 21,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 21004,
-    "Priority": 3.0
+    "GroupID": 21,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 27,
-    "GroupID": 21,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 21005,
-    "Priority": 3.0
+    "GroupID": 21,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 28,
-    "GroupID": 21,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 21006,
-    "Priority": 7.0
+    "GroupID": 21,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 29,
-    "GroupID": 21,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 21007,
-    "Priority": 2.0
+    "GroupID": 21,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 30,
-    "GroupID": 21,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 21008,
-    "Priority": 5.0
+    "GroupID": 21,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 31,
-    "GroupID": 31,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 31001,
-    "Priority": 6.0
+    "GroupID": 31,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 32,
-    "GroupID": 31,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 31002,
-    "Priority": 6.0
+    "GroupID": 31,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 33,
-    "GroupID": 31,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 31003,
-    "Priority": 1.0
+    "GroupID": 31,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 34,
-    "GroupID": 31,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 31004,
-    "Priority": 3.0
+    "GroupID": 31,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 35,
-    "GroupID": 31,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 31005,
-    "Priority": 3.0
+    "GroupID": 31,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 36,
-    "GroupID": 31,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 31006,
-    "Priority": 7.0
+    "GroupID": 31,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 37,
-    "GroupID": 31,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 31007,
-    "Priority": 2.0
+    "GroupID": 31,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 38,
-    "GroupID": 31,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 31008,
-    "Priority": 5.0
+    "GroupID": 31,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 39,
-    "GroupID": 41,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 41001,
-    "Priority": 6.0
+    "GroupID": 41,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 40,
-    "GroupID": 41,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 41002,
-    "Priority": 6.0
+    "GroupID": 41,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 41,
-    "GroupID": 41,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 41003,
-    "Priority": 1.0
+    "GroupID": 41,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 42,
-    "GroupID": 41,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 41004,
-    "Priority": 3.0
+    "GroupID": 41,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 43,
-    "GroupID": 41,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 41005,
-    "Priority": 3.0
+    "GroupID": 41,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 44,
-    "GroupID": 41,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 41006,
-    "Priority": 7.0
+    "GroupID": 41,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 45,
-    "GroupID": 41,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 41007,
-    "Priority": 2.0
+    "GroupID": 41,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 46,
-    "GroupID": 41,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 41008,
-    "Priority": 5.0
+    "GroupID": 41,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 47,
-    "GroupID": 51,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 51001,
-    "Priority": 6.0
+    "GroupID": 51,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 48,
-    "GroupID": 51,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 51002,
-    "Priority": 6.0
+    "GroupID": 51,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 49,
-    "GroupID": 51,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 51003,
-    "Priority": 1.0
+    "GroupID": 51,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 50,
-    "GroupID": 51,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 51004,
-    "Priority": 3.0
+    "GroupID": 51,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 51,
-    "GroupID": 51,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 51005,
-    "Priority": 3.0
+    "GroupID": 51,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 52,
-    "GroupID": 51,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 51006,
-    "Priority": 7.0
+    "GroupID": 51,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 53,
-    "GroupID": 51,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 51007,
-    "Priority": 2.0
+    "GroupID": 51,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 54,
-    "GroupID": 51,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 51008,
-    "Priority": 5.0
+    "GroupID": 51,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 55,
-    "GroupID": 61,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 61001,
-    "Priority": 6.0
+    "GroupID": 61,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 56,
-    "GroupID": 61,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 61002,
-    "Priority": 6.0
+    "GroupID": 61,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 57,
-    "GroupID": 61,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 61003,
-    "Priority": 1.0
+    "GroupID": 61,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 58,
-    "GroupID": 61,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 61004,
-    "Priority": 3.0
+    "GroupID": 61,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 59,
-    "GroupID": 61,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 61005,
-    "Priority": 3.0
+    "GroupID": 61,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 60,
-    "GroupID": 61,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 61006,
-    "Priority": 7.0
+    "GroupID": 61,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 61,
-    "GroupID": 61,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 61007,
-    "Priority": 2.0
+    "GroupID": 61,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 62,
-    "GroupID": 61,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 61008,
-    "Priority": 5.0
+    "GroupID": 61,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 63,
-    "GroupID": 71,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 71001,
-    "Priority": 6.0
+    "GroupID": 71,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 64,
-    "GroupID": 71,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 71002,
-    "Priority": 6.0
+    "GroupID": 71,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 65,
-    "GroupID": 71,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 71003,
-    "Priority": 1.0
+    "GroupID": 71,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 66,
-    "GroupID": 71,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 71004,
-    "Priority": 3.0
+    "GroupID": 71,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 67,
-    "GroupID": 71,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 71005,
-    "Priority": 3.0
+    "GroupID": 71,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 68,
-    "GroupID": 71,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 71006,
-    "Priority": 7.0
+    "GroupID": 71,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 69,
-    "GroupID": 71,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 71007,
-    "Priority": 2.0
+    "GroupID": 71,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 70,
-    "GroupID": 71,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 71008,
-    "Priority": 5.0
+    "GroupID": 71,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 71,
-    "GroupID": 81,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 81001,
-    "Priority": 6.0
+    "GroupID": 81,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 72,
-    "GroupID": 81,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 81002,
-    "Priority": 6.0
+    "GroupID": 81,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 73,
-    "GroupID": 81,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 81003,
-    "Priority": 1.0
+    "GroupID": 81,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 74,
-    "GroupID": 81,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 81004,
-    "Priority": 3.0
+    "GroupID": 81,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 75,
-    "GroupID": 81,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 81005,
-    "Priority": 3.0
+    "GroupID": 81,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 76,
-    "GroupID": 81,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 81006,
-    "Priority": 7.0
+    "GroupID": 81,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 77,
-    "GroupID": 81,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 81007,
-    "Priority": 2.0
+    "GroupID": 81,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 78,
-    "GroupID": 81,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 81008,
-    "Priority": 5.0
+    "GroupID": 81,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 79,
-    "GroupID": 91,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 91001,
-    "Priority": 6.0
+    "GroupID": 91,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 80,
-    "GroupID": 91,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 91002,
-    "Priority": 6.0
+    "GroupID": 91,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 81,
-    "GroupID": 91,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 91003,
-    "Priority": 1.0
+    "GroupID": 91,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 82,
-    "GroupID": 91,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 91004,
-    "Priority": 3.0
+    "GroupID": 91,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 83,
-    "GroupID": 91,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 91005,
-    "Priority": 3.0
+    "GroupID": 91,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 84,
-    "GroupID": 91,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 91006,
-    "Priority": 7.0
+    "GroupID": 91,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 85,
-    "GroupID": 91,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 91007,
-    "Priority": 2.0
+    "GroupID": 91,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 86,
-    "GroupID": 91,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 91008,
-    "Priority": 5.0
+    "GroupID": 91,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 87,
-    "GroupID": 101,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 101001,
-    "Priority": 6.0
+    "GroupID": 101,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 88,
-    "GroupID": 101,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 101002,
-    "Priority": 6.0
+    "GroupID": 101,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 89,
-    "GroupID": 101,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 101003,
-    "Priority": 1.0
+    "GroupID": 101,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 90,
-    "GroupID": 101,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 101004,
-    "Priority": 3.0
+    "GroupID": 101,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 91,
-    "GroupID": 101,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 101005,
-    "Priority": 3.0
+    "GroupID": 101,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 92,
-    "GroupID": 101,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 101006,
-    "Priority": 7.0
+    "GroupID": 101,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 93,
-    "GroupID": 101,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 101007,
-    "Priority": 2.0
+    "GroupID": 101,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 94,
-    "GroupID": 101,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 101008,
-    "Priority": 5.0
+    "GroupID": 101,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 95,
-    "GroupID": 111,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 111001,
-    "Priority": 6.0
+    "GroupID": 111,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 96,
-    "GroupID": 111,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 111002,
-    "Priority": 6.0
+    "GroupID": 111,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 97,
-    "GroupID": 111,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 111003,
-    "Priority": 1.0
+    "GroupID": 111,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 98,
-    "GroupID": 111,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 111004,
-    "Priority": 3.0
+    "GroupID": 111,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 99,
-    "GroupID": 111,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 111005,
-    "Priority": 3.0
+    "GroupID": 111,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 100,
-    "GroupID": 111,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 111006,
-    "Priority": 7.0
+    "GroupID": 111,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 101,
-    "GroupID": 111,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 111007,
-    "Priority": 2.0
+    "GroupID": 111,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 102,
-    "GroupID": 111,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 111008,
-    "Priority": 5.0
+    "GroupID": 111,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 103,
-    "GroupID": 121,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 121001,
-    "Priority": 6.0
+    "GroupID": 121,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 104,
-    "GroupID": 121,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 121002,
-    "Priority": 6.0
+    "GroupID": 121,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 105,
-    "GroupID": 121,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 121003,
-    "Priority": 1.0
+    "GroupID": 121,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 106,
-    "GroupID": 121,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 121004,
-    "Priority": 3.0
+    "GroupID": 121,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 107,
-    "GroupID": 121,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 121005,
-    "Priority": 3.0
+    "GroupID": 121,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 108,
-    "GroupID": 121,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 121006,
-    "Priority": 7.0
+    "GroupID": 121,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 109,
-    "GroupID": 121,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 121007,
-    "Priority": 2.0
+    "GroupID": 121,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 110,
-    "GroupID": 121,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 121008,
-    "Priority": 5.0
+    "GroupID": 121,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 111,
-    "GroupID": 131,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 131001,
-    "Priority": 6.0
+    "GroupID": 131,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 112,
-    "GroupID": 131,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 131002,
-    "Priority": 6.0
+    "GroupID": 131,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 113,
-    "GroupID": 131,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 131003,
-    "Priority": 1.0
+    "GroupID": 131,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 114,
-    "GroupID": 131,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 131004,
-    "Priority": 3.0
+    "GroupID": 131,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 115,
-    "GroupID": 131,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 131005,
-    "Priority": 3.0
+    "GroupID": 131,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 116,
-    "GroupID": 131,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 131006,
-    "Priority": 7.0
+    "GroupID": 131,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 117,
-    "GroupID": 131,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 131007,
-    "Priority": 2.0
+    "GroupID": 131,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 118,
-    "GroupID": 131,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 131008,
-    "Priority": 5.0
+    "GroupID": 131,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 119,
-    "GroupID": 141,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 141001,
-    "Priority": 6.0
+    "GroupID": 141,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 120,
-    "GroupID": 141,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 141002,
-    "Priority": 6.0
+    "GroupID": 141,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 121,
-    "GroupID": 141,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 141003,
-    "Priority": 1.0
+    "GroupID": 141,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 122,
-    "GroupID": 141,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 141004,
-    "Priority": 3.0
+    "GroupID": 141,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 123,
-    "GroupID": 141,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 141005,
-    "Priority": 3.0
+    "GroupID": 141,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 124,
-    "GroupID": 141,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 141006,
-    "Priority": 7.0
+    "GroupID": 141,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 125,
-    "GroupID": 141,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 141007,
-    "Priority": 2.0
+    "GroupID": 141,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 126,
-    "GroupID": 141,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 141008,
-    "Priority": 5.0
+    "GroupID": 141,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 127,
-    "GroupID": 151,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 151001,
-    "Priority": 6.0
+    "GroupID": 151,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 128,
-    "GroupID": 151,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 151002,
-    "Priority": 6.0
+    "GroupID": 151,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 129,
-    "GroupID": 151,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 151003,
-    "Priority": 1.0
+    "GroupID": 151,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 130,
-    "GroupID": 151,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 151004,
-    "Priority": 3.0
+    "GroupID": 151,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 131,
-    "GroupID": 151,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 151005,
-    "Priority": 3.0
+    "GroupID": 151,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 132,
-    "GroupID": 151,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 151006,
-    "Priority": 7.0
+    "GroupID": 151,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 133,
-    "GroupID": 151,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 151007,
-    "Priority": 2.0
+    "GroupID": 151,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 134,
-    "GroupID": 151,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 151008,
-    "Priority": 5.0
+    "GroupID": 151,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 135,
-    "GroupID": 161,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 161001,
-    "Priority": 6.0
+    "GroupID": 161,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 136,
-    "GroupID": 161,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 161002,
-    "Priority": 6.0
+    "GroupID": 161,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 137,
-    "GroupID": 161,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 161003,
-    "Priority": 1.0
+    "GroupID": 161,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 138,
-    "GroupID": 161,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 161004,
-    "Priority": 3.0
+    "GroupID": 161,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 139,
-    "GroupID": 161,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 161005,
-    "Priority": 3.0
+    "GroupID": 161,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 140,
-    "GroupID": 161,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 161006,
-    "Priority": 7.0
+    "GroupID": 161,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 141,
-    "GroupID": 161,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 161007,
-    "Priority": 2.0
+    "GroupID": 161,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 142,
-    "GroupID": 161,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 161008,
-    "Priority": 5.0
+    "GroupID": 161,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 143,
-    "GroupID": 171,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 171001,
-    "Priority": 6.0
+    "GroupID": 171,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 144,
-    "GroupID": 171,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 171002,
-    "Priority": 6.0
+    "GroupID": 171,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 145,
-    "GroupID": 171,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 171003,
-    "Priority": 1.0
+    "GroupID": 171,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 146,
-    "GroupID": 171,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 171004,
-    "Priority": 3.0
+    "GroupID": 171,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 147,
-    "GroupID": 171,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 171005,
-    "Priority": 3.0
+    "GroupID": 171,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 148,
-    "GroupID": 171,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 171006,
-    "Priority": 7.0
+    "GroupID": 171,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 149,
-    "GroupID": 171,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 171007,
-    "Priority": 2.0
+    "GroupID": 171,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 150,
-    "GroupID": 171,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 171008,
-    "Priority": 5.0
+    "GroupID": 171,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 151,
-    "GroupID": 181,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 181001,
-    "Priority": 6.0
+    "GroupID": 181,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 152,
-    "GroupID": 181,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 181002,
-    "Priority": 6.0
+    "GroupID": 181,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 153,
-    "GroupID": 181,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 181003,
-    "Priority": 1.0
+    "GroupID": 181,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 154,
-    "GroupID": 181,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 181004,
-    "Priority": 3.0
+    "GroupID": 181,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 155,
-    "GroupID": 181,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 181005,
-    "Priority": 3.0
+    "GroupID": 181,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 156,
-    "GroupID": 181,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 181006,
-    "Priority": 7.0
+    "GroupID": 181,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 157,
-    "GroupID": 181,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 181007,
-    "Priority": 2.0
+    "GroupID": 181,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 158,
-    "GroupID": 181,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 181008,
-    "Priority": 5.0
+    "GroupID": 181,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 159,
-    "GroupID": 191,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 191001,
-    "Priority": 6.0
+    "GroupID": 191,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 160,
-    "GroupID": 191,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 191002,
-    "Priority": 6.0
+    "GroupID": 191,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 161,
-    "GroupID": 191,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 191003,
-    "Priority": 1.0
+    "GroupID": 191,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 162,
-    "GroupID": 191,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 191004,
-    "Priority": 3.0
+    "GroupID": 191,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 163,
-    "GroupID": 191,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 191005,
-    "Priority": 3.0
+    "GroupID": 191,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 164,
-    "GroupID": 191,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 191006,
-    "Priority": 7.0
+    "GroupID": 191,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 165,
-    "GroupID": 191,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 191007,
-    "Priority": 2.0
+    "GroupID": 191,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 166,
-    "GroupID": 191,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 191008,
-    "Priority": 5.0
+    "GroupID": 191,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 167,
-    "GroupID": 201,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 201001,
-    "Priority": 6.0
+    "GroupID": 201,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 168,
-    "GroupID": 201,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 201002,
-    "Priority": 6.0
+    "GroupID": 201,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 169,
-    "GroupID": 201,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 201003,
-    "Priority": 1.0
+    "GroupID": 201,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 170,
-    "GroupID": 201,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 201004,
-    "Priority": 3.0
+    "GroupID": 201,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 171,
-    "GroupID": 201,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 201005,
-    "Priority": 3.0
+    "GroupID": 201,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 172,
-    "GroupID": 201,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 201006,
-    "Priority": 7.0
+    "GroupID": 201,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 173,
-    "GroupID": 201,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 201007,
-    "Priority": 2.0
+    "GroupID": 201,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 174,
-    "GroupID": 201,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 201008,
-    "Priority": 5.0
+    "GroupID": 201,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 175,
-    "GroupID": 62,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 62001,
-    "Priority": 6.0
+    "GroupID": 62,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 176,
-    "GroupID": 62,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 62002,
-    "Priority": 6.0
+    "GroupID": 62,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 177,
-    "GroupID": 62,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 62003,
-    "Priority": 1.0
+    "GroupID": 62,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 178,
-    "GroupID": 62,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 62004,
-    "Priority": 3.0
+    "GroupID": 62,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 179,
-    "GroupID": 62,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 62005,
-    "Priority": 3.0
+    "GroupID": 62,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 180,
-    "GroupID": 62,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 62006,
-    "Priority": 7.0
+    "GroupID": 62,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 181,
-    "GroupID": 62,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 62007,
-    "Priority": 2.0
+    "GroupID": 62,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 182,
-    "GroupID": 62,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 62008,
-    "Priority": 5.0
+    "GroupID": 62,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 183,
-    "GroupID": 231,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 231001,
-    "Priority": 6.0
+    "GroupID": 231,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 184,
-    "GroupID": 231,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 231002,
-    "Priority": 6.0
+    "GroupID": 231,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 185,
-    "GroupID": 231,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 231003,
-    "Priority": 1.0
+    "GroupID": 231,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 186,
-    "GroupID": 231,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 231004,
-    "Priority": 3.0
+    "GroupID": 231,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 187,
-    "GroupID": 231,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 231005,
-    "Priority": 3.0
+    "GroupID": 231,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 188,
-    "GroupID": 231,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 231006,
-    "Priority": 7.0
+    "GroupID": 231,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 189,
-    "GroupID": 231,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 231007,
-    "Priority": 2.0
+    "GroupID": 231,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 190,
-    "GroupID": 231,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 231008,
-    "Priority": 5.0
+    "GroupID": 231,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 191,
-    "GroupID": 211,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 211001,
-    "Priority": 6.0
+    "GroupID": 211,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 192,
-    "GroupID": 211,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 211002,
-    "Priority": 6.0
+    "GroupID": 211,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 193,
-    "GroupID": 211,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 211003,
-    "Priority": 1.0
+    "GroupID": 211,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 194,
-    "GroupID": 211,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 211004,
-    "Priority": 3.0
+    "GroupID": 211,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 195,
-    "GroupID": 211,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 211005,
-    "Priority": 3.0
+    "GroupID": 211,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 196,
-    "GroupID": 211,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 211006,
-    "Priority": 7.0
+    "GroupID": 211,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 197,
-    "GroupID": 211,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 211007,
-    "Priority": 2.0
+    "GroupID": 211,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 198,
-    "GroupID": 211,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 211008,
-    "Priority": 5.0
+    "GroupID": 211,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 199,
-    "GroupID": 221,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 221001,
-    "Priority": 6.0
+    "GroupID": 221,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 200,
-    "GroupID": 221,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 221002,
-    "Priority": 6.0
+    "GroupID": 221,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 201,
-    "GroupID": 221,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 221003,
-    "Priority": 1.0
+    "GroupID": 221,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 202,
-    "GroupID": 221,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 221004,
-    "Priority": 3.0
+    "GroupID": 221,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 203,
-    "GroupID": 221,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 221005,
-    "Priority": 3.0
+    "GroupID": 221,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 204,
-    "GroupID": 221,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 221006,
-    "Priority": 7.0
+    "GroupID": 221,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 205,
-    "GroupID": 221,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 221007,
-    "Priority": 2.0
+    "GroupID": 221,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 206,
-    "GroupID": 221,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 221008,
-    "Priority": 5.0
+    "GroupID": 221,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 207,
-    "GroupID": 251,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 251001,
-    "Priority": 6.0
+    "GroupID": 251,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 208,
-    "GroupID": 251,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 251002,
-    "Priority": 6.0
+    "GroupID": 251,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 209,
-    "GroupID": 251,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 251003,
-    "Priority": 1.0
+    "GroupID": 251,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 210,
-    "GroupID": 251,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 251004,
-    "Priority": 3.0
+    "GroupID": 251,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 211,
-    "GroupID": 251,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 251005,
-    "Priority": 3.0
+    "GroupID": 251,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 212,
-    "GroupID": 251,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 251006,
-    "Priority": 7.0
+    "GroupID": 251,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 213,
-    "GroupID": 251,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 251007,
-    "Priority": 2.0
+    "GroupID": 251,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 214,
-    "GroupID": 251,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 251008,
-    "Priority": 5.0
+    "GroupID": 251,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 215,
-    "GroupID": 261,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 261001,
-    "Priority": 6.0
+    "GroupID": 261,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 216,
-    "GroupID": 261,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 261002,
-    "Priority": 6.0
+    "GroupID": 261,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 217,
-    "GroupID": 261,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 261003,
-    "Priority": 1.0
+    "GroupID": 261,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 218,
-    "GroupID": 261,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 261004,
-    "Priority": 3.0
+    "GroupID": 261,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 219,
-    "GroupID": 261,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 261005,
-    "Priority": 3.0
+    "GroupID": 261,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 220,
-    "GroupID": 261,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 261006,
-    "Priority": 7.0
+    "GroupID": 261,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 221,
-    "GroupID": 261,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 261007,
-    "Priority": 2.0
+    "GroupID": 261,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 222,
-    "GroupID": 261,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 261008,
-    "Priority": 5.0
+    "GroupID": 261,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 223,
-    "GroupID": 271,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 271001,
-    "Priority": 6.0
+    "GroupID": 271,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 224,
-    "GroupID": 271,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 271002,
-    "Priority": 6.0
+    "GroupID": 271,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 225,
-    "GroupID": 271,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 271003,
-    "Priority": 1.0
+    "GroupID": 271,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 226,
-    "GroupID": 271,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 271004,
-    "Priority": 3.0
+    "GroupID": 271,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 227,
-    "GroupID": 271,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 271005,
-    "Priority": 3.0
+    "GroupID": 271,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 228,
-    "GroupID": 271,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 271006,
-    "Priority": 7.0
+    "GroupID": 271,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 229,
-    "GroupID": 271,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 271007,
-    "Priority": 2.0
+    "GroupID": 271,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 230,
-    "GroupID": 271,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 271008,
-    "Priority": 5.0
+    "GroupID": 271,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 231,
-    "GroupID": 291,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 291001,
-    "Priority": 6.0
+    "GroupID": 291,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 232,
-    "GroupID": 291,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 291002,
-    "Priority": 6.0
+    "GroupID": 291,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 233,
-    "GroupID": 291,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 291003,
-    "Priority": 1.0
+    "GroupID": 291,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 234,
-    "GroupID": 291,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 291004,
-    "Priority": 3.0
+    "GroupID": 291,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 235,
-    "GroupID": 291,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 291005,
-    "Priority": 3.0
+    "GroupID": 291,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 236,
-    "GroupID": 291,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 291006,
-    "Priority": 7.0
+    "GroupID": 291,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 237,
-    "GroupID": 291,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 291007,
-    "Priority": 2.0
+    "GroupID": 291,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 238,
-    "GroupID": 291,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 291008,
-    "Priority": 5.0
+    "GroupID": 291,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 239,
-    "GroupID": 292,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 292001,
-    "Priority": 6.0
+    "GroupID": 292,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 240,
-    "GroupID": 292,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 292002,
-    "Priority": 6.0
+    "GroupID": 292,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 241,
-    "GroupID": 292,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 292003,
-    "Priority": 1.0
+    "GroupID": 292,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 242,
-    "GroupID": 292,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 292004,
-    "Priority": 3.0
+    "GroupID": 292,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 243,
-    "GroupID": 292,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 292005,
-    "Priority": 3.0
+    "GroupID": 292,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 244,
-    "GroupID": 292,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 292006,
-    "Priority": 7.0
+    "GroupID": 292,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 245,
-    "GroupID": 292,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 292007,
-    "Priority": 2.0
+    "GroupID": 292,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 246,
-    "GroupID": 292,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 292008,
-    "Priority": 5.0
+    "GroupID": 292,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 247,
-    "GroupID": 281,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 281001,
-    "Priority": 6.0
+    "GroupID": 281,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 248,
-    "GroupID": 281,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 281002,
-    "Priority": 6.0
+    "GroupID": 281,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 249,
-    "GroupID": 281,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 281003,
-    "Priority": 1.0
+    "GroupID": 281,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 250,
-    "GroupID": 281,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 281004,
-    "Priority": 3.0
+    "GroupID": 281,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 251,
-    "GroupID": 281,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 281005,
-    "Priority": 3.0
+    "GroupID": 281,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 252,
-    "GroupID": 281,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 281006,
-    "Priority": 7.0
+    "GroupID": 281,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 253,
-    "GroupID": 281,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 281007,
-    "Priority": 2.0
+    "GroupID": 281,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 254,
-    "GroupID": 281,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 281008,
-    "Priority": 5.0
+    "GroupID": 281,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 255,
-    "GroupID": 301,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 301001,
-    "Priority": 6.0
+    "GroupID": 301,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 256,
-    "GroupID": 301,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 301002,
-    "Priority": 6.0
+    "GroupID": 301,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 257,
-    "GroupID": 301,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 301003,
-    "Priority": 1.0
+    "GroupID": 301,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 258,
-    "GroupID": 301,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 301004,
-    "Priority": 3.0
+    "GroupID": 301,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 259,
-    "GroupID": 301,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 301005,
-    "Priority": 3.0
+    "GroupID": 301,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 260,
-    "GroupID": 301,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 301006,
-    "Priority": 7.0
+    "GroupID": 301,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 261,
-    "GroupID": 301,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 301007,
-    "Priority": 2.0
+    "GroupID": 301,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 262,
-    "GroupID": 301,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 301008,
-    "Priority": 5.0
+    "GroupID": 301,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 263,
-    "GroupID": 311,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 311001,
-    "Priority": 6.0
+    "GroupID": 311,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 264,
-    "GroupID": 311,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 311002,
-    "Priority": 6.0
+    "GroupID": 311,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 265,
-    "GroupID": 311,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 311003,
-    "Priority": 1.0
+    "GroupID": 311,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 266,
-    "GroupID": 311,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 311004,
-    "Priority": 3.0
+    "GroupID": 311,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 267,
-    "GroupID": 311,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 311005,
-    "Priority": 3.0
+    "GroupID": 311,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 268,
-    "GroupID": 311,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 311006,
-    "Priority": 7.0
+    "GroupID": 311,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 269,
-    "GroupID": 311,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 311007,
-    "Priority": 2.0
+    "GroupID": 311,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 270,
-    "GroupID": 311,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 311008,
-    "Priority": 5.0
+    "GroupID": 311,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 271,
-    "GroupID": 321,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 321001,
-    "Priority": 6.0
+    "GroupID": 321,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 272,
-    "GroupID": 321,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 321002,
-    "Priority": 6.0
+    "GroupID": 321,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 273,
-    "GroupID": 321,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 321003,
-    "Priority": 1.0
+    "GroupID": 321,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 274,
-    "GroupID": 321,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 321004,
-    "Priority": 3.0
+    "GroupID": 321,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 275,
-    "GroupID": 321,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 321005,
-    "Priority": 3.0
+    "GroupID": 321,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 276,
-    "GroupID": 321,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 321006,
-    "Priority": 7.0
+    "GroupID": 321,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 277,
-    "GroupID": 321,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 321007,
-    "Priority": 2.0
+    "GroupID": 321,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 278,
-    "GroupID": 321,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 321008,
-    "Priority": 5.0
+    "GroupID": 321,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 279,
-    "GroupID": 241,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 241001,
-    "Priority": 6.0
+    "GroupID": 241,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 280,
-    "GroupID": 241,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 241002,
-    "Priority": 6.0
+    "GroupID": 241,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 281,
-    "GroupID": 241,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 241003,
-    "Priority": 1.0
+    "GroupID": 241,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 282,
-    "GroupID": 241,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 241004,
-    "Priority": 3.0
+    "GroupID": 241,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 283,
-    "GroupID": 241,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 241005,
-    "Priority": 3.0
+    "GroupID": 241,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 284,
-    "GroupID": 241,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 241006,
-    "Priority": 7.0
+    "GroupID": 241,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 285,
-    "GroupID": 241,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 241007,
-    "Priority": 2.0
+    "GroupID": 241,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 286,
-    "GroupID": 241,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 241008,
-    "Priority": 5.0
+    "GroupID": 241,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   },
   {
     "ID": 287,
-    "GroupID": 331,
-    "EventActionVoiceType": "Gallop",
     "VoiceGroupID": 331001,
-    "Priority": 6.0
+    "GroupID": 331,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
   },
   {
     "ID": 288,
-    "GroupID": 331,
-    "EventActionVoiceType": "UltimateSkill",
     "VoiceGroupID": 331002,
-    "Priority": 6.0
+    "GroupID": 331,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
   },
   {
     "ID": 289,
-    "GroupID": 331,
-    "EventActionVoiceType": "LowHP",
     "VoiceGroupID": 331003,
-    "Priority": 1.0
+    "GroupID": 331,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
   },
   {
     "ID": 290,
-    "GroupID": 331,
-    "EventActionVoiceType": "NormalMonster",
     "VoiceGroupID": 331004,
-    "Priority": 3.0
+    "GroupID": 331,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
   },
   {
     "ID": 291,
-    "GroupID": 331,
-    "EventActionVoiceType": "BossMonster",
     "VoiceGroupID": 331005,
-    "Priority": 3.0
+    "GroupID": 331,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
   },
   {
     "ID": 292,
-    "GroupID": 331,
-    "EventActionVoiceType": "Move",
     "VoiceGroupID": 331006,
-    "Priority": 7.0
+    "GroupID": 331,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
   },
   {
     "ID": 293,
-    "GroupID": 331,
-    "EventActionVoiceType": "BossPattern",
     "VoiceGroupID": 331007,
-    "Priority": 2.0
+    "GroupID": 331,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
   },
   {
     "ID": 294,
-    "GroupID": 331,
-    "EventActionVoiceType": "TagIn",
     "VoiceGroupID": 331008,
-    "Priority": 5.0
+    "GroupID": 331,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 295,
+    "VoiceGroupID": 341001,
+    "GroupID": 341,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 296,
+    "VoiceGroupID": 341002,
+    "GroupID": 341,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 297,
+    "VoiceGroupID": 341003,
+    "GroupID": 341,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 298,
+    "VoiceGroupID": 341004,
+    "GroupID": 341,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 299,
+    "VoiceGroupID": 341005,
+    "GroupID": 341,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 300,
+    "VoiceGroupID": 341006,
+    "GroupID": 341,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 301,
+    "VoiceGroupID": 341007,
+    "GroupID": 341,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 302,
+    "VoiceGroupID": 341008,
+    "GroupID": 341,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 303,
+    "VoiceGroupID": 342001,
+    "GroupID": 342,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 304,
+    "VoiceGroupID": 342002,
+    "GroupID": 342,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 305,
+    "VoiceGroupID": 342003,
+    "GroupID": 342,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 306,
+    "VoiceGroupID": 342004,
+    "GroupID": 342,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 307,
+    "VoiceGroupID": 342005,
+    "GroupID": 342,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 308,
+    "VoiceGroupID": 342006,
+    "GroupID": 342,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 309,
+    "VoiceGroupID": 342007,
+    "GroupID": 342,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 310,
+    "VoiceGroupID": 342008,
+    "GroupID": 342,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 311,
+    "VoiceGroupID": 361001,
+    "GroupID": 361,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 312,
+    "VoiceGroupID": 361002,
+    "GroupID": 361,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 313,
+    "VoiceGroupID": 361003,
+    "GroupID": 361,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 314,
+    "VoiceGroupID": 361004,
+    "GroupID": 361,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 315,
+    "VoiceGroupID": 361005,
+    "GroupID": 361,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 316,
+    "VoiceGroupID": 361006,
+    "GroupID": 361,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 317,
+    "VoiceGroupID": 361008,
+    "GroupID": 361,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 318,
+    "VoiceGroupID": 361009,
+    "GroupID": 361,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 319,
+    "VoiceGroupID": 371001,
+    "GroupID": 371,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 320,
+    "VoiceGroupID": 371002,
+    "GroupID": 371,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 321,
+    "VoiceGroupID": 371003,
+    "GroupID": 371,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 322,
+    "VoiceGroupID": 371004,
+    "GroupID": 371,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 323,
+    "VoiceGroupID": 371005,
+    "GroupID": 371,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 324,
+    "VoiceGroupID": 371006,
+    "GroupID": 371,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 325,
+    "VoiceGroupID": 371008,
+    "GroupID": 371,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 326,
+    "VoiceGroupID": 371009,
+    "GroupID": 371,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 327,
+    "VoiceGroupID": 381001,
+    "GroupID": 381,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 328,
+    "VoiceGroupID": 381002,
+    "GroupID": 381,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 329,
+    "VoiceGroupID": 381003,
+    "GroupID": 381,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 330,
+    "VoiceGroupID": 381004,
+    "GroupID": 381,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 331,
+    "VoiceGroupID": 381005,
+    "GroupID": 381,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 332,
+    "VoiceGroupID": 381006,
+    "GroupID": 381,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 333,
+    "VoiceGroupID": 381008,
+    "GroupID": 381,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 334,
+    "VoiceGroupID": 381009,
+    "GroupID": 381,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 335,
+    "VoiceGroupID": 351001,
+    "GroupID": 351,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 336,
+    "VoiceGroupID": 351002,
+    "GroupID": 351,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 337,
+    "VoiceGroupID": 351003,
+    "GroupID": 351,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 338,
+    "VoiceGroupID": 351004,
+    "GroupID": 351,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 339,
+    "VoiceGroupID": 351005,
+    "GroupID": 351,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 340,
+    "VoiceGroupID": 351006,
+    "GroupID": 351,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 341,
+    "VoiceGroupID": 351008,
+    "GroupID": 351,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 342,
+    "VoiceGroupID": 351009,
+    "GroupID": 351,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 343,
+    "VoiceGroupID": 391001,
+    "GroupID": 391,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 344,
+    "VoiceGroupID": 391002,
+    "GroupID": 391,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 345,
+    "VoiceGroupID": 391003,
+    "GroupID": 391,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 346,
+    "VoiceGroupID": 391004,
+    "GroupID": 391,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 347,
+    "VoiceGroupID": 391005,
+    "GroupID": 391,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 348,
+    "VoiceGroupID": 391006,
+    "GroupID": 391,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 349,
+    "VoiceGroupID": 391008,
+    "GroupID": 391,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 350,
+    "VoiceGroupID": 391009,
+    "GroupID": 391,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 351,
+    "VoiceGroupID": 401001,
+    "GroupID": 401,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 352,
+    "VoiceGroupID": 401002,
+    "GroupID": 401,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 353,
+    "VoiceGroupID": 401003,
+    "GroupID": 401,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 354,
+    "VoiceGroupID": 401004,
+    "GroupID": 401,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 355,
+    "VoiceGroupID": 401005,
+    "GroupID": 401,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 356,
+    "VoiceGroupID": 401006,
+    "GroupID": 401,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 357,
+    "VoiceGroupID": 401008,
+    "GroupID": 401,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 358,
+    "VoiceGroupID": 401009,
+    "GroupID": 401,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 359,
+    "VoiceGroupID": 411001,
+    "GroupID": 411,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 360,
+    "VoiceGroupID": 411002,
+    "GroupID": 411,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 361,
+    "VoiceGroupID": 411003,
+    "GroupID": 411,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 362,
+    "VoiceGroupID": 411004,
+    "GroupID": 411,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 363,
+    "VoiceGroupID": 411005,
+    "GroupID": 411,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 364,
+    "VoiceGroupID": 411006,
+    "GroupID": 411,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 365,
+    "VoiceGroupID": 411008,
+    "GroupID": 411,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 366,
+    "VoiceGroupID": 411009,
+    "GroupID": 411,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 367,
+    "VoiceGroupID": 421001,
+    "GroupID": 421,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 368,
+    "VoiceGroupID": 421002,
+    "GroupID": 421,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 369,
+    "VoiceGroupID": 421003,
+    "GroupID": 421,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 370,
+    "VoiceGroupID": 421004,
+    "GroupID": 421,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 371,
+    "VoiceGroupID": 421005,
+    "GroupID": 421,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 372,
+    "VoiceGroupID": 421006,
+    "GroupID": 421,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 373,
+    "VoiceGroupID": 421008,
+    "GroupID": 421,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 374,
+    "VoiceGroupID": 421009,
+    "GroupID": 421,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 375,
+    "VoiceGroupID": 431001,
+    "GroupID": 431,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 376,
+    "VoiceGroupID": 431002,
+    "GroupID": 431,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 377,
+    "VoiceGroupID": 431003,
+    "GroupID": 431,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 378,
+    "VoiceGroupID": 431004,
+    "GroupID": 431,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 379,
+    "VoiceGroupID": 431005,
+    "GroupID": 431,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 380,
+    "VoiceGroupID": 431006,
+    "GroupID": 431,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 381,
+    "VoiceGroupID": 431008,
+    "GroupID": 431,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 382,
+    "VoiceGroupID": 431009,
+    "GroupID": 431,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 383,
+    "VoiceGroupID": 441001,
+    "GroupID": 441,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 384,
+    "VoiceGroupID": 441002,
+    "GroupID": 441,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 385,
+    "VoiceGroupID": 441003,
+    "GroupID": 441,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 386,
+    "VoiceGroupID": 441004,
+    "GroupID": 441,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 387,
+    "VoiceGroupID": 441005,
+    "GroupID": 441,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 388,
+    "VoiceGroupID": 441006,
+    "GroupID": 441,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 389,
+    "VoiceGroupID": 441008,
+    "GroupID": 441,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 390,
+    "VoiceGroupID": 441009,
+    "GroupID": 441,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 391,
+    "VoiceGroupID": 451001,
+    "GroupID": 451,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 392,
+    "VoiceGroupID": 451002,
+    "GroupID": 451,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 393,
+    "VoiceGroupID": 451003,
+    "GroupID": 451,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 394,
+    "VoiceGroupID": 451004,
+    "GroupID": 451,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 395,
+    "VoiceGroupID": 451005,
+    "GroupID": 451,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 396,
+    "VoiceGroupID": 451006,
+    "GroupID": 451,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 397,
+    "VoiceGroupID": 451008,
+    "GroupID": 451,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 398,
+    "VoiceGroupID": 451009,
+    "GroupID": 451,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 399,
+    "VoiceGroupID": 461001,
+    "GroupID": 461,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 400,
+    "VoiceGroupID": 461002,
+    "GroupID": 461,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 401,
+    "VoiceGroupID": 461003,
+    "GroupID": 461,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 402,
+    "VoiceGroupID": 461004,
+    "GroupID": 461,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 403,
+    "VoiceGroupID": 461005,
+    "GroupID": 461,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 404,
+    "VoiceGroupID": 461006,
+    "GroupID": 461,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 405,
+    "VoiceGroupID": 461008,
+    "GroupID": 461,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 406,
+    "VoiceGroupID": 461009,
+    "GroupID": 461,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 407,
+    "VoiceGroupID": 471001,
+    "GroupID": 471,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 408,
+    "VoiceGroupID": 471002,
+    "GroupID": 471,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 409,
+    "VoiceGroupID": 471003,
+    "GroupID": 471,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 410,
+    "VoiceGroupID": 471004,
+    "GroupID": 471,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 411,
+    "VoiceGroupID": 471005,
+    "GroupID": 471,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 412,
+    "VoiceGroupID": 471006,
+    "GroupID": 471,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 413,
+    "VoiceGroupID": 471008,
+    "GroupID": 471,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 414,
+    "VoiceGroupID": 471009,
+    "GroupID": 471,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 415,
+    "VoiceGroupID": 481001,
+    "GroupID": 481,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 416,
+    "VoiceGroupID": 481002,
+    "GroupID": 481,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 417,
+    "VoiceGroupID": 481003,
+    "GroupID": 481,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 418,
+    "VoiceGroupID": 481004,
+    "GroupID": 481,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 419,
+    "VoiceGroupID": 481005,
+    "GroupID": 481,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 420,
+    "VoiceGroupID": 481006,
+    "GroupID": 481,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 421,
+    "VoiceGroupID": 481008,
+    "GroupID": 481,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 422,
+    "VoiceGroupID": 481009,
+    "GroupID": 481,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 423,
+    "VoiceGroupID": 491001,
+    "GroupID": 491,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 424,
+    "VoiceGroupID": 491002,
+    "GroupID": 491,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 425,
+    "VoiceGroupID": 491003,
+    "GroupID": 491,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 426,
+    "VoiceGroupID": 491004,
+    "GroupID": 491,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 427,
+    "VoiceGroupID": 491005,
+    "GroupID": 491,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 428,
+    "VoiceGroupID": 491006,
+    "GroupID": 491,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 429,
+    "VoiceGroupID": 491008,
+    "GroupID": 491,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 430,
+    "VoiceGroupID": 491009,
+    "GroupID": 491,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 431,
+    "VoiceGroupID": 501001,
+    "GroupID": 501,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 432,
+    "VoiceGroupID": 501002,
+    "GroupID": 501,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 433,
+    "VoiceGroupID": 501003,
+    "GroupID": 501,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 434,
+    "VoiceGroupID": 501004,
+    "GroupID": 501,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 435,
+    "VoiceGroupID": 501005,
+    "GroupID": 501,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 436,
+    "VoiceGroupID": 501006,
+    "GroupID": 501,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 437,
+    "VoiceGroupID": 501008,
+    "GroupID": 501,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 438,
+    "VoiceGroupID": 501009,
+    "GroupID": 501,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 439,
+    "VoiceGroupID": 511001,
+    "GroupID": 511,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 440,
+    "VoiceGroupID": 511002,
+    "GroupID": 511,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 441,
+    "VoiceGroupID": 511003,
+    "GroupID": 511,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 442,
+    "VoiceGroupID": 511004,
+    "GroupID": 511,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 443,
+    "VoiceGroupID": 511005,
+    "GroupID": 511,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 444,
+    "VoiceGroupID": 511006,
+    "GroupID": 511,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 445,
+    "VoiceGroupID": 511008,
+    "GroupID": 511,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 446,
+    "VoiceGroupID": 511009,
+    "GroupID": 511,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 447,
+    "VoiceGroupID": 521001,
+    "GroupID": 521,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 448,
+    "VoiceGroupID": 521002,
+    "GroupID": 521,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 449,
+    "VoiceGroupID": 521003,
+    "GroupID": 521,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 450,
+    "VoiceGroupID": 521004,
+    "GroupID": 521,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 451,
+    "VoiceGroupID": 521005,
+    "GroupID": 521,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 452,
+    "VoiceGroupID": 521006,
+    "GroupID": 521,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 453,
+    "VoiceGroupID": 521008,
+    "GroupID": 521,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 454,
+    "VoiceGroupID": 521009,
+    "GroupID": 521,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 455,
+    "VoiceGroupID": 531001,
+    "GroupID": 531,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 456,
+    "VoiceGroupID": 531002,
+    "GroupID": 531,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 457,
+    "VoiceGroupID": 531003,
+    "GroupID": 531,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 458,
+    "VoiceGroupID": 531004,
+    "GroupID": 531,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 459,
+    "VoiceGroupID": 531005,
+    "GroupID": 531,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 460,
+    "VoiceGroupID": 531006,
+    "GroupID": 531,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 461,
+    "VoiceGroupID": 531008,
+    "GroupID": 531,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 462,
+    "VoiceGroupID": 531009,
+    "GroupID": 531,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 463,
+    "VoiceGroupID": 532001,
+    "GroupID": 532,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 464,
+    "VoiceGroupID": 532002,
+    "GroupID": 532,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 465,
+    "VoiceGroupID": 532003,
+    "GroupID": 532,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 466,
+    "VoiceGroupID": 532004,
+    "GroupID": 532,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 467,
+    "VoiceGroupID": 532005,
+    "GroupID": 532,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 468,
+    "VoiceGroupID": 532006,
+    "GroupID": 532,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 469,
+    "VoiceGroupID": 532008,
+    "GroupID": 532,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 470,
+    "VoiceGroupID": 532009,
+    "GroupID": 532,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   }
 ]

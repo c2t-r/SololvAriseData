@@ -1,236 +1,308 @@
 [
   {
-    "ID": 10001,
     "GuildRankSort": 18,
-    "GuildRank": "RankS",
-    "GuildSubRank": 1,
-    "GuildRankString": "SysConstStr.Guild.RankS",
-    "GuildRankIcon": "Icon_GuildRank_6",
-    "RankType": "Percent",
+    "ID": 10001,
+    "DemotePoint": 0,
     "RankTypeValue": 10,
+    "GuildSubRank": 1,
     "RewardID": 200233,
-    "DemotePoint": 0,
-    "RankBuff": "[21258,21261,21264]"
-  },
-  {
-    "ID": 10002,
-    "GuildRankSort": 17,
-    "GuildRank": "RankS",
-    "GuildSubRank": 2,
     "GuildRankString": "SysConstStr.Guild.RankS",
-    "GuildRankIcon": "Icon_GuildRank_6",
+    "GuildRank": "RankS",
     "RankType": "Percent",
+    "RankBuff": [
+      21258,
+      21261,
+      21264
+    ],
+    "GuildRankIcon": "Icon_GuildRank_6"
+  },
+  {
+    "GuildRankSort": 17,
+    "ID": 10002,
+    "DemotePoint": 0,
     "RankTypeValue": 30,
+    "GuildSubRank": 2,
     "RewardID": 200234,
-    "DemotePoint": 0,
-    "RankBuff": "[21257,21260,21263]"
-  },
-  {
-    "ID": 10003,
-    "GuildRankSort": 16,
-    "GuildRank": "RankS",
-    "GuildSubRank": 3,
     "GuildRankString": "SysConstStr.Guild.RankS",
-    "GuildRankIcon": "Icon_GuildRank_6",
-    "RankType": "Normal",
-    "RankTypeValue": 75000,
-    "RewardID": 200235,
+    "GuildRank": "RankS",
+    "RankType": "Percent",
+    "RankBuff": [
+      21257,
+      21260,
+      21263
+    ],
+    "GuildRankIcon": "Icon_GuildRank_6"
+  },
+  {
+    "GuildRankSort": 16,
+    "ID": 10003,
     "DemotePoint": 75000,
-    "RankBuff": "[21256,21259,21262]"
+    "RankTypeValue": 75000,
+    "GuildSubRank": 3,
+    "RewardID": 200235,
+    "GuildRankString": "SysConstStr.Guild.RankS",
+    "GuildRank": "RankS",
+    "RankType": "Normal",
+    "RankBuff": [
+      21256,
+      21259,
+      21262
+    ],
+    "GuildRankIcon": "Icon_GuildRank_6"
   },
   {
-    "ID": 20001,
     "GuildRankSort": 15,
-    "GuildRank": "RankA",
-    "GuildSubRank": 1,
-    "GuildRankString": "SysConstStr.Guild.RankA",
-    "GuildRankIcon": "Icon_GuildRank_5",
-    "RankType": "Normal",
-    "RankTypeValue": 52000,
-    "RewardID": 200236,
+    "ID": 20001,
     "DemotePoint": 52000,
-    "RankBuff": "[21015,21030,21045]"
+    "RankTypeValue": 52000,
+    "GuildSubRank": 1,
+    "RewardID": 200236,
+    "GuildRankString": "SysConstStr.Guild.RankA",
+    "GuildRank": "RankA",
+    "RankType": "Normal",
+    "RankBuff": [
+      21015,
+      21030,
+      21045
+    ],
+    "GuildRankIcon": "Icon_GuildRank_5"
   },
   {
-    "ID": 20002,
     "GuildRankSort": 14,
-    "GuildRank": "RankA",
-    "GuildSubRank": 2,
-    "GuildRankString": "SysConstStr.Guild.RankA",
-    "GuildRankIcon": "Icon_GuildRank_5",
-    "RankType": "Normal",
-    "RankTypeValue": 40500,
-    "RewardID": 200237,
+    "ID": 20002,
     "DemotePoint": 40500,
-    "RankBuff": "[21014,21029,21044]"
-  },
-  {
-    "ID": 20003,
-    "GuildRankSort": 13,
-    "GuildRank": "RankA",
-    "GuildSubRank": 3,
+    "RankTypeValue": 40500,
+    "GuildSubRank": 2,
+    "RewardID": 200237,
     "GuildRankString": "SysConstStr.Guild.RankA",
-    "GuildRankIcon": "Icon_GuildRank_5",
+    "GuildRank": "RankA",
     "RankType": "Normal",
-    "RankTypeValue": 31500,
-    "RewardID": 200238,
+    "RankBuff": [
+      21014,
+      21029,
+      21044
+    ],
+    "GuildRankIcon": "Icon_GuildRank_5"
+  },
+  {
+    "GuildRankSort": 13,
+    "ID": 20003,
     "DemotePoint": 31500,
-    "RankBuff": "[21013,21028,21043]"
+    "RankTypeValue": 31500,
+    "GuildSubRank": 3,
+    "RewardID": 200238,
+    "GuildRankString": "SysConstStr.Guild.RankA",
+    "GuildRank": "RankA",
+    "RankType": "Normal",
+    "RankBuff": [
+      21013,
+      21028,
+      21043
+    ],
+    "GuildRankIcon": "Icon_GuildRank_5"
   },
   {
-    "ID": 30001,
     "GuildRankSort": 12,
-    "GuildRank": "RankB",
-    "GuildSubRank": 1,
-    "GuildRankString": "SysConstStr.Guild.RankB",
-    "GuildRankIcon": "Icon_GuildRank_4",
-    "RankType": "Normal",
-    "RankTypeValue": 20500,
-    "RewardID": 200239,
+    "ID": 30001,
     "DemotePoint": 20500,
-    "RankBuff": "[21012,21027,21042]"
+    "RankTypeValue": 20500,
+    "GuildSubRank": 1,
+    "RewardID": 200239,
+    "GuildRankString": "SysConstStr.Guild.RankB",
+    "GuildRank": "RankB",
+    "RankType": "Normal",
+    "RankBuff": [
+      21012,
+      21027,
+      21042
+    ],
+    "GuildRankIcon": "Icon_GuildRank_4"
   },
   {
-    "ID": 30002,
     "GuildRankSort": 11,
-    "GuildRank": "RankB",
-    "GuildSubRank": 2,
-    "GuildRankString": "SysConstStr.Guild.RankB",
-    "GuildRankIcon": "Icon_GuildRank_4",
-    "RankType": "Normal",
-    "RankTypeValue": 13500,
-    "RewardID": 200240,
+    "ID": 30002,
     "DemotePoint": 13500,
-    "RankBuff": "[21011,21026,21041]"
-  },
-  {
-    "ID": 30003,
-    "GuildRankSort": 10,
-    "GuildRank": "RankB",
-    "GuildSubRank": 3,
+    "RankTypeValue": 13500,
+    "GuildSubRank": 2,
+    "RewardID": 200240,
     "GuildRankString": "SysConstStr.Guild.RankB",
-    "GuildRankIcon": "Icon_GuildRank_4",
+    "GuildRank": "RankB",
     "RankType": "Normal",
-    "RankTypeValue": 8200,
-    "RewardID": 200241,
+    "RankBuff": [
+      21011,
+      21026,
+      21041
+    ],
+    "GuildRankIcon": "Icon_GuildRank_4"
+  },
+  {
+    "GuildRankSort": 10,
+    "ID": 30003,
     "DemotePoint": 8200,
-    "RankBuff": "[21010,21025,21040]"
+    "RankTypeValue": 8200,
+    "GuildSubRank": 3,
+    "RewardID": 200241,
+    "GuildRankString": "SysConstStr.Guild.RankB",
+    "GuildRank": "RankB",
+    "RankType": "Normal",
+    "RankBuff": [
+      21010,
+      21025,
+      21040
+    ],
+    "GuildRankIcon": "Icon_GuildRank_4"
   },
   {
-    "ID": 40001,
     "GuildRankSort": 9,
-    "GuildRank": "RankC",
-    "GuildSubRank": 1,
-    "GuildRankString": "SysConstStr.Guild.RankC",
-    "GuildRankIcon": "Icon_GuildRank_3",
-    "RankType": "Normal",
-    "RankTypeValue": 5300,
-    "RewardID": 200242,
+    "ID": 40001,
     "DemotePoint": 5300,
-    "RankBuff": "[21009,21024,21039]"
+    "RankTypeValue": 5300,
+    "GuildSubRank": 1,
+    "RewardID": 200242,
+    "GuildRankString": "SysConstStr.Guild.RankC",
+    "GuildRank": "RankC",
+    "RankType": "Normal",
+    "RankBuff": [
+      21009,
+      21024,
+      21039
+    ],
+    "GuildRankIcon": "Icon_GuildRank_3"
   },
   {
-    "ID": 40002,
     "GuildRankSort": 8,
-    "GuildRank": "RankC",
-    "GuildSubRank": 2,
-    "GuildRankString": "SysConstStr.Guild.RankC",
-    "GuildRankIcon": "Icon_GuildRank_3",
-    "RankType": "Normal",
-    "RankTypeValue": 3900,
-    "RewardID": 200243,
+    "ID": 40002,
     "DemotePoint": 3900,
-    "RankBuff": "[21008,21023,21038]"
-  },
-  {
-    "ID": 40003,
-    "GuildRankSort": 7,
-    "GuildRank": "RankC",
-    "GuildSubRank": 3,
+    "RankTypeValue": 3900,
+    "GuildSubRank": 2,
+    "RewardID": 200243,
     "GuildRankString": "SysConstStr.Guild.RankC",
-    "GuildRankIcon": "Icon_GuildRank_3",
+    "GuildRank": "RankC",
     "RankType": "Normal",
-    "RankTypeValue": 2900,
-    "RewardID": 200244,
+    "RankBuff": [
+      21008,
+      21023,
+      21038
+    ],
+    "GuildRankIcon": "Icon_GuildRank_3"
+  },
+  {
+    "GuildRankSort": 7,
+    "ID": 40003,
     "DemotePoint": 2900,
-    "RankBuff": "[21007,21022,21037]"
+    "RankTypeValue": 2900,
+    "GuildSubRank": 3,
+    "RewardID": 200244,
+    "GuildRankString": "SysConstStr.Guild.RankC",
+    "GuildRank": "RankC",
+    "RankType": "Normal",
+    "RankBuff": [
+      21007,
+      21022,
+      21037
+    ],
+    "GuildRankIcon": "Icon_GuildRank_3"
   },
   {
-    "ID": 50001,
     "GuildRankSort": 6,
-    "GuildRank": "RankD",
-    "GuildSubRank": 1,
-    "GuildRankString": "SysConstStr.Guild.RankD",
-    "GuildRankIcon": "Icon_GuildRank_2",
-    "RankType": "Normal",
-    "RankTypeValue": 2000,
-    "RewardID": 200245,
+    "ID": 50001,
     "DemotePoint": 2000,
-    "RankBuff": "[21006,21021,21036]"
-  },
-  {
-    "ID": 50002,
-    "GuildRankSort": 5,
-    "GuildRank": "RankD",
-    "GuildSubRank": 2,
-    "GuildRankString": "SysConstStr.Guild.RankD",
-    "GuildRankIcon": "Icon_GuildRank_2",
-    "RankType": "Normal",
-    "RankTypeValue": 1750,
-    "RewardID": 200246,
-    "DemotePoint": 1750,
-    "RankBuff": "[21005,21020,21035]"
-  },
-  {
-    "ID": 50003,
-    "GuildRankSort": 4,
-    "GuildRank": "RankD",
-    "GuildSubRank": 3,
-    "GuildRankString": "SysConstStr.Guild.RankD",
-    "GuildRankIcon": "Icon_GuildRank_2",
-    "RankType": "Normal",
-    "RankTypeValue": 1500,
-    "RewardID": 200247,
-    "DemotePoint": 1500,
-    "RankBuff": "[21004,21019,21034]"
-  },
-  {
-    "ID": 60001,
-    "GuildRankSort": 3,
-    "GuildRank": "RankE",
+    "RankTypeValue": 2000,
     "GuildSubRank": 1,
-    "GuildRankString": "SysConstStr.Guild.RankE",
-    "GuildRankIcon": "Icon_GuildRank_1",
+    "RewardID": 200245,
+    "GuildRankString": "SysConstStr.Guild.RankD",
+    "GuildRank": "RankD",
     "RankType": "Normal",
-    "RankTypeValue": 1250,
-    "RewardID": 200248,
-    "DemotePoint": 1250,
-    "RankBuff": "[21003,21018,21033]"
+    "RankBuff": [
+      21006,
+      21021,
+      21036
+    ],
+    "GuildRankIcon": "Icon_GuildRank_2"
   },
   {
-    "ID": 60002,
-    "GuildRankSort": 2,
-    "GuildRank": "RankE",
+    "GuildRankSort": 5,
+    "ID": 50002,
+    "DemotePoint": 1750,
+    "RankTypeValue": 1750,
     "GuildSubRank": 2,
-    "GuildRankString": "SysConstStr.Guild.RankE",
-    "GuildRankIcon": "Icon_GuildRank_1",
+    "RewardID": 200246,
+    "GuildRankString": "SysConstStr.Guild.RankD",
+    "GuildRank": "RankD",
     "RankType": "Normal",
-    "RankTypeValue": 800,
-    "RewardID": 200249,
-    "DemotePoint": 800,
-    "RankBuff": "[21002,21017,21032]"
+    "RankBuff": [
+      21005,
+      21020,
+      21035
+    ],
+    "GuildRankIcon": "Icon_GuildRank_2"
   },
   {
-    "ID": 60003,
-    "GuildRankSort": 1,
-    "GuildRank": "RankE",
+    "GuildRankSort": 4,
+    "ID": 50003,
+    "DemotePoint": 1500,
+    "RankTypeValue": 1500,
     "GuildSubRank": 3,
-    "GuildRankString": "SysConstStr.Guild.RankE",
-    "GuildRankIcon": "Icon_GuildRank_1",
+    "RewardID": 200247,
+    "GuildRankString": "SysConstStr.Guild.RankD",
+    "GuildRank": "RankD",
     "RankType": "Normal",
-    "RankTypeValue": 0,
-    "RewardID": 200253,
+    "RankBuff": [
+      21004,
+      21019,
+      21034
+    ],
+    "GuildRankIcon": "Icon_GuildRank_2"
+  },
+  {
+    "GuildRankSort": 3,
+    "ID": 60001,
+    "DemotePoint": 1250,
+    "RankTypeValue": 1250,
+    "GuildSubRank": 1,
+    "RewardID": 200248,
+    "GuildRankString": "SysConstStr.Guild.RankE",
+    "GuildRank": "RankE",
+    "RankType": "Normal",
+    "RankBuff": [
+      21003,
+      21018,
+      21033
+    ],
+    "GuildRankIcon": "Icon_GuildRank_1"
+  },
+  {
+    "GuildRankSort": 2,
+    "ID": 60002,
+    "DemotePoint": 800,
+    "RankTypeValue": 800,
+    "GuildSubRank": 2,
+    "RewardID": 200249,
+    "GuildRankString": "SysConstStr.Guild.RankE",
+    "GuildRank": "RankE",
+    "RankType": "Normal",
+    "RankBuff": [
+      21002,
+      21017,
+      21032
+    ],
+    "GuildRankIcon": "Icon_GuildRank_1"
+  },
+  {
+    "GuildRankSort": 1,
+    "ID": 60003,
     "DemotePoint": 0,
-    "RankBuff": "[21001,21016,21031]"
+    "RankTypeValue": 0,
+    "GuildSubRank": 3,
+    "RewardID": 200253,
+    "GuildRankString": "SysConstStr.Guild.RankE",
+    "GuildRank": "RankE",
+    "RankType": "Normal",
+    "RankBuff": [
+      21001,
+      21016,
+      21031
+    ],
+    "GuildRankIcon": "Icon_GuildRank_1"
   }
 ]

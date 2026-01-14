@@ -1,0 +1,366 @@
+[
+  {
+    "ManaCost": 1,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41001,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41001",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Ally",
+    "ResourceName": "Img_PVP_Increase_Damage",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41001",
+    "AddBuffRange": "MemberAll",
+    "AddBuff": [
+      41001
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 3,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41002,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41002",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Ally",
+    "ResourceName": "Img_PVP_Break_Restore",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41002",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41002
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 2,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41003,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41003",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeDeBuff"
+    ],
+    "RecommendCardId": [
+      41002
+    ],
+    "AllianceAddBuff": [],
+    "Target": "Enemy",
+    "ResourceName": "Img_PVP_Break_Damage",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41003",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41003
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 3,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41004,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41004",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeDeBuff"
+    ],
+    "RecommendCardId": [
+      41002
+    ],
+    "AllianceAddBuff": [],
+    "Target": "Enemy",
+    "ResourceName": "Img_PVP_Focus",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41004",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41004
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 1,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41006,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41006",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeDeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Enemy",
+    "ResourceName": "Img_PVP_Thorn",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41006",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41006
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 1,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41009,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41009",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Ally",
+    "ResourceName": "Img_PVP_Unbreakable",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.fix.41009",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41009
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 2,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41012,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41012",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Ally",
+    "ResourceName": "Img_PVP_HpRecovery",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41012",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41012
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 2,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41014,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41014",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeDeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Enemy",
+    "ResourceName": "Img_PVP_Burn",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41014",
+    "AddBuffRange": "EnterAll",
+    "AddBuff": [
+      41014
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 3,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41015,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41015",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeDeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Enemy",
+    "ResourceName": "Img_Img_PVP_Seal",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41015",
+    "AddBuffRange": "Enter",
+    "AddBuff": [
+      41015
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 2,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 6,
+    "SkillGroupID": 0,
+    "ID": 41016,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41016",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Ally",
+    "ResourceName": "Img_PVP_Strategy",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41016",
+    "AddBuffRange": "System",
+    "AddBuff": [
+      41016
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 1,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 1,
+    "SkillGroupID": 0,
+    "ID": 41017,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.Spell.41017",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Ally",
+    "ResourceName": "Img_PVP_StrategyUpgrade",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.Spell.41017",
+    "AddBuffRange": "System",
+    "AddBuff": [
+      41017
+    ],
+    "PvpSpawnType": "None"
+  },
+  {
+    "ManaCost": 3,
+    "IsDebuff": true,
+    "isAllianceBuffAll": true,
+    "Quantity": 1,
+    "SkillGroupID": 0,
+    "ID": 41027,
+    "HunterID": 0,
+    "isEnemyBuffAll": true,
+    "Y": 0.0,
+    "X": 0.0,
+    "Z": 0.0,
+    "Name": "PvpName.BoosterSpell.41027",
+    "EnemyAddBuff": [],
+    "SkillTag": [
+      "AbilityTypeDeBuff"
+    ],
+    "RecommendCardId": [],
+    "AllianceAddBuff": [],
+    "Target": "Enemy",
+    "ResourceName": "Img_PVP_Poison",
+    "PaymentType": "None",
+    "CardType": "Spell",
+    "Desc": "PvpDesc.BoosterSpell.41027",
+    "AddBuffRange": "EnterAll",
+    "AddBuff": [
+      41027
+    ],
+    "PvpSpawnType": "None"
+  }
+]

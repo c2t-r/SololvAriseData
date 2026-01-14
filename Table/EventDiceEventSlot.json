@@ -1,0 +1,38 @@
+[
+  {
+    "EventTypeProb": 3500,
+    "ID": 1,
+    "Value2": 6,
+    "Value1": 1,
+    "EventSlotType": "AddMove",
+    "EventTypeDesc": "Event.DiceVertical.Info_04",
+    "ImgResource": "Img_Event_DiceCard_Dice"
+  },
+  {
+    "EventTypeProb": 1500,
+    "ID": 2,
+    "Value2": 3,
+    "Value1": 1,
+    "EventSlotType": "MinusMove",
+    "EventTypeDesc": "Event.DiceVertical.Info_05",
+    "ImgResource": "Img_Event_DiceCard_Tornado"
+  },
+  {
+    "EventTypeProb": 3500,
+    "ID": 3,
+    "Value2": 0,
+    "Value1": 2039501,
+    "EventSlotType": "RandomReward",
+    "EventTypeDesc": "Event.DiceVertical.Info_06",
+    "ImgResource": "Img_Event_DiceCard_RandomBox"
+  },
+  {
+    "EventTypeProb": 1500,
+    "ID": 4,
+    "Value2": 0,
+    "Value1": 2,
+    "EventSlotType": "DiceBuff",
+    "EventTypeDesc": "Event.DiceVertical.Info_07",
+    "ImgResource": "Img_Event_DiceCard_LuckyClover"
+  }
+]

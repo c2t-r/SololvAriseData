@@ -1,0 +1,2022 @@
+[
+  {
+    "ID": 1,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 1,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 2,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 2,
+    "ResultDesc": "EventResultDesc.UseCoin",
+    "ResultType": "UseCoin"
+  },
+  {
+    "ID": 3,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 3,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 4,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 4,
+    "ResultDesc": "EventResultDesc.RandomBuff",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 5,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 100,
+    "ResultOrder": 1,
+    "ResultGroup": 5,
+    "ResultDesc": "EventResultDesc.DeleteCoin",
+    "ResultType": "DeleteCoin"
+  },
+  {
+    "ID": 6,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 20,
+    "ResultOrder": 1,
+    "ResultGroup": 6,
+    "ResultDesc": "EventResultDesc.HPRecoveryAll",
+    "ResultType": "HPRecoveryAll"
+  },
+  {
+    "ID": 7,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 70,
+    "ResultOrder": 1,
+    "ResultGroup": 7,
+    "ResultDesc": "EventResultDesc.HPRecoverySingle",
+    "ResultType": "HPRecoverySingle"
+  },
+  {
+    "ID": 8,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 8,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 9,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 9,
+    "ResultDesc": "EventResultDesc.DeleteBlessItem",
+    "ResultType": "DeleteBlessItem"
+  },
+  {
+    "ID": 10,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 10,
+    "ResultDesc": "EventResultDesc.DeleteRandomBuff",
+    "ResultType": "DeleteRandomBuff"
+  },
+  {
+    "ID": 11,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 100,
+    "ResultOrder": 1,
+    "ResultGroup": 11,
+    "ResultDesc": "EventResultDesc.UseCoin",
+    "ResultType": "UseCoin"
+  },
+  {
+    "ID": 12,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 11,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 13,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 12,
+    "ResultDesc": "EventResultDesc.EnhanceCodeRandom",
+    "ResultType": "EnhanceCodeRandom"
+  },
+  {
+    "ID": 14,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 3,
+    "ResultOrder": 1,
+    "ResultGroup": 13,
+    "ResultDesc": "EventResultDesc.EnhanceMaxCodeAll",
+    "ResultType": "EnhanceMaxCodeAll"
+  },
+  {
+    "ID": 15,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 14,
+    "ResultDesc": "EventResultDesc.ResetCodeAll",
+    "ResultType": "ResetCodeAll"
+  },
+  {
+    "ID": 20,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 19,
+    "ResultDesc": "EventResultDesc.GetCoinP",
+    "ResultType": "GetCoinP"
+  },
+  {
+    "ID": 21,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 20,
+    "ResultDesc": "EventResultDesc.DeleteCoinP",
+    "ResultType": "DeleteCoinP"
+  },
+  {
+    "ID": 22,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 21,
+    "ResultDesc": "EventResultDesc.Resurrection",
+    "ResultType": "Resurrection"
+  },
+  {
+    "ID": 23,
+    "ResultValue03": 8,
+    "ResultValue02": 1,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 22,
+    "ResultDesc": "EventResultDesc.RateActiveLink",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 24,
+    "ResultValue03": 14,
+    "ResultValue02": 13,
+    "ResultValue": 10,
+    "ResultOrder": 1,
+    "ResultGroup": 23,
+    "ResultDesc": "EventResultDesc.RateActiveLink",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100110,
+    "ResultValue03": 100112,
+    "ResultValue02": 100111,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100110,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100111,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 800,
+    "ResultOrder": 1,
+    "ResultGroup": 100111,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100112,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100112,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100120,
+    "ResultValue03": 100122,
+    "ResultValue02": 100121,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100120,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100121,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100121,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 100122,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100122,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100210,
+    "ResultValue03": 100212,
+    "ResultValue02": 100211,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100210,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100211,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1200,
+    "ResultOrder": 1,
+    "ResultGroup": 100211,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100212,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100212,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100220,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 100220,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100310,
+    "ResultValue03": 100312,
+    "ResultValue02": 100311,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100310,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100311,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1500,
+    "ResultOrder": 1,
+    "ResultGroup": 100311,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100312,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100312,
+    "ResultDesc": "EventResultDesc.ResetCodeAll",
+    "ResultType": "ResetCodeAll"
+  },
+  {
+    "ID": 100320,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 100320,
+    "ResultDesc": "EventResultDesc.RandomBuff",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 100410,
+    "ResultValue03": 100412,
+    "ResultValue02": 100411,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100410,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100411,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100411,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 100412,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 100412,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100420,
+    "ResultValue03": 100422,
+    "ResultValue02": 100421,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100420,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100421,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100421,
+    "ResultDesc": "EventResultDesc.EnhanceCodeRandom",
+    "ResultType": "EnhanceCodeRandom"
+  },
+  {
+    "ID": 100422,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 100422,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100510,
+    "ResultValue03": 100512,
+    "ResultValue02": 100511,
+    "ResultValue": 70,
+    "ResultOrder": 1,
+    "ResultGroup": 100510,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100511,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 100511,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 100512,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100512,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100520,
+    "ResultValue03": 100522,
+    "ResultValue02": 100521,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100520,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100521,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100521,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 100522,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100522,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100610,
+    "ResultValue03": 100612,
+    "ResultValue02": 100611,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100610,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100611,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 800,
+    "ResultOrder": 1,
+    "ResultGroup": 100611,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100612,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100612,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100620,
+    "ResultValue03": 100622,
+    "ResultValue02": 100621,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100620,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100621,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 100621,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100622,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 100622,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100630,
+    "ResultValue03": 100632,
+    "ResultValue02": 100631,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100630,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100631,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 100631,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 1006311,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 100631,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 100632,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100632,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100710,
+    "ResultValue03": 100712,
+    "ResultValue02": 100711,
+    "ResultValue": 90,
+    "ResultOrder": 1,
+    "ResultGroup": 100710,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100711,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 100711,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 100712,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100712,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100720,
+    "ResultValue03": 100722,
+    "ResultValue02": 100721,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 100720,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100721,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 2800,
+    "ResultOrder": 1,
+    "ResultGroup": 100721,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100722,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100722,
+    "ResultDesc": "EventResultDesc.ResetCodeAll",
+    "ResultType": "ResetCodeAll"
+  },
+  {
+    "ID": 100810,
+    "ResultValue03": 100812,
+    "ResultValue02": 100811,
+    "ResultValue": 20,
+    "ResultOrder": 1,
+    "ResultGroup": 100810,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100811,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100811,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 100812,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 100812,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100820,
+    "ResultValue03": 100822,
+    "ResultValue02": 100821,
+    "ResultValue": 80,
+    "ResultOrder": 1,
+    "ResultGroup": 100820,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100821,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 800,
+    "ResultOrder": 1,
+    "ResultGroup": 100821,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100822,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100822,
+    "ResultDesc": "EventResultDesc.DeleteRandomBuff",
+    "ResultType": "DeleteRandomBuff"
+  },
+  {
+    "ID": 100910,
+    "ResultValue03": 100912,
+    "ResultValue02": 100911,
+    "ResultValue": 40,
+    "ResultOrder": 1,
+    "ResultGroup": 100910,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100911,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 100911,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 1009111,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 2,
+    "ResultGroup": 100911,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 100912,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 100912,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 100920,
+    "ResultValue03": 100922,
+    "ResultValue02": 100921,
+    "ResultValue": 60,
+    "ResultOrder": 1,
+    "ResultGroup": 100920,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 100921,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 2000,
+    "ResultOrder": 1,
+    "ResultGroup": 100921,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 100922,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 100922,
+    "ResultDesc": "EventResultDesc.ResetCodeAll",
+    "ResultType": "ResetCodeAll"
+  },
+  {
+    "ID": 101010,
+    "ResultValue03": 101012,
+    "ResultValue02": 101011,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101010,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101011,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 101011,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 1010111,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 2,
+    "ResultGroup": 101011,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101012,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101012,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 101020,
+    "ResultValue03": 101022,
+    "ResultValue02": 101021,
+    "ResultValue": 70,
+    "ResultOrder": 1,
+    "ResultGroup": 101020,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101021,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 101021,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 101022,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 101022,
+    "ResultDesc": "EventResultDesc.DeleteCoin",
+    "ResultType": "DeleteCoin"
+  },
+  {
+    "ID": 101110,
+    "ResultValue03": 101112,
+    "ResultValue02": 101111,
+    "ResultValue": 70,
+    "ResultOrder": 1,
+    "ResultGroup": 101110,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101111,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101111,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101112,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101112,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 101120,
+    "ResultValue03": 101122,
+    "ResultValue02": 101121,
+    "ResultValue": 70,
+    "ResultOrder": 1,
+    "ResultGroup": 101120,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101121,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 101121,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 101122,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101122,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 101210,
+    "ResultValue03": 101212,
+    "ResultValue02": 101211,
+    "ResultValue": 60,
+    "ResultOrder": 1,
+    "ResultGroup": 101210,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101211,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 600,
+    "ResultOrder": 1,
+    "ResultGroup": 101211,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 101212,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101212,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 101220,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 101220,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 101310,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101310,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101320,
+    "ResultValue03": 101322,
+    "ResultValue02": 101321,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 101320,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101321,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 101321,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 1013211,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 101321,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101322,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 101322,
+    "ResultDesc": "EventResultDesc.DeleteCoin",
+    "ResultType": "DeleteCoin"
+  },
+  {
+    "ID": 101410,
+    "ResultValue03": 101412,
+    "ResultValue02": 101411,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 101410,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101411,
+    "ResultValue03": 0,
+    "ResultValue02": 4,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 101411,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 101412,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 101412,
+    "ResultDesc": "EventResultDesc.DeleteCoin",
+    "ResultType": "DeleteCoin"
+  },
+  {
+    "ID": 101420,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 101420,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 101510,
+    "ResultValue03": 101512,
+    "ResultValue02": 101511,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 101510,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101511,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101511,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 101512,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 15,
+    "ResultOrder": 1,
+    "ResultGroup": 101512,
+    "ResultDesc": "EventResultDesc.GetCoinP",
+    "ResultType": "GetCoinP"
+  },
+  {
+    "ID": 101520,
+    "ResultValue03": 101522,
+    "ResultValue02": 101521,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 101520,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101521,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101521,
+    "ResultDesc": "EventResultDesc.RandomBuff",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 101522,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 15,
+    "ResultOrder": 1,
+    "ResultGroup": 101522,
+    "ResultDesc": "EventResultDesc.GetCoinP",
+    "ResultType": "GetCoinP"
+  },
+  {
+    "ID": 101610,
+    "ResultValue03": 101612,
+    "ResultValue02": 101611,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101610,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101611,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101611,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 1016111,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 101611,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101612,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101612,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 101620,
+    "ResultValue03": 101622,
+    "ResultValue02": 101621,
+    "ResultValue": 90,
+    "ResultOrder": 1,
+    "ResultGroup": 101620,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101621,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 101621,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 101622,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 101622,
+    "ResultDesc": "EventResultDesc.DeleteCoin",
+    "ResultType": "DeleteCoin"
+  },
+  {
+    "ID": 101710,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101710,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 101720,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 101720,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 101810,
+    "ResultValue03": 101812,
+    "ResultValue02": 101811,
+    "ResultValue": 70,
+    "ResultOrder": 1,
+    "ResultGroup": 101810,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101811,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101811,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 101812,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101812,
+    "ResultDesc": "EventResultDesc.DeleteRandomBuff",
+    "ResultType": "DeleteRandomBuff"
+  },
+  {
+    "ID": 101820,
+    "ResultValue03": 101822,
+    "ResultValue02": 101821,
+    "ResultValue": 90,
+    "ResultOrder": 1,
+    "ResultGroup": 101820,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101821,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101821,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101822,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101822,
+    "ResultDesc": "EventResultDesc.DeleteCoinP",
+    "ResultType": "DeleteCoinP"
+  },
+  {
+    "ID": 101910,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101910,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 101920,
+    "ResultValue03": 101922,
+    "ResultValue02": 101921,
+    "ResultValue": 90,
+    "ResultOrder": 1,
+    "ResultGroup": 101920,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 101921,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 101921,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 101922,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 101922,
+    "ResultDesc": "EventResultDesc.DeleteCoinP",
+    "ResultType": "DeleteCoinP"
+  },
+  {
+    "ID": 102010,
+    "ResultValue03": 102012,
+    "ResultValue02": 102011,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 102010,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102011,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102011,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 102012,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 102012,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102020,
+    "ResultValue03": 102022,
+    "ResultValue02": 102021,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102020,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102021,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 3,
+    "ResultOrder": 1,
+    "ResultGroup": 102021,
+    "ResultDesc": "EventResultDesc.EnhanceMaxCodeAll",
+    "ResultType": "EnhanceMaxCodeAll"
+  },
+  {
+    "ID": 102022,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102022,
+    "ResultDesc": "EventResultDesc.ResetCodeAll",
+    "ResultType": "ResetCodeAll"
+  },
+  {
+    "ID": 102110,
+    "ResultValue03": 102112,
+    "ResultValue02": 102111,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102110,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102111,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102111,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 1021111,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 102111,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 102112,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102112,
+    "ResultDesc": "EventResultDesc.DeleteBlessItem",
+    "ResultType": "DeleteBlessItem"
+  },
+  {
+    "ID": 102120,
+    "ResultValue03": 102122,
+    "ResultValue02": 102121,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 102120,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102121,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 102121,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 102122,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 102122,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 102210,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102210,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 102220,
+    "ResultValue03": 102222,
+    "ResultValue02": 102221,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102220,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102221,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102221,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 102222,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102222,
+    "ResultDesc": "EventResultDesc.DeleteBlessItem",
+    "ResultType": "DeleteBlessItem"
+  },
+  {
+    "ID": 102310,
+    "ResultValue03": 102312,
+    "ResultValue02": 102311,
+    "ResultValue": 60,
+    "ResultOrder": 1,
+    "ResultGroup": 102310,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102311,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 102311,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 102312,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102312,
+    "ResultDesc": "EventResultDesc.ResetCodeAll",
+    "ResultType": "ResetCodeAll"
+  },
+  {
+    "ID": 102320,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 102320,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102410,
+    "ResultValue03": 102412,
+    "ResultValue02": 102411,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102410,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102411,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1000,
+    "ResultOrder": 1,
+    "ResultGroup": 102411,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102412,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 200,
+    "ResultOrder": 1,
+    "ResultGroup": 102412,
+    "ResultDesc": "EventResultDesc.DeleteCoin",
+    "ResultType": "DeleteCoin"
+  },
+  {
+    "ID": 102420,
+    "ResultValue03": 102422,
+    "ResultValue02": 102421,
+    "ResultValue": 60,
+    "ResultOrder": 1,
+    "ResultGroup": 102420,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102421,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102421,
+    "ResultDesc": "EventResultDesc.GetCoinP",
+    "ResultType": "GetCoinP"
+  },
+  {
+    "ID": 102422,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102422,
+    "ResultDesc": "EventResultDesc.DeleteCoinP",
+    "ResultType": "DeleteCoinP"
+  },
+  {
+    "ID": 102510,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 102510,
+    "ResultDesc": "EventResultDesc.RandomBuff",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 102520,
+    "ResultValue03": 0,
+    "ResultValue02": 1,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102520,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 102610,
+    "ResultValue03": 102612,
+    "ResultValue02": 102611,
+    "ResultValue": 60,
+    "ResultOrder": 1,
+    "ResultGroup": 102610,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102611,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102611,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 102612,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 102612,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 102620,
+    "ResultValue03": 102622,
+    "ResultValue02": 102621,
+    "ResultValue": 60,
+    "ResultOrder": 1,
+    "ResultGroup": 102620,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102621,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 102621,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 102622,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 102622,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 102710,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 102710,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102720,
+    "ResultValue03": 102722,
+    "ResultValue02": 102721,
+    "ResultValue": 90,
+    "ResultOrder": 1,
+    "ResultGroup": 102720,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102721,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 102721,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102722,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1000,
+    "ResultOrder": 1,
+    "ResultGroup": 102722,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102810,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 102810,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102820,
+    "ResultValue03": 102822,
+    "ResultValue02": 102821,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 102820,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102821,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 102821,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 102822,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 102822,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 102910,
+    "ResultValue03": 102912,
+    "ResultValue02": 102911,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 102910,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 102911,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 3,
+    "ResultOrder": 1,
+    "ResultGroup": 102911,
+    "ResultDesc": "EventResultDesc.EnhanceMaxCodeAll",
+    "ResultType": "EnhanceMaxCodeAll"
+  },
+  {
+    "ID": 102912,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 90,
+    "ResultOrder": 1,
+    "ResultGroup": 102912,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 102920,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 400,
+    "ResultOrder": 1,
+    "ResultGroup": 102920,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 200110,
+    "ResultValue03": 200112,
+    "ResultValue02": 200111,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 200110,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 200111,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 200111,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 200112,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 200112,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 200210,
+    "ResultValue03": 200212,
+    "ResultValue02": 200211,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 200210,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 200211,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1000,
+    "ResultOrder": 1,
+    "ResultGroup": 200211,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 200212,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 100,
+    "ResultOrder": 1,
+    "ResultGroup": 200212,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 200310,
+    "ResultValue03": 200312,
+    "ResultValue02": 200311,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 200310,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 200311,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 200311,
+    "ResultDesc": "EventResultDesc.RandomBuffFix",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 200312,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 200312,
+    "ResultDesc": "EventResultDesc.EnhanceCodeRandom",
+    "ResultType": "EnhanceCodeRandom"
+  },
+  {
+    "ID": 200410,
+    "ResultValue03": 200412,
+    "ResultValue02": 200411,
+    "ResultValue": 80,
+    "ResultOrder": 1,
+    "ResultGroup": 200410,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 200411,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 200411,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 200412,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 200412,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 200510,
+    "ResultValue03": 200512,
+    "ResultValue02": 200511,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 200510,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  },
+  {
+    "ID": 200511,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 200511,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 200512,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 300,
+    "ResultOrder": 1,
+    "ResultGroup": 200512,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 300110,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 300110,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 300120,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 500,
+    "ResultOrder": 1,
+    "ResultGroup": 300120,
+    "ResultDesc": "EventResultDesc.GetCoin",
+    "ResultType": "GetCoin"
+  },
+  {
+    "ID": 300130,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 300130,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 300210,
+    "ResultValue03": 0,
+    "ResultValue02": 3,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 300210,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 300220,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 30,
+    "ResultOrder": 1,
+    "ResultGroup": 300220,
+    "ResultDesc": "EventResultDesc.HPReduce",
+    "ResultType": "HPReduce"
+  },
+  {
+    "ID": 999000,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 999001,
+    "ResultDesc": "EventResultDesc.RandomBuff",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 999001,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 0,
+    "ResultOrder": 2,
+    "ResultGroup": 999001,
+    "ResultDesc": "",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 999002,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 999002,
+    "ResultDesc": "무작위 코드 {0}개 획득",
+    "ResultType": "RandomBuffFix"
+  },
+  {
+    "ID": 999003,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 1,
+    "ResultGroup": 999003,
+    "ResultDesc": "EventResultDesc.BlessItem",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 999008,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 999003,
+    "ResultDesc": "",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 999004,
+    "ResultValue03": 0,
+    "ResultValue02": 2,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 999004,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItemFix"
+  },
+  {
+    "ID": 999005,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 0,
+    "ResultOrder": 1,
+    "ResultGroup": 999005,
+    "ResultDesc": "무작위 코드 {0}개 획득",
+    "ResultType": "RandomBuff"
+  },
+  {
+    "ID": 999006,
+    "ResultValue03": 0,
+    "ResultValue02": 0,
+    "ResultValue": 1,
+    "ResultOrder": 2,
+    "ResultGroup": 999005,
+    "ResultDesc": "EventResultDesc.BlessItemFix",
+    "ResultType": "BlessItem"
+  },
+  {
+    "ID": 999007,
+    "ResultValue03": 999005,
+    "ResultValue02": 999004,
+    "ResultValue": 50,
+    "ResultOrder": 1,
+    "ResultGroup": 999006,
+    "ResultDesc": "EventResultDesc.RateActiveLink2",
+    "ResultType": "RateActiveLink"
+  }
+]

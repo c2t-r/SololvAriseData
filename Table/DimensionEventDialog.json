@@ -1,0 +1,2951 @@
+[
+  {
+    "SortOrder": 1,
+    "ID": 101,
+    "DemensionDialogGroup": 1,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title1",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_01",
+    "DialogTag": [
+      "Ep01.Desc.0001_1",
+      "Ep01.Desc.0001_2",
+      "Ep01.Desc.0001_3",
+      "Ep01.Desc.0001_4",
+      "",
+      "Ep01.Desc.0001_5",
+      "Ep01.Desc.0001_6",
+      "Ep01.Desc.0001_7",
+      "Ep01.Desc.0001_8",
+      "Ep01.Desc.0001_9",
+      "",
+      "Ep01.Desc.0001_10",
+      "Ep01.Desc.0001_11",
+      "",
+      "Ep01.Desc.0001_12"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 102,
+    "DemensionDialogGroup": 1,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100110,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 103,
+    "DemensionDialogGroup": 1,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100120,
+    "DialogTitle": "Ep01.Reaction.0001_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 104,
+    "DemensionDialogGroup": 2,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title2",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_02",
+    "DialogTag": [
+      "Ep01.Desc.0002_1",
+      "Ep01.Desc.0002_2",
+      "Ep01.Desc.0002_3",
+      "Ep01.Desc.0002_4",
+      "Ep01.Desc.0002_5",
+      "",
+      "Ep01.Desc.0002_6",
+      "Ep01.Desc.0002_7",
+      "",
+      "Ep01.Desc.0002_8",
+      "Ep01.Desc.0002_9",
+      "Ep01.Desc.0002_10",
+      "Ep01.Desc.0002_11",
+      "",
+      "Ep01.Desc.0002_12",
+      "",
+      "Ep01.Desc.0002_13",
+      "Ep01.Desc.0002_14",
+      "Ep01.Desc.0002_15",
+      "Ep01.Desc.0002_16",
+      "Ep01.Desc.0002_17",
+      "Ep01.Desc.0002_18",
+      "Ep01.Desc.0002_19",
+      "Ep01.Desc.0002_20",
+      "Ep01.Desc.0002_21"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 105,
+    "DemensionDialogGroup": 2,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100210,
+    "DialogTitle": "Ep01.Reaction.0002_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_TalkMan_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 106,
+    "DemensionDialogGroup": 2,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100220,
+    "DialogTitle": "Ep01.Reaction.0002_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 107,
+    "DemensionDialogGroup": 3,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title3",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_03",
+    "DialogTag": [
+      "Ep01.Desc.0003_1",
+      "Ep01.Desc.0003_2",
+      "Ep01.Desc.0003_3",
+      "Ep01.Desc.0003_4",
+      "Ep01.Desc.0003_5",
+      "Ep01.Desc.0003_6",
+      "Ep01.Desc.0003_7",
+      "Ep01.Desc.0003_8",
+      "Ep01.Desc.0003_9",
+      "Ep01.Desc.0003_10",
+      "Ep01.Desc.0003_11",
+      "",
+      "Ep01.Desc.0003_12",
+      "Ep01.Desc.0003_13",
+      "Ep01.Desc.0003_14",
+      "Ep01.Desc.0003_15",
+      "Ep01.Desc.0003_16",
+      "Ep01.Desc.0003_17",
+      "Ep01.Desc.0003_18",
+      "Ep01.Desc.0003_19",
+      "Ep01.Desc.0003_20",
+      "Blank"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 108,
+    "DemensionDialogGroup": 3,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100310,
+    "DialogTitle": "Ep01.Reaction.0003_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandPlants_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 109,
+    "DemensionDialogGroup": 3,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100320,
+    "DialogTitle": "Ep01.Reaction.0003_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RandomBuff"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 110,
+    "DemensionDialogGroup": 4,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title4",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_04",
+    "DialogTag": [
+      "Ep01.Desc.0004_1",
+      "Ep01.Desc.0004_2",
+      "Ep01.Desc.0004_3",
+      "Ep01.Desc.0004_4",
+      "Ep01.Desc.0004_5",
+      "Ep01.Desc.0004_6",
+      "Ep01.Desc.0004_7",
+      "Ep01.Desc.0004_8",
+      "Ep01.Desc.0004_9",
+      "Ep01.Desc.0004_10",
+      "Ep01.Desc.0004_11",
+      "Ep01.Desc.0004_12",
+      "Ep01.Desc.0004_13",
+      "Ep01.Desc.0004_14",
+      "Ep01.Desc.0004_15",
+      "Ep01.Desc.0004_16",
+      "Ep01.Desc.0004_17",
+      "Ep01.Desc.0004_18",
+      "Ep01.Desc.0004_19",
+      "Ep01.Desc.0004_20",
+      "Ep01.Desc.0004_21",
+      "Ep01.Desc.0004_22",
+      "Ep01.Desc.0004_23",
+      "Ep01.Desc.0004_24",
+      "Ep01.Desc.0004_25",
+      "Ep01.Desc.0004_26",
+      "Ep01.Desc.0004_27",
+      "Ep01.Desc.0004_28"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 111,
+    "DemensionDialogGroup": 4,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100410,
+    "DialogTitle": "Ep01.Reaction.0004_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandHold_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 112,
+    "DemensionDialogGroup": 4,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100420,
+    "DialogTitle": "Ep01.Reaction.0004_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 113,
+    "DemensionDialogGroup": 5,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title5",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_05",
+    "DialogTag": [
+      "Ep01.Desc.0005_1",
+      "Ep01.Desc.0005_2",
+      "Ep01.Desc.0005_3",
+      "Ep01.Desc.0005_4",
+      "Ep01.Desc.0005_5",
+      "Ep01.Desc.0005_6",
+      "Ep01.Desc.0005_7",
+      "Ep01.Desc.0005_8",
+      "Ep01.Desc.0005_9",
+      "Ep01.Desc.0005_10",
+      "Ep01.Desc.0005_11",
+      "Ep01.Desc.0005_12",
+      "Ep01.Desc.0005_13",
+      "Ep01.Desc.0005_14",
+      "Ep01.Desc.0005_15",
+      "Ep01.Desc.0005_16",
+      "Ep01.Desc.0005_17",
+      "Ep01.Desc.0005_18",
+      "Ep01.Desc.0005_19",
+      "Ep01.Desc.0005_20",
+      "Ep01.Desc.0005_21",
+      "Ep01.Desc.0005_22",
+      "Ep01.Desc.0005_23",
+      "Ep01.Desc.0005_24"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 114,
+    "DemensionDialogGroup": 5,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100510,
+    "DialogTitle": "Ep01.Reaction.0005_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_TalkMan_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 115,
+    "DemensionDialogGroup": 5,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100520,
+    "DialogTitle": "Ep01.Reaction.0005_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 116,
+    "DemensionDialogGroup": 6,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title6",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_06",
+    "DialogTag": [
+      "Ep01.Desc.0006_1",
+      "Ep01.Desc.0006_2",
+      "Ep01.Desc.0006_3",
+      "Ep01.Desc.0006_4",
+      "Ep01.Desc.0006_5",
+      "Ep01.Desc.0006_6",
+      "Ep01.Desc.0006_7",
+      "Ep01.Desc.0006_8",
+      "Ep01.Desc.0006_9",
+      "Ep01.Desc.0006_10",
+      "Ep01.Desc.0006_11",
+      "Ep01.Desc.0006_12",
+      "Ep01.Desc.0006_13",
+      "Ep01.Desc.0006_14",
+      "Ep01.Desc.0006_15",
+      "Ep01.Desc.0006_16",
+      "Ep01.Desc.0006_17",
+      "Ep01.Desc.0006_18",
+      "Ep01.Desc.0006_19",
+      "Ep01.Desc.0006_20",
+      "Ep01.Desc.0006_21",
+      "Ep01.Desc.0006_22",
+      "Ep01.Desc.0006_23",
+      "Ep01.Desc.0006_24",
+      "Ep01.Desc.0006_25",
+      "Ep01.Desc.0006_26",
+      "Ep01.Desc.0006_27",
+      "Ep01.Desc.0006_28",
+      "Ep01.Desc.0006_29",
+      "Ep01.Desc.0006_30"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 117,
+    "DemensionDialogGroup": 6,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100610,
+    "DialogTitle": "Ep01.Reaction.0006_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Light_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 118,
+    "DemensionDialogGroup": 6,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100620,
+    "DialogTitle": "Ep01.Reaction.0006_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 3,
+    "ID": 119,
+    "DemensionDialogGroup": 6,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100630,
+    "DialogTitle": "Ep01.Reaction.0006_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 120,
+    "DemensionDialogGroup": 7,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title7",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_07",
+    "DialogTag": [
+      "Ep01.Desc.0007_1",
+      "Ep01.Desc.0007_2",
+      "Ep01.Desc.0007_3",
+      "Ep01.Desc.0007_4",
+      "Ep01.Desc.0007_5",
+      "Ep01.Desc.0007_6",
+      "Ep01.Desc.0007_7",
+      "Ep01.Desc.0007_8",
+      "Ep01.Desc.0007_9",
+      "Ep01.Desc.0007_10",
+      "Ep01.Desc.0007_11",
+      "Ep01.Desc.0007_12",
+      "Ep01.Desc.0007_13",
+      "Ep01.Desc.0007_14",
+      "Ep01.Desc.0007_15",
+      "Ep01.Desc.0007_16",
+      "Ep01.Desc.0007_17",
+      "Ep01.Desc.0007_18",
+      "Ep01.Desc.0007_19",
+      "Ep01.Desc.0007_20",
+      "Ep01.Desc.0007_21",
+      "Ep01.Desc.0007_22",
+      "Ep01.Desc.0007_23",
+      "Ep01.Desc.0007_24",
+      "Ep01.Desc.0007_25",
+      "Ep01.Desc.0007_26",
+      "Ep01.Desc.0007_27",
+      "Ep01.Desc.0007_28",
+      "Ep01.Desc.0007_29",
+      "Ep01.Desc.0007_30",
+      "Ep01.Desc.0007_31",
+      "Ep01.Desc.0007_32",
+      "Ep01.Desc.0007_33",
+      "Ep01.Desc.0007_34",
+      "Ep01.Desc.0007_35",
+      "Ep01.Desc.0007_36"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 121,
+    "DemensionDialogGroup": 7,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100710,
+    "DialogTitle": "Ep01.Reaction.0007_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 122,
+    "DemensionDialogGroup": 7,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100720,
+    "DialogTitle": "Ep01.Reaction.0007_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 123,
+    "DemensionDialogGroup": 8,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title8",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_08",
+    "DialogTag": [
+      "Ep01.Desc.0008_1",
+      "Ep01.Desc.0008_2",
+      "Ep01.Desc.0008_3",
+      "Ep01.Desc.0008_4",
+      "Ep01.Desc.0008_5",
+      "Ep01.Desc.0008_6",
+      "Ep01.Desc.0008_7",
+      "Ep01.Desc.0008_8",
+      "Ep01.Desc.0008_9",
+      "Ep01.Desc.0008_10",
+      "Ep01.Desc.0008_11",
+      "Ep01.Desc.0008_12",
+      "Ep01.Desc.0008_13",
+      "Ep01.Desc.0008_14",
+      "Ep01.Desc.0008_15",
+      "Ep01.Desc.0008_16",
+      "Ep01.Desc.0008_17",
+      "Ep01.Desc.0008_18",
+      "Ep01.Desc.0008_19",
+      "Ep01.Desc.0008_20"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 124,
+    "DemensionDialogGroup": 8,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100810,
+    "DialogTitle": "Ep01.Reaction.0008_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Light_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 125,
+    "DemensionDialogGroup": 8,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100820,
+    "DialogTitle": "Ep01.Reaction.0008_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 126,
+    "DemensionDialogGroup": 9,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title9",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_09",
+    "DialogTag": [
+      "Ep01.Desc.0009_1",
+      "Ep01.Desc.0009_2",
+      "Ep01.Desc.0009_3",
+      "Ep01.Desc.0009_4",
+      "Ep01.Desc.0009_5",
+      "Ep01.Desc.0009_6",
+      "Ep01.Desc.0009_7",
+      "Ep01.Desc.0009_8",
+      "Ep01.Desc.0009_9",
+      "Ep01.Desc.0009_10",
+      "Ep01.Desc.0009_11",
+      "Ep01.Desc.0009_12",
+      "Ep01.Desc.0009_13",
+      "Ep01.Desc.0009_14",
+      "Ep01.Desc.0009_15",
+      "Ep01.Desc.0009_16",
+      "Ep01.Desc.0009_17",
+      "Ep01.Desc.0009_18",
+      "Ep01.Desc.0009_19",
+      "Ep01.Desc.0009_20",
+      "Ep01.Desc.0009_21",
+      "Ep01.Desc.0009_22",
+      "Ep01.Desc.0009_23",
+      "Ep01.Desc.0009_24",
+      "Ep01.Desc.0009_25",
+      "Ep01.Desc.0009_26",
+      "Ep01.Desc.0009_27",
+      "Ep01.Desc.0009_28",
+      "Ep01.Desc.0009_29",
+      "Ep01.Desc.0009_30",
+      "Ep01.Desc.0009_31"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 127,
+    "DemensionDialogGroup": 9,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100910,
+    "DialogTitle": "Ep01.Reaction.0009_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 128,
+    "DemensionDialogGroup": 9,
+    "LinkNextDialog": 0,
+    "ResultGroup": 100920,
+    "DialogTitle": "Ep01.Reaction.0009_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 129,
+    "DemensionDialogGroup": 10,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title10",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_10",
+    "DialogTag": [
+      "Ep01.Desc.010_1",
+      "Ep01.Desc.010_2",
+      "Ep01.Desc.010_3",
+      "Ep01.Desc.010_4",
+      "Ep01.Desc.010_5",
+      "Ep01.Desc.010_6",
+      "Ep01.Desc.010_7",
+      "Ep01.Desc.010_8",
+      "Ep01.Desc.010_9",
+      "Ep01.Desc.010_10",
+      "Ep01.Desc.010_11",
+      "Ep01.Desc.010_12",
+      "Ep01.Desc.010_13",
+      "Ep01.Desc.010_14",
+      "Ep01.Desc.010_15",
+      "Ep01.Desc.010_16",
+      "Ep01.Desc.010_17",
+      "Ep01.Desc.010_18",
+      "Ep01.Desc.010_19",
+      "Ep01.Desc.010_20",
+      "Ep01.Desc.010_21"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 130,
+    "DemensionDialogGroup": 10,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101010,
+    "DialogTitle": "Ep01.Reaction.0010_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 131,
+    "DemensionDialogGroup": 10,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101020,
+    "DialogTitle": "Ep01.Reaction.0010_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandHold_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 132,
+    "DemensionDialogGroup": 11,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title11",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_11",
+    "DialogTag": [
+      "Ep01.Desc.011_1",
+      "Ep01.Desc.011_2",
+      "Ep01.Desc.011_3",
+      "Ep01.Desc.011_4",
+      "Ep01.Desc.011_5",
+      "Ep01.Desc.011_6",
+      "Ep01.Desc.011_7",
+      "Ep01.Desc.011_8",
+      "Ep01.Desc.011_9",
+      "Ep01.Desc.011_10",
+      "Ep01.Desc.011_11",
+      "Ep01.Desc.011_12",
+      "Ep01.Desc.011_13",
+      "Ep01.Desc.011_14",
+      "Ep01.Desc.011_15",
+      "Ep01.Desc.011_16",
+      "Ep01.Desc.011_17",
+      "Ep01.Desc.011_18"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 133,
+    "DemensionDialogGroup": 11,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101110,
+    "DialogTitle": "Ep01.Reaction.0011_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_WaterDrop_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 134,
+    "DemensionDialogGroup": 11,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101120,
+    "DialogTitle": "Ep01.Reaction.0011_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 135,
+    "DemensionDialogGroup": 12,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title12",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_12",
+    "DialogTag": [
+      "Ep01.Desc.012_1",
+      "Ep01.Desc.012_2",
+      "Ep01.Desc.012_3",
+      "Ep01.Desc.012_4",
+      "Ep01.Desc.012_5",
+      "Ep01.Desc.012_6",
+      "Ep01.Desc.012_7",
+      "Ep01.Desc.012_8",
+      "Ep01.Desc.012_9",
+      "Ep01.Desc.012_10",
+      "Ep01.Desc.012_11",
+      "Ep01.Desc.012_12",
+      "Ep01.Desc.012_13"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 136,
+    "DemensionDialogGroup": 12,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101210,
+    "DialogTitle": "Ep01.Reaction.0012_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 137,
+    "DemensionDialogGroup": 12,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101220,
+    "DialogTitle": "Ep01.Reaction.0012_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 138,
+    "DemensionDialogGroup": 13,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title13",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_13",
+    "DialogTag": [
+      "Ep01.Desc.013_1",
+      "Ep01.Desc.013_2",
+      "Ep01.Desc.013_3",
+      "Ep01.Desc.013_4",
+      "Ep01.Desc.013_5",
+      "Ep01.Desc.013_6",
+      "Ep01.Desc.013_7",
+      "Ep01.Desc.013_8",
+      "Ep01.Desc.013_9",
+      "Ep01.Desc.013_10",
+      "Ep01.Desc.013_11",
+      "Ep01.Desc.013_12",
+      "Ep01.Desc.013_13",
+      "Ep01.Desc.013_14",
+      "Ep01.Desc.013_15",
+      "Ep01.Desc.013_16",
+      "Ep01.Desc.013_17",
+      "Ep01.Desc.013_18",
+      "Ep01.Desc.013_19",
+      "Ep01.Desc.013_20",
+      "Ep01.Desc.013_21",
+      "Ep01.Desc.013_22",
+      "Ep01.Desc.013_23",
+      "Ep01.Desc.013_24",
+      "Ep01.Desc.013_25",
+      "Ep01.Desc.013_26",
+      "Ep01.Desc.013_27",
+      "Ep01.Desc.013_28",
+      "Ep01.Desc.013_29"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 139,
+    "DemensionDialogGroup": 13,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101310,
+    "DialogTitle": "Ep01.Reaction.0013_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_TalkMan_Icon",
+    "DialogTag": [
+      "EventResultDesc.BlessItemFix"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 140,
+    "DemensionDialogGroup": 13,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101320,
+    "DialogTitle": "Ep01.Reaction.0013_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandHold_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 141,
+    "DemensionDialogGroup": 14,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title14",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_14",
+    "DialogTag": [
+      "Ep01.Desc.014_1",
+      "Ep01.Desc.014_2",
+      "Ep01.Desc.014_3",
+      "Ep01.Desc.014_4",
+      "Ep01.Desc.014_5",
+      "Ep01.Desc.014_6",
+      "Ep01.Desc.014_7",
+      "Ep01.Desc.014_8",
+      "Ep01.Desc.014_9",
+      "Ep01.Desc.014_10",
+      "Ep01.Desc.014_11",
+      "Ep01.Desc.014_12",
+      "Ep01.Desc.014_13",
+      "Ep01.Desc.014_14",
+      "Ep01.Desc.014_15",
+      "Ep01.Desc.014_16",
+      "Ep01.Desc.014_17",
+      "Ep01.Desc.014_18",
+      "Ep01.Desc.014_19",
+      "Ep01.Desc.014_20",
+      "Ep01.Desc.014_21",
+      "Ep01.Desc.014_22",
+      "Ep01.Desc.014_23",
+      "Ep01.Desc.014_24",
+      "Ep01.Desc.014_25",
+      "Ep01.Desc.014_26",
+      "Ep01.Desc.014_27"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 142,
+    "DemensionDialogGroup": 14,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101410,
+    "DialogTitle": "Ep01.Reaction.0014_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_Rewrad_Tag_Bonus",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 143,
+    "DemensionDialogGroup": 14,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101420,
+    "DialogTitle": "Ep01.Reaction.0014_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_Rewrad_Tag_Bonus",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 144,
+    "DemensionDialogGroup": 15,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_01",
+    "DialogTag": [
+      "Ep02.Desc.0001_1_1",
+      "Ep02.Desc.0001_1_2",
+      "Ep02.Desc.0001_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 145,
+    "DemensionDialogGroup": 15,
+    "LinkNextDialog": 16,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_1_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_TalkMan_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 146,
+    "DemensionDialogGroup": 15,
+    "LinkNextDialog": 16,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_1_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 147,
+    "DemensionDialogGroup": 16,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0001_2_1",
+      "Ep02.Desc.0001_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 148,
+    "DemensionDialogGroup": 16,
+    "LinkNextDialog": 17,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_2_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 149,
+    "DemensionDialogGroup": 16,
+    "LinkNextDialog": 18,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_2_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 150,
+    "DemensionDialogGroup": 16,
+    "LinkNextDialog": 19,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_2_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 151,
+    "DemensionDialogGroup": 17,
+    "LinkNextDialog": 20,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0001_2_1_1",
+      "Ep02.answer.0001_2_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 152,
+    "DemensionDialogGroup": 18,
+    "LinkNextDialog": 20,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0001_2_2_1",
+      "Ep02.answer.0001_2_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 153,
+    "DemensionDialogGroup": 19,
+    "LinkNextDialog": 20,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0001_2_3_1",
+      "Ep02.answer.0001_2_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 154,
+    "DemensionDialogGroup": 20,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0001_3_1",
+      "Ep02.Desc.0001_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 155,
+    "DemensionDialogGroup": 20,
+    "LinkNextDialog": 21,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_3_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 156,
+    "DemensionDialogGroup": 20,
+    "LinkNextDialog": 22,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_3_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 157,
+    "DemensionDialogGroup": 20,
+    "LinkNextDialog": 23,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0001_3_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 158,
+    "DemensionDialogGroup": 21,
+    "LinkNextDialog": 24,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0001_3_1_1",
+      "Ep02.answer.0001_3_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 159,
+    "DemensionDialogGroup": 22,
+    "LinkNextDialog": 24,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0001_3_2_1",
+      "Ep02.answer.0001_3_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 160,
+    "DemensionDialogGroup": 23,
+    "LinkNextDialog": 24,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0001_3_3_1",
+      "Ep02.answer.0001_3_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 161,
+    "DemensionDialogGroup": 24,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title1",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0001_4_1",
+      "Ep02.Desc.0001_4_2",
+      "Ep02.Desc.0001_4_3",
+      "Ep02.Desc.0001_4_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 162,
+    "DemensionDialogGroup": 24,
+    "LinkNextDialog": 0,
+    "ResultGroup": 200110,
+    "DialogTitle": "SystemConst.Popup.GameCloseConfirm",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 163,
+    "DemensionDialogGroup": 25,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_02",
+    "DialogTag": [
+      "Ep02.Desc.0002_1_1",
+      "Ep02.Desc.0002_1_2",
+      "Ep02.Desc.0002_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 164,
+    "DemensionDialogGroup": 25,
+    "LinkNextDialog": 26,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_1_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 165,
+    "DemensionDialogGroup": 25,
+    "LinkNextDialog": 26,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_1_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 166,
+    "DemensionDialogGroup": 26,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0002_2_1",
+      "Ep02.Desc.0002_2_2",
+      "Ep02.Desc.0002_2_3",
+      "Ep02.Desc.0002_2_4",
+      "Ep02.Desc.0002_2_5"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 167,
+    "DemensionDialogGroup": 26,
+    "LinkNextDialog": 27,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_2_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 168,
+    "DemensionDialogGroup": 26,
+    "LinkNextDialog": 28,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_2_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 169,
+    "DemensionDialogGroup": 26,
+    "LinkNextDialog": 29,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_2_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 170,
+    "DemensionDialogGroup": 27,
+    "LinkNextDialog": 30,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0002_2_1_1",
+      "Ep02.answer.0002_2_1_2",
+      "Ep02.answer.0002_2_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 171,
+    "DemensionDialogGroup": 28,
+    "LinkNextDialog": 30,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0002_2_2_1",
+      "Ep02.answer.0002_2_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 172,
+    "DemensionDialogGroup": 29,
+    "LinkNextDialog": 30,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0002_2_3_1",
+      "Ep02.answer.0002_2_3_2",
+      "Ep02.answer.0002_2_3_3",
+      "Ep02.answer.0002_2_3_4",
+      "Ep02.answer.0002_2_3_5"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 173,
+    "DemensionDialogGroup": 30,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0002_3_1",
+      "Ep02.Desc.0002_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 174,
+    "DemensionDialogGroup": 30,
+    "LinkNextDialog": 31,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_3_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 175,
+    "DemensionDialogGroup": 30,
+    "LinkNextDialog": 32,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_3_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 176,
+    "DemensionDialogGroup": 30,
+    "LinkNextDialog": 33,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0002_3_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 177,
+    "DemensionDialogGroup": 31,
+    "LinkNextDialog": 34,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0002_3_1_1",
+      "Ep02.answer.0002_3_1_2",
+      "Ep02.answer.0002_3_1_3",
+      "Ep02.answer.0002_3_1_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 178,
+    "DemensionDialogGroup": 32,
+    "LinkNextDialog": 34,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0002_3_2_1",
+      "Ep02.answer.0002_3_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 179,
+    "DemensionDialogGroup": 33,
+    "LinkNextDialog": 34,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0002_3_3_1",
+      "Ep02.answer.0002_3_3_2",
+      "Ep02.answer.0002_3_3_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 180,
+    "DemensionDialogGroup": 34,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title2",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0002_4_1",
+      "Ep02.Desc.0002_4_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 181,
+    "DemensionDialogGroup": 34,
+    "LinkNextDialog": 0,
+    "ResultGroup": 200210,
+    "DialogTitle": "SystemConst.Popup.GameCloseConfirm",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 182,
+    "DemensionDialogGroup": 35,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_03",
+    "DialogTag": [
+      "Ep02.Desc.0003_1_1",
+      "Ep02.Desc.0003_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 183,
+    "DemensionDialogGroup": 35,
+    "LinkNextDialog": 36,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_1_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 184,
+    "DemensionDialogGroup": 35,
+    "LinkNextDialog": 36,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_1_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 185,
+    "DemensionDialogGroup": 36,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0003_2_1",
+      "Ep02.Desc.0003_2_2",
+      "Ep02.Desc.0003_2_3",
+      "Ep02.Desc.0003_2_4",
+      "Ep02.Desc.0003_2_5"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 186,
+    "DemensionDialogGroup": 36,
+    "LinkNextDialog": 37,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_2_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 187,
+    "DemensionDialogGroup": 36,
+    "LinkNextDialog": 38,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_2_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 188,
+    "DemensionDialogGroup": 36,
+    "LinkNextDialog": 39,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_2_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_WaterDrop_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 189,
+    "DemensionDialogGroup": 37,
+    "LinkNextDialog": 40,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0003_2_1_1",
+      "Ep02.answer.0003_2_1_2",
+      "Ep02.answer.0003_2_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 190,
+    "DemensionDialogGroup": 38,
+    "LinkNextDialog": 40,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0003_2_2_1",
+      "Ep02.answer.0003_2_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 191,
+    "DemensionDialogGroup": 39,
+    "LinkNextDialog": 40,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0003_2_3_1",
+      "Ep02.answer.0003_2_3_2",
+      "Ep02.answer.0003_2_3_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 192,
+    "DemensionDialogGroup": 40,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0003_3_1",
+      "Ep02.Desc.0003_3_2",
+      "Ep02.Desc.0003_3_3",
+      "Ep02.Desc.0003_3_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 193,
+    "DemensionDialogGroup": 40,
+    "LinkNextDialog": 41,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_3_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 194,
+    "DemensionDialogGroup": 40,
+    "LinkNextDialog": 42,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_3_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 195,
+    "DemensionDialogGroup": 40,
+    "LinkNextDialog": 43,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0003_3_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 196,
+    "DemensionDialogGroup": 41,
+    "LinkNextDialog": 44,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0003_3_1_1",
+      "Ep02.answer.0003_3_1_2",
+      "Ep02.answer.0003_3_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 197,
+    "DemensionDialogGroup": 42,
+    "LinkNextDialog": 44,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0003_3_2_1",
+      "Ep02.answer.0003_3_2_2",
+      "Ep02.answer.0003_3_2_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 198,
+    "DemensionDialogGroup": 43,
+    "LinkNextDialog": 44,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0003_3_3_1",
+      "Ep02.answer.0003_3_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 199,
+    "DemensionDialogGroup": 44,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title3",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0003_4_1",
+      "Ep02.Desc.0003_4_2",
+      "Ep02.Desc.0003_4_3",
+      "Ep02.Desc.0003_4_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 200,
+    "DemensionDialogGroup": 44,
+    "LinkNextDialog": 0,
+    "ResultGroup": 200310,
+    "DialogTitle": "SystemConst.Popup.GameCloseConfirm",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 201,
+    "DemensionDialogGroup": 45,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_04",
+    "DialogTag": [
+      "Ep02.Desc.0004_1_1",
+      "Ep02.Desc.0004_1_2",
+      "Ep02.Desc.0004_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 202,
+    "DemensionDialogGroup": 45,
+    "LinkNextDialog": 46,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_1_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 203,
+    "DemensionDialogGroup": 45,
+    "LinkNextDialog": 46,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_1_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 204,
+    "DemensionDialogGroup": 46,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0004_2_1",
+      "Ep02.Desc.0004_2_2",
+      "Ep02.Desc.0004_2_3",
+      "Ep02.Desc.0004_2_4",
+      "Ep02.Desc.0004_2_5",
+      "Ep02.Desc.0004_2_6"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 205,
+    "DemensionDialogGroup": 46,
+    "LinkNextDialog": 47,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_2_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 206,
+    "DemensionDialogGroup": 46,
+    "LinkNextDialog": 48,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_2_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 207,
+    "DemensionDialogGroup": 46,
+    "LinkNextDialog": 49,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_2_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 208,
+    "DemensionDialogGroup": 47,
+    "LinkNextDialog": 50,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0004_2_1_1",
+      "Ep02.answer.0004_2_1_2",
+      "Ep02.answer.0004_2_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 209,
+    "DemensionDialogGroup": 48,
+    "LinkNextDialog": 50,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0004_2_2_1",
+      "Ep02.answer.0004_2_2_2",
+      "Ep02.answer.0004_2_2_3",
+      "Ep02.answer.0004_2_2_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 210,
+    "DemensionDialogGroup": 49,
+    "LinkNextDialog": 50,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0004_2_3_1",
+      "Ep02.answer.0004_2_3_2",
+      "Ep02.answer.0004_2_3_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 211,
+    "DemensionDialogGroup": 50,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0004_3_1",
+      "Ep02.Desc.0004_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 212,
+    "DemensionDialogGroup": 50,
+    "LinkNextDialog": 51,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_3_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 213,
+    "DemensionDialogGroup": 50,
+    "LinkNextDialog": 52,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_3_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandHold_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 214,
+    "DemensionDialogGroup": 50,
+    "LinkNextDialog": 53,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0004_3_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 215,
+    "DemensionDialogGroup": 51,
+    "LinkNextDialog": 54,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0004_3_1_1",
+      "Ep02.answer.0004_3_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 216,
+    "DemensionDialogGroup": 52,
+    "LinkNextDialog": 54,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0004_3_2_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 217,
+    "DemensionDialogGroup": 53,
+    "LinkNextDialog": 54,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0004_3_3_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 218,
+    "DemensionDialogGroup": 54,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title4",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0004_4_1",
+      "Ep02.Desc.0004_4_2",
+      "Ep02.Desc.0004_4_3",
+      "Ep02.Desc.0004_4_4",
+      "Ep02.Desc.0004_4_5",
+      "Ep02.Desc.0004_4_6",
+      "Ep02.Desc.0004_4_7",
+      "Ep02.Desc.0004_4_8",
+      "Ep02.Desc.0004_4_9"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 219,
+    "DemensionDialogGroup": 54,
+    "LinkNextDialog": 0,
+    "ResultGroup": 200410,
+    "DialogTitle": "SystemConst.Popup.GameCloseConfirm",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 220,
+    "DemensionDialogGroup": 55,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_05",
+    "DialogTag": [
+      "Ep02.Desc.0005_1_1",
+      "Ep02.Desc.0005_1_2",
+      "Ep02.Desc.0005_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 221,
+    "DemensionDialogGroup": 55,
+    "LinkNextDialog": 56,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_1_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 222,
+    "DemensionDialogGroup": 55,
+    "LinkNextDialog": 56,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_1_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 223,
+    "DemensionDialogGroup": 56,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0005_2_1",
+      "Ep02.Desc.0005_2_2",
+      "Ep02.Desc.0005_2_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 224,
+    "DemensionDialogGroup": 56,
+    "LinkNextDialog": 57,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_2_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 225,
+    "DemensionDialogGroup": 56,
+    "LinkNextDialog": 58,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_2_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 226,
+    "DemensionDialogGroup": 56,
+    "LinkNextDialog": 59,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_2_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 227,
+    "DemensionDialogGroup": 57,
+    "LinkNextDialog": 60,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0005_2_1_1",
+      "Ep02.answer.0005_2_1_2",
+      "Ep02.answer.0005_2_1_3",
+      "Ep02.answer.0005_2_1_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 228,
+    "DemensionDialogGroup": 58,
+    "LinkNextDialog": 60,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0005_2_2_1",
+      "Ep02.answer.0005_2_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 229,
+    "DemensionDialogGroup": 59,
+    "LinkNextDialog": 60,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0005_2_3_1",
+      "Ep02.answer.0005_2_3_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 230,
+    "DemensionDialogGroup": 60,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0005_3_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 231,
+    "DemensionDialogGroup": 60,
+    "LinkNextDialog": 61,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_3_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 2,
+    "ID": 232,
+    "DemensionDialogGroup": 60,
+    "LinkNextDialog": 62,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_3_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_TalkMan_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 233,
+    "DemensionDialogGroup": 60,
+    "LinkNextDialog": 63,
+    "ResultGroup": 0,
+    "DialogTitle": "Ep02.Select.0005_3_3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Light_Icon",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 234,
+    "DemensionDialogGroup": 61,
+    "LinkNextDialog": 64,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0005_3_1_1",
+      "Ep02.answer.0005_3_1_2",
+      "Ep02.answer.0005_3_1_3"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 235,
+    "DemensionDialogGroup": 62,
+    "LinkNextDialog": 64,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0005_3_2_1",
+      "Ep02.answer.0005_3_2_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 236,
+    "DemensionDialogGroup": 63,
+    "LinkNextDialog": 64,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.answer.0005_3_3_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 237,
+    "DemensionDialogGroup": 64,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0005_4_1",
+      "Ep02.Desc.0005_4_2",
+      "Ep02.Desc.0005_4_3",
+      "Ep02.Desc.0005_4_4"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 238,
+    "DemensionDialogGroup": 64,
+    "LinkNextDialog": 0,
+    "ResultGroup": 200510,
+    "DialogTitle": "SystemConst.Popup.GameCloseConfirm",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 239,
+    "DemensionDialogGroup": 65,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title15",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_03",
+    "DialogTag": [
+      "Ep01.Desc.015_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 240,
+    "DemensionDialogGroup": 65,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101510,
+    "DialogTitle": "Ep01.Reaction.0015_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 241,
+    "DemensionDialogGroup": 65,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101520,
+    "DialogTitle": "Ep01.Reaction.0015_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 242,
+    "DemensionDialogGroup": 66,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title16",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": [
+      "Ep01.Desc.016_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 243,
+    "DemensionDialogGroup": 66,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101610,
+    "DialogTitle": "Ep01.Reaction.0016_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Light_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 244,
+    "DemensionDialogGroup": 66,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101620,
+    "DialogTitle": "Ep01.Reaction.0016_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 245,
+    "DemensionDialogGroup": 67,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title17",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_13",
+    "DialogTag": [
+      "Ep01.Desc.017_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 246,
+    "DemensionDialogGroup": 67,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101710,
+    "DialogTitle": "Ep01.Reaction.0017_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": [
+      "EventResultDesc.EnhanceCodeRandom"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 247,
+    "DemensionDialogGroup": 67,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101720,
+    "DialogTitle": "Ep01.Reaction.0017_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 248,
+    "DemensionDialogGroup": 68,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title18",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_05",
+    "DialogTag": [
+      "Ep01.Desc.018_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 249,
+    "DemensionDialogGroup": 68,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101810,
+    "DialogTitle": "Ep01.Reaction.0018_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_PostPage_3",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 250,
+    "DemensionDialogGroup": 68,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101820,
+    "DialogTitle": "Ep01.Reaction.0018_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandHold_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 251,
+    "DemensionDialogGroup": 69,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title19",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_03",
+    "DialogTag": [
+      "Ep01.Desc.019_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 252,
+    "DemensionDialogGroup": 69,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101910,
+    "DialogTitle": "Ep01.Reaction.0019_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_Rewrad_Tag_Bonus",
+    "DialogTag": [
+      "EventResultDesc.BlessItemFix"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 253,
+    "DemensionDialogGroup": 69,
+    "LinkNextDialog": 0,
+    "ResultGroup": 101920,
+    "DialogTitle": "Ep01.Reaction.0019_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_Rewrad_Tag_Bonus",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 254,
+    "DemensionDialogGroup": 70,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title20",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": [
+      "Ep01.Desc.020_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 255,
+    "DemensionDialogGroup": 70,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102010,
+    "DialogTitle": "Ep01.Reaction.0020_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandGive_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 256,
+    "DemensionDialogGroup": 70,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102020,
+    "DialogTitle": "Ep01.Reaction.0020_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 257,
+    "DemensionDialogGroup": 71,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title21",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": [
+      "Ep01.Desc.021_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 258,
+    "DemensionDialogGroup": 71,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102110,
+    "DialogTitle": "Ep01.Reaction.0021_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 259,
+    "DemensionDialogGroup": 71,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102120,
+    "DialogTitle": "Ep01.Reaction.0021_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_WaterDrop_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 260,
+    "DemensionDialogGroup": 72,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title22",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_13",
+    "DialogTag": [
+      "Ep01.Desc.022_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 261,
+    "DemensionDialogGroup": 72,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102210,
+    "DialogTitle": "Ep01.Reaction.0022_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.BlessItemFix"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 262,
+    "DemensionDialogGroup": 72,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102220,
+    "DialogTitle": "Ep01.Reaction.0022_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 263,
+    "DemensionDialogGroup": 73,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title23",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode02_05",
+    "DialogTag": [
+      "Ep01.Desc.023_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 264,
+    "DemensionDialogGroup": 73,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102310,
+    "DialogTitle": "Ep01.Reaction.0023_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 265,
+    "DemensionDialogGroup": 73,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102320,
+    "DialogTitle": "Ep01.Reaction.0023_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Run_Icon",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 266,
+    "DemensionDialogGroup": 74,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title24",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": [
+      "Ep01.Desc.024_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 267,
+    "DemensionDialogGroup": 74,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102410,
+    "DialogTitle": "Ep01.Reaction.0024_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Light_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 268,
+    "DemensionDialogGroup": 74,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102420,
+    "DialogTitle": "Ep01.Reaction.0024_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 269,
+    "DemensionDialogGroup": 75,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title25",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_10",
+    "DialogTag": [
+      "Ep01.Desc.025_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 270,
+    "DemensionDialogGroup": 75,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102510,
+    "DialogTitle": "Ep01.Reaction.0025_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": [
+      "EventResultDesc.RandomBuff"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 271,
+    "DemensionDialogGroup": 75,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102520,
+    "DialogTitle": "Ep01.Reaction.0025_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Arrow_Icon",
+    "DialogTag": [
+      "EventResultDesc.BlessItem"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 272,
+    "DemensionDialogGroup": 76,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title26",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": [
+      "Ep01.Desc.026_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 273,
+    "DemensionDialogGroup": 76,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102610,
+    "DialogTitle": "Ep01.Reaction.0026_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandHold_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 274,
+    "DemensionDialogGroup": 76,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102620,
+    "DialogTitle": "Ep01.Reaction.0026_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_HandReceive_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 275,
+    "DemensionDialogGroup": 77,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title27",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_01",
+    "DialogTag": [
+      "Ep01.Desc.027_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 276,
+    "DemensionDialogGroup": 77,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102710,
+    "DialogTitle": "Ep01.Reaction.0027_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.DeleteCoinP"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 277,
+    "DemensionDialogGroup": 77,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102720,
+    "DialogTitle": "Ep01.Reaction.0027_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Icon_ArtifactEnhanceTap_Enchant",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 278,
+    "DemensionDialogGroup": 78,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title28",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Episode01_05",
+    "DialogTag": [
+      "Ep01.Desc.028_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 279,
+    "DemensionDialogGroup": 78,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102810,
+    "DialogTitle": "Ep01.Reaction.0028_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Unknown_Icon",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 280,
+    "DemensionDialogGroup": 78,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102820,
+    "DialogTitle": "Ep01.Reaction.0028_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_TalkMan_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 281,
+    "DemensionDialogGroup": 79,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP01.Title29",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": [
+      "Ep01.Desc.029_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 282,
+    "DemensionDialogGroup": 79,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102910,
+    "DialogTitle": "Ep01.Reaction.0029_1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 283,
+    "DemensionDialogGroup": 79,
+    "LinkNextDialog": 0,
+    "ResultGroup": 102920,
+    "DialogTitle": "Ep01.Reaction.0029_2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.GetCoin"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9000,
+    "DemensionDialogGroup": 900,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0005_3_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9001,
+    "DemensionDialogGroup": 900,
+    "LinkNextDialog": 0,
+    "ResultGroup": 12,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.EnhanceCodeRandom"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 9002,
+    "DemensionDialogGroup": 900,
+    "LinkNextDialog": 0,
+    "ResultGroup": 13,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.EnhanceMaxCodeAll"
+    ]
+  },
+  {
+    "SortOrder": 3,
+    "ID": 9003,
+    "DemensionDialogGroup": 900,
+    "LinkNextDialog": 0,
+    "ResultGroup": 14,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.ResetCodeAll"
+    ]
+  },
+  {
+    "SortOrder": 4,
+    "ID": 9004,
+    "DemensionDialogGroup": 900,
+    "LinkNextDialog": 0,
+    "ResultGroup": 19,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.GetCoinP"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9005,
+    "DemensionDialogGroup": 901,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "EP02.Title5",
+    "DialogType": "Main",
+    "ImageResource": "",
+    "DialogTag": [
+      "Ep02.Desc.0005_3_1"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9006,
+    "DemensionDialogGroup": 901,
+    "LinkNextDialog": 0,
+    "ResultGroup": 20,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.DeleteCoinP"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 9007,
+    "DemensionDialogGroup": 901,
+    "LinkNextDialog": 0,
+    "ResultGroup": 21,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.Resurrection"
+    ]
+  },
+  {
+    "SortOrder": 3,
+    "ID": 9008,
+    "DemensionDialogGroup": 901,
+    "LinkNextDialog": 0,
+    "ResultGroup": 22,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 4,
+    "ID": 9009,
+    "DemensionDialogGroup": 901,
+    "LinkNextDialog": 0,
+    "ResultGroup": 23,
+    "DialogTitle": "Ep01.Reaction.0001_1",
+    "DialogType": "Reaction",
+    "ImageResource": "",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9901,
+    "DemensionDialogGroup": 991,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "테스트 에피소드01",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9902,
+    "DemensionDialogGroup": 991,
+    "LinkNextDialog": 0,
+    "ResultGroup": 999001,
+    "DialogTitle": "선택 1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.RandomBuff"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 9903,
+    "DemensionDialogGroup": 991,
+    "LinkNextDialog": 0,
+    "ResultGroup": 999002,
+    "DialogTitle": "선택 2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "무작위 코드 {0}개 획득"
+    ]
+  },
+  {
+    "SortOrder": 3,
+    "ID": 9904,
+    "DemensionDialogGroup": 991,
+    "LinkNextDialog": 0,
+    "ResultGroup": 999003,
+    "DialogTitle": "선택 3",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.BlessItem"
+    ]
+  },
+  {
+    "SortOrder": 4,
+    "ID": 9905,
+    "DemensionDialogGroup": 991,
+    "LinkNextDialog": 0,
+    "ResultGroup": 999004,
+    "DialogTitle": "선택 4",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.BlessItemFix"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9906,
+    "DemensionDialogGroup": 992,
+    "LinkNextDialog": 0,
+    "ResultGroup": 0,
+    "DialogTitle": "테스트 에피소드02",
+    "DialogType": "Main",
+    "ImageResource": "Img_Simulation_Public_01",
+    "DialogTag": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 9907,
+    "DemensionDialogGroup": 992,
+    "LinkNextDialog": 0,
+    "ResultGroup": 999005,
+    "DialogTitle": "선택 1",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "무작위 코드 {0}개 획득",
+      "EventResultDesc.BlessItemFix"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 9908,
+    "DemensionDialogGroup": 992,
+    "LinkNextDialog": 0,
+    "ResultGroup": 999006,
+    "DialogTitle": "선택 2",
+    "DialogType": "Reaction",
+    "ImageResource": "Interaction_Conversation_Icon",
+    "DialogTag": [
+      "EventResultDesc.RateActiveLink2"
+    ]
+  }
+]

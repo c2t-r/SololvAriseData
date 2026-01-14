@@ -1,0 +1,1602 @@
+[
+  {
+    "ID": 1010101,
+    "SelectIndex": 1,
+    "GroupID": 10101,
+    "RewardGroupID": 1901001,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Core_Mind_Baran01"
+  },
+  {
+    "ID": 1010102,
+    "SelectIndex": 2,
+    "GroupID": 10101,
+    "RewardGroupID": 1901002,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Core_Mind_Baran02"
+  },
+  {
+    "ID": 1010301,
+    "SelectIndex": 1,
+    "GroupID": 10103,
+    "RewardGroupID": 1901011,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Core_Mind_Baran01"
+  },
+  {
+    "ID": 1010302,
+    "SelectIndex": 2,
+    "GroupID": 10103,
+    "RewardGroupID": 1901012,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Core_Mind_Baran02"
+  },
+  {
+    "ID": 1010501,
+    "SelectIndex": 1,
+    "GroupID": 10105,
+    "RewardGroupID": 1901021,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Core_Mind_Baran01"
+  },
+  {
+    "ID": 1010502,
+    "SelectIndex": 2,
+    "GroupID": 10105,
+    "RewardGroupID": 1901022,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Core_Mind_Baran02"
+  },
+  {
+    "ID": 1020101,
+    "SelectIndex": 1,
+    "GroupID": 10201,
+    "RewardGroupID": 1901101,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1020102,
+    "SelectIndex": 2,
+    "GroupID": 10201,
+    "RewardGroupID": 1901102,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1020301,
+    "SelectIndex": 1,
+    "GroupID": 10203,
+    "RewardGroupID": 1901111,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1020302,
+    "SelectIndex": 2,
+    "GroupID": 10203,
+    "RewardGroupID": 1901112,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1020501,
+    "SelectIndex": 1,
+    "GroupID": 10205,
+    "RewardGroupID": 1901121,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1020502,
+    "SelectIndex": 2,
+    "GroupID": 10205,
+    "RewardGroupID": 1901122,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1020601,
+    "SelectIndex": 1,
+    "GroupID": 10206,
+    "RewardGroupID": 1901131,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1020602,
+    "SelectIndex": 2,
+    "GroupID": 10206,
+    "RewardGroupID": 1901132,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1030101,
+    "SelectIndex": 1,
+    "GroupID": 10301,
+    "RewardGroupID": 1901201,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1030102,
+    "SelectIndex": 2,
+    "GroupID": 10301,
+    "RewardGroupID": 1901202,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1030301,
+    "SelectIndex": 1,
+    "GroupID": 10303,
+    "RewardGroupID": 1901211,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1030302,
+    "SelectIndex": 2,
+    "GroupID": 10303,
+    "RewardGroupID": 1901212,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1030501,
+    "SelectIndex": 1,
+    "GroupID": 10305,
+    "RewardGroupID": 1901221,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1030502,
+    "SelectIndex": 2,
+    "GroupID": 10305,
+    "RewardGroupID": 1901222,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 1030601,
+    "SelectIndex": 1,
+    "GroupID": 10306,
+    "RewardGroupID": 1901231,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 1030602,
+    "SelectIndex": 2,
+    "GroupID": 10306,
+    "RewardGroupID": 1901232,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 2010101,
+    "SelectIndex": 1,
+    "GroupID": 20101,
+    "RewardGroupID": 1902001,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 2010102,
+    "SelectIndex": 2,
+    "GroupID": 20101,
+    "RewardGroupID": 1902002,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 2010301,
+    "SelectIndex": 1,
+    "GroupID": 20103,
+    "RewardGroupID": 1902011,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 2010302,
+    "SelectIndex": 2,
+    "GroupID": 20103,
+    "RewardGroupID": 1902012,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 2010501,
+    "SelectIndex": 1,
+    "GroupID": 20105,
+    "RewardGroupID": 1902021,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 2010502,
+    "SelectIndex": 2,
+    "GroupID": 20105,
+    "RewardGroupID": 1902022,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 2010601,
+    "SelectIndex": 1,
+    "GroupID": 20106,
+    "RewardGroupID": 1902031,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 2010602,
+    "SelectIndex": 2,
+    "GroupID": 20106,
+    "RewardGroupID": 1902032,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 2020101,
+    "SelectIndex": 1,
+    "GroupID": 20201,
+    "RewardGroupID": 1902101,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2020102,
+    "SelectIndex": 2,
+    "GroupID": 20201,
+    "RewardGroupID": 1902102,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2020301,
+    "SelectIndex": 1,
+    "GroupID": 20203,
+    "RewardGroupID": 1902111,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2020302,
+    "SelectIndex": 2,
+    "GroupID": 20203,
+    "RewardGroupID": 1902112,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2020501,
+    "SelectIndex": 1,
+    "GroupID": 20205,
+    "RewardGroupID": 1902121,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2020502,
+    "SelectIndex": 2,
+    "GroupID": 20205,
+    "RewardGroupID": 1902122,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2020601,
+    "SelectIndex": 1,
+    "GroupID": 20206,
+    "RewardGroupID": 1902131,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2020602,
+    "SelectIndex": 2,
+    "GroupID": 20206,
+    "RewardGroupID": 1902132,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2030101,
+    "SelectIndex": 1,
+    "GroupID": 20301,
+    "RewardGroupID": 1902201,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2030102,
+    "SelectIndex": 2,
+    "GroupID": 20301,
+    "RewardGroupID": 1902202,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2030301,
+    "SelectIndex": 1,
+    "GroupID": 20303,
+    "RewardGroupID": 1902211,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2030302,
+    "SelectIndex": 2,
+    "GroupID": 20303,
+    "RewardGroupID": 1902212,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2030501,
+    "SelectIndex": 1,
+    "GroupID": 20305,
+    "RewardGroupID": 1902221,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2030502,
+    "SelectIndex": 2,
+    "GroupID": 20305,
+    "RewardGroupID": 1902222,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 2030601,
+    "SelectIndex": 1,
+    "GroupID": 20306,
+    "RewardGroupID": 1902231,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 2030602,
+    "SelectIndex": 2,
+    "GroupID": 20306,
+    "RewardGroupID": 1902232,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3010101,
+    "SelectIndex": 1,
+    "GroupID": 30101,
+    "RewardGroupID": 1903003,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_02"
+  },
+  {
+    "ID": 3010102,
+    "SelectIndex": 2,
+    "GroupID": 30101,
+    "RewardGroupID": 1903004,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_02"
+  },
+  {
+    "ID": 3010103,
+    "SelectIndex": 3,
+    "GroupID": 30101,
+    "RewardGroupID": 1903001,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 3010104,
+    "SelectIndex": 4,
+    "GroupID": 30101,
+    "RewardGroupID": 1903002,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 3010301,
+    "SelectIndex": 1,
+    "GroupID": 30103,
+    "RewardGroupID": 1903013,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_02"
+  },
+  {
+    "ID": 3010302,
+    "SelectIndex": 2,
+    "GroupID": 30103,
+    "RewardGroupID": 1903014,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_02"
+  },
+  {
+    "ID": 3010303,
+    "SelectIndex": 3,
+    "GroupID": 30103,
+    "RewardGroupID": 1903011,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 3010304,
+    "SelectIndex": 4,
+    "GroupID": 30103,
+    "RewardGroupID": 1903012,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 3010501,
+    "SelectIndex": 1,
+    "GroupID": 30105,
+    "RewardGroupID": 1903023,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_02"
+  },
+  {
+    "ID": 3010502,
+    "SelectIndex": 2,
+    "GroupID": 30105,
+    "RewardGroupID": 1903024,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_02"
+  },
+  {
+    "ID": 3010503,
+    "SelectIndex": 3,
+    "GroupID": 30105,
+    "RewardGroupID": 1903021,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 3010504,
+    "SelectIndex": 4,
+    "GroupID": 30105,
+    "RewardGroupID": 1903022,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 3020101,
+    "SelectIndex": 1,
+    "GroupID": 30201,
+    "RewardGroupID": 1903103,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3020102,
+    "SelectIndex": 2,
+    "GroupID": 30201,
+    "RewardGroupID": 1903104,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3020103,
+    "SelectIndex": 3,
+    "GroupID": 30201,
+    "RewardGroupID": 1903101,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3020104,
+    "SelectIndex": 4,
+    "GroupID": 30201,
+    "RewardGroupID": 1903102,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3020301,
+    "SelectIndex": 1,
+    "GroupID": 30203,
+    "RewardGroupID": 1903113,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3020302,
+    "SelectIndex": 2,
+    "GroupID": 30203,
+    "RewardGroupID": 1903114,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3020303,
+    "SelectIndex": 3,
+    "GroupID": 30203,
+    "RewardGroupID": 1903111,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3020304,
+    "SelectIndex": 4,
+    "GroupID": 30203,
+    "RewardGroupID": 1903112,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3020501,
+    "SelectIndex": 1,
+    "GroupID": 30205,
+    "RewardGroupID": 1903123,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3020502,
+    "SelectIndex": 2,
+    "GroupID": 30205,
+    "RewardGroupID": 1903124,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3020503,
+    "SelectIndex": 3,
+    "GroupID": 30205,
+    "RewardGroupID": 1903121,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3020504,
+    "SelectIndex": 4,
+    "GroupID": 30205,
+    "RewardGroupID": 1903122,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3020601,
+    "SelectIndex": 1,
+    "GroupID": 30206,
+    "RewardGroupID": 1903133,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3020602,
+    "SelectIndex": 2,
+    "GroupID": 30206,
+    "RewardGroupID": 1903134,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3020603,
+    "SelectIndex": 3,
+    "GroupID": 30206,
+    "RewardGroupID": 1903131,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3020604,
+    "SelectIndex": 4,
+    "GroupID": 30206,
+    "RewardGroupID": 1903132,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3030101,
+    "SelectIndex": 1,
+    "GroupID": 30301,
+    "RewardGroupID": 1903203,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3030102,
+    "SelectIndex": 2,
+    "GroupID": 30301,
+    "RewardGroupID": 1903204,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3030103,
+    "SelectIndex": 3,
+    "GroupID": 30301,
+    "RewardGroupID": 1903201,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3030104,
+    "SelectIndex": 4,
+    "GroupID": 30301,
+    "RewardGroupID": 1903202,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3030301,
+    "SelectIndex": 1,
+    "GroupID": 30303,
+    "RewardGroupID": 1903213,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3030302,
+    "SelectIndex": 2,
+    "GroupID": 30303,
+    "RewardGroupID": 1903214,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3030303,
+    "SelectIndex": 3,
+    "GroupID": 30303,
+    "RewardGroupID": 1903211,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3030304,
+    "SelectIndex": 4,
+    "GroupID": 30303,
+    "RewardGroupID": 1903212,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3030501,
+    "SelectIndex": 1,
+    "GroupID": 30305,
+    "RewardGroupID": 1903223,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3030502,
+    "SelectIndex": 2,
+    "GroupID": 30305,
+    "RewardGroupID": 1903224,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3030503,
+    "SelectIndex": 3,
+    "GroupID": 30305,
+    "RewardGroupID": 1903221,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3030504,
+    "SelectIndex": 4,
+    "GroupID": 30305,
+    "RewardGroupID": 1903222,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 3030601,
+    "SelectIndex": 1,
+    "GroupID": 30306,
+    "RewardGroupID": 1903233,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 3030602,
+    "SelectIndex": 2,
+    "GroupID": 30306,
+    "RewardGroupID": 1903234,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 3030603,
+    "SelectIndex": 3,
+    "GroupID": 30306,
+    "RewardGroupID": 1903231,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 3030604,
+    "SelectIndex": 4,
+    "GroupID": 30306,
+    "RewardGroupID": 1903232,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4010101,
+    "SelectIndex": 1,
+    "GroupID": 40101,
+    "RewardGroupID": 1904003,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_02"
+  },
+  {
+    "ID": 4010102,
+    "SelectIndex": 2,
+    "GroupID": 40101,
+    "RewardGroupID": 1904004,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_02"
+  },
+  {
+    "ID": 4010103,
+    "SelectIndex": 3,
+    "GroupID": 40101,
+    "RewardGroupID": 1904001,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 4010104,
+    "SelectIndex": 4,
+    "GroupID": 40101,
+    "RewardGroupID": 1904002,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 4010301,
+    "SelectIndex": 1,
+    "GroupID": 40103,
+    "RewardGroupID": 1904013,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_02"
+  },
+  {
+    "ID": 4010302,
+    "SelectIndex": 2,
+    "GroupID": 40103,
+    "RewardGroupID": 1904014,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_02"
+  },
+  {
+    "ID": 4010303,
+    "SelectIndex": 3,
+    "GroupID": 40103,
+    "RewardGroupID": 1904011,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 4010304,
+    "SelectIndex": 4,
+    "GroupID": 40103,
+    "RewardGroupID": 1904012,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 4010501,
+    "SelectIndex": 1,
+    "GroupID": 40105,
+    "RewardGroupID": 1904023,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_02"
+  },
+  {
+    "ID": 4010502,
+    "SelectIndex": 2,
+    "GroupID": 40105,
+    "RewardGroupID": 1904024,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_02"
+  },
+  {
+    "ID": 4010503,
+    "SelectIndex": 3,
+    "GroupID": 40105,
+    "RewardGroupID": 1904021,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_02"
+  },
+  {
+    "ID": 4010504,
+    "SelectIndex": 4,
+    "GroupID": 40105,
+    "RewardGroupID": 1904022,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_02"
+  },
+  {
+    "ID": 4020101,
+    "SelectIndex": 1,
+    "GroupID": 40201,
+    "RewardGroupID": 1904103,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4020102,
+    "SelectIndex": 2,
+    "GroupID": 40201,
+    "RewardGroupID": 1904104,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4020103,
+    "SelectIndex": 3,
+    "GroupID": 40201,
+    "RewardGroupID": 1904101,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4020104,
+    "SelectIndex": 4,
+    "GroupID": 40201,
+    "RewardGroupID": 1904102,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4020301,
+    "SelectIndex": 1,
+    "GroupID": 40203,
+    "RewardGroupID": 1904113,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4020302,
+    "SelectIndex": 2,
+    "GroupID": 40203,
+    "RewardGroupID": 1904114,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4020303,
+    "SelectIndex": 3,
+    "GroupID": 40203,
+    "RewardGroupID": 1904111,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4020304,
+    "SelectIndex": 4,
+    "GroupID": 40203,
+    "RewardGroupID": 1904112,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4020501,
+    "SelectIndex": 1,
+    "GroupID": 40205,
+    "RewardGroupID": 1904123,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4020502,
+    "SelectIndex": 2,
+    "GroupID": 40205,
+    "RewardGroupID": 1904124,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4020503,
+    "SelectIndex": 3,
+    "GroupID": 40205,
+    "RewardGroupID": 1904121,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4020504,
+    "SelectIndex": 4,
+    "GroupID": 40205,
+    "RewardGroupID": 1904122,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4020601,
+    "SelectIndex": 1,
+    "GroupID": 40206,
+    "RewardGroupID": 1904133,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4020602,
+    "SelectIndex": 2,
+    "GroupID": 40206,
+    "RewardGroupID": 1904134,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4020603,
+    "SelectIndex": 3,
+    "GroupID": 40206,
+    "RewardGroupID": 1904131,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4020604,
+    "SelectIndex": 4,
+    "GroupID": 40206,
+    "RewardGroupID": 1904132,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4030101,
+    "SelectIndex": 1,
+    "GroupID": 40301,
+    "RewardGroupID": 1904203,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4030102,
+    "SelectIndex": 2,
+    "GroupID": 40301,
+    "RewardGroupID": 1904204,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4030103,
+    "SelectIndex": 3,
+    "GroupID": 40301,
+    "RewardGroupID": 1904201,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4030104,
+    "SelectIndex": 4,
+    "GroupID": 40301,
+    "RewardGroupID": 1904202,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4030301,
+    "SelectIndex": 1,
+    "GroupID": 40303,
+    "RewardGroupID": 1904213,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4030302,
+    "SelectIndex": 2,
+    "GroupID": 40303,
+    "RewardGroupID": 1904214,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4030303,
+    "SelectIndex": 3,
+    "GroupID": 40303,
+    "RewardGroupID": 1904211,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4030304,
+    "SelectIndex": 4,
+    "GroupID": 40303,
+    "RewardGroupID": 1904212,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4030501,
+    "SelectIndex": 1,
+    "GroupID": 40305,
+    "RewardGroupID": 1904223,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4030502,
+    "SelectIndex": 2,
+    "GroupID": 40305,
+    "RewardGroupID": 1904224,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4030503,
+    "SelectIndex": 3,
+    "GroupID": 40305,
+    "RewardGroupID": 1904221,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4030504,
+    "SelectIndex": 4,
+    "GroupID": 40305,
+    "RewardGroupID": 1904222,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 4030601,
+    "SelectIndex": 1,
+    "GroupID": 40306,
+    "RewardGroupID": 1904233,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 4030602,
+    "SelectIndex": 2,
+    "GroupID": 40306,
+    "RewardGroupID": 1904234,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 4030603,
+    "SelectIndex": 3,
+    "GroupID": 40306,
+    "RewardGroupID": 1904231,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 4030604,
+    "SelectIndex": 4,
+    "GroupID": 40306,
+    "RewardGroupID": 1904232,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5010101,
+    "SelectIndex": 1,
+    "GroupID": 50101,
+    "RewardGroupID": 1905005,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5010102,
+    "SelectIndex": 2,
+    "GroupID": 50101,
+    "RewardGroupID": 1905006,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5010103,
+    "SelectIndex": 3,
+    "GroupID": 50101,
+    "RewardGroupID": 1905003,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5010104,
+    "SelectIndex": 4,
+    "GroupID": 50101,
+    "RewardGroupID": 1905004,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5010105,
+    "SelectIndex": 5,
+    "GroupID": 50101,
+    "RewardGroupID": 1905001,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5010106,
+    "SelectIndex": 6,
+    "GroupID": 50101,
+    "RewardGroupID": 1905002,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5010301,
+    "SelectIndex": 1,
+    "GroupID": 50103,
+    "RewardGroupID": 1905015,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5010302,
+    "SelectIndex": 2,
+    "GroupID": 50103,
+    "RewardGroupID": 1905016,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5010303,
+    "SelectIndex": 3,
+    "GroupID": 50103,
+    "RewardGroupID": 1905013,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5010304,
+    "SelectIndex": 4,
+    "GroupID": 50103,
+    "RewardGroupID": 1905014,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5010305,
+    "SelectIndex": 5,
+    "GroupID": 50103,
+    "RewardGroupID": 1905011,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5010306,
+    "SelectIndex": 6,
+    "GroupID": 50103,
+    "RewardGroupID": 1905012,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5010501,
+    "SelectIndex": 1,
+    "GroupID": 50105,
+    "RewardGroupID": 1905025,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5010502,
+    "SelectIndex": 2,
+    "GroupID": 50105,
+    "RewardGroupID": 1905026,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5010503,
+    "SelectIndex": 3,
+    "GroupID": 50105,
+    "RewardGroupID": 1905023,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5010504,
+    "SelectIndex": 4,
+    "GroupID": 50105,
+    "RewardGroupID": 1905024,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5010505,
+    "SelectIndex": 5,
+    "GroupID": 50105,
+    "RewardGroupID": 1905021,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5010506,
+    "SelectIndex": 6,
+    "GroupID": 50105,
+    "RewardGroupID": 1905022,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5020101,
+    "SelectIndex": 1,
+    "GroupID": 50201,
+    "RewardGroupID": 1905105,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5020102,
+    "SelectIndex": 2,
+    "GroupID": 50201,
+    "RewardGroupID": 1905106,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5020103,
+    "SelectIndex": 3,
+    "GroupID": 50201,
+    "RewardGroupID": 1905103,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5020104,
+    "SelectIndex": 4,
+    "GroupID": 50201,
+    "RewardGroupID": 1905104,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5020105,
+    "SelectIndex": 5,
+    "GroupID": 50201,
+    "RewardGroupID": 1905101,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5020106,
+    "SelectIndex": 6,
+    "GroupID": 50201,
+    "RewardGroupID": 1905102,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5020301,
+    "SelectIndex": 1,
+    "GroupID": 50203,
+    "RewardGroupID": 1905115,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5020302,
+    "SelectIndex": 2,
+    "GroupID": 50203,
+    "RewardGroupID": 1905116,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5020303,
+    "SelectIndex": 3,
+    "GroupID": 50203,
+    "RewardGroupID": 1905113,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5020304,
+    "SelectIndex": 4,
+    "GroupID": 50203,
+    "RewardGroupID": 1905114,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5020305,
+    "SelectIndex": 5,
+    "GroupID": 50203,
+    "RewardGroupID": 1905111,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5020306,
+    "SelectIndex": 6,
+    "GroupID": 50203,
+    "RewardGroupID": 1905112,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5020501,
+    "SelectIndex": 1,
+    "GroupID": 50205,
+    "RewardGroupID": 1905125,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5020502,
+    "SelectIndex": 2,
+    "GroupID": 50205,
+    "RewardGroupID": 1905126,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5020503,
+    "SelectIndex": 3,
+    "GroupID": 50205,
+    "RewardGroupID": 1905123,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5020504,
+    "SelectIndex": 4,
+    "GroupID": 50205,
+    "RewardGroupID": 1905124,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5020505,
+    "SelectIndex": 5,
+    "GroupID": 50205,
+    "RewardGroupID": 1905121,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5020506,
+    "SelectIndex": 6,
+    "GroupID": 50205,
+    "RewardGroupID": 1905122,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5020601,
+    "SelectIndex": 1,
+    "GroupID": 50206,
+    "RewardGroupID": 1905135,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5020602,
+    "SelectIndex": 2,
+    "GroupID": 50206,
+    "RewardGroupID": 1905136,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5020603,
+    "SelectIndex": 3,
+    "GroupID": 50206,
+    "RewardGroupID": 1905133,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5020604,
+    "SelectIndex": 4,
+    "GroupID": 50206,
+    "RewardGroupID": 1905134,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5020605,
+    "SelectIndex": 5,
+    "GroupID": 50206,
+    "RewardGroupID": 1905131,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5020606,
+    "SelectIndex": 6,
+    "GroupID": 50206,
+    "RewardGroupID": 1905132,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5030101,
+    "SelectIndex": 1,
+    "GroupID": 50301,
+    "RewardGroupID": 1905205,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5030102,
+    "SelectIndex": 2,
+    "GroupID": 50301,
+    "RewardGroupID": 1905206,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5030103,
+    "SelectIndex": 3,
+    "GroupID": 50301,
+    "RewardGroupID": 1905203,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5030104,
+    "SelectIndex": 4,
+    "GroupID": 50301,
+    "RewardGroupID": 1905204,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5030105,
+    "SelectIndex": 5,
+    "GroupID": 50301,
+    "RewardGroupID": 1905201,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5030106,
+    "SelectIndex": 6,
+    "GroupID": 50301,
+    "RewardGroupID": 1905202,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5030301,
+    "SelectIndex": 1,
+    "GroupID": 50303,
+    "RewardGroupID": 1905215,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5030302,
+    "SelectIndex": 2,
+    "GroupID": 50303,
+    "RewardGroupID": 1905216,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5030303,
+    "SelectIndex": 3,
+    "GroupID": 50303,
+    "RewardGroupID": 1905213,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5030304,
+    "SelectIndex": 4,
+    "GroupID": 50303,
+    "RewardGroupID": 1905214,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5030305,
+    "SelectIndex": 5,
+    "GroupID": 50303,
+    "RewardGroupID": 1905211,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5030306,
+    "SelectIndex": 6,
+    "GroupID": 50303,
+    "RewardGroupID": 1905212,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5030501,
+    "SelectIndex": 1,
+    "GroupID": 50305,
+    "RewardGroupID": 1905225,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5030502,
+    "SelectIndex": 2,
+    "GroupID": 50305,
+    "RewardGroupID": 1905226,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5030503,
+    "SelectIndex": 3,
+    "GroupID": 50305,
+    "RewardGroupID": 1905223,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5030504,
+    "SelectIndex": 4,
+    "GroupID": 50305,
+    "RewardGroupID": 1905224,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5030505,
+    "SelectIndex": 5,
+    "GroupID": 50305,
+    "RewardGroupID": 1905221,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5030506,
+    "SelectIndex": 6,
+    "GroupID": 50305,
+    "RewardGroupID": 1905222,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  },
+  {
+    "ID": 5030601,
+    "SelectIndex": 1,
+    "GroupID": 50306,
+    "RewardGroupID": 1905235,
+    "SelectionName": "SysConstStr.Raid.RewardSet05",
+    "SelectionImg": "Item_Core_Set05_03"
+  },
+  {
+    "ID": 5030602,
+    "SelectIndex": 2,
+    "GroupID": 50306,
+    "RewardGroupID": 1905236,
+    "SelectionName": "SysConstStr.Raid.RewardSet06",
+    "SelectionImg": "Item_Core_Set06_03"
+  },
+  {
+    "ID": 5030603,
+    "SelectIndex": 3,
+    "GroupID": 50306,
+    "RewardGroupID": 1905233,
+    "SelectionName": "SysConstStr.Raid.RewardSet03",
+    "SelectionImg": "Item_Core_Set03_03"
+  },
+  {
+    "ID": 5030604,
+    "SelectIndex": 4,
+    "GroupID": 50306,
+    "RewardGroupID": 1905234,
+    "SelectionName": "SysConstStr.Raid.RewardSet04",
+    "SelectionImg": "Item_Core_Set04_03"
+  },
+  {
+    "ID": 5030605,
+    "SelectIndex": 5,
+    "GroupID": 50306,
+    "RewardGroupID": 1905231,
+    "SelectionName": "SysConstStr.Raid.RewardSet01",
+    "SelectionImg": "Item_Core_Set01_03"
+  },
+  {
+    "ID": 5030606,
+    "SelectIndex": 6,
+    "GroupID": 50306,
+    "RewardGroupID": 1905232,
+    "SelectionName": "SysConstStr.Raid.RewardSet02",
+    "SelectionImg": "Item_Core_Set02_03"
+  }
+]

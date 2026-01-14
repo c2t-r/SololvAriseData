@@ -1,14 +1,14 @@
 [
   {
-    "ID": 1,
-    "SpawnType": "Normal",
     "SpawnSpotHold": true,
-    "SpawnSpotFix": "StartPoint"
+    "ID": 1,
+    "SpawnSpotFix": "StartPoint",
+    "SpawnType": "Normal"
   },
   {
-    "ID": 2,
-    "SpawnType": "Gate",
     "SpawnSpotHold": true,
-    "SpawnSpotFix": "GateList_Spawn_Tutorial"
+    "ID": 2,
+    "SpawnSpotFix": "GateList_Spawn_Tutorial",
+    "SpawnType": "Gate"
   }
 ]

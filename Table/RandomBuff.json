@@ -1,2702 +1,3980 @@
 [
   {
+    "ForceAble": true,
     "ID": 1,
-    "BuffGroupID": 1,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "PC",
-    "BuffID": "[237011000]",
-    "StringName": "BuffName.137011000",
-    "StringDesc": "WorldBossCrad.137011000",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "SelectCount": 1,
+    "BuffGroupID": 1,
+    "Priority": 1,
+    "Image": "",
+    "Target": "PC",
+    "BuffID": [
+      237011000
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011000",
+    "StringName": "BuffName.137011000"
   },
   {
+    "ForceAble": true,
     "ID": 2,
-    "BuffGroupID": 1,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "PC",
-    "BuffID": "[237011001]",
-    "StringName": "BuffName.137011001",
-    "StringDesc": "WorldBossCrad.137011001",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "SelectCount": 1,
+    "BuffGroupID": 1,
+    "Priority": 1,
+    "Image": "",
+    "Target": "PC",
+    "BuffID": [
+      237011001
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011001",
+    "StringName": "BuffName.137011001"
   },
   {
+    "ForceAble": true,
     "ID": 3,
-    "BuffGroupID": 1,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "PC",
-    "BuffID": "[237011002]",
-    "StringName": "BuffName.137011002",
-    "StringDesc": "WorldBossCrad.137011002",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "SelectCount": 1,
+    "BuffGroupID": 1,
+    "Priority": 1,
+    "Image": "",
+    "Target": "PC",
+    "BuffID": [
+      237011002
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011002",
+    "StringName": "BuffName.137011002"
   },
   {
+    "ForceAble": true,
     "ID": 4,
+    "RandomCount": 3,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 1,
-    "RandomCount": 3,
-    "SelectCount": 1,
+    "Priority": 1,
+    "Image": "",
     "Target": "PC",
-    "BuffID": "[237011012]",
-    "StringName": "BuffName.137011012",
+    "BuffID": [
+      237011012
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011012",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "StringName": "BuffName.137011012"
   },
   {
+    "ForceAble": true,
     "ID": 5,
-    "BuffGroupID": 2,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[337011000]",
-    "StringName": "BuffName.137011000",
-    "StringDesc": "WorldBossCrad.137011000",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "SelectCount": 1,
+    "BuffGroupID": 2,
+    "Priority": 1,
+    "Image": "",
+    "Target": "Hunter",
+    "BuffID": [
+      337011000
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011000",
+    "StringName": "BuffName.137011000"
   },
   {
+    "ForceAble": true,
     "ID": 6,
-    "BuffGroupID": 2,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[337011001]",
-    "StringName": "BuffName.137011001",
-    "StringDesc": "WorldBossCrad.137011001",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "SelectCount": 1,
+    "BuffGroupID": 2,
+    "Priority": 1,
+    "Image": "",
+    "Target": "Hunter",
+    "BuffID": [
+      337011001
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011001",
+    "StringName": "BuffName.137011001"
   },
   {
+    "ForceAble": true,
     "ID": 7,
-    "BuffGroupID": 2,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[337011002]",
-    "StringName": "BuffName.137011002",
-    "StringDesc": "WorldBossCrad.137011002",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "SelectCount": 1,
+    "BuffGroupID": 2,
+    "Priority": 1,
+    "Image": "",
+    "Target": "Hunter",
+    "BuffID": [
+      337011002
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011002",
+    "StringName": "BuffName.137011002"
   },
   {
+    "ForceAble": true,
     "ID": 8,
+    "RandomCount": 3,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 2,
-    "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[337011012]",
-    "StringName": "BuffName.137011012",
-    "StringDesc": "WorldBossCrad.137011012",
-    "RewardID": "",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": ""
+    "Image": "",
+    "Target": "Hunter",
+    "BuffID": [
+      337011012
+    ],
+    "RewardID": [],
+    "StringDesc": "WorldBossCrad.137011012",
+    "StringName": "BuffName.137011012"
   },
   {
+    "ForceAble": true,
     "ID": 100101,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_01",
     "Target": "Hunter",
-    "BuffID": "[137011000]",
-    "StringName": "BuffName.137011000",
+    "BuffID": [
+      137011000
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011000",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_01"
+    "StringName": "BuffName.137011000"
   },
   {
+    "ForceAble": true,
     "ID": 100102,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_02",
     "Target": "Hunter",
-    "BuffID": "[137011001]",
-    "StringName": "BuffName.137011001",
+    "BuffID": [
+      137011001
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011001",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_02"
+    "StringName": "BuffName.137011001"
   },
   {
+    "ForceAble": true,
     "ID": 100103,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_03",
     "Target": "Hunter",
-    "BuffID": "[137011002]",
-    "StringName": "BuffName.137011002",
+    "BuffID": [
+      137011002
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011002",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_03"
+    "StringName": "BuffName.137011002"
   },
   {
+    "ForceAble": true,
     "ID": 100104,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_04",
     "Target": "Hunter",
-    "BuffID": "[137011003]",
-    "StringName": "BuffName.137011003",
+    "BuffID": [
+      137011003
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011003",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_04"
+    "StringName": "BuffName.137011003"
   },
   {
+    "ForceAble": true,
     "ID": 100105,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_05",
     "Target": "Hunter",
-    "BuffID": "[137011005]",
-    "StringName": "BuffName.137011005",
+    "BuffID": [
+      137011005
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011005",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_05"
+    "StringName": "BuffName.137011005"
   },
   {
+    "ForceAble": true,
     "ID": 100106,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_06",
     "Target": "Hunter",
-    "BuffID": "[137011006]",
-    "StringName": "BuffName.137011006",
+    "BuffID": [
+      137011006
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011006",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_06"
+    "StringName": "BuffName.137011006"
   },
   {
+    "ForceAble": true,
     "ID": 100107,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_07",
     "Target": "Hunter",
-    "BuffID": "[137011007]",
-    "StringName": "BuffName.137011007",
+    "BuffID": [
+      137011007
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011007",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_07"
+    "StringName": "BuffName.137011007"
   },
   {
+    "ForceAble": true,
     "ID": 100108,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_08",
     "Target": "Hunter",
-    "BuffID": "[137011008]",
-    "StringName": "BuffName.137011008",
+    "BuffID": [
+      137011008
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011008",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_08"
+    "StringName": "BuffName.137011008"
   },
   {
+    "ForceAble": true,
     "ID": 100109,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_09",
     "Target": "Hunter",
-    "BuffID": "[137011009]",
-    "StringName": "BuffName.137011009",
+    "BuffID": [
+      137011009
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011009",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_09"
+    "StringName": "BuffName.137011009"
   },
   {
+    "ForceAble": true,
     "ID": 100110,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_10",
     "Target": "Hunter",
-    "BuffID": "[137011010]",
-    "StringName": "BuffName.137011010",
+    "BuffID": [
+      137011010
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011010",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_10"
+    "StringName": "BuffName.137011010"
   },
   {
+    "ForceAble": true,
     "ID": 100111,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_11",
     "Target": "Hunter",
-    "BuffID": "[137011011]",
-    "StringName": "BuffName.137011011",
+    "BuffID": [
+      137011011
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011011",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_11"
+    "StringName": "BuffName.137011011"
   },
   {
+    "ForceAble": true,
     "ID": 100112,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_12",
     "Target": "Hunter",
-    "BuffID": "[137011012]",
-    "StringName": "BuffName.137011012",
+    "BuffID": [
+      137011012
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011012",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_12"
+    "StringName": "BuffName.137011012"
   },
   {
+    "ForceAble": true,
     "ID": 100113,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_13",
     "Target": "Hunter",
-    "BuffID": "[137011013]",
-    "StringName": "BuffName.137011013",
+    "BuffID": [
+      137011013
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011013",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_13"
+    "StringName": "BuffName.137011013"
   },
   {
+    "ForceAble": true,
     "ID": 100114,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_14",
     "Target": "Hunter",
-    "BuffID": "[137011014]",
-    "StringName": "BuffName.137011014",
+    "BuffID": [
+      137011014
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011014",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_14"
+    "StringName": "BuffName.137011014"
   },
   {
+    "ForceAble": true,
     "ID": 100115,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_15",
     "Target": "Hunter",
-    "BuffID": "[137011016]",
-    "StringName": "BuffName.137011016",
+    "BuffID": [
+      137011016
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011016",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_15"
+    "StringName": "BuffName.137011016"
   },
   {
+    "ForceAble": true,
     "ID": 100116,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_16",
     "Target": "Hunter",
-    "BuffID": "[137011017]",
-    "StringName": "BuffName.137011017",
+    "BuffID": [
+      137011017
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011017",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_16"
+    "StringName": "BuffName.137011017"
   },
   {
+    "ForceAble": true,
     "ID": 100117,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_17",
     "Target": "Hunter",
-    "BuffID": "[137011019]",
-    "StringName": "BuffName.137011019",
+    "BuffID": [
+      137011019
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011019",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_17"
+    "StringName": "BuffName.137011019"
   },
   {
+    "ForceAble": true,
     "ID": 100118,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_18",
     "Target": "Hunter",
-    "BuffID": "[137011023]",
-    "StringName": "BuffName.137011023",
+    "BuffID": [
+      137011023
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011023",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_18"
+    "StringName": "BuffName.137011023"
   },
   {
+    "ForceAble": true,
     "ID": 100119,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_19",
     "Target": "Hunter",
-    "BuffID": "[137011025]",
-    "StringName": "BuffName.137011025",
+    "BuffID": [
+      137011025
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011025",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_19"
+    "StringName": "BuffName.137011025"
   },
   {
+    "ForceAble": true,
     "ID": 100120,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_20",
     "Target": "Hunter",
-    "BuffID": "[137011026]",
-    "StringName": "BuffName.137011026",
+    "BuffID": [
+      137011026
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011026",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_20"
+    "StringName": "BuffName.137011026"
   },
   {
+    "ForceAble": true,
     "ID": 100121,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_21",
     "Target": "Hunter",
-    "BuffID": "[137011027]",
-    "StringName": "BuffName.137011027",
+    "BuffID": [
+      137011027
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011027",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_21"
+    "StringName": "BuffName.137011027"
   },
   {
+    "ForceAble": true,
     "ID": 100122,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_23",
     "Target": "Hunter",
-    "BuffID": "[137011029]",
-    "StringName": "BuffName.137011029",
+    "BuffID": [
+      137011029
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011029",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_23"
+    "StringName": "BuffName.137011029"
   },
   {
+    "ForceAble": true,
     "ID": 100123,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_24",
     "Target": "Hunter",
-    "BuffID": "[137011031]",
-    "StringName": "BuffName.137011031",
+    "BuffID": [
+      137011031
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011031",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_24"
+    "StringName": "BuffName.137011031"
   },
   {
+    "ForceAble": true,
     "ID": 100124,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_25",
     "Target": "Hunter",
-    "BuffID": "[137011033]",
-    "StringName": "BuffName.137011033",
+    "BuffID": [
+      137011033
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011033",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_25"
+    "StringName": "BuffName.137011033"
   },
   {
+    "ForceAble": true,
     "ID": 100125,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_26",
     "Target": "Hunter",
-    "BuffID": "[137011035]",
-    "StringName": "BuffName.137011035",
+    "BuffID": [
+      137011035
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011035",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_26"
+    "StringName": "BuffName.137011035"
   },
   {
+    "ForceAble": true,
     "ID": 100126,
-    "BuffGroupID": 1001,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 1001,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_27",
     "Target": "Hunter",
-    "BuffID": "[137011037]",
-    "StringName": "BuffName.137011037",
+    "BuffID": [
+      137011037
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011037",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_27"
+    "StringName": "BuffName.137011037"
   },
   {
+    "ForceAble": true,
     "ID": 100127,
+    "RandomCount": 3,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 1001,
-    "RandomCount": 3,
-    "SelectCount": 1,
+    "Priority": 1,
+    "Image": "WB_BuffCard_Icon_28",
     "Target": "Hunter",
-    "BuffID": "[137011038]",
-    "StringName": "BuffName.137011038",
+    "BuffID": [
+      137011038
+    ],
+    "RewardID": [],
     "StringDesc": "WorldBossCrad.137011038",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "WB_BuffCard_Icon_28"
+    "StringName": "BuffName.137011038"
   },
   {
+    "ForceAble": true,
     "ID": 10001,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_01_3",
     "Target": "Player",
-    "BuffID": "[3601011000]",
-    "StringName": "BuffName.3601011000",
+    "BuffID": [
+      3601011000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601011001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_01_3"
+    "StringName": "BuffName.3601011000"
   },
   {
+    "ForceAble": true,
     "ID": 10002,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_01_2",
     "Target": "Player",
-    "BuffID": "[3601012000]",
-    "StringName": "BuffName.3601011000",
+    "BuffID": [
+      3601012000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601011002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_01_2"
+    "StringName": "BuffName.3601011000"
   },
   {
+    "ForceAble": true,
     "ID": 10003,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_01_1",
     "Target": "Player",
-    "BuffID": "[3601013000]",
-    "StringName": "BuffName.3601011000",
+    "BuffID": [
+      3601013000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601011003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_01_1"
+    "StringName": "BuffName.3601011000"
   },
   {
+    "ForceAble": true,
     "ID": 10004,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_02_3",
     "Target": "Player",
-    "BuffID": "[3601021000]",
-    "StringName": "BuffName.3601021000",
+    "BuffID": [
+      3601021000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601021001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_02_3"
+    "StringName": "BuffName.3601021000"
   },
   {
+    "ForceAble": true,
     "ID": 10005,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_02_2",
     "Target": "Player",
-    "BuffID": "[3601022000]",
-    "StringName": "BuffName.3601021000",
+    "BuffID": [
+      3601022000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601021002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_02_2"
+    "StringName": "BuffName.3601021000"
   },
   {
+    "ForceAble": true,
     "ID": 10006,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_02_1",
     "Target": "Player",
-    "BuffID": "[3601023000]",
-    "StringName": "BuffName.3601021000",
+    "BuffID": [
+      3601023000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601021003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_02_1"
+    "StringName": "BuffName.3601021000"
   },
   {
+    "ForceAble": true,
     "ID": 10007,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_03_3",
     "Target": "Player",
-    "BuffID": "[3601031000]",
-    "StringName": "BuffName.3601031000",
+    "BuffID": [
+      3601031000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601031001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_03_3"
+    "StringName": "BuffName.3601031000"
   },
   {
+    "ForceAble": true,
     "ID": 10008,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_03_2",
     "Target": "Player",
-    "BuffID": "[3601032000]",
-    "StringName": "BuffName.3601031000",
+    "BuffID": [
+      3601032000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601031002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_03_2"
+    "StringName": "BuffName.3601031000"
   },
   {
+    "ForceAble": true,
     "ID": 10009,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_03_1",
     "Target": "Player",
-    "BuffID": "[3601033000]",
-    "StringName": "BuffName.3601031000",
+    "BuffID": [
+      3601033000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601031003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_03_1"
+    "StringName": "BuffName.3601031000"
   },
   {
+    "ForceAble": true,
     "ID": 10010,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_13_3",
     "Target": "Player",
-    "BuffID": "[3601041000]",
-    "StringName": "BuffName.3601041000",
+    "BuffID": [
+      3601041000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601041001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_13_3"
+    "StringName": "BuffName.3601041000"
   },
   {
+    "ForceAble": true,
     "ID": 10011,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_13_2",
     "Target": "Player",
-    "BuffID": "[3601042000]",
-    "StringName": "BuffName.3601041000",
+    "BuffID": [
+      3601042000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601041002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_13_2"
+    "StringName": "BuffName.3601041000"
   },
   {
+    "ForceAble": true,
     "ID": 10012,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_13_1",
     "Target": "Player",
-    "BuffID": "[3601043000]",
-    "StringName": "BuffName.3601041000",
+    "BuffID": [
+      3601043000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601041003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_13_1"
+    "StringName": "BuffName.3601041000"
   },
   {
+    "ForceAble": true,
     "ID": 10013,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_04_3",
     "Target": "Player",
-    "BuffID": "[3601051000]",
-    "StringName": "BuffName.3601051000",
+    "BuffID": [
+      3601051000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601051001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_04_3"
+    "StringName": "BuffName.3601051000"
   },
   {
+    "ForceAble": true,
     "ID": 10014,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_04_2",
     "Target": "Player",
-    "BuffID": "[3601052000]",
-    "StringName": "BuffName.3601051000",
+    "BuffID": [
+      3601052000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601051002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_04_2"
+    "StringName": "BuffName.3601051000"
   },
   {
+    "ForceAble": true,
     "ID": 10015,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_04_1",
     "Target": "Player",
-    "BuffID": "[3601053000]",
-    "StringName": "BuffName.3601051000",
+    "BuffID": [
+      3601053000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601051003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_04_1"
+    "StringName": "BuffName.3601051000"
   },
   {
+    "ForceAble": true,
     "ID": 10016,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_14_3",
     "Target": "Player",
-    "BuffID": "[3601061000]",
-    "StringName": "BuffName.3601061000",
+    "BuffID": [
+      3601061000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601061001",
-    "RewardID": "",
-    "Priority": 18,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_14_3"
+    "StringName": "BuffName.3601061000"
   },
   {
+    "ForceAble": true,
     "ID": 10017,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_14_2",
     "Target": "Player",
-    "BuffID": "[3601062000]",
-    "StringName": "BuffName.3601061000",
+    "BuffID": [
+      3601062000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601061002",
-    "RewardID": "",
-    "Priority": 18,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_14_2"
+    "StringName": "BuffName.3601061000"
   },
   {
+    "ForceAble": true,
     "ID": 10018,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 4,
+    "Image": "Raid_BlessBuff_Portrait_14_1",
     "Target": "Player",
-    "BuffID": "[3601063000]",
-    "StringName": "BuffName.3601061000",
+    "BuffID": [
+      3601063000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601061003",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_14_1"
+    "StringName": "BuffName.3601061000"
   },
   {
+    "ForceAble": true,
     "ID": 10019,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_16_3",
     "Target": "Player",
-    "BuffID": "[3601071000]",
-    "StringName": "BuffName.3601071000",
+    "BuffID": [
+      3601071000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601071001",
-    "RewardID": "",
-    "Priority": 18,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_16_3"
+    "StringName": "BuffName.3601071000"
   },
   {
+    "ForceAble": true,
     "ID": 10020,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_16_2",
     "Target": "Player",
-    "BuffID": "[3601072000]",
-    "StringName": "BuffName.3601071000",
+    "BuffID": [
+      3601072000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601071002",
-    "RewardID": "",
-    "Priority": 18,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_16_2"
+    "StringName": "BuffName.3601071000"
   },
   {
+    "ForceAble": true,
     "ID": 10021,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 4,
+    "Image": "Raid_BlessBuff_Portrait_16_1",
     "Target": "Player",
-    "BuffID": "[3601073000]",
-    "StringName": "BuffName.3601071000",
+    "BuffID": [
+      3601073000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601071003",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_16_1"
+    "StringName": "BuffName.3601071000"
   },
   {
+    "ForceAble": true,
     "ID": 10022,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_05_3",
     "Target": "Player",
-    "BuffID": "[3601081000]",
-    "StringName": "BuffName.3601081000",
+    "BuffID": [
+      3601081000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601081001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_05_3"
+    "StringName": "BuffName.3601081000"
   },
   {
+    "ForceAble": true,
     "ID": 10023,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_05_2",
     "Target": "Player",
-    "BuffID": "[3601082000]",
-    "StringName": "BuffName.3601081000",
+    "BuffID": [
+      3601082000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601081002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_05_2"
+    "StringName": "BuffName.3601081000"
   },
   {
+    "ForceAble": true,
     "ID": 10024,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_05_1",
     "Target": "Player",
-    "BuffID": "[3601083000]",
-    "StringName": "BuffName.3601081000",
+    "BuffID": [
+      3601083000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601081003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_05_1"
+    "StringName": "BuffName.3601081000"
   },
   {
+    "ForceAble": true,
     "ID": 10025,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_06_3",
     "Target": "Player",
-    "BuffID": "[3601091000]",
-    "StringName": "BuffName.3601091000",
+    "BuffID": [
+      3601091000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601091001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_06_3"
+    "StringName": "BuffName.3601091000"
   },
   {
+    "ForceAble": true,
     "ID": 10026,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_06_2",
     "Target": "Player",
-    "BuffID": "[3601092000]",
-    "StringName": "BuffName.3601091000",
+    "BuffID": [
+      3601092000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601091002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_06_2"
+    "StringName": "BuffName.3601091000"
   },
   {
+    "ForceAble": true,
     "ID": 10027,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_06_1",
     "Target": "Player",
-    "BuffID": "[3601093000]",
-    "StringName": "BuffName.3601091000",
+    "BuffID": [
+      3601093000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601091003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_06_1"
+    "StringName": "BuffName.3601091000"
   },
   {
+    "ForceAble": true,
     "ID": 10028,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_15_3",
     "Target": "Player",
-    "BuffID": "[3601101000]",
-    "StringName": "BuffName.3601101000",
+    "BuffID": [
+      3601101000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601101001",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_15_3"
+    "StringName": "BuffName.3601101000"
   },
   {
+    "ForceAble": true,
     "ID": 10029,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_15_2",
     "Target": "Player",
-    "BuffID": "[3601102000]",
-    "StringName": "BuffName.3601101000",
+    "BuffID": [
+      3601102000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601101002",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_15_2"
+    "StringName": "BuffName.3601101000"
   },
   {
+    "ForceAble": true,
     "ID": 10030,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_15_1",
     "Target": "Player",
-    "BuffID": "[3601103000]",
-    "StringName": "BuffName.3601101000",
+    "BuffID": [
+      3601103000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601101003",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_15_1"
+    "StringName": "BuffName.3601101000"
   },
   {
+    "ForceAble": true,
     "ID": 10031,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_17_3",
     "Target": "Player",
-    "BuffID": "[3601111000]",
-    "StringName": "BuffName.3601111000",
+    "BuffID": [
+      3601111000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601111001",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_17_3"
+    "StringName": "BuffName.3601111000"
   },
   {
+    "ForceAble": true,
     "ID": 10032,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_17_2",
     "Target": "Player",
-    "BuffID": "[3601112000]",
-    "StringName": "BuffName.3601111000",
+    "BuffID": [
+      3601112000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601111002",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_17_2"
+    "StringName": "BuffName.3601111000"
   },
   {
+    "ForceAble": true,
     "ID": 10033,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_17_1",
     "Target": "Player",
-    "BuffID": "[3601113000]",
-    "StringName": "BuffName.3601111000",
+    "BuffID": [
+      3601113000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601111003",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_17_1"
+    "StringName": "BuffName.3601111000"
   },
   {
+    "ForceAble": true,
     "ID": 10034,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_18_3",
     "Target": "Player",
-    "BuffID": "[3601121000]",
-    "StringName": "BuffName.3601121000",
+    "BuffID": [
+      3601121000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601121001",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_18_3"
+    "StringName": "BuffName.3601121000"
   },
   {
+    "ForceAble": true,
     "ID": 10035,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_18_2",
     "Target": "Player",
-    "BuffID": "[3601122000]",
-    "StringName": "BuffName.3601121000",
+    "BuffID": [
+      3601122000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601121002",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_18_2"
+    "StringName": "BuffName.3601121000"
   },
   {
+    "ForceAble": true,
     "ID": 10036,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_18_1",
     "Target": "Player",
-    "BuffID": "[3601123000]",
-    "StringName": "BuffName.3601121000",
+    "BuffID": [
+      3601123000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601121003",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_18_1"
+    "StringName": "BuffName.3601121000"
   },
   {
+    "ForceAble": true,
     "ID": 10037,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_19_3",
     "Target": "Player",
-    "BuffID": "[3601131000]",
-    "StringName": "BuffName.3601131000",
+    "BuffID": [
+      3601131000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601131001",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_19_3"
+    "StringName": "BuffName.3601131000"
   },
   {
+    "ForceAble": true,
     "ID": 10038,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_19_2",
     "Target": "Player",
-    "BuffID": "[3601132000]",
-    "StringName": "BuffName.3601131000",
+    "BuffID": [
+      3601132000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601131002",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_19_2"
+    "StringName": "BuffName.3601131000"
   },
   {
+    "ForceAble": true,
     "ID": 10039,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_19_1",
     "Target": "Player",
-    "BuffID": "[3601133000]",
-    "StringName": "BuffName.3601131000",
+    "BuffID": [
+      3601133000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601131003",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_19_1"
+    "StringName": "BuffName.3601131000"
   },
   {
+    "ForceAble": true,
     "ID": 10040,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_07_3",
     "Target": "Player",
-    "BuffID": "[3601141000]",
-    "StringName": "BuffName.3601141000",
+    "BuffID": [
+      3601141000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601141001",
-    "RewardID": "",
-    "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_07_3"
+    "StringName": "BuffName.3601141000"
   },
   {
+    "ForceAble": true,
     "ID": 10041,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3601142000]",
-    "StringName": "BuffName.3601141000",
-    "StringDesc": "Raid100RandomBuff.3601141002",
-    "RewardID": "",
+    "BuffGroupID": 101020101,
     "Priority": 9,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_07_2"
+    "Image": "Raid_BlessBuff_Portrait_07_2",
+    "Target": "Player",
+    "BuffID": [
+      3601142000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid100RandomBuff.3601141002",
+    "StringName": "BuffName.3601141000"
   },
   {
+    "ForceAble": true,
     "ID": 10042,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_07_1",
     "Target": "Player",
-    "BuffID": "[3601143000]",
-    "StringName": "BuffName.3601141000",
+    "BuffID": [
+      3601143000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601141003",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_07_1"
+    "StringName": "BuffName.3601141000"
   },
   {
+    "ForceAble": true,
     "ID": 10043,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_08_3",
     "Target": "Player",
-    "BuffID": "[3601151000]",
-    "StringName": "BuffName.3601151000",
+    "BuffID": [
+      3601151000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601151001",
-    "RewardID": "",
-    "Priority": 18,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_08_3"
+    "StringName": "BuffName.3601151000"
   },
   {
+    "ForceAble": true,
     "ID": 10044,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3601152000]",
-    "StringName": "BuffName.3601151000",
-    "StringDesc": "Raid100RandomBuff.3601151002",
-    "RewardID": "",
+    "BuffGroupID": 101020101,
     "Priority": 18,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_08_2"
+    "Image": "Raid_BlessBuff_Portrait_08_2",
+    "Target": "Player",
+    "BuffID": [
+      3601152000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid100RandomBuff.3601151002",
+    "StringName": "BuffName.3601151000"
   },
   {
+    "ForceAble": true,
     "ID": 10045,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 4,
+    "Image": "Raid_BlessBuff_Portrait_08_1",
     "Target": "Player",
-    "BuffID": "[3601153000]",
-    "StringName": "BuffName.3601151000",
+    "BuffID": [
+      3601153000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601151003",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_08_1"
+    "StringName": "BuffName.3601151000"
   },
   {
+    "ForceAble": true,
     "ID": 10046,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_09_3",
     "Target": "Enemy",
-    "BuffID": "[3601171000]",
-    "StringName": "BuffName.3601171000",
+    "BuffID": [
+      3601171000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601171001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_09_3"
+    "StringName": "BuffName.3601171000"
   },
   {
+    "ForceAble": true,
     "ID": 10047,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_09_2",
     "Target": "Enemy",
-    "BuffID": "[3601172000]",
-    "StringName": "BuffName.3601171000",
+    "BuffID": [
+      3601172000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601171002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_09_2"
+    "StringName": "BuffName.3601171000"
   },
   {
+    "ForceAble": true,
     "ID": 10048,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_09_1",
     "Target": "Enemy",
-    "BuffID": "[3601173000]",
-    "StringName": "BuffName.3601171000",
+    "BuffID": [
+      3601173000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601171003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_09_1"
+    "StringName": "BuffName.3601171000"
   },
   {
+    "ForceAble": true,
     "ID": 10049,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_10_3",
     "Target": "Enemy",
-    "BuffID": "[3601191000]",
-    "StringName": "BuffName.3601191000",
+    "BuffID": [
+      3601191000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601191001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_10_3"
+    "StringName": "BuffName.3601191000"
   },
   {
+    "ForceAble": true,
     "ID": 10050,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_10_2",
     "Target": "Enemy",
-    "BuffID": "[3601192000]",
-    "StringName": "BuffName.3601191000",
+    "BuffID": [
+      3601192000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601191002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_10_2"
+    "StringName": "BuffName.3601191000"
   },
   {
+    "ForceAble": true,
     "ID": 10051,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_10_1",
     "Target": "Enemy",
-    "BuffID": "[3601193000]",
-    "StringName": "BuffName.3601191000",
+    "BuffID": [
+      3601193000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601191003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_10_1"
+    "StringName": "BuffName.3601191000"
   },
   {
+    "ForceAble": true,
     "ID": 10052,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_11_3",
     "Target": "Enemy",
-    "BuffID": "[3601201000]",
-    "StringName": "BuffName.3601201000",
+    "BuffID": [
+      3601201000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601201001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_11_3"
+    "StringName": "BuffName.3601201000"
   },
   {
+    "ForceAble": true,
     "ID": 10053,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_11_2",
     "Target": "Enemy",
-    "BuffID": "[3601202000]",
-    "StringName": "BuffName.3601201000",
+    "BuffID": [
+      3601202000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601201002",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_11_2"
+    "StringName": "BuffName.3601201000"
   },
   {
+    "ForceAble": true,
     "ID": 10054,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_11_1",
     "Target": "Enemy",
-    "BuffID": "[3601203000]",
-    "StringName": "BuffName.3601201000",
+    "BuffID": [
+      3601203000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601201003",
-    "RewardID": "",
-    "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_11_1"
+    "StringName": "BuffName.3601201000"
   },
   {
+    "ForceAble": true,
     "ID": 10055,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 101020101,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_12_3",
     "Target": "Enemy",
-    "BuffID": "[3601211000]",
-    "StringName": "BuffName.3601211000",
+    "BuffID": [
+      3601211000
+    ],
+    "RewardID": [],
     "StringDesc": "Raid100RandomBuff.3601211001",
-    "RewardID": "",
-    "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_12_3"
+    "StringName": "BuffName.3601211000"
   },
   {
+    "ForceAble": true,
     "ID": 10056,
-    "BuffGroupID": 101020101,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
-    "Target": "Enemy",
-    "BuffID": "[3601212000]",
-    "StringName": "BuffName.3601211000",
-    "StringDesc": "Raid100RandomBuff.3601211002",
-    "RewardID": "",
+    "BuffGroupID": 101020101,
     "Priority": 27,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_12_2"
-  },
-  {
-    "ID": 10057,
-    "BuffGroupID": 101020101,
-    "RandomCount": 1,
-    "SelectCount": 1,
+    "Image": "Raid_BlessBuff_Portrait_12_2",
     "Target": "Enemy",
-    "BuffID": "[3601213000]",
-    "StringName": "BuffName.3601211000",
-    "StringDesc": "Raid100RandomBuff.3601211003",
-    "RewardID": "",
+    "BuffID": [
+      3601212000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid100RandomBuff.3601211002",
+    "StringName": "BuffName.3601211000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 10057,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 101020101,
     "Priority": 6,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessBuff_Portrait_12_1"
+    "Image": "Raid_BlessBuff_Portrait_12_1",
+    "Target": "Enemy",
+    "BuffID": [
+      3601213000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid100RandomBuff.3601211003",
+    "StringName": "BuffName.3601211000"
   },
   {
+    "ForceAble": true,
     "ID": 10064,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 101020103,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050001",
-    "StringDesc": "It.StringName.10050001",
-    "RewardID": "[910001]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910001
+    ],
+    "StringDesc": "It.StringName.10050001",
+    "StringName": "It.StringName.10050001"
   },
   {
+    "ForceAble": true,
     "ID": 10065,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 101020203,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050001",
-    "StringDesc": "It.StringName.10050001",
-    "RewardID": "[910002]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910002
+    ],
+    "StringDesc": "It.StringName.10050001",
+    "StringName": "It.StringName.10050001"
   },
   {
+    "ForceAble": true,
     "ID": 10066,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 101020303,
-    "RandomCount": 1,
-    "SelectCount": 1,
+    "Priority": 1,
+    "Image": "Raid_BlessReward_Portrait_01_1",
     "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050001",
+    "BuffID": [],
+    "RewardID": [
+      910003
+    ],
     "StringDesc": "It.StringName.10050001",
-    "RewardID": "[910003]",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "StringName": "It.StringName.10050001"
   },
   {
+    "ForceAble": true,
     "ID": 10067,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 101040103,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050002",
-    "StringDesc": "It.StringName.10050002",
-    "RewardID": "[910004]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910004
+    ],
+    "StringDesc": "It.StringName.10050002",
+    "StringName": "It.StringName.10050002"
   },
   {
+    "ForceAble": true,
     "ID": 10068,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 101040203,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050002",
-    "StringDesc": "It.StringName.10050002",
-    "RewardID": "[910005]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910005
+    ],
+    "StringDesc": "It.StringName.10050002",
+    "StringName": "It.StringName.10050002"
   },
   {
+    "ForceAble": true,
     "ID": 10069,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 101040303,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050002",
-    "StringDesc": "It.StringName.10050002",
-    "RewardID": "[910006]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910006
+    ],
+    "StringDesc": "It.StringName.10050002",
+    "StringName": "It.StringName.10050002"
   },
   {
+    "ForceAble": true,
     "ID": 10070,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 102020103,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050002",
-    "StringDesc": "It.StringName.10050002",
-    "RewardID": "[910007]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910007
+    ],
+    "StringDesc": "It.StringName.10050002",
+    "StringName": "It.StringName.10050002"
   },
   {
+    "ForceAble": true,
     "ID": 10071,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 102020203,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050002",
-    "StringDesc": "It.StringName.10050002",
-    "RewardID": "[910008]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910008
+    ],
+    "StringDesc": "It.StringName.10050002",
+    "StringName": "It.StringName.10050002"
   },
   {
+    "ForceAble": true,
     "ID": 10072,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 102020303,
-    "RandomCount": 1,
-    "SelectCount": 1,
+    "Priority": 1,
+    "Image": "Raid_BlessReward_Portrait_01_1",
     "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050002",
+    "BuffID": [],
+    "RewardID": [
+      910009
+    ],
     "StringDesc": "It.StringName.10050002",
-    "RewardID": "[910009]",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "StringName": "It.StringName.10050002"
   },
   {
+    "ForceAble": true,
     "ID": 10073,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 102040103,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050003",
-    "StringDesc": "It.StringName.10050003",
-    "RewardID": "[910010]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910010
+    ],
+    "StringDesc": "It.StringName.10050003",
+    "StringName": "It.StringName.10050003"
   },
   {
+    "ForceAble": true,
     "ID": 10074,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 102040203,
-    "RandomCount": 1,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050003",
-    "StringDesc": "It.StringName.10050003",
-    "RewardID": "[910011]",
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "Image": "Raid_BlessReward_Portrait_01_1",
+    "Target": "Player",
+    "BuffID": [],
+    "RewardID": [
+      910011
+    ],
+    "StringDesc": "It.StringName.10050003",
+    "StringName": "It.StringName.10050003"
   },
   {
+    "ForceAble": true,
     "ID": 10075,
-    "BuffGroupID": 102040303,
     "RandomCount": 1,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 102040303,
+    "Priority": 1,
+    "Image": "Raid_BlessReward_Portrait_01_1",
     "Target": "Player",
-    "BuffID": "",
-    "StringName": "It.StringName.10050003",
+    "BuffID": [],
+    "RewardID": [
+      910012
+    ],
     "StringDesc": "It.StringName.10050003",
-    "RewardID": "[910012]",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "Raid_BlessReward_Portrait_01_1"
+    "StringName": "It.StringName.10050003"
   },
   {
+    "ForceAble": true,
+    "ID": 11001,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_1_3",
+    "Target": "Player",
+    "BuffID": [
+      3602011000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601011001",
+    "StringName": "BuffName.3601011000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11002,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_1_2",
+    "Target": "Player",
+    "BuffID": [
+      3602012000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601011002",
+    "StringName": "BuffName.3601011000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11003,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_1_1",
+    "Target": "Player",
+    "BuffID": [
+      3602013000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601011003",
+    "StringName": "BuffName.3601011000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11004,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_2_3",
+    "Target": "Player",
+    "BuffID": [
+      3602021000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601021001",
+    "StringName": "BuffName.3601021000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11005,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_2_2",
+    "Target": "Player",
+    "BuffID": [
+      3602022000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601021002",
+    "StringName": "BuffName.3601021000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11006,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_2_1",
+    "Target": "Player",
+    "BuffID": [
+      3602023000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601021003",
+    "StringName": "BuffName.3601021000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11007,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_3_3",
+    "Target": "Player",
+    "BuffID": [
+      3602031000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601031001",
+    "StringName": "BuffName.3601031000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11008,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_3_2",
+    "Target": "Player",
+    "BuffID": [
+      3602032000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601031002",
+    "StringName": "BuffName.3601031000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11009,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_3_1",
+    "Target": "Player",
+    "BuffID": [
+      3602033000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601031003",
+    "StringName": "BuffName.3601031000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11010,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_13_3",
+    "Target": "Player",
+    "BuffID": [
+      3602041000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601041001",
+    "StringName": "BuffName.3601041000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11011,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_13_2",
+    "Target": "Player",
+    "BuffID": [
+      3602042000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601041002",
+    "StringName": "BuffName.3601041000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11012,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_13_1",
+    "Target": "Player",
+    "BuffID": [
+      3602043000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601041003",
+    "StringName": "BuffName.3601041000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11013,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_4_3",
+    "Target": "Player",
+    "BuffID": [
+      3602051000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601051001",
+    "StringName": "BuffName.3601051000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11014,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_4_2",
+    "Target": "Player",
+    "BuffID": [
+      3602052000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601051002",
+    "StringName": "BuffName.3601051000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11015,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_4_1",
+    "Target": "Player",
+    "BuffID": [
+      3602053000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601051003",
+    "StringName": "BuffName.3601051000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11016,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_x3_14_3",
+    "Target": "Player",
+    "BuffID": [
+      3602061000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601061001",
+    "StringName": "BuffName.3601061000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11017,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_x3_14_2",
+    "Target": "Player",
+    "BuffID": [
+      3602062000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601061002",
+    "StringName": "BuffName.3601061000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11018,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 4,
+    "Image": "Raid_BlessBuff_Portrait_x3_14_1",
+    "Target": "Player",
+    "BuffID": [
+      3602063000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601061003",
+    "StringName": "BuffName.3601061000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11019,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_x3_16_3",
+    "Target": "Player",
+    "BuffID": [
+      3602071000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601071001",
+    "StringName": "BuffName.3601071000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11020,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_x3_16_2",
+    "Target": "Player",
+    "BuffID": [
+      3602072000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601071002",
+    "StringName": "BuffName.3601071000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11021,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 4,
+    "Image": "Raid_BlessBuff_Portrait_x3_16_1",
+    "Target": "Player",
+    "BuffID": [
+      3602073000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601071003",
+    "StringName": "BuffName.3601071000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11022,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_5_3",
+    "Target": "Player",
+    "BuffID": [
+      3602081000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601081001",
+    "StringName": "BuffName.3601081000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11023,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_5_2",
+    "Target": "Player",
+    "BuffID": [
+      3602082000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601081002",
+    "StringName": "BuffName.3601081000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11024,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_5_1",
+    "Target": "Player",
+    "BuffID": [
+      3602083000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601081003",
+    "StringName": "BuffName.3601081000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11025,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_6_3",
+    "Target": "Player",
+    "BuffID": [
+      3602091000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601091001",
+    "StringName": "BuffName.3601091000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11026,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_6_2",
+    "Target": "Player",
+    "BuffID": [
+      3602092000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601091002",
+    "StringName": "BuffName.3601091000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11027,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_6_1",
+    "Target": "Player",
+    "BuffID": [
+      3602093000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601091003",
+    "StringName": "BuffName.3601091000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11028,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_15_3",
+    "Target": "Player",
+    "BuffID": [
+      3602101000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601101001",
+    "StringName": "BuffName.3601101000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11029,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_15_2",
+    "Target": "Player",
+    "BuffID": [
+      3602102000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601101002",
+    "StringName": "BuffName.3601101000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11030,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_x3_15_1",
+    "Target": "Player",
+    "BuffID": [
+      3602103000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601101003",
+    "StringName": "BuffName.3601101000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11031,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_17_3",
+    "Target": "Player",
+    "BuffID": [
+      3602111000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601111001",
+    "StringName": "BuffName.3601111000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11032,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_17_2",
+    "Target": "Player",
+    "BuffID": [
+      3602112000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601111002",
+    "StringName": "BuffName.3601111000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11033,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_x3_17_1",
+    "Target": "Player",
+    "BuffID": [
+      3602113000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601111003",
+    "StringName": "BuffName.3601111000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11034,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_18_3",
+    "Target": "Player",
+    "BuffID": [
+      3602121000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601121001",
+    "StringName": "BuffName.3601121000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11035,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_18_2",
+    "Target": "Player",
+    "BuffID": [
+      3602122000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601121002",
+    "StringName": "BuffName.3601121000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11036,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_x3_18_1",
+    "Target": "Player",
+    "BuffID": [
+      3602123000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601121003",
+    "StringName": "BuffName.3601121000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11037,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_19_3",
+    "Target": "Player",
+    "BuffID": [
+      3602131000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601131001",
+    "StringName": "BuffName.3601131000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11038,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 9,
+    "Image": "Raid_BlessBuff_Portrait_x3_19_2",
+    "Target": "Player",
+    "BuffID": [
+      3602132000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601131002",
+    "StringName": "BuffName.3601131000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11039,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 2,
+    "Image": "Raid_BlessBuff_Portrait_x3_19_1",
+    "Target": "Player",
+    "BuffID": [
+      3602133000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601131003",
+    "StringName": "BuffName.3601131000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11043,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_x3_8_3",
+    "Target": "Player",
+    "BuffID": [
+      3602151000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601151001",
+    "StringName": "BuffName.3601151000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11044,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 18,
+    "Image": "Raid_BlessBuff_Portrait_x3_8_2",
+    "Target": "Player",
+    "BuffID": [
+      3602152000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601151002",
+    "StringName": "BuffName.3601151000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11045,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 4,
+    "Image": "Raid_BlessBuff_Portrait_x3_8_1",
+    "Target": "Player",
+    "BuffID": [
+      3602153000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601151003",
+    "StringName": "BuffName.3601151000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11046,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_9_3",
+    "Target": "Enemy",
+    "BuffID": [
+      3602171000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601171001",
+    "StringName": "BuffName.3601171000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11047,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_9_2",
+    "Target": "Enemy",
+    "BuffID": [
+      3602172000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601171002",
+    "StringName": "BuffName.3601171000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11048,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_9_1",
+    "Target": "Enemy",
+    "BuffID": [
+      3602173000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601171003",
+    "StringName": "BuffName.3601171000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11049,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_10_3",
+    "Target": "Enemy",
+    "BuffID": [
+      3602191000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601191001",
+    "StringName": "BuffName.3601191000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11050,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_10_2",
+    "Target": "Enemy",
+    "BuffID": [
+      3602192000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601191002",
+    "StringName": "BuffName.3601191000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11051,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_10_1",
+    "Target": "Enemy",
+    "BuffID": [
+      3602193000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601191003",
+    "StringName": "BuffName.3601191000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11052,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_11_3",
+    "Target": "Enemy",
+    "BuffID": [
+      3602201000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601201001",
+    "StringName": "BuffName.3601201000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11053,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_11_2",
+    "Target": "Enemy",
+    "BuffID": [
+      3602202000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601201002",
+    "StringName": "BuffName.3601201000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11054,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_11_1",
+    "Target": "Enemy",
+    "BuffID": [
+      3602203000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601201003",
+    "StringName": "BuffName.3601201000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11055,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_12_3",
+    "Target": "Enemy",
+    "BuffID": [
+      3602211000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601211001",
+    "StringName": "BuffName.3601211000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11056,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 27,
+    "Image": "Raid_BlessBuff_Portrait_x3_12_2",
+    "Target": "Enemy",
+    "BuffID": [
+      3602212000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601211002",
+    "StringName": "BuffName.3601211000"
+  },
+  {
+    "ForceAble": true,
+    "ID": 11057,
+    "RandomCount": 1,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 102020102,
+    "Priority": 6,
+    "Image": "Raid_BlessBuff_Portrait_x3_12_1",
+    "Target": "Enemy",
+    "BuffID": [
+      3602213000
+    ],
+    "RewardID": [],
+    "StringDesc": "Raid101RandomBuff.3601211003",
+    "StringName": "BuffName.3601211000"
+  },
+  {
+    "ForceAble": true,
     "ID": 300001,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650011000]",
-    "StringName": "BuffName.3650011000",
-    "StringDesc": "OtherWorldNormalBuff.3650011000",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_attack_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 1,
+    "Image": "buff_attack_add",
+    "Target": "Player",
+    "BuffID": [
+      3650011000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650011000",
+    "StringName": "BuffName.3650011000"
   },
   {
+    "ForceAble": true,
     "ID": 300002,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650021000]",
-    "StringName": "BuffName.3650021000",
-    "StringDesc": "OtherWorldNormalBuff.3650021000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_attack_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_attack_add",
+    "Target": "Player",
+    "BuffID": [
+      3650021000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650021000",
+    "StringName": "BuffName.3650021000"
   },
   {
+    "ForceAble": true,
     "ID": 300003,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650031000]",
-    "StringName": "BuffName.3650031000",
-    "StringDesc": "OtherWorldNormalBuff.3650031000",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_defense_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 1,
+    "Image": "buff_defense_add",
+    "Target": "Player",
+    "BuffID": [
+      3650031000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650031000",
+    "StringName": "BuffName.3650031000"
   },
   {
+    "ForceAble": true,
     "ID": 300004,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650041000]",
-    "StringName": "BuffName.3650041000",
-    "StringDesc": "OtherWorldNormalBuff.3650041000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_defense_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_defense_add",
+    "Target": "Player",
+    "BuffID": [
+      3650041000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650041000",
+    "StringName": "BuffName.3650041000"
   },
   {
+    "ForceAble": true,
     "ID": 300005,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650051000]",
-    "StringName": "BuffName.3650051000",
-    "StringDesc": "OtherWorldNormalBuff.3650051000",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_healup"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 1,
+    "Image": "buff_healup",
+    "Target": "Player",
+    "BuffID": [
+      3650051000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650051000",
+    "StringName": "BuffName.3650051000"
   },
   {
+    "ForceAble": true,
     "ID": 300006,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650061000]",
-    "StringName": "BuffName.3650061000",
-    "StringDesc": "OtherWorldNormalBuff.3650061000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_healup"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_healup",
+    "Target": "Player",
+    "BuffID": [
+      3650061000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650061000",
+    "StringName": "BuffName.3650061000"
   },
   {
+    "ForceAble": true,
     "ID": 300007,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650071000]",
-    "StringName": "BuffName.3650071000",
-    "StringDesc": "OtherWorldNormalBuff.3650071000",
-    "RewardID": "",
-    "Priority": 1,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_cleanse"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 1,
+    "Image": "buff_cleanse",
+    "Target": "Player",
+    "BuffID": [
+      3650071000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650071000",
+    "StringName": "BuffName.3650071000"
   },
   {
+    "ForceAble": true,
     "ID": 300008,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650081000]",
-    "StringName": "BuffName.3650081000",
-    "StringDesc": "OtherWorldNormalBuff.3650081000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_cleanse"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_cleanse",
+    "Target": "Player",
+    "BuffID": [
+      3650081000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650081000",
+    "StringName": "BuffName.3650081000"
   },
   {
+    "ForceAble": true,
     "ID": 300009,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650091000]",
-    "StringName": "BuffName.3650091000",
-    "StringDesc": "OtherWorldNormalBuff.3650091000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_barrier",
+    "Target": "Player",
+    "BuffID": [
+      3650091000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650091000",
+    "StringName": "BuffName.3650091000"
   },
   {
+    "ForceAble": true,
     "ID": 300010,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650101000]",
-    "StringName": "BuffName.3650101000",
-    "StringDesc": "OtherWorldNormalBuff.3650101000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_barrier",
+    "Target": "Player",
+    "BuffID": [
+      3650101000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650101000",
+    "StringName": "BuffName.3650101000"
   },
   {
+    "ForceAble": true,
     "ID": 300011,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650111000]",
-    "StringName": "BuffName.3650111000",
-    "StringDesc": "OtherWorldNormalBuff.3650111000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_barrier",
+    "Target": "Player",
+    "BuffID": [
+      3650111000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650111000",
+    "StringName": "BuffName.3650111000"
   },
   {
+    "ForceAble": true,
     "ID": 300012,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650121000]",
-    "StringName": "BuffName.3650121000",
-    "StringDesc": "OtherWorldNormalBuff.3650121000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_barrier",
+    "Target": "Player",
+    "BuffID": [
+      3650121000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650121000",
+    "StringName": "BuffName.3650121000"
   },
   {
+    "ForceAble": true,
     "ID": 300013,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650131000]",
-    "StringName": "BuffName.3650131000",
-    "StringDesc": "OtherWorldNormalBuff.3650131000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_barrier",
+    "Target": "Player",
+    "BuffID": [
+      3650131000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650131000",
+    "StringName": "BuffName.3650131000"
   },
   {
+    "ForceAble": true,
     "ID": 300014,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650132000]",
-    "StringName": "BuffName.3650132000",
-    "StringDesc": "OtherWorldNormalBuff.3650132000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_barrier",
+    "Target": "Player",
+    "BuffID": [
+      3650132000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650132000",
+    "StringName": "BuffName.3650132000"
   },
   {
+    "ForceAble": true,
     "ID": 300015,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650151000]",
-    "StringName": "BuffName.3650151000",
-    "StringDesc": "OtherWorldNormalBuff.3650151000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_speed_add",
+    "Target": "Player",
+    "BuffID": [
+      3650151000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650151000",
+    "StringName": "BuffName.3650151000"
   },
   {
+    "ForceAble": true,
     "ID": 300016,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650152000]",
-    "StringName": "BuffName.3650152000",
-    "StringDesc": "OtherWorldNormalBuff.3650152000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_speed_add",
+    "Target": "Player",
+    "BuffID": [
+      3650152000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650152000",
+    "StringName": "BuffName.3650152000"
   },
   {
+    "ForceAble": true,
     "ID": 300017,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650161000]",
-    "StringName": "BuffName.3650161000",
-    "StringDesc": "OtherWorldNormalBuff.3650161000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_speed_add",
+    "Target": "Player",
+    "BuffID": [
+      3650161000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650161000",
+    "StringName": "BuffName.3650161000"
   },
   {
+    "ForceAble": true,
     "ID": 300018,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650162000]",
-    "StringName": "BuffName.3650162000",
-    "StringDesc": "OtherWorldNormalBuff.3650162000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_speed_add",
+    "Target": "Player",
+    "BuffID": [
+      3650162000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650162000",
+    "StringName": "BuffName.3650162000"
   },
   {
+    "ForceAble": true,
     "ID": 300019,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650171000]",
-    "StringName": "BuffName.3650171000",
-    "StringDesc": "OtherWorldNormalBuff.3650171000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_speed_add",
+    "Target": "Player",
+    "BuffID": [
+      3650171000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650171000",
+    "StringName": "BuffName.3650171000"
   },
   {
+    "ForceAble": true,
     "ID": 300020,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650172000]",
-    "StringName": "BuffName.3650172000",
-    "StringDesc": "OtherWorldNormalBuff.3650172000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_speed_add",
+    "Target": "Player",
+    "BuffID": [
+      3650172000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650172000",
+    "StringName": "BuffName.3650172000"
   },
   {
+    "ForceAble": true,
     "ID": 300021,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650181000]",
-    "StringName": "BuffName.3650181000",
-    "StringDesc": "OtherWorldNormalBuff.3650181000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650181000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650181000",
+    "StringName": "BuffName.3650181000"
   },
   {
+    "ForceAble": true,
     "ID": 300022,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650191000]",
-    "StringName": "BuffName.3650191000",
-    "StringDesc": "OtherWorldNormalBuff.3650191000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650191000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650191000",
+    "StringName": "BuffName.3650191000"
   },
   {
+    "ForceAble": true,
     "ID": 300023,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650201000]",
-    "StringName": "BuffName.3650201000",
-    "StringDesc": "OtherWorldNormalBuff.3650201000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650201000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650201000",
+    "StringName": "BuffName.3650201000"
   },
   {
+    "ForceAble": true,
     "ID": 300024,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650211000]",
-    "StringName": "BuffName.3650211000",
-    "StringDesc": "OtherWorldNormalBuff.3650211000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650211000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650211000",
+    "StringName": "BuffName.3650211000"
   },
   {
+    "ForceAble": true,
     "ID": 300025,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650221000]",
-    "StringName": "BuffName.3650221000",
-    "StringDesc": "OtherWorldNormalBuff.3650221000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650221000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650221000",
+    "StringName": "BuffName.3650221000"
   },
   {
+    "ForceAble": true,
     "ID": 300026,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650231000]",
-    "StringName": "BuffName.3650231000",
-    "StringDesc": "OtherWorldNormalBuff.3650231000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650231000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650231000",
+    "StringName": "BuffName.3650231000"
   },
   {
+    "ForceAble": true,
     "ID": 300027,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650241000]",
-    "StringName": "BuffName.3650241000",
-    "StringDesc": "OtherWorldNormalBuff.3650241000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650241000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650241000",
+    "StringName": "BuffName.3650241000"
   },
   {
+    "ForceAble": true,
     "ID": 300028,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650251000]",
-    "StringName": "BuffName.3650251000",
-    "StringDesc": "OtherWorldNormalBuff.3650251000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650251000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650251000",
+    "StringName": "BuffName.3650251000"
   },
   {
+    "ForceAble": true,
     "ID": 300029,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650261000]",
-    "StringName": "BuffName.3650261000",
-    "StringDesc": "OtherWorldNormalBuff.3650261000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650261000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650261000",
+    "StringName": "BuffName.3650261000"
   },
   {
+    "ForceAble": true,
     "ID": 300030,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650271000]",
-    "StringName": "BuffName.3650271000",
-    "StringDesc": "OtherWorldNormalBuff.3650271000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650271000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650271000",
+    "StringName": "BuffName.3650271000"
   },
   {
+    "ForceAble": true,
     "ID": 300031,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650281000]",
-    "StringName": "BuffName.3650281000",
-    "StringDesc": "OtherWorldNormalBuff.3650281000",
-    "RewardID": "",
-    "Priority": 4,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 4,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650281000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650281000",
+    "StringName": "BuffName.3650281000"
   },
   {
+    "ForceAble": true,
     "ID": 300032,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650291000]",
-    "StringName": "BuffName.3650291000",
-    "StringDesc": "OtherWorldNormalBuff.3650291000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650291000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650291000",
+    "StringName": "BuffName.3650291000"
   },
   {
+    "ForceAble": true,
     "ID": 300033,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650301000]",
-    "StringName": "BuffName.3650301000",
-    "StringDesc": "OtherWorldNormalBuff.3650301000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650301000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650301000",
+    "StringName": "BuffName.3650301000"
   },
   {
+    "ForceAble": true,
     "ID": 300034,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650311000]",
-    "StringName": "BuffName.3650311000",
-    "StringDesc": "OtherWorldNormalBuff.3650311000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650311000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650311000",
+    "StringName": "BuffName.3650311000"
   },
   {
+    "ForceAble": true,
     "ID": 300035,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650321000]",
-    "StringName": "BuffName.3650321000",
-    "StringDesc": "OtherWorldNormalBuff.3650321000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650321000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650321000",
+    "StringName": "BuffName.3650321000"
   },
   {
+    "ForceAble": true,
     "ID": 300036,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650331000]",
-    "StringName": "BuffName.3650331000",
-    "StringDesc": "OtherWorldNormalBuff.3650331000",
-    "RewardID": "",
-    "Priority": 2,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 2,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650331000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650331000",
+    "StringName": "BuffName.3650331000"
   },
   {
+    "ForceAble": true,
     "ID": 300037,
-    "BuffGroupID": 300000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Player",
-    "BuffID": "[3650332000]",
-    "StringName": "BuffName.3650332000",
-    "StringDesc": "OtherWorldNormalBuff.3650332000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 300000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Player",
+    "BuffID": [
+      3650332000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650332000",
+    "StringName": "BuffName.3650332000"
   },
   {
+    "ForceAble": true,
     "ID": 300038,
+    "RandomCount": 3,
+    "FixAble": true,
+    "SelectCount": 1,
     "BuffGroupID": 300000,
-    "RandomCount": 3,
-    "SelectCount": 1,
+    "Priority": 4,
+    "Image": "buff_arrow",
     "Target": "Player",
-    "BuffID": "[3650333000]",
-    "StringName": "BuffName.3650333000",
+    "BuffID": [
+      3650333000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650333000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3650333000"
   },
   {
+    "ForceAble": true,
     "ID": 400001,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 1,
+    "Image": "buff_attack_add",
     "Target": "Hunter",
-    "BuffID": "[3656001000]",
-    "StringName": "BuffName.3656001000",
+    "BuffID": [
+      3656001000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650011000",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_attack_add"
+    "StringName": "BuffName.3656001000"
   },
   {
+    "ForceAble": true,
     "ID": 400002,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_attack_add",
     "Target": "Hunter",
-    "BuffID": "[3656011000]",
-    "StringName": "BuffName.3656011000",
+    "BuffID": [
+      3656011000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650021000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_attack_add"
+    "StringName": "BuffName.3656011000"
   },
   {
+    "ForceAble": true,
     "ID": 400003,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 1,
+    "Image": "buff_defense_add",
     "Target": "Hunter",
-    "BuffID": "[3656021000]",
-    "StringName": "BuffName.3656021000",
+    "BuffID": [
+      3656021000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650031000",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_defense_add"
+    "StringName": "BuffName.3656021000"
   },
   {
+    "ForceAble": true,
     "ID": 400004,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_defense_add",
     "Target": "Hunter",
-    "BuffID": "[3656031000]",
-    "StringName": "BuffName.3656031000",
+    "BuffID": [
+      3656031000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650041000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_defense_add"
+    "StringName": "BuffName.3656031000"
   },
   {
+    "ForceAble": true,
     "ID": 400005,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 1,
+    "Image": "buff_healup",
     "Target": "Hunter",
-    "BuffID": "[3656041000]",
-    "StringName": "BuffName.3656041000",
+    "BuffID": [
+      3656041000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650051000",
-    "RewardID": "",
-    "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_healup"
+    "StringName": "BuffName.3656041000"
   },
   {
+    "ForceAble": true,
     "ID": 400006,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_healup",
     "Target": "Hunter",
-    "BuffID": "[3656051000]",
-    "StringName": "BuffName.3656051000",
+    "BuffID": [
+      3656051000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650061000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_healup"
+    "StringName": "BuffName.3656051000"
   },
   {
+    "ForceAble": true,
     "ID": 400007,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[3656061000]",
-    "StringName": "BuffName.3656061000",
-    "StringDesc": "OtherWorldNormalBuff.3650071000",
-    "RewardID": "",
+    "BuffGroupID": 400000,
     "Priority": 1,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_cleanse"
+    "Image": "buff_cleanse",
+    "Target": "Hunter",
+    "BuffID": [
+      3656061000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650071000",
+    "StringName": "BuffName.3656061000"
   },
   {
+    "ForceAble": true,
     "ID": 400008,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_cleanse",
     "Target": "Hunter",
-    "BuffID": "[3656071000]",
-    "StringName": "BuffName.3656071000",
+    "BuffID": [
+      3656071000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650081000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_cleanse"
+    "StringName": "BuffName.3656071000"
   },
   {
+    "ForceAble": true,
     "ID": 400009,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_barrier",
     "Target": "Hunter",
-    "BuffID": "[3656081000]",
-    "StringName": "BuffName.3656081000",
+    "BuffID": [
+      3656081000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650091000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "StringName": "BuffName.3656081000"
   },
   {
+    "ForceAble": true,
     "ID": 400010,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_barrier",
     "Target": "Hunter",
-    "BuffID": "[3656091000]",
-    "StringName": "BuffName.3656091000",
+    "BuffID": [
+      3656091000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650101000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "StringName": "BuffName.3656091000"
   },
   {
+    "ForceAble": true,
     "ID": 400011,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_barrier",
     "Target": "Hunter",
-    "BuffID": "[3656101000]",
-    "StringName": "BuffName.3656101000",
+    "BuffID": [
+      3656101000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650111000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "StringName": "BuffName.3656101000"
   },
   {
+    "ForceAble": true,
     "ID": 400012,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_barrier",
     "Target": "Hunter",
-    "BuffID": "[3656111000]",
-    "StringName": "BuffName.3656111000",
+    "BuffID": [
+      3656111000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650121000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "StringName": "BuffName.3656111000"
   },
   {
+    "ForceAble": true,
     "ID": 400013,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_barrier",
     "Target": "Hunter",
-    "BuffID": "[3656121000]",
-    "StringName": "BuffName.3656121000",
+    "BuffID": [
+      3656121000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650131000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "StringName": "BuffName.3656121000"
   },
   {
+    "ForceAble": true,
     "ID": 400014,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_barrier",
     "Target": "Hunter",
-    "BuffID": "[3656122000]",
-    "StringName": "BuffName.3656122000",
+    "BuffID": [
+      3656122000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650132000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_barrier"
+    "StringName": "BuffName.3656122000"
   },
   {
+    "ForceAble": true,
     "ID": 400015,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_speed_add",
     "Target": "Hunter",
-    "BuffID": "[3656141000]",
-    "StringName": "BuffName.3656141000",
+    "BuffID": [
+      3656141000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650151000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "StringName": "BuffName.3656141000"
   },
   {
+    "ForceAble": true,
     "ID": 400016,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_speed_add",
     "Target": "Hunter",
-    "BuffID": "[3656142000]",
-    "StringName": "BuffName.3656142000",
+    "BuffID": [
+      3656142000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650152000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "StringName": "BuffName.3656142000"
   },
   {
+    "ForceAble": true,
     "ID": 400017,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_speed_add",
     "Target": "Hunter",
-    "BuffID": "[3656151000]",
-    "StringName": "BuffName.3656151000",
+    "BuffID": [
+      3656151000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650161000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "StringName": "BuffName.3656151000"
   },
   {
+    "ForceAble": true,
     "ID": 400018,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_speed_add",
     "Target": "Hunter",
-    "BuffID": "[3656152000]",
-    "StringName": "BuffName.3656152000",
+    "BuffID": [
+      3656152000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650162000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "StringName": "BuffName.3656152000"
   },
   {
+    "ForceAble": true,
     "ID": 400019,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_speed_add",
     "Target": "Hunter",
-    "BuffID": "[3656161000]",
-    "StringName": "BuffName.3656161000",
+    "BuffID": [
+      3656161000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650171000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "StringName": "BuffName.3656161000"
   },
   {
+    "ForceAble": true,
     "ID": 400020,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_speed_add",
     "Target": "Hunter",
-    "BuffID": "[3656162000]",
-    "StringName": "BuffName.3656162000",
+    "BuffID": [
+      3656162000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650172000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_speed_add"
+    "StringName": "BuffName.3656162000"
   },
   {
+    "ForceAble": true,
     "ID": 400021,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656171000]",
-    "StringName": "BuffName.3656171000",
+    "BuffID": [
+      3656171000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650181000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656171000"
   },
   {
+    "ForceAble": true,
     "ID": 400022,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656181000]",
-    "StringName": "BuffName.3656181000",
+    "BuffID": [
+      3656181000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650191000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656181000"
   },
   {
+    "ForceAble": true,
     "ID": 400023,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656191000]",
-    "StringName": "BuffName.3656191000",
+    "BuffID": [
+      3656191000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650201000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656191000"
   },
   {
+    "ForceAble": true,
     "ID": 400024,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656201000]",
-    "StringName": "BuffName.3656201000",
+    "BuffID": [
+      3656201000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650211000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656201000"
   },
   {
+    "ForceAble": true,
     "ID": 400025,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656211000]",
-    "StringName": "BuffName.3656211000",
+    "BuffID": [
+      3656211000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650221000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656211000"
   },
   {
+    "ForceAble": true,
     "ID": 400026,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656221000]",
-    "StringName": "BuffName.3656221000",
+    "BuffID": [
+      3656221000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650231000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656221000"
   },
   {
+    "ForceAble": true,
     "ID": 400027,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656231000]",
-    "StringName": "BuffName.3656231000",
+    "BuffID": [
+      3656231000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650241000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656231000"
   },
   {
+    "ForceAble": true,
     "ID": 400028,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656241000]",
-    "StringName": "BuffName.3656241000",
+    "BuffID": [
+      3656241000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650251000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656241000"
   },
   {
+    "ForceAble": true,
     "ID": 400029,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656251000]",
-    "StringName": "BuffName.3656251000",
+    "BuffID": [
+      3656251000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650261000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656251000"
   },
   {
+    "ForceAble": true,
     "ID": 400030,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656261000]",
-    "StringName": "BuffName.3656261000",
+    "BuffID": [
+      3656261000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650271000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656261000"
   },
   {
+    "ForceAble": true,
     "ID": 400031,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656271000]",
-    "StringName": "BuffName.3656271000",
+    "BuffID": [
+      3656271000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650281000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656271000"
   },
   {
+    "ForceAble": true,
     "ID": 400032,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656281000]",
-    "StringName": "BuffName.3656281000",
+    "BuffID": [
+      3656281000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650291000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656281000"
   },
   {
+    "ForceAble": true,
     "ID": 400033,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656291000]",
-    "StringName": "BuffName.3656291000",
+    "BuffID": [
+      3656291000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650301000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656291000"
   },
   {
+    "ForceAble": true,
     "ID": 400034,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 2,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656301000]",
-    "StringName": "BuffName.3656301000",
+    "BuffID": [
+      3656301000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650311000",
-    "RewardID": "",
-    "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656301000"
   },
   {
+    "ForceAble": true,
     "ID": 400035,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
     "Target": "Hunter",
-    "BuffID": "[3656311000]",
-    "StringName": "BuffName.3656311000",
+    "BuffID": [
+      3656311000
+    ],
+    "RewardID": [],
     "StringDesc": "OtherWorldNormalBuff.3650321000",
-    "RewardID": "",
-    "Priority": 3,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "StringName": "BuffName.3656311000"
   },
   {
+    "ForceAble": true,
     "ID": 400036,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
+    "FixAble": true,
     "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[3656321000]",
-    "StringName": "BuffName.3656321000",
-    "StringDesc": "OtherWorldNormalBuff.3650331000",
-    "RewardID": "",
+    "BuffGroupID": 400000,
     "Priority": 2,
-    "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "Image": "buff_arrow",
+    "Target": "Hunter",
+    "BuffID": [
+      3656321000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650331000",
+    "StringName": "BuffName.3656321000"
   },
   {
+    "ForceAble": true,
     "ID": 400037,
-    "BuffGroupID": 400000,
     "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[3656322000]",
-    "StringName": "BuffName.3656322000",
-    "StringDesc": "OtherWorldNormalBuff.3650332000",
-    "RewardID": "",
-    "Priority": 3,
     "FixAble": true,
-    "ForceAble": true,
-    "Image": "buff_arrow"
+    "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 3,
+    "Image": "buff_arrow",
+    "Target": "Hunter",
+    "BuffID": [
+      3656322000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650332000",
+    "StringName": "BuffName.3656322000"
   },
   {
-    "ID": 400038,
-    "BuffGroupID": 400000,
-    "RandomCount": 3,
-    "SelectCount": 1,
-    "Target": "Hunter",
-    "BuffID": "[3656323000]",
-    "StringName": "BuffName.3656323000",
-    "StringDesc": "OtherWorldNormalBuff.3650333000",
-    "RewardID": "",
-    "Priority": 4,
-    "FixAble": true,
     "ForceAble": true,
-    "Image": "buff_arrow"
+    "ID": 400038,
+    "RandomCount": 3,
+    "FixAble": true,
+    "SelectCount": 1,
+    "BuffGroupID": 400000,
+    "Priority": 4,
+    "Image": "buff_arrow",
+    "Target": "Hunter",
+    "BuffID": [
+      3656323000
+    ],
+    "RewardID": [],
+    "StringDesc": "OtherWorldNormalBuff.3650333000",
+    "StringName": "BuffName.3656323000"
   }
 ]

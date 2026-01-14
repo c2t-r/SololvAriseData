@@ -1,65 +1,83 @@
 [
   {
     "ID": 1,
+    "ShopMainUnlockCondition": 0,
     "Unused": true,
-    "ShopMainName": "[로비] 상점",
-    "ShopDisplayType": "Scene",
+    "HelpIndex": 0,
     "ShopTabGroup": 1,
-    "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
-  },
-  {
-    "ID": 50,
-    "Unused": true,
-    "ShopMainName": "구독 상점 (내부 처리용)",
-    "ShopDisplayType": "None",
-    "ShopTabGroup": 50,
-    "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
+    "ShopDisplayType": "Scene",
+    "ShopMainName": "[로비] 상점"
   },
   {
     "ID": 100,
+    "ShopMainUnlockCondition": 0,
     "Unused": true,
-    "ShopMainName": "패스 상점 (내부 처리용)",
-    "ShopDisplayType": "None",
-    "ShopTabGroup": 100,
     "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
+    "ShopTabGroup": 100,
+    "ShopDisplayType": "None",
+    "ShopMainName": "패스 상점 (내부 처리용)"
   },
   {
     "ID": 200,
+    "ShopMainUnlockCondition": 0,
     "Unused": true,
-    "ShopMainName": "이벤트 상점1",
-    "ShopDisplayType": "None",
-    "ShopTabGroup": 200,
     "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
+    "ShopTabGroup": 200,
+    "ShopDisplayType": "None",
+    "ShopMainName": "이벤트 상점1"
   },
   {
     "ID": 3600,
+    "ShopMainUnlockCondition": 0,
     "Unused": true,
-    "ShopMainName": "(5UD) 차해인 특별 이벤트 상점",
-    "ShopDisplayType": "None",
-    "ShopTabGroup": 3600,
     "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
+    "ShopTabGroup": 3600,
+    "ShopDisplayType": "None",
+    "ShopMainName": "(5UD) 차해인 특별 이벤트 상점"
   },
   {
     "ID": 3700,
+    "ShopMainUnlockCondition": 0,
     "Unused": true,
-    "ShopMainName": "개인화 핫딜 상점",
-    "ShopDisplayType": "None",
-    "ShopTabGroup": 3700,
     "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
+    "ShopTabGroup": 3700,
+    "ShopDisplayType": "None",
+    "ShopMainName": "개인화 핫딜 상점"
   },
   {
     "ID": 9000,
+    "ShopMainUnlockCondition": 0,
     "Unused": true,
-    "ShopMainName": "[길드] 길드 교환소",
-    "ShopDisplayType": "Scene",
-    "ShopTabGroup": 9000,
     "HelpIndex": 0,
-    "ShopMainUnlockCondition": 0
+    "ShopTabGroup": 9000,
+    "ShopDisplayType": "Scene",
+    "ShopMainName": "[길드] 길드 교환소"
+  },
+  {
+    "ID": 1000,
+    "ShopMainUnlockCondition": 0,
+    "Unused": true,
+    "HelpIndex": 0,
+    "ShopTabGroup": 10000,
+    "ShopDisplayType": "None",
+    "ShopMainName": "시뮬레이션 게이트 교환소"
+  },
+  {
+    "ID": 20000,
+    "ShopMainUnlockCondition": 0,
+    "Unused": true,
+    "HelpIndex": 0,
+    "ShopTabGroup": 20000,
+    "ShopDisplayType": "PopUp",
+    "ShopMainName": "[특별] 구독 상점"
+  },
+  {
+    "ID": 30000,
+    "ShopMainUnlockCondition": 0,
+    "Unused": true,
+    "HelpIndex": 0,
+    "ShopTabGroup": 30000,
+    "ShopDisplayType": "PopUp",
+    "ShopMainName": "[특별] 미션 상점"
   }
 ]

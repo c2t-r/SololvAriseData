@@ -1,1154 +1,3314 @@
 [
   {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 10101,
     "WeaponArmoryID": 101,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 10102,
     "WeaponArmoryID": 101,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 10103,
     "WeaponArmoryID": 101,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 10104,
     "WeaponArmoryID": 101,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 10105,
     "WeaponArmoryID": 101,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 10106,
     "WeaponArmoryID": 101,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 10107,
     "WeaponArmoryID": 101,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 10108,
     "WeaponArmoryID": 101,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 10109,
+    "WeaponArmoryID": 101,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 10110,
+    "WeaponArmoryID": 101,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 10111,
+    "WeaponArmoryID": 101,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 10201,
     "WeaponArmoryID": 102,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 10202,
     "WeaponArmoryID": 102,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 10203,
     "WeaponArmoryID": 102,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 10204,
     "WeaponArmoryID": 102,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 10205,
     "WeaponArmoryID": 102,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 10206,
     "WeaponArmoryID": 102,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 10207,
     "WeaponArmoryID": 102,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 10208,
     "WeaponArmoryID": 102,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 10209,
+    "WeaponArmoryID": 102,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 10210,
+    "WeaponArmoryID": 102,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 10211,
+    "WeaponArmoryID": 102,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 10301,
     "WeaponArmoryID": 103,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 10302,
     "WeaponArmoryID": 103,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 10303,
     "WeaponArmoryID": 103,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 10304,
     "WeaponArmoryID": 103,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 10305,
     "WeaponArmoryID": 103,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 10306,
     "WeaponArmoryID": 103,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 10307,
     "WeaponArmoryID": 103,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 10308,
     "WeaponArmoryID": 103,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 10309,
+    "WeaponArmoryID": 103,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 10310,
+    "WeaponArmoryID": 103,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 10311,
+    "WeaponArmoryID": 103,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 10401,
     "WeaponArmoryID": 104,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 10402,
     "WeaponArmoryID": 104,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 10403,
     "WeaponArmoryID": 104,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 10404,
     "WeaponArmoryID": 104,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 10405,
     "WeaponArmoryID": 104,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 10406,
     "WeaponArmoryID": 104,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 10407,
     "WeaponArmoryID": 104,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 10408,
     "WeaponArmoryID": 104,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 10409,
+    "WeaponArmoryID": 104,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 10410,
+    "WeaponArmoryID": 104,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 10411,
+    "WeaponArmoryID": 104,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 10501,
     "WeaponArmoryID": 105,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 10502,
     "WeaponArmoryID": 105,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 10503,
     "WeaponArmoryID": 105,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 10504,
     "WeaponArmoryID": 105,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 10505,
     "WeaponArmoryID": 105,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 10506,
     "WeaponArmoryID": 105,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 10507,
     "WeaponArmoryID": 105,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 10508,
     "WeaponArmoryID": 105,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 10509,
+    "WeaponArmoryID": 105,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 10510,
+    "WeaponArmoryID": 105,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 10511,
+    "WeaponArmoryID": 105,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 10601,
     "WeaponArmoryID": 106,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 10602,
     "WeaponArmoryID": 106,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 10603,
     "WeaponArmoryID": 106,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 10604,
     "WeaponArmoryID": 106,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 10605,
     "WeaponArmoryID": 106,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 10606,
     "WeaponArmoryID": 106,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 10607,
     "WeaponArmoryID": 106,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 10608,
     "WeaponArmoryID": 106,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 10609,
+    "WeaponArmoryID": 106,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 10610,
+    "WeaponArmoryID": 106,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 10611,
+    "WeaponArmoryID": 106,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 20101,
     "WeaponArmoryID": 201,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 20102,
     "WeaponArmoryID": 201,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 20103,
     "WeaponArmoryID": 201,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 20104,
     "WeaponArmoryID": 201,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 20105,
     "WeaponArmoryID": 201,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 20106,
     "WeaponArmoryID": 201,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 20107,
     "WeaponArmoryID": 201,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 20108,
     "WeaponArmoryID": 201,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 20109,
+    "WeaponArmoryID": 201,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 20110,
+    "WeaponArmoryID": 201,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 20111,
+    "WeaponArmoryID": 201,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 20201,
     "WeaponArmoryID": 202,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 20202,
     "WeaponArmoryID": 202,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 20203,
     "WeaponArmoryID": 202,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 20204,
     "WeaponArmoryID": 202,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 20205,
     "WeaponArmoryID": 202,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 20206,
     "WeaponArmoryID": 202,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 20207,
     "WeaponArmoryID": 202,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 20208,
     "WeaponArmoryID": 202,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 20209,
+    "WeaponArmoryID": 202,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 20210,
+    "WeaponArmoryID": 202,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 20211,
+    "WeaponArmoryID": 202,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 20301,
     "WeaponArmoryID": 203,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 20302,
     "WeaponArmoryID": 203,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 20303,
     "WeaponArmoryID": 203,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 20304,
     "WeaponArmoryID": 203,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 20305,
     "WeaponArmoryID": 203,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 20306,
     "WeaponArmoryID": 203,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 20307,
     "WeaponArmoryID": 203,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 20308,
     "WeaponArmoryID": 203,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 20309,
+    "WeaponArmoryID": 203,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 20310,
+    "WeaponArmoryID": 203,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 20311,
+    "WeaponArmoryID": 203,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 20401,
     "WeaponArmoryID": 204,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 20402,
     "WeaponArmoryID": 204,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 20403,
     "WeaponArmoryID": 204,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 20404,
     "WeaponArmoryID": 204,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 20405,
     "WeaponArmoryID": 204,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 20406,
     "WeaponArmoryID": 204,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 20407,
     "WeaponArmoryID": 204,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 20408,
     "WeaponArmoryID": 204,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 20409,
+    "WeaponArmoryID": 204,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 20410,
+    "WeaponArmoryID": 204,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 20411,
+    "WeaponArmoryID": 204,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 20501,
     "WeaponArmoryID": 205,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 20502,
     "WeaponArmoryID": 205,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 20503,
     "WeaponArmoryID": 205,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 20504,
     "WeaponArmoryID": 205,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 20505,
     "WeaponArmoryID": 205,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 20506,
     "WeaponArmoryID": 205,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 20507,
     "WeaponArmoryID": 205,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 20508,
     "WeaponArmoryID": 205,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
-    "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 20509,
+    "WeaponArmoryID": 205,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 20510,
+    "WeaponArmoryID": 205,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 20511,
+    "WeaponArmoryID": 205,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
     "ID": 20601,
     "WeaponArmoryID": 206,
-    "Level": 1,
-    "InheritRate_R": 3000,
     "InheritRate_SR": 3000,
-    "InheritRate_SSR": 3000,
-    "RequiredItem": 10170001,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 50000
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
     "ID": 20602,
     "WeaponArmoryID": 206,
-    "Level": 2,
-    "InheritRate_R": 4555,
     "InheritRate_SR": 4888,
-    "InheritRate_SSR": 5166,
-    "RequiredItem": 10170001,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 75000
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
     "ID": 20603,
     "WeaponArmoryID": 206,
-    "Level": 3,
-    "InheritRate_R": 6111,
     "InheritRate_SR": 6777,
-    "InheritRate_SSR": 7333,
-    "RequiredItem": 10170001,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 100000
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
     "ID": 20604,
     "WeaponArmoryID": 206,
-    "Level": 4,
-    "InheritRate_R": 7666,
     "InheritRate_SR": 8666,
-    "InheritRate_SSR": 9500,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 150000
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
     "ID": 20605,
     "WeaponArmoryID": 206,
-    "Level": 5,
-    "InheritRate_R": 9222,
     "InheritRate_SR": 10555,
-    "InheritRate_SSR": 11666,
-    "RequiredItem": 10170002,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 200000
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
     "ID": 20606,
     "WeaponArmoryID": 206,
-    "Level": 6,
-    "InheritRate_R": 10777,
     "InheritRate_SR": 12444,
-    "InheritRate_SSR": 13833,
-    "RequiredItem": 10170002,
-    "RequiredCount": 70,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 250000
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
     "ID": 20607,
     "WeaponArmoryID": 206,
-    "Level": 7,
-    "InheritRate_R": 12333,
     "InheritRate_SR": 14333,
-    "InheritRate_SSR": 16000,
-    "RequiredItem": 10170002,
-    "RequiredCount": 30,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 350000
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
   },
   {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
     "ID": 20608,
     "WeaponArmoryID": 206,
-    "Level": 8,
-    "InheritRate_R": 13888,
     "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 20609,
+    "WeaponArmoryID": 206,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 20610,
+    "WeaponArmoryID": 206,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 20611,
+    "WeaponArmoryID": 206,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
+    "ID": 30101,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 3000,
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
+    "ID": 30102,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 4888,
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
+    "ID": 30103,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 6777,
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
+    "ID": 30104,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 8666,
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
+    "ID": 30105,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 10555,
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
+    "ID": 30106,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 12444,
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
+    "ID": 30107,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 14333,
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 13888,
     "InheritRate_SSR": 18166,
-    "RequiredItem": 10170003,
-    "RequiredCount": 50,
-    "CurrencyType": "Gold",
-    "CurrencyCost": 500000
+    "Level": 8,
+    "ID": 30108,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 30109,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 30110,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 30111,
+    "WeaponArmoryID": 301,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
+    "ID": 30201,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 3000,
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
+    "ID": 30202,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 4888,
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
+    "ID": 30203,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 6777,
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
+    "ID": 30204,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 8666,
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
+    "ID": 30205,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 10555,
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
+    "ID": 30206,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 12444,
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
+    "ID": 30207,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 14333,
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
+    "ID": 30208,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 30209,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 30210,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 30211,
+    "WeaponArmoryID": 302,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
+    "ID": 30301,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 3000,
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
+    "ID": 30302,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 4888,
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
+    "ID": 30303,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 6777,
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
+    "ID": 30304,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 8666,
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
+    "ID": 30305,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 10555,
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
+    "ID": 30306,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 12444,
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
+    "ID": 30307,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 14333,
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
+    "ID": 30308,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 30309,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 30310,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 30311,
+    "WeaponArmoryID": 303,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
+    "ID": 30401,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 3000,
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
+    "ID": 30402,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 4888,
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
+    "ID": 30403,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 6777,
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
+    "ID": 30404,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 8666,
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
+    "ID": 30405,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 10555,
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
+    "ID": 30406,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 12444,
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
+    "ID": 30407,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 14333,
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
+    "ID": 30408,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 30409,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 30410,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 30411,
+    "WeaponArmoryID": 304,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
+    "ID": 30501,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 3000,
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
+    "ID": 30502,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 4888,
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
+    "ID": 30503,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 6777,
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
+    "ID": 30504,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 8666,
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
+    "ID": 30505,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 10555,
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
+    "ID": 30506,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 12444,
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
+    "ID": 30507,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 14333,
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
+    "ID": 30508,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 30509,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 30510,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 30511,
+    "WeaponArmoryID": 305,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 3000,
+    "InheritRate_SSR": 3000,
+    "Level": 1,
+    "ID": 30601,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 3000,
+    "CurrencyCost": 50000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 4555,
+    "InheritRate_SSR": 5166,
+    "Level": 2,
+    "ID": 30602,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 4888,
+    "CurrencyCost": 75000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 6111,
+    "InheritRate_SSR": 7333,
+    "Level": 3,
+    "ID": 30603,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 6777,
+    "CurrencyCost": 100000,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 7666,
+    "InheritRate_SSR": 9500,
+    "Level": 4,
+    "ID": 30604,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 8666,
+    "CurrencyCost": 150000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 9222,
+    "InheritRate_SSR": 11666,
+    "Level": 5,
+    "ID": 30605,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 10555,
+    "CurrencyCost": 200000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      50
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 10777,
+    "InheritRate_SSR": 13833,
+    "Level": 6,
+    "ID": 30606,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 12444,
+    "CurrencyCost": 250000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      70
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 12333,
+    "InheritRate_SSR": 16000,
+    "Level": 7,
+    "ID": 30607,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 14333,
+    "CurrencyCost": 350000,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 13888,
+    "InheritRate_SSR": 18166,
+    "Level": 8,
+    "ID": 30608,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 16222,
+    "CurrencyCost": 500000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      30,
+      1
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 15444,
+    "InheritRate_SSR": 20333,
+    "Level": 9,
+    "ID": 30609,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 18111,
+    "CurrencyCost": 750000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      50,
+      3
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 17000,
+    "InheritRate_SSR": 22500,
+    "Level": 10,
+    "ID": 30610,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 20000,
+    "CurrencyCost": 1000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      70,
+      7
+    ],
+    "CurrencyType": "Gold"
+  },
+  {
+    "InheritRate_R": 18555,
+    "InheritRate_SSR": 24666,
+    "Level": 11,
+    "ID": 30611,
+    "WeaponArmoryID": 306,
+    "InheritRate_SR": 21888,
+    "CurrencyCost": 2000000,
+    "RequiredItemList": [
+      10170003,
+      10170011
+    ],
+    "RequiredCountList": [
+      100,
+      10
+    ],
+    "CurrencyType": "Gold"
   }
 ]

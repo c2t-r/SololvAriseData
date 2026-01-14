@@ -1,32 +1,70 @@
 [
   {
-    "ID": 1001,
-    "UseItemType": "Material",
-    "UseItem": 10160119,
-    "UseItemCount": 1,
     "LinkEventPage": 527,
-    "ArtifactCreatGroup": "[1000]",
-    "MemorialType": true,
-    "ReRollItemType": "Material",
-    "ReRollItemID": 10160120,
-    "ReRollValue": 10,
     "ReRollCostGroup": 1001,
+    "ReRollItemID": 10160120,
+    "ID": 1001,
+    "MemorialType": true,
+    "MileageGroup": 0,
+    "UseItemCount": 1,
+    "UseItem": 10160119,
+    "ReRollValue": 10,
     "MileageType": "None",
-    "MileageGroup": 0
+    "UseItemType": "Material",
+    "ArtifactCreatGroup": [
+      1000
+    ],
+    "ReRollItemType": "Material"
   },
   {
-    "ID": 7010000,
-    "UseItemType": "Material",
-    "UseItem": 10160125,
-    "UseItemCount": 1,
     "LinkEventPage": 533,
-    "ArtifactCreatGroup": "[1000]",
-    "MemorialType": true,
-    "ReRollItemType": "Material",
-    "ReRollItemID": 10050001,
-    "ReRollValue": 5,
     "ReRollCostGroup": 0,
+    "ReRollItemID": 10050001,
+    "ID": 7010000,
+    "MemorialType": true,
+    "MileageGroup": 0,
+    "UseItemCount": 1,
+    "UseItem": 10160125,
+    "ReRollValue": 5,
     "MileageType": "",
-    "MileageGroup": 0
+    "UseItemType": "Material",
+    "ArtifactCreatGroup": [
+      1000
+    ],
+    "ReRollItemType": "Material"
+  },
+  {
+    "LinkEventPage": 561,
+    "ReRollCostGroup": 0,
+    "ReRollItemID": 10050001,
+    "ID": 7010001,
+    "MemorialType": true,
+    "MileageGroup": 0,
+    "UseItemCount": 1,
+    "UseItem": 30002040,
+    "ReRollValue": 5,
+    "MileageType": "",
+    "UseItemType": "Material",
+    "ArtifactCreatGroup": [
+      1000
+    ],
+    "ReRollItemType": "Material"
+  },
+  {
+    "LinkEventPage": 597,
+    "ReRollCostGroup": 0,
+    "ReRollItemID": 10050001,
+    "ID": 7010002,
+    "MemorialType": true,
+    "MileageGroup": 0,
+    "UseItemCount": 1,
+    "UseItem": 30002072,
+    "ReRollValue": 5,
+    "MileageType": "",
+    "UseItemType": "Material",
+    "ArtifactCreatGroup": [
+      2000
+    ],
+    "ReRollItemType": "Material"
   }
 ]

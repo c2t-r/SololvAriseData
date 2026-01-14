@@ -1,62 +1,339 @@
 [
   {
     "ID": 1,
+    "ShowWebViewPre": true,
     "HunterID": 191,
     "WebView": 1,
-    "GachaLink": "[3003]"
+    "GachaLink": [
+      3003,
+      3024,
+      3035
+    ],
+    "IconPre": "AliciaBlanchet_Preview",
+    "StringTitlePre": "SysConstStr.ChName.AliciaBlanchet"
   },
   {
     "ID": 2,
+    "ShowWebViewPre": true,
     "HunterID": 271,
     "WebView": 2,
-    "GachaLink": "[3006]"
+    "GachaLink": [
+      3006,
+      3026,
+      3036
+    ],
+    "IconPre": "MeilinFisher_Preview",
+    "StringTitlePre": "SysConstStr.ChName.MeilinFisher"
   },
   {
     "ID": 3,
+    "ShowWebViewPre": true,
     "HunterID": 261,
     "WebView": 3,
-    "GachaLink": "[3008]"
+    "GachaLink": [
+      3008
+    ],
+    "IconPre": "YooSooHyun_Preview",
+    "StringTitlePre": "SysConstStr.ChName.YooSooHyun"
   },
   {
     "ID": 4,
+    "ShowWebViewPre": true,
     "HunterID": 291,
     "WebView": 4,
-    "GachaLink": "[3010,3017]"
+    "GachaLink": [
+      3010,
+      3017,
+      3023,
+      3032
+    ],
+    "IconPre": "AmamiyaMirei_Preview",
+    "StringTitlePre": "SysConstStr.ChName.AmamiyaMirei"
   },
   {
     "ID": 5,
+    "ShowWebViewPre": true,
     "HunterID": 301,
     "WebView": 5,
-    "GachaLink": "[3012,3019]"
+    "GachaLink": [
+      3012,
+      3019,
+      3025,
+      3033,
+      3041
+    ],
+    "IconPre": "HanSeMi_Preview",
+    "StringTitlePre": "SysConstStr.ChName.HanSeMi"
   },
   {
     "ID": 6,
+    "ShowWebViewPre": true,
     "HunterID": 281,
     "WebView": 6,
-    "GachaLink": "[3013]"
+    "GachaLink": [
+      3013,
+      3021,
+      3051
+    ],
+    "IconPre": "GoGunHee_Preview",
+    "StringTitlePre": "SysConstStr.ChName.GoGunHee"
   },
   {
     "ID": 7,
+    "ShowWebViewPre": true,
     "HunterID": 321,
     "WebView": 8,
-    "GachaLink": "[3014]"
+    "GachaLink": [
+      3014
+    ],
+    "IconPre": "Charlotte_Preview",
+    "StringTitlePre": "SysConstStr.Origin.CharlotteHarper02"
   },
   {
     "ID": 8,
+    "ShowWebViewPre": true,
     "HunterID": 311,
     "WebView": 7,
-    "GachaLink": "[3015]"
+    "GachaLink": [
+      3015,
+      3047
+    ],
+    "IconPre": "Harper_Preview",
+    "StringTitlePre": "SysConstStr.Origin.CharlotteHarper01"
   },
   {
     "ID": 9,
+    "ShowWebViewPre": true,
     "HunterID": 241,
     "WebView": 9,
-    "GachaLink": "[3016]"
+    "GachaLink": [
+      3016,
+      3028,
+      3054
+    ],
+    "IconPre": "Gina_Preview",
+    "StringTitlePre": "SysConstStr.ChName.Gina"
   },
   {
     "ID": 10,
+    "ShowWebViewPre": true,
     "HunterID": 331,
     "WebView": 10,
-    "GachaLink": "[3018]"
+    "GachaLink": [
+      3018,
+      3048
+    ],
+    "IconPre": "Isla_Preview",
+    "StringTitlePre": "SysConstStr.ChName.IslaWright"
+  },
+  {
+    "ID": 11,
+    "ShowWebViewPre": true,
+    "HunterID": 341,
+    "WebView": 11,
+    "GachaLink": [
+      3020,
+      3038,
+      3050
+    ],
+    "IconPre": "Thomas_Preview",
+    "StringTitlePre": "SysConstStr.ChName.ThomasAndre"
+  },
+  {
+    "ID": 12,
+    "ShowWebViewPre": true,
+    "HunterID": 361,
+    "WebView": 12,
+    "GachaLink": [
+      3022
+    ],
+    "IconPre": "ShimizuAkari_Preview",
+    "StringTitlePre": "SysConstStr.ChName.ShimizuAkari"
+  },
+  {
+    "ID": 13,
+    "ShowWebViewPre": true,
+    "HunterID": 371,
+    "WebView": 13,
+    "GachaLink": [
+      3027
+    ],
+    "IconPre": "Esilradiru_Preview",
+    "StringTitlePre": "SysConstStr.ChName.EsilRadiru"
+  },
+  {
+    "ID": 14,
+    "ShowWebViewPre": true,
+    "HunterID": 381,
+    "WebView": 14,
+    "GachaLink": [
+      3029,
+      3053
+    ],
+    "IconPre": "TawataKanae_Preview",
+    "StringTitlePre": "SysConstStr.ChName.TawataKanae"
+  },
+  {
+    "ID": 15,
+    "ShowWebViewPre": true,
+    "HunterID": 351,
+    "WebView": 15,
+    "GachaLink": [
+      3031,
+      3039,
+      3045
+    ],
+    "IconPre": "GotoRyuji_Preview",
+    "StringTitlePre": "SysConstStr.ChName.GotoRyuji"
+  },
+  {
+    "ID": 16,
+    "ShowWebViewPre": true,
+    "HunterID": 391,
+    "WebView": 16,
+    "GachaLink": [
+      3034,
+      3042
+    ],
+    "IconPre": "SeoLin_Preview",
+    "StringTitlePre": "SysConstStr.ChName.Seolin"
+  },
+  {
+    "ID": 17,
+    "ShowWebViewPre": true,
+    "HunterID": 401,
+    "WebView": 17,
+    "GachaLink": [
+      3037
+    ],
+    "IconPre": "ChaHaeIn_MM_Preview",
+    "StringTitlePre": "SysConstStr.ChName.ChaHaeIn_MM"
+  },
+  {
+    "ID": 18,
+    "ShowWebViewPre": true,
+    "HunterID": 411,
+    "WebView": 18,
+    "GachaLink": [
+      3040,
+      3044
+    ],
+    "IconPre": "LennartNiermann_Preview",
+    "StringTitlePre": "SysConstStr.ChName.LennartNiermann"
+  },
+  {
+    "ID": 19,
+    "ShowWebViewPre": true,
+    "HunterID": 421,
+    "WebView": 19,
+    "GachaLink": [
+      6000
+    ],
+    "IconPre": "MiYeon_Preview",
+    "StringTitlePre": "SysConstStr.Origin.IDLE01"
+  },
+  {
+    "ID": 20,
+    "ShowWebViewPre": true,
+    "HunterID": 431,
+    "WebView": 19,
+    "GachaLink": [],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 21,
+    "ShowWebViewPre": true,
+    "HunterID": 441,
+    "WebView": 20,
+    "GachaLink": [
+      3043
+    ],
+    "IconPre": "SungJinAh_Preview",
+    "StringTitlePre": "SysConstStr.ChName.SungJinAh"
+  },
+  {
+    "ID": 22,
+    "ShowWebViewPre": true,
+    "HunterID": 451,
+    "WebView": 21,
+    "GachaLink": [
+      6001
+    ],
+    "IconPre": "Soyeon_Preview",
+    "StringTitlePre": "SysConstStr.Origin.IDLE02"
+  },
+  {
+    "ID": 23,
+    "ShowWebViewPre": true,
+    "HunterID": 461,
+    "WebView": 21,
+    "GachaLink": [],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 24,
+    "ShowWebViewPre": true,
+    "HunterID": 471,
+    "WebView": 21,
+    "GachaLink": [],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 25,
+    "ShowWebViewPre": true,
+    "HunterID": 481,
+    "WebView": 22,
+    "GachaLink": [
+      3046
+    ],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 26,
+    "ShowWebViewPre": true,
+    "HunterID": 491,
+    "WebView": 0,
+    "GachaLink": [
+      6002
+    ],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 27,
+    "ShowWebViewPre": true,
+    "HunterID": 501,
+    "WebView": 0,
+    "GachaLink": [
+      6003
+    ],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 28,
+    "ShowWebViewPre": true,
+    "HunterID": 521,
+    "WebView": 23,
+    "GachaLink": [
+      3049
+    ],
+    "IconPre": "",
+    "StringTitlePre": ""
+  },
+  {
+    "ID": 29,
+    "ShowWebViewPre": true,
+    "HunterID": 531,
+    "WebView": 24,
+    "GachaLink": [
+      3052
+    ],
+    "IconPre": "",
+    "StringTitlePre": ""
   }
 ]

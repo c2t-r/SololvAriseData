@@ -1,90 +1,90 @@
 [
   {
+    "ConditionValueMax": 0,
     "ID": 1,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "HP",
     "ConditionValue": 100,
-    "ConditionValueMax": 0,
-    "ConditionCategory": "Survival"
+    "ConditionGroup": 101,
+    "ConditionCategory": "Survival",
+    "BattleResultRankCondition": "HP"
   },
   {
+    "ConditionValueMax": 0,
     "ID": 2,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "Time",
     "ConditionValue": 30,
-    "ConditionValueMax": 0,
-    "ConditionCategory": "Bonus"
+    "ConditionGroup": 101,
+    "ConditionCategory": "Bonus",
+    "BattleResultRankCondition": "Time"
   },
   {
-    "ID": 3,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "OverKill",
-    "ConditionValue": 1037,
     "ConditionValueMax": 2426,
-    "ConditionCategory": "Action"
+    "ID": 3,
+    "ConditionValue": 1037,
+    "ConditionGroup": 101,
+    "ConditionCategory": "Action",
+    "BattleResultRankCondition": "OverKill"
   },
   {
-    "ID": 4,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "ExtremeAvoid",
-    "ConditionValue": 693,
     "ConditionValueMax": 693,
-    "ConditionCategory": "Survival"
+    "ID": 4,
+    "ConditionValue": 693,
+    "ConditionGroup": 101,
+    "ConditionCategory": "Survival",
+    "BattleResultRankCondition": "ExtremeAvoid"
   },
   {
-    "ID": 5,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "Break",
-    "ConditionValue": 349,
     "ConditionValueMax": 817,
-    "ConditionCategory": "Action"
+    "ID": 5,
+    "ConditionValue": 349,
+    "ConditionGroup": 101,
+    "ConditionCategory": "Action",
+    "BattleResultRankCondition": "Break"
   },
   {
-    "ID": 6,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "CounterAttack",
-    "ConditionValue": 315,
     "ConditionValueMax": 451,
-    "ConditionCategory": "Action"
+    "ID": 6,
+    "ConditionValue": 315,
+    "ConditionGroup": 101,
+    "ConditionCategory": "Action",
+    "BattleResultRankCondition": "CounterAttack"
   },
   {
-    "ID": 7,
-    "ConditionGroup": 101,
-    "BattleResultRankCondition": "Float",
-    "ConditionValue": 263,
     "ConditionValueMax": 563,
-    "ConditionCategory": "Action"
-  },
-  {
-    "ID": 8,
+    "ID": 7,
+    "ConditionValue": 263,
     "ConditionGroup": 101,
-    "BattleResultRankCondition": "Down",
-    "ConditionValue": 224,
+    "ConditionCategory": "Action",
+    "BattleResultRankCondition": "Float"
+  },
+  {
     "ConditionValueMax": 516,
-    "ConditionCategory": "Action"
+    "ID": 8,
+    "ConditionValue": 224,
+    "ConditionGroup": 101,
+    "ConditionCategory": "Action",
+    "BattleResultRankCondition": "Down"
   },
   {
+    "ConditionValueMax": 0,
     "ID": 9,
-    "ConditionGroup": 102,
-    "BattleResultRankCondition": "HP",
     "ConditionValue": 100,
-    "ConditionValueMax": 0,
-    "ConditionCategory": "Survival"
+    "ConditionGroup": 102,
+    "ConditionCategory": "Survival",
+    "BattleResultRankCondition": "HP"
   },
   {
+    "ConditionValueMax": 0,
     "ID": 10,
-    "ConditionGroup": 102,
-    "BattleResultRankCondition": "Time",
     "ConditionValue": 50,
-    "ConditionValueMax": 0,
-    "ConditionCategory": "Bonus"
+    "ConditionGroup": 102,
+    "ConditionCategory": "Bonus",
+    "BattleResultRankCondition": "Time"
   },
   {
-    "ID": 11,
-    "ConditionGroup": 102,
-    "BattleResultRankCondition": "ExtremeAvoid",
-    "ConditionValue": 1000,
     "ConditionValueMax": 1000,
-    "ConditionCategory": "Action"
+    "ID": 11,
+    "ConditionValue": 1000,
+    "ConditionGroup": 102,
+    "ConditionCategory": "Action",
+    "BattleResultRankCondition": "ExtremeAvoid"
   }
 ]

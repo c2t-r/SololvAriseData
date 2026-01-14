@@ -1,0 +1,34 @@
+[
+  {
+    "GuardGroupId": 1,
+    "ID": 1,
+    "ReduceDmg": 10000,
+    "AddGuardBuffCount": 0,
+    "BoundBuffOffCount": 0,
+    "IgnoreDebuff": true,
+    "GuardCount": 0,
+    "BoundBuff": [
+      41002
+    ],
+    "BattleContentsType": "Pve",
+    "AddGuardBuff": [
+      41001
+    ]
+  },
+  {
+    "GuardGroupId": 1,
+    "ID": 2,
+    "ReduceDmg": 5000,
+    "AddGuardBuffCount": 1,
+    "BoundBuffOffCount": 1,
+    "IgnoreDebuff": true,
+    "GuardCount": 1,
+    "BoundBuff": [
+      41001
+    ],
+    "BattleContentsType": "Pvp",
+    "AddGuardBuff": [
+      41002
+    ]
+  }
+]

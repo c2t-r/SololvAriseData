@@ -1,0 +1,73 @@
+[
+  {
+    "ConditionValue01": 0,
+    "ConditionValue02": 0,
+    "ID": 1,
+    "VerificationScore": 180,
+    "MultiConditionGroup": 201,
+    "Score": [
+      180,
+      170,
+      160,
+      160
+    ],
+    "BattleResultRankCondition": "DealRank"
+  },
+  {
+    "ConditionValue01": 3000000,
+    "ConditionValue02": 0,
+    "ID": 2,
+    "VerificationScore": 100,
+    "MultiConditionGroup": 201,
+    "Score": [
+      1
+    ],
+    "BattleResultRankCondition": "Deal"
+  },
+  {
+    "ConditionValue01": 1,
+    "ConditionValue02": 0,
+    "ID": 3,
+    "VerificationScore": 3,
+    "MultiConditionGroup": 201,
+    "Score": [
+      1
+    ],
+    "BattleResultRankCondition": "ExtremeAvoid"
+  },
+  {
+    "ConditionValue01": 1,
+    "ConditionValue02": 0,
+    "ID": 4,
+    "VerificationScore": 3,
+    "MultiConditionGroup": 201,
+    "Score": [
+      1
+    ],
+    "BattleResultRankCondition": "BossBreak"
+  },
+  {
+    "ConditionValue01": 50,
+    "ConditionValue02": 0,
+    "ID": 5,
+    "VerificationScore": 3,
+    "MultiConditionGroup": 201,
+    "Score": [
+      3
+    ],
+    "BattleResultRankCondition": "RemainHP"
+  },
+  {
+    "ConditionValue01": 180,
+    "ConditionValue02": 240,
+    "ID": 6,
+    "VerificationScore": 11,
+    "MultiConditionGroup": 201,
+    "Score": [
+      11,
+      7,
+      5
+    ],
+    "BattleResultRankCondition": "ClearTime"
+  }
+]

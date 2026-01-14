@@ -1,7 +1,7 @@
-# SololvAriseData
+# Solo Leveling:ARISE
 
-current version: `live: 1.1.86 [1000000875]`
+ver: `1.3.37`  
+size: `373.48MB`  
+buildSeq: `59`  
 
-## Special Thanks
-
-- kumadayo ([Github](https://github.com/kuma-dayo), [Discord](https://discord.com/users/875855195135934494))
+https://sololv.gcdn.netmarble.com/pcclient/sololv/1.3.37/dxh3q3clfcq1_1766066537176.zip

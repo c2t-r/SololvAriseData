@@ -1,0 +1,32 @@
+[
+  {
+    "PCFriction": 550,
+    "GameTime": 50000,
+    "HPMax": 3,
+    "ID": 60000,
+    "PCAcceleration": 1300,
+    "RecordReward": 424,
+    "ItemSpeedMin": 300.0,
+    "ItemSpeedMax": 400.0,
+    "CatchRange": 200,
+    "TutorialID": 2024,
+    "RankingGroupMain": 502,
+    "PCSpeed": 700,
+    "RankingGroupSub": 0,
+    "Title": "Event.Minigame.Catch.Title",
+    "PCPrefab": "Minigame_Catch_Char_PC_01",
+    "ModuleName": "MiniGameCatch_Module",
+    "RecordRewardReset": "Weekly",
+    "BGImg": [
+      "BG_Img_MiniGame_Catch_01",
+      "BG_Img_MiniGame_Catch_02",
+      "BG_Img_MiniGame_Catch_03"
+    ],
+    "BGImgSwitch": [
+      "BG_Img_MiniGame_Catch_Switch_01",
+      "BG_Img_MiniGame_Catch_Switch_02",
+      "BG_Img_MiniGame_Catch_Switch_03"
+    ],
+    "ResultPopupImg": "Img_Event_Result_Catch_IDLE_01"
+  }
+]

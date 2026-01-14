@@ -1,14 +1,52 @@
 [
   {
-    "ID": 1,
-    "Title": "SLC.PageDisplay.Title",
+    "Boss04": 202,
+    "Boss01": 101,
+    "Boss02": 102,
+    "Boss03": 201,
+    "RequirePoint": 1000,
+    "ID": 2,
+    "PointInfo": 1008,
+    "GroupID": 100,
+    "RankingDisplay": 50,
+    "RegionInfo": "RegionASet",
+    "WebLink02": "",
+    "Title": "SLC.PageDisplay.GlobalTitle_Asian",
+    "SignUpEndDate": "2025-02-20T09:00:00+09:00",
+    "WebLink": "",
+    "RegionTitle": "SLC.25S1Region_Asian",
+    "PlayStartDate": "2025-02-21T09:00:00+09:00",
     "PopupDesc": "SLC.StartPopup.Desc",
-    "Boss01": 9011,
-    "Boss02": 9012,
-    "Boss03": 9013,
-    "Boss04": 9014,
-    "RankingDisplay": 100,
-    "WebLink": "https://forum.netmarble.com/slv_kr/view/27/53932",
-    "WebLink02": "https://help.netmarble.com/terms/privacy_policy_ko"
+    "SponsorMain": "SLC_Sponsor_S_None",
+    "SponsorSub": [
+      "SLC_Sponsor_S_LGGram",
+      "SLC_Sponsor_S_ASUS"
+    ],
+    "PlayEndDate": "2025-03-10T09:00:00+09:00"
+  },
+  {
+    "Boss04": 202,
+    "Boss01": 101,
+    "Boss02": 102,
+    "Boss03": 201,
+    "RequirePoint": 1000,
+    "ID": 3,
+    "PointInfo": 1008,
+    "GroupID": 100,
+    "RankingDisplay": 50,
+    "RegionInfo": "RegionBSet",
+    "WebLink02": "",
+    "Title": "SLC.PageDisplay.GlobalTitle_Global",
+    "SignUpEndDate": "2025-02-20T09:00:00+09:00",
+    "WebLink": "",
+    "RegionTitle": "SLC.25S1Region_Global",
+    "PlayStartDate": "2025-02-21T09:00:00+09:00",
+    "PopupDesc": "SLC.StartPopup.Desc",
+    "SponsorMain": "SLC_Sponsor_S_None",
+    "SponsorSub": [
+      "SLC_Sponsor_S_LGGram",
+      "SLC_Sponsor_S_ASUS"
+    ],
+    "PlayEndDate": "2025-03-10T09:00:00+09:00"
   }
 ]

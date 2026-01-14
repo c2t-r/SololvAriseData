@@ -1,86 +1,126 @@
 [
   {
-    "ID": 1,
-    "ResourceName": "SungJinWoo_ERank",
-    "OriginRank": "C",
-    "BaseGrade": "SSR",
-    "ClassType": "Assassin",
-    "Guild": "Ahjin",
-    "BTRangeType": "Melee",
-    "BTRoleType": "Attacker",
-    "ConfigData": 1,
-    "AudioSet": "ActorAudioData_SungJinWoo_ERank",
+    "StartProvideSkillSet": 1,
     "CharEventActionVoiceGroupID": 2,
+    "AttachWeaponGroupID": 2,
+    "StartUSkill": 2002901000000,
+    "ID": 1,
+    "StartCoreAttack": 2002101000000,
+    "ConfigData": 1,
     "AnimationSet": "AnimationSet_SungJinWoo_E",
-    "StartProvideSkillSet": 1,
-    "StartCoreAttack": 2002101000000,
-    "StartActiveSkills": "[2002201000000,2002302000000]",
-    "StartQTEs": "[2002502000000]",
-    "StartUSkill": 2002901000000,
-    "StartPassiveRunes": "[]",
-    "AttachWeaponGroupID": 2
+    "OriginRank": "C",
+    "AudioSet": "ActorAudioData_SungJinWoo_ERank",
+    "Guild": "Ahjin",
+    "BaseGrade": "SSR",
+    "ClassType": "Striker",
+    "StartPassiveBuff": [
+      137011100
+    ],
+    "StartActiveSkills": [
+      2002201000000,
+      2002302000000
+    ],
+    "StartQTEs": [
+      1001501000000,
+      1001502000000,
+      1001503000000
+    ],
+    "ResourceName": "SungJinWoo_ERank",
+    "BTRangeType": "Melee",
+    "StartPassiveRunes": [],
+    "BTRoleType": "Attacker"
   },
   {
+    "StartProvideSkillSet": 1,
+    "CharEventActionVoiceGroupID": 1,
+    "AttachWeaponGroupID": 1,
+    "StartUSkill": 2002901000000,
     "ID": 5,
+    "StartCoreAttack": 2002101000000,
+    "ConfigData": 1,
+    "AnimationSet": "AnimationSet_SungJinWoo",
+    "OriginRank": "C",
+    "AudioSet": "ActorAudioData_SungJinWoo",
+    "Guild": "Ahjin",
+    "BaseGrade": "SSR",
+    "ClassType": "Striker",
+    "StartPassiveBuff": [
+      137011100
+    ],
+    "StartActiveSkills": [
+      2002201000000,
+      2002302000000
+    ],
+    "StartQTEs": [
+      1001501000000,
+      1001502000000,
+      1001503000000
+    ],
     "ResourceName": "SungJinWoo_CRank",
-    "OriginRank": "C",
-    "BaseGrade": "SSR",
-    "ClassType": "Assassin",
-    "Guild": "Ahjin",
     "BTRangeType": "Melee",
-    "BTRoleType": "Attacker",
-    "ConfigData": 1,
-    "AudioSet": "ActorAudioData_SungJinWoo",
-    "CharEventActionVoiceGroupID": 1,
-    "AnimationSet": "AnimationSet_SungJinWoo",
-    "StartProvideSkillSet": 1,
-    "StartCoreAttack": 2002101000000,
-    "StartActiveSkills": "[2002201000000,2002302000000]",
-    "StartQTEs": "[2002502000000]",
-    "StartUSkill": 2002901000000,
-    "StartPassiveRunes": "[]",
-    "AttachWeaponGroupID": 1
+    "StartPassiveRunes": [],
+    "BTRoleType": "Attacker"
   },
   {
+    "StartProvideSkillSet": 1,
+    "CharEventActionVoiceGroupID": 1,
+    "AttachWeaponGroupID": 1,
+    "StartUSkill": 2002901000000,
     "ID": 6,
-    "ResourceName": "SungJinWoo",
-    "OriginRank": "C",
-    "BaseGrade": "SSR",
-    "ClassType": "Assassin",
-    "Guild": "Ahjin",
-    "BTRangeType": "Melee",
-    "BTRoleType": "Attacker",
-    "ConfigData": 1,
-    "AudioSet": "ActorAudioData_SungJinWoo",
-    "CharEventActionVoiceGroupID": 1,
-    "AnimationSet": "AnimationSet_SungJinWoo",
-    "StartProvideSkillSet": 1,
     "StartCoreAttack": 2002101000000,
-    "StartActiveSkills": "[2002201000000,2002302000000]",
-    "StartQTEs": "[2002502000000]",
-    "StartUSkill": 2002901000000,
-    "StartPassiveRunes": "[]",
-    "AttachWeaponGroupID": 1
+    "ConfigData": 1,
+    "AnimationSet": "AnimationSet_SungJinWoo",
+    "OriginRank": "C",
+    "AudioSet": "ActorAudioData_SungJinWoo",
+    "Guild": "Ahjin",
+    "BaseGrade": "SSR",
+    "ClassType": "Striker",
+    "StartPassiveBuff": [
+      137011100
+    ],
+    "StartActiveSkills": [
+      2002201000000,
+      2002302000000
+    ],
+    "StartQTEs": [
+      1001501000000,
+      1001502000000,
+      1001503000000
+    ],
+    "ResourceName": "SungJinWoo",
+    "BTRangeType": "Melee",
+    "StartPassiveRunes": [],
+    "BTRoleType": "Attacker"
   },
   {
-    "ID": 1000001,
-    "ResourceName": "SungJinWoo",
-    "OriginRank": "C",
-    "BaseGrade": "SSR",
-    "ClassType": "Assassin",
-    "Guild": "Ahjin",
-    "BTRangeType": "Melee",
-    "BTRoleType": "Attacker",
-    "ConfigData": 1000001,
-    "AudioSet": "ActorAudioData_SungJinWoo",
-    "CharEventActionVoiceGroupID": 1,
-    "AnimationSet": "AnimationSet_SungJinWoo",
     "StartProvideSkillSet": 1,
-    "StartCoreAttack": 2002101000000,
-    "StartActiveSkills": "[2002201000000,2002302000000]",
-    "StartQTEs": "[2002502000000]",
+    "CharEventActionVoiceGroupID": 1,
+    "AttachWeaponGroupID": 1,
     "StartUSkill": 2002901000000,
-    "StartPassiveRunes": "[]",
-    "AttachWeaponGroupID": 1
+    "ID": 1000001,
+    "StartCoreAttack": 2002101000000,
+    "ConfigData": 1000001,
+    "AnimationSet": "AnimationSet_SungJinWoo",
+    "OriginRank": "C",
+    "AudioSet": "ActorAudioData_SungJinWoo",
+    "Guild": "Ahjin",
+    "BaseGrade": "SSR",
+    "ClassType": "Striker",
+    "StartPassiveBuff": [
+      137011100
+    ],
+    "StartActiveSkills": [
+      2002201000000,
+      2002302000000
+    ],
+    "StartQTEs": [
+      1001501000000,
+      1001502000000,
+      1001503000000
+    ],
+    "ResourceName": "SungJinWoo",
+    "BTRangeType": "Melee",
+    "StartPassiveRunes": [],
+    "BTRoleType": "Attacker"
   }
 ]

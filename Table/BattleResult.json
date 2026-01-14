@@ -1,65 +1,82 @@
 [
   {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
     "ID": 1,
-    "ContentsType": "MainStory",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
-    "ResultScoreInvisible": true,
     "RankGroup": 101,
-    "ConditionGroup": 101
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 101,
+    "MultiConditionGroup": 0,
+    "ContentsType": "MainStory"
   },
   {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
     "ID": 2,
-    "ContentsType": "Gate",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
-    "ResultScoreInvisible": true,
     "RankGroup": 101,
-    "ConditionGroup": 101
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 101,
+    "MultiConditionGroup": 0,
+    "ContentsType": "Gate"
   },
   {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
     "ID": 3,
-    "ContentsType": "InstanceDungeon",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
-    "ResultScoreInvisible": true,
     "RankGroup": 101,
-    "ConditionGroup": 101
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 101,
+    "MultiConditionGroup": 0,
+    "ContentsType": "InstanceDungeon"
   },
   {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
     "ID": 4,
-    "ContentsType": "WorldBoss",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
-    "ResultScoreInvisible": true,
     "RankGroup": 101,
-    "ConditionGroup": 102
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 102,
+    "MultiConditionGroup": 0,
+    "ContentsType": "WorldBoss"
   },
   {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
     "ID": 5,
-    "ContentsType": "TimeAttack",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
-    "ResultScoreInvisible": true,
     "RankGroup": 102,
-    "ConditionGroup": 101
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 101,
+    "MultiConditionGroup": 0,
+    "ContentsType": "TimeAttack"
   },
   {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
     "ID": 6,
-    "ContentsType": "AdventDungeon",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
-    "ResultScoreInvisible": true,
     "RankGroup": 101,
-    "ConditionGroup": 101
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 101,
+    "MultiConditionGroup": 0,
+    "ContentsType": "AdventDungeon"
   },
   {
-    "ID": 7,
-    "ContentsType": "ChaosBattleField",
-    "IngameScoreInvisible": true,
-    "IngameEffectInvisible": true,
     "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
+    "ID": 7,
     "RankGroup": 101,
-    "ConditionGroup": 101
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 101,
+    "MultiConditionGroup": 0,
+    "ContentsType": "ChaosBattleField"
+  },
+  {
+    "ResultScoreInvisible": true,
+    "IngameEffectInvisible": true,
+    "ID": 8,
+    "RankGroup": 0,
+    "IngameScoreInvisible": true,
+    "ConditionGroup": 0,
+    "MultiConditionGroup": 201,
+    "ContentsType": "CoopDungeon"
   }
 ]

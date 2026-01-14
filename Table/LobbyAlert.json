@@ -1,142 +1,152 @@
 [
   {
+    "MoveTarget": 35,
+    "UseTopAlert": true,
     "ID": 1,
+    "CharObjcetID": 500174,
     "RedDotType": "IdleSystemMax",
-    "IconRecource": "Icon_QuickMenu_IdleSystem",
     "AlertString": "SystemConst.LobbyAlert.IdelFull",
-    "UseTopAlert": true,
-    "TopAlertString": "SystemConst.LobbyAlert.IdelFullTop",
-    "MoveTarget": 35,
-    "CharObjcetID": 500174
-  },
-  {
-    "ID": 2,
-    "RedDotType": "MineTeam_Finish",
-    "IconRecource": "Icon_QuickMenu_Mine",
-    "AlertString": "SystemConst.LobbyAlert.MineFinish",
-    "UseTopAlert": true,
-    "TopAlertString": "SystemConst.LobbyAlert.MineFinishTop",
-    "MoveTarget": 26,
-    "CharObjcetID": 500178
-  },
-  {
-    "ID": 3,
-    "RedDotType": "Attendance",
-    "IconRecource": "Icon_QuickMenu_Attendance",
-    "AlertString": "SystemConst.LobbyAlert.AttendanceReward",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 41,
-    "CharObjcetID": 500177
-  },
-  {
-    "ID": 4,
-    "RedDotType": "Event",
-    "IconRecource": "Icon_QuickMenu_Notice",
-    "AlertString": "SystemConst.LobbyAlert.EventNotice",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 21,
-    "CharObjcetID": 500177
-  },
-  {
-    "ID": 5,
-    "RedDotType": "GateResearch",
-    "IconRecource": "Icon_QuickMenu_Gate",
-    "AlertString": "SystemConst.LobbyAlert.GateResearch",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 8,
-    "CharObjcetID": 500178
-  },
-  {
-    "ID": 6,
-    "RedDotType": "IdleSystemFree",
     "IconRecource": "Icon_QuickMenu_IdleSystem",
-    "AlertString": "SystemConst.LobbyAlert.IdelFree",
+    "TopAlertString": "SystemConst.LobbyAlert.IdelFullTop"
+  },
+  {
+    "MoveTarget": 26,
     "UseTopAlert": true,
-    "TopAlertString": "",
+    "ID": 2,
+    "CharObjcetID": 500178,
+    "RedDotType": "MineTeam_Finish",
+    "AlertString": "SystemConst.LobbyAlert.MineFinish",
+    "IconRecource": "Icon_QuickMenu_Mine",
+    "TopAlertString": "SystemConst.LobbyAlert.MineFinishTop"
+  },
+  {
+    "MoveTarget": 41,
+    "UseTopAlert": true,
+    "ID": 3,
+    "CharObjcetID": 500177,
+    "RedDotType": "Attendance",
+    "AlertString": "SystemConst.LobbyAlert.AttendanceReward",
+    "IconRecource": "Icon_QuickMenu_Attendance",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 21,
+    "UseTopAlert": true,
+    "ID": 4,
+    "CharObjcetID": 500177,
+    "RedDotType": "Event",
+    "AlertString": "SystemConst.LobbyAlert.EventNotice",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 8,
+    "UseTopAlert": true,
+    "ID": 5,
+    "CharObjcetID": 500178,
+    "RedDotType": "GateResearch",
+    "AlertString": "SystemConst.LobbyAlert.GateResearch",
+    "IconRecource": "Icon_QuickMenu_Gate",
+    "TopAlertString": ""
+  },
+  {
     "MoveTarget": 35,
-    "CharObjcetID": 500174
+    "UseTopAlert": true,
+    "ID": 6,
+    "CharObjcetID": 500174,
+    "RedDotType": "IdleSystemFree",
+    "AlertString": "SystemConst.LobbyAlert.IdelFree",
+    "IconRecource": "Icon_QuickMenu_IdleSystem",
+    "TopAlertString": ""
   },
   {
-    "ID": 7,
-    "RedDotType": "TimeAttack_RankReward",
-    "IconRecource": "Icon_QuickMenu_Contents",
-    "AlertString": "SystemConst.LobbyAlert.TimeAttack_RankReward",
-    "UseTopAlert": true,
-    "TopAlertString": "",
     "MoveTarget": 11,
-    "CharObjcetID": 500117
-  },
-  {
-    "ID": 8,
-    "RedDotType": "Monthly",
-    "IconRecource": "Icon_QuickMenu_MonthlyAlert",
-    "AlertString": "SysConst.LobbyAlert.MonthlyAlert",
     "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 30019,
-    "CharObjcetID": 500150
-  },
-  {
-    "ID": 9,
-    "RedDotType": "Subscription",
-    "IconRecource": "Icon_QuickMenu_SubscribeAlert",
-    "AlertString": "SysConst.LobbyAlert.SubscriptionAlert",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 53,
-    "CharObjcetID": 0
-  },
-  {
-    "ID": 10,
-    "RedDotType": "SubscriptionReward",
-    "IconRecource": "Icon_QuickMenu_SubscribeAlert",
-    "AlertString": "SysConst.LobbyAlert.SubscriptionDailyReward",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 52,
-    "CharObjcetID": 0
-  },
-  {
-    "ID": 11,
+    "ID": 7,
+    "CharObjcetID": 500117,
     "RedDotType": "TimeAttack_RankReward",
-    "IconRecource": "Icon_QuickMenu_Notice",
-    "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 5402,
-    "CharObjcetID": 0
+    "AlertString": "SystemConst.LobbyAlert.TimeAttack_RankReward",
+    "IconRecource": "Icon_QuickMenu_Contents",
+    "TopAlertString": ""
   },
   {
+    "MoveTarget": 30019,
+    "UseTopAlert": true,
+    "ID": 8,
+    "CharObjcetID": 500150,
+    "RedDotType": "Monthly",
+    "AlertString": "SysConst.LobbyAlert.MonthlyAlert",
+    "IconRecource": "Icon_QuickMenu_MonthlyAlert",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 53,
+    "UseTopAlert": true,
+    "ID": 9,
+    "CharObjcetID": 0,
+    "RedDotType": "Subscription",
+    "AlertString": "SysConst.LobbyAlert.SubscriptionAlert",
+    "IconRecource": "Icon_QuickMenu_SubscribeAlert",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 52,
+    "UseTopAlert": true,
+    "ID": 10,
+    "CharObjcetID": 0,
+    "RedDotType": "SubscriptionReward",
+    "AlertString": "SysConst.LobbyAlert.SubscriptionDailyReward",
+    "IconRecource": "Icon_QuickMenu_SubscribeAlert",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 5402,
+    "UseTopAlert": true,
+    "ID": 11,
+    "CharObjcetID": 0,
+    "RedDotType": "TimeAttack_RankReward",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 5401,
+    "UseTopAlert": true,
     "ID": 12,
+    "CharObjcetID": 0,
     "RedDotType": "TimeAttack_BossOpen",
-    "IconRecource": "Icon_QuickMenu_Notice",
     "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
-    "UseTopAlert": true,
-    "TopAlertString": "",
-    "MoveTarget": 5401,
-    "CharObjcetID": 0
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "TopAlertString": ""
   },
   {
-    "ID": 13,
-    "RedDotType": "TimeAttack_Reward_Any",
-    "IconRecource": "Icon_QuickMenu_Notice",
-    "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
-    "UseTopAlert": true,
-    "TopAlertString": "",
     "MoveTarget": 5402,
-    "CharObjcetID": 0
+    "UseTopAlert": true,
+    "ID": 13,
+    "CharObjcetID": 0,
+    "RedDotType": "TimeAttack_Reward_Any",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "TopAlertString": ""
   },
   {
-    "ID": 14,
-    "RedDotType": "TimeAttack_BossOpen_Any",
-    "IconRecource": "Icon_QuickMenu_Notice",
-    "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
-    "UseTopAlert": true,
-    "TopAlertString": "",
     "MoveTarget": 5401,
-    "CharObjcetID": 0
+    "UseTopAlert": true,
+    "ID": 14,
+    "CharObjcetID": 0,
+    "RedDotType": "TimeAttack_BossOpen_Any",
+    "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
+    "IconRecource": "Icon_QuickMenu_Notice",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 66,
+    "UseTopAlert": true,
+    "ID": 15,
+    "CharObjcetID": 0,
+    "RedDotType": "ShadowGuard_TaskComplete",
+    "AlertString": "SysConst.LobbyAlert.ShadowGuard",
+    "IconRecource": "Icon_QuickMenu_ShadowGuard",
+    "TopAlertString": ""
   }
 ]

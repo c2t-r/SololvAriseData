@@ -1,0 +1,72 @@
+[
+  {
+    "ExchangeMoveTargetID": 30054,
+    "ShopTabID": 4596,
+    "ID": 300100,
+    "AdditionalEnterCount": 0,
+    "CoopContentID": 300100,
+    "CoopRewardID": 300100,
+    "EventPointID": 300101,
+    "TutorialID": 2012,
+    "CoopPointPeriod": 6,
+    "RewardGroupID": 4100001,
+    "ClearPopupPrefab": "CoopDungeonClearPopupPage01",
+    "PagePrefab": "JejuCoopDungeonEventDetailSubview"
+  },
+  {
+    "ExchangeMoveTargetID": 30054,
+    "ShopTabID": 4596,
+    "ID": 300200,
+    "AdditionalEnterCount": 0,
+    "CoopContentID": 300200,
+    "CoopRewardID": 300200,
+    "EventPointID": 300201,
+    "TutorialID": 2014,
+    "CoopPointPeriod": 6,
+    "RewardGroupID": 4100002,
+    "ClearPopupPrefab": "CoopDungeonClearPopupPage02",
+    "PagePrefab": "JejuCoopDungeonEventDetailSubview2"
+  },
+  {
+    "ExchangeMoveTargetID": 30055,
+    "ShopTabID": 4598,
+    "ID": 300300,
+    "AdditionalEnterCount": 10,
+    "CoopContentID": 300300,
+    "CoopRewardID": 0,
+    "EventPointID": 300301,
+    "TutorialID": 2016,
+    "CoopPointPeriod": 1,
+    "RewardGroupID": 4100003,
+    "ClearPopupPrefab": "CoopDungeonClearPopupPage03",
+    "PagePrefab": "JejuCoopDungeonEventDetailSubview3"
+  },
+  {
+    "ExchangeMoveTargetID": 0,
+    "ShopTabID": 0,
+    "ID": 300500,
+    "AdditionalEnterCount": 9999,
+    "CoopContentID": 300500,
+    "CoopRewardID": 0,
+    "EventPointID": 0,
+    "TutorialID": 2029,
+    "CoopPointPeriod": 1,
+    "RewardGroupID": 920006204,
+    "ClearPopupPrefab": "CoopDungeonClearPopupPage04",
+    "PagePrefab": "PveEventDetailSubview"
+  },
+  {
+    "ExchangeMoveTargetID": 0,
+    "ShopTabID": 0,
+    "ID": 300600,
+    "AdditionalEnterCount": 9999,
+    "CoopContentID": 300600,
+    "CoopRewardID": 0,
+    "EventPointID": 0,
+    "TutorialID": 2029,
+    "CoopPointPeriod": 1,
+    "RewardGroupID": 920006204,
+    "ClearPopupPrefab": "CoopDungeonClearPopupPage04",
+    "PagePrefab": "PveEventDetailSubview"
+  }
+]

@@ -1,20 +1,116 @@
 [
   {
     "ID": 2407,
-    "Title": "Event.24Summer.MainTitle",
     "RewardGroupID": 704,
+    "Title": "Event.24Summer.MainTitle",
     "PagePrefab": "SummerEventDetailSubview"
   },
   {
     "ID": 2408,
-    "Title": "Event.100Anni.Main.Title",
     "RewardGroupID": 705,
+    "Title": "Event.100Anni.Main.Title",
     "PagePrefab": "100thDayDetailSubview"
   },
   {
     "ID": 2410,
-    "Title": "Event.24Halloween.MainTitle",
     "RewardGroupID": 713,
+    "Title": "Event.24Halloween.MainTitle",
     "PagePrefab": "HalloweenEventDetailSubview"
+  },
+  {
+    "ID": 2420,
+    "RewardGroupID": 2026601,
+    "Title": "Event.24Holiday.Main.Title",
+    "PagePrefab": "24HolidayEventDetailSubview"
+  },
+  {
+    "ID": 2430,
+    "RewardGroupID": 2027401,
+    "Title": "Event.25Newyear.Main.Title",
+    "PagePrefab": "25NewyearEventDetailSubview"
+  },
+  {
+    "ID": 2440,
+    "RewardGroupID": 2032501,
+    "Title": "Event.25Valentine.Main.Title",
+    "PagePrefab": "25ValentinedayEventDetailSubview"
+  },
+  {
+    "ID": 2450,
+    "RewardGroupID": 2035000,
+    "Title": "Event.25Spring.Main.Title",
+    "PagePrefab": "25SpringEventDetailSubview"
+  },
+  {
+    "ID": 2460,
+    "RewardGroupID": 2039601,
+    "Title": "\tEvent.1stAnniversary1.Main.Title",
+    "PagePrefab": "1stAnniversaryEventDetailSubview1"
+  },
+  {
+    "ID": 2470,
+    "RewardGroupID": 2040401,
+    "Title": "\tEvent.1stAnniversary2.Main.Title",
+    "PagePrefab": "1stAnniversaryEventDetailSubview2"
+  },
+  {
+    "ID": 2480,
+    "RewardGroupID": 2042301,
+    "Title": "Event.1stAnniversary3.Main.Title",
+    "PagePrefab": "1stAnniversaryEventDetailSubView3"
+  },
+  {
+    "ID": 2490,
+    "RewardGroupID": 920001801,
+    "Title": "Event._IDLE1.Main.Title1",
+    "PagePrefab": "25IdleEventDetailSubview1"
+  },
+  {
+    "ID": 2500,
+    "RewardGroupID": 920002401,
+    "Title": "Event._IDLE1.Main.Title2",
+    "PagePrefab": "25IdleEventDetailSubview2"
+  },
+  {
+    "ID": 2510,
+    "RewardGroupID": 2044100,
+    "Title": "Event.25Summer_Main.Title",
+    "PagePrefab": "25SummerEventDetailSubview1"
+  },
+  {
+    "ID": 2520,
+    "RewardGroupID": 920005301,
+    "Title": "Event.Main.Title1_IDLE2",
+    "PagePrefab": "25IdleEventDetailSubview3"
+  },
+  {
+    "ID": 2530,
+    "RewardGroupID": 920005802,
+    "Title": "Event.Main.Title2_IDLE2",
+    "PagePrefab": "25IdleEventDetailSubview4"
+  },
+  {
+    "ID": 2540,
+    "RewardGroupID": 920009001,
+    "Title": "Event._FRR.Main.Title1",
+    "PagePrefab": "FrierenEventDetailSubview"
+  },
+  {
+    "ID": 2550,
+    "RewardGroupID": 920009101,
+    "Title": "Event.1.5Anniversary1.Main.Title",
+    "PagePrefab": "1.5AnniversaryEventDetailSubview1"
+  },
+  {
+    "ID": 2560,
+    "RewardGroupID": 2055001,
+    "Title": "Event.25Holiday.Main.Title",
+    "PagePrefab": "25HoliEventDetailSubview1"
+  },
+  {
+    "ID": 2570,
+    "RewardGroupID": 2056001,
+    "Title": "Event.26Newyear.Main.Title",
+    "PagePrefab": "26NewyearEventDetailSubview1"
   }
 ]

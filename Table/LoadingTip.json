@@ -1,122 +1,152 @@
 [
   {
     "ID": 1,
-    "Unused": true,
-    "LoadingTipContents": "Common",
-    "BundleGroupID": 1,
+    "BundleGroupID": 7001,
+    "BundleRate": 1,
     "ImageGroupID": 1,
+    "Unused": true,
+    "AssembleRate": 0,
     "TextGroupID": 1,
-    "BundleRate": 0,
-    "AssembleRate": 1
+    "LoadingTipContents": "Common"
   },
   {
     "ID": 2,
-    "Unused": true,
-    "LoadingTipContents": "Story",
     "BundleGroupID": 2,
+    "BundleRate": 1,
     "ImageGroupID": 2,
+    "Unused": true,
+    "AssembleRate": 3,
     "TextGroupID": 2,
-    "BundleRate": 0,
-    "AssembleRate": 1
+    "LoadingTipContents": "Story"
   },
   {
     "ID": 3,
-    "Unused": true,
-    "LoadingTipContents": "Gate",
     "BundleGroupID": 3,
+    "BundleRate": 1,
     "ImageGroupID": 3,
+    "Unused": true,
+    "AssembleRate": 3,
     "TextGroupID": 3,
-    "BundleRate": 0,
-    "AssembleRate": 1
+    "LoadingTipContents": "Gate"
   },
   {
     "ID": 4,
-    "Unused": true,
-    "LoadingTipContents": "InstantDungeon",
     "BundleGroupID": 4,
-    "ImageGroupID": 4,
-    "TextGroupID": 4,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 4,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 4,
+    "LoadingTipContents": "InstantDungeon"
   },
   {
     "ID": 5,
-    "Unused": true,
-    "LoadingTipContents": "TimeAttack",
     "BundleGroupID": 5,
-    "ImageGroupID": 5,
-    "TextGroupID": 5,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 5,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 5,
+    "LoadingTipContents": "TimeAttack"
   },
   {
     "ID": 6,
-    "Unused": true,
-    "LoadingTipContents": "WorldBoss",
     "BundleGroupID": 6,
-    "ImageGroupID": 6,
-    "TextGroupID": 6,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 6,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 6,
+    "LoadingTipContents": "WorldBoss"
   },
   {
     "ID": 7,
-    "Unused": true,
-    "LoadingTipContents": "Tower",
     "BundleGroupID": 7,
-    "ImageGroupID": 7,
-    "TextGroupID": 7,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 7,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 7,
+    "LoadingTipContents": "Tower"
   },
   {
     "ID": 8,
-    "Unused": true,
-    "LoadingTipContents": "OtherWorld",
     "BundleGroupID": 8,
-    "ImageGroupID": 8,
-    "TextGroupID": 8,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 8,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 8,
+    "LoadingTipContents": "OtherWorld"
   },
   {
     "ID": 9,
-    "Unused": true,
-    "LoadingTipContents": "Raid",
     "BundleGroupID": 9,
-    "ImageGroupID": 9,
-    "TextGroupID": 9,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 9,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 9,
+    "LoadingTipContents": "Raid"
   },
   {
     "ID": 10,
-    "Unused": true,
-    "LoadingTipContents": "Advent",
     "BundleGroupID": 10,
-    "ImageGroupID": 10,
-    "TextGroupID": 10,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 10,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 10,
+    "LoadingTipContents": "Advent"
   },
   {
     "ID": 11,
-    "Unused": true,
-    "LoadingTipContents": "HunterStory",
     "BundleGroupID": 11,
-    "ImageGroupID": 11,
-    "TextGroupID": 11,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 11,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 11,
+    "LoadingTipContents": "HunterStory"
   },
   {
     "ID": 12,
-    "Unused": true,
-    "LoadingTipContents": "ChaosBattleField",
     "BundleGroupID": 12,
-    "ImageGroupID": 12,
-    "TextGroupID": 12,
     "BundleRate": 0,
-    "AssembleRate": 1
+    "ImageGroupID": 12,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 12,
+    "LoadingTipContents": "ChaosBattleField"
+  },
+  {
+    "ID": 13,
+    "BundleGroupID": 13,
+    "BundleRate": 0,
+    "ImageGroupID": 13,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 13,
+    "LoadingTipContents": "ArchitectTrial"
+  },
+  {
+    "ID": 14,
+    "BundleGroupID": 14,
+    "BundleRate": 0,
+    "ImageGroupID": 14,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 14,
+    "LoadingTipContents": "LibraryDungeon"
+  },
+  {
+    "ID": 15,
+    "BundleGroupID": 15,
+    "BundleRate": 0,
+    "ImageGroupID": 15,
+    "Unused": true,
+    "AssembleRate": 1,
+    "TextGroupID": 15,
+    "LoadingTipContents": "CoopDungeon"
   }
 ]

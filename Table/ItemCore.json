@@ -1,362 +1,1514 @@
 [
   {
     "ID": 700100001,
-    "IconResourceName": "Core_Mind_Baran01",
-    "StringName": "It.StringName.700100001",
-    "StringDesc": "It.StringDesc.700100001",
-    "ItemRarity": "Rare",
-    "CoreType": "Mind",
-    "RandomOptionID1": 100100,
-    "RandomOptionID2": 100110,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000101,
-    "OptionDesc": "It.StringDesc.CoreMindOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100001",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170008]",
-    "MaterialCount": "[5]",
     "GoldValue": 2000,
+    "RandomPassiveBuffID": 1000101,
+    "LimitBreakID": 1000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100000,
+    "RandomOptionID2": 100110,
+    "RandomOptionID1": 100100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100001.re",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Baran01",
+    "StringDesc": "It.StringDesc.700100001",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100001"
   },
   {
     "ID": 700100002,
-    "IconResourceName": "Core_Mind_Baran01",
-    "StringName": "It.StringName.700100001",
-    "StringDesc": "It.StringDesc.700100001",
-    "ItemRarity": "Epic",
-    "CoreType": "Mind",
-    "RandomOptionID1": 100101,
-    "RandomOptionID2": 100111,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000102,
-    "OptionDesc": "It.StringDesc.CoreMindOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100002",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170009]",
-    "MaterialCount": "[4]",
     "GoldValue": 5000,
+    "RandomPassiveBuffID": 1000102,
+    "LimitBreakID": 2000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100000,
+    "RandomOptionID2": 100111,
+    "RandomOptionID1": 100101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100002.re",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Baran01",
+    "StringDesc": "It.StringDesc.700100001",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100001"
   },
   {
     "ID": 700100003,
-    "IconResourceName": "Core_Mind_Baran01",
-    "StringName": "It.StringName.700100001",
-    "StringDesc": "It.StringDesc.700100001",
-    "ItemRarity": "Legendary",
-    "CoreType": "Mind",
-    "RandomOptionID1": 100102,
-    "RandomOptionID2": 100112,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000103,
-    "OptionDesc": "It.StringDesc.CoreMindOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100003",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170010]",
-    "MaterialCount": "[3]",
     "GoldValue": 10000,
+    "RandomPassiveBuffID": 1000103,
+    "LimitBreakID": 3000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100000,
+    "RandomOptionID2": 100112,
+    "RandomOptionID1": 100102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100003.re",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Baran01",
+    "StringDesc": "It.StringDesc.700100001",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100001"
   },
   {
     "ID": 700100011,
-    "IconResourceName": "Core_Body_Baran01",
-    "StringName": "It.StringName.700100011",
-    "StringDesc": "It.StringDesc.700100011",
-    "ItemRarity": "Rare",
-    "CoreType": "Body",
-    "RandomOptionID1": 101100,
-    "RandomOptionID2": 101110,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000201,
-    "OptionDesc": "It.StringDesc.CoreBodyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100011",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170008]",
-    "MaterialCount": "[5]",
     "GoldValue": 2000,
+    "RandomPassiveBuffID": 1000201,
+    "LimitBreakID": 1000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100010,
+    "RandomOptionID2": 101110,
+    "RandomOptionID1": 101100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100011",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Baran01",
+    "StringDesc": "It.StringDesc.700100011",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100011"
   },
   {
     "ID": 700100012,
-    "IconResourceName": "Core_Body_Baran01",
-    "StringName": "It.StringName.700100011",
-    "StringDesc": "It.StringDesc.700100011",
-    "ItemRarity": "Epic",
-    "CoreType": "Body",
-    "RandomOptionID1": 101101,
-    "RandomOptionID2": 101111,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000202,
-    "OptionDesc": "It.StringDesc.CoreBodyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100012",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170009]",
-    "MaterialCount": "[4]",
     "GoldValue": 5000,
+    "RandomPassiveBuffID": 1000202,
+    "LimitBreakID": 2000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100010,
+    "RandomOptionID2": 101111,
+    "RandomOptionID1": 101101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100012",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Baran01",
+    "StringDesc": "It.StringDesc.700100011",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100011"
   },
   {
     "ID": 700100013,
-    "IconResourceName": "Core_Body_Baran01",
-    "StringName": "It.StringName.700100011",
-    "StringDesc": "It.StringDesc.700100011",
-    "ItemRarity": "Legendary",
-    "CoreType": "Body",
-    "RandomOptionID1": 101102,
-    "RandomOptionID2": 101112,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000203,
-    "OptionDesc": "It.StringDesc.CoreBodyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100013",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170010]",
-    "MaterialCount": "[3]",
     "GoldValue": 10000,
+    "RandomPassiveBuffID": 1000203,
+    "LimitBreakID": 3000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100010,
+    "RandomOptionID2": 101112,
+    "RandomOptionID1": 101102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100013",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Baran01",
+    "StringDesc": "It.StringDesc.700100011",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100011"
   },
   {
     "ID": 700100021,
-    "IconResourceName": "Core_Energy_Baran01",
-    "StringName": "It.StringName.700100021",
-    "StringDesc": "It.StringDesc.700100021",
-    "ItemRarity": "Rare",
-    "CoreType": "Energy",
-    "RandomOptionID1": 102100,
-    "RandomOptionID2": 102110,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000301,
-    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100021",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170008]",
-    "MaterialCount": "[5]",
     "GoldValue": 2000,
+    "RandomPassiveBuffID": 1000301,
+    "LimitBreakID": 1000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100020,
+    "RandomOptionID2": 102110,
+    "RandomOptionID1": 102100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100021",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Baran01",
+    "StringDesc": "It.StringDesc.700100021",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100021"
   },
   {
     "ID": 700100022,
-    "IconResourceName": "Core_Energy_Baran01",
-    "StringName": "It.StringName.700100021",
-    "StringDesc": "It.StringDesc.700100021",
-    "ItemRarity": "Epic",
-    "CoreType": "Energy",
-    "RandomOptionID1": 102101,
-    "RandomOptionID2": 102111,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000302,
-    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100022",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170009]",
-    "MaterialCount": "[4]",
     "GoldValue": 5000,
+    "RandomPassiveBuffID": 1000302,
+    "LimitBreakID": 2000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100020,
+    "RandomOptionID2": 102111,
+    "RandomOptionID1": 102101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100022",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Baran01",
+    "StringDesc": "It.StringDesc.700100021",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100021"
   },
   {
     "ID": 700100023,
-    "IconResourceName": "Core_Energy_Baran01",
-    "StringName": "It.StringName.700100021",
-    "StringDesc": "It.StringDesc.700100021",
-    "ItemRarity": "Legendary",
-    "CoreType": "Energy",
-    "RandomOptionID1": 102102,
-    "RandomOptionID2": 102112,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000303,
-    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100023",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170010]",
-    "MaterialCount": "[3]",
     "GoldValue": 10000,
+    "RandomPassiveBuffID": 1000303,
+    "LimitBreakID": 3000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100020,
+    "RandomOptionID2": 102112,
+    "RandomOptionID1": 102102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100023",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Baran01",
+    "StringDesc": "It.StringDesc.700100021",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100021"
   },
   {
     "ID": 700100101,
-    "IconResourceName": "Core_Mind_Baran02",
-    "StringName": "It.StringName.700100101",
-    "StringDesc": "It.StringDesc.700100101",
-    "ItemRarity": "Rare",
-    "CoreType": "Mind",
-    "RandomOptionID1": 100100,
-    "RandomOptionID2": 100110,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000401,
-    "OptionDesc": "It.StringDesc.CoreMindOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100101",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170008]",
-    "MaterialCount": "[5]",
     "GoldValue": 2000,
+    "RandomPassiveBuffID": 1000401,
+    "LimitBreakID": 1000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100100,
+    "RandomOptionID2": 100110,
+    "RandomOptionID1": 100100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100101",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Baran02",
+    "StringDesc": "It.StringDesc.700100101",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100101"
   },
   {
     "ID": 700100102,
-    "IconResourceName": "Core_Mind_Baran02",
-    "StringName": "It.StringName.700100101",
-    "StringDesc": "It.StringDesc.700100101",
-    "ItemRarity": "Epic",
-    "CoreType": "Mind",
-    "RandomOptionID1": 100101,
-    "RandomOptionID2": 100111,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000402,
-    "OptionDesc": "It.StringDesc.CoreMindOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100102",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170009]",
-    "MaterialCount": "[4]",
     "GoldValue": 5000,
+    "RandomPassiveBuffID": 1000402,
+    "LimitBreakID": 2000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100100,
+    "RandomOptionID2": 100111,
+    "RandomOptionID1": 100101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100102",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Baran02",
+    "StringDesc": "It.StringDesc.700100101",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100101"
   },
   {
     "ID": 700100103,
-    "IconResourceName": "Core_Mind_Baran02",
-    "StringName": "It.StringName.700100101",
-    "StringDesc": "It.StringDesc.700100101",
-    "ItemRarity": "Legendary",
-    "CoreType": "Mind",
-    "RandomOptionID1": 100102,
-    "RandomOptionID2": 100112,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000403,
-    "OptionDesc": "It.StringDesc.CoreMindOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100103",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170010]",
-    "MaterialCount": "[3]",
     "GoldValue": 10000,
+    "RandomPassiveBuffID": 1000403,
+    "LimitBreakID": 3000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100100,
+    "RandomOptionID2": 100112,
+    "RandomOptionID1": 100102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100103",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Baran02",
+    "StringDesc": "It.StringDesc.700100101",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100101"
   },
   {
     "ID": 700100111,
-    "IconResourceName": "Core_Body_Baran02",
-    "StringName": "It.StringName.700100111",
-    "StringDesc": "It.StringDesc.700100111",
-    "ItemRarity": "Rare",
-    "CoreType": "Body",
-    "RandomOptionID1": 101100,
-    "RandomOptionID2": 101110,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000501,
-    "OptionDesc": "It.StringDesc.CoreBodyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100111",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170008]",
-    "MaterialCount": "[5]",
     "GoldValue": 2000,
+    "RandomPassiveBuffID": 1000501,
+    "LimitBreakID": 1000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100110,
+    "RandomOptionID2": 101110,
+    "RandomOptionID1": 101100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100111",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Baran02",
+    "StringDesc": "It.StringDesc.700100111",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100111"
   },
   {
     "ID": 700100112,
-    "IconResourceName": "Core_Body_Baran02",
-    "StringName": "It.StringName.700100111",
-    "StringDesc": "It.StringDesc.700100111",
-    "ItemRarity": "Epic",
-    "CoreType": "Body",
-    "RandomOptionID1": 101101,
-    "RandomOptionID2": 101111,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000502,
-    "OptionDesc": "It.StringDesc.CoreBodyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100112",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170009]",
-    "MaterialCount": "[4]",
     "GoldValue": 5000,
+    "RandomPassiveBuffID": 1000502,
+    "LimitBreakID": 2000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100110,
+    "RandomOptionID2": 101111,
+    "RandomOptionID1": 101101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100112",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Baran02",
+    "StringDesc": "It.StringDesc.700100111",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100111"
   },
   {
     "ID": 700100113,
-    "IconResourceName": "Core_Body_Baran02",
-    "StringName": "It.StringName.700100111",
-    "StringDesc": "It.StringDesc.700100111",
-    "ItemRarity": "Legendary",
-    "CoreType": "Body",
-    "RandomOptionID1": 101102,
-    "RandomOptionID2": 101112,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000503,
-    "OptionDesc": "It.StringDesc.CoreBodyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100113",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170010]",
-    "MaterialCount": "[3]",
     "GoldValue": 10000,
+    "RandomPassiveBuffID": 1000503,
+    "LimitBreakID": 3000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100110,
+    "RandomOptionID2": 101112,
+    "RandomOptionID1": 101102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100113",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Baran02",
+    "StringDesc": "It.StringDesc.700100111",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100111"
   },
   {
     "ID": 700100121,
-    "IconResourceName": "Core_Energy_Baran02",
-    "StringName": "It.StringName.700100121",
-    "StringDesc": "It.StringDesc.700100121",
-    "ItemRarity": "Rare",
-    "CoreType": "Energy",
-    "RandomOptionID1": 102100,
-    "RandomOptionID2": 102110,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000601,
-    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100121",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170008]",
-    "MaterialCount": "[5]",
     "GoldValue": 2000,
+    "RandomPassiveBuffID": 1000601,
+    "LimitBreakID": 1000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100120,
+    "RandomOptionID2": 102110,
+    "RandomOptionID1": 102100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100121",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Baran02",
+    "StringDesc": "It.StringDesc.700100121",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100121"
   },
   {
     "ID": 700100122,
-    "IconResourceName": "Core_Energy_Baran02",
-    "StringName": "It.StringName.700100121",
-    "StringDesc": "It.StringDesc.700100121",
-    "ItemRarity": "Epic",
-    "CoreType": "Energy",
-    "RandomOptionID1": 102101,
-    "RandomOptionID2": 102111,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000602,
-    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100122",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170009]",
-    "MaterialCount": "[4]",
     "GoldValue": 5000,
+    "RandomPassiveBuffID": 1000602,
+    "LimitBreakID": 2000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100120,
+    "RandomOptionID2": 102111,
+    "RandomOptionID1": 102101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100122",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Baran02",
+    "StringDesc": "It.StringDesc.700100121",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100121"
   },
   {
     "ID": 700100123,
-    "IconResourceName": "Core_Energy_Baran02",
-    "StringName": "It.StringName.700100121",
-    "StringDesc": "It.StringDesc.700100121",
-    "ItemRarity": "Legendary",
-    "CoreType": "Energy",
-    "RandomOptionID1": 102102,
-    "RandomOptionID2": 102112,
-    "PassiveBuffID": "[231000001,231000021]",
-    "RandomPassiveBuffID": 1000603,
-    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
-    "BuffDesc": "It.StringDesc.CoreBuff.700100123",
-    "LimitBreakID": 1001,
-    "MaterialItem": "[10170010]",
-    "MaterialCount": "[3]",
     "GoldValue": 10000,
+    "RandomPassiveBuffID": 1000603,
+    "LimitBreakID": 3000,
     "CodexDisplay": true,
-    "CodexDisplayTime": "2020-06-15T00:00:00+09:00"
+    "CoreGroupID": 700100120,
+    "RandomOptionID2": 102112,
+    "RandomOptionID1": 102102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100123",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Baran02",
+    "StringDesc": "It.StringDesc.700100121",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100121"
+  },
+  {
+    "ID": 700100201,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001001,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100200,
+    "RandomOptionID2": 100110,
+    "RandomOptionID1": 100100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100201",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Deimos01",
+    "StringDesc": "It.StringDesc.700100201",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100201"
+  },
+  {
+    "ID": 700100202,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001002,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100200,
+    "RandomOptionID2": 100111,
+    "RandomOptionID1": 100101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100202",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Deimos01",
+    "StringDesc": "It.StringDesc.700100201",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100201"
+  },
+  {
+    "ID": 700100203,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001003,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100200,
+    "RandomOptionID2": 100112,
+    "RandomOptionID1": 100102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100203",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Deimos01",
+    "StringDesc": "It.StringDesc.700100201",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100201"
+  },
+  {
+    "ID": 700100211,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001101,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100210,
+    "RandomOptionID2": 101110,
+    "RandomOptionID1": 101100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100211",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Deimos01",
+    "StringDesc": "It.StringDesc.700100211",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100211"
+  },
+  {
+    "ID": 700100212,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001102,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100210,
+    "RandomOptionID2": 101111,
+    "RandomOptionID1": 101101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100212",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Deimos01",
+    "StringDesc": "It.StringDesc.700100211",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100211"
+  },
+  {
+    "ID": 700100213,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001103,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100210,
+    "RandomOptionID2": 101112,
+    "RandomOptionID1": 101102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100213",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Deimos01",
+    "StringDesc": "It.StringDesc.700100211",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100211"
+  },
+  {
+    "ID": 700100221,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001201,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100220,
+    "RandomOptionID2": 102110,
+    "RandomOptionID1": 102100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100221.re",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos01",
+    "StringDesc": "It.StringDesc.700100221",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100221"
+  },
+  {
+    "ID": 700100222,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001202,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100220,
+    "RandomOptionID2": 102111,
+    "RandomOptionID1": 102101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100222.re",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos01",
+    "StringDesc": "It.StringDesc.700100221",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100221"
+  },
+  {
+    "ID": 700100223,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001203,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100220,
+    "RandomOptionID2": 102112,
+    "RandomOptionID1": 102102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100223.re",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos01",
+    "StringDesc": "It.StringDesc.700100221",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100221"
+  },
+  {
+    "ID": 700100301,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001301,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100300,
+    "RandomOptionID2": 100110,
+    "RandomOptionID1": 100100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100201",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Deimos02",
+    "StringDesc": "It.StringDesc.700100301",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100301"
+  },
+  {
+    "ID": 700100302,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001302,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100300,
+    "RandomOptionID2": 100111,
+    "RandomOptionID1": 100101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100302",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Deimos02",
+    "StringDesc": "It.StringDesc.700100301",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100301"
+  },
+  {
+    "ID": 700100303,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001303,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100300,
+    "RandomOptionID2": 100112,
+    "RandomOptionID1": 100102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100303",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Deimos02",
+    "StringDesc": "It.StringDesc.700100301",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100301"
+  },
+  {
+    "ID": 700100311,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001401,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100310,
+    "RandomOptionID2": 101110,
+    "RandomOptionID1": 101100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100311",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Deimos02",
+    "StringDesc": "It.StringDesc.700100311",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100311"
+  },
+  {
+    "ID": 700100312,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001402,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100310,
+    "RandomOptionID2": 101111,
+    "RandomOptionID1": 101101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100312",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Deimos02",
+    "StringDesc": "It.StringDesc.700100311",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100311"
+  },
+  {
+    "ID": 700100313,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001403,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100310,
+    "RandomOptionID2": 101112,
+    "RandomOptionID1": 101102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100313",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Deimos02",
+    "StringDesc": "It.StringDesc.700100311",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100311"
+  },
+  {
+    "ID": 700100321,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001501,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100320,
+    "RandomOptionID2": 102110,
+    "RandomOptionID1": 102100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100321",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos02",
+    "StringDesc": "It.StringDesc.700100321",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100321"
+  },
+  {
+    "ID": 700100322,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001502,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100320,
+    "RandomOptionID2": 102111,
+    "RandomOptionID1": 102101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100322",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos02",
+    "StringDesc": "It.StringDesc.700100321",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100321"
+  },
+  {
+    "ID": 700100323,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001503,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100320,
+    "RandomOptionID2": 102112,
+    "RandomOptionID1": 102102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100323",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos02",
+    "StringDesc": "It.StringDesc.700100321",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100321"
+  },
+  {
+    "ID": 700100401,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001601,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100400,
+    "RandomOptionID2": 100110,
+    "RandomOptionID1": 100100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000097",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100401",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100401"
+  },
+  {
+    "ID": 700100402,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001602,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100400,
+    "RandomOptionID2": 100111,
+    "RandomOptionID1": 100101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000049",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100401",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100401"
+  },
+  {
+    "ID": 700100403,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001603,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100400,
+    "RandomOptionID2": 100112,
+    "RandomOptionID1": 100102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000001",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100401",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100401"
+  },
+  {
+    "ID": 700100411,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001801,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100410,
+    "RandomOptionID2": 102110,
+    "RandomOptionID1": 101100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000099",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100411",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100411"
+  },
+  {
+    "ID": 700100412,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001802,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100410,
+    "RandomOptionID2": 102111,
+    "RandomOptionID1": 101101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000051",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100411",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100411"
+  },
+  {
+    "ID": 700100413,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001803,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100410,
+    "RandomOptionID2": 102112,
+    "RandomOptionID1": 101102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000003",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100411",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100411"
+  },
+  {
+    "ID": 700100421,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1002001,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100420,
+    "RandomOptionID2": 101110,
+    "RandomOptionID1": 102100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000103",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100421",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100421"
+  },
+  {
+    "ID": 700100422,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1002002,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100420,
+    "RandomOptionID2": 101111,
+    "RandomOptionID1": 102101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000055",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100421",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100421"
+  },
+  {
+    "ID": 700100423,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1002003,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100420,
+    "RandomOptionID2": 101112,
+    "RandomOptionID1": 102102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000007",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100421",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100421"
+  },
+  {
+    "ID": 700100501,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001701,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100500,
+    "RandomOptionID2": 101110,
+    "RandomOptionID1": 100100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000098",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100501",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100501"
+  },
+  {
+    "ID": 700100502,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001702,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100500,
+    "RandomOptionID2": 101111,
+    "RandomOptionID1": 100101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000050",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100501",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100501"
+  },
+  {
+    "ID": 700100503,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001703,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100500,
+    "RandomOptionID2": 101112,
+    "RandomOptionID1": 100102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000002",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100501",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100501"
+  },
+  {
+    "ID": 700100511,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1001901,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100510,
+    "RandomOptionID2": 100110,
+    "RandomOptionID1": 101100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000101",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100511",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100511"
+  },
+  {
+    "ID": 700100512,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1001902,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100510,
+    "RandomOptionID2": 100111,
+    "RandomOptionID1": 101101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000053",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100511",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100511"
+  },
+  {
+    "ID": 700100513,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1001903,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100510,
+    "RandomOptionID2": 100112,
+    "RandomOptionID1": 101102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000005",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100511",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100511"
+  },
+  {
+    "ID": 700100521,
+    "GoldValue": 2000,
+    "RandomPassiveBuffID": 1002101,
+    "LimitBreakID": 1000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100520,
+    "RandomOptionID2": 102110,
+    "RandomOptionID1": 102100,
+    "MaterialItem": [
+      10170008
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Rare",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000104",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100521",
+    "MaterialCount": [
+      5
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100521"
+  },
+  {
+    "ID": 700100522,
+    "GoldValue": 5000,
+    "RandomPassiveBuffID": 1002102,
+    "LimitBreakID": 2000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100520,
+    "RandomOptionID2": 102111,
+    "RandomOptionID1": 102101,
+    "MaterialItem": [
+      10170009
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Epic",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000056",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100521",
+    "MaterialCount": [
+      4
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100521"
+  },
+  {
+    "ID": 700100523,
+    "GoldValue": 10000,
+    "RandomPassiveBuffID": 1002103,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100520,
+    "RandomOptionID2": 102112,
+    "RandomOptionID1": 102102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000008",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100521",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100521"
   }
 ]

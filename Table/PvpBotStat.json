@@ -1,0 +1,5042 @@
+[
+  {
+    "StatValue": 40000,
+    "ID": 1001,
+    "StatModeld": 120101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1002,
+    "StatModeld": 120101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1003,
+    "StatModeld": 120101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1004,
+    "StatModeld": 120101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1005,
+    "StatModeld": 120101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1006,
+    "StatModeld": 120101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 35000,
+    "ID": 1007,
+    "StatModeld": 120101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1008,
+    "StatModeld": 120101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1009,
+    "StatModeld": 120101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1010,
+    "StatModeld": 120101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1011,
+    "StatModeld": 120101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 36810,
+    "ID": 1012,
+    "StatModeld": 120101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1013,
+    "StatModeld": 120101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1014,
+    "StatModeld": 120101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1015,
+    "StatModeld": 120101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1016,
+    "StatModeld": 120101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1017,
+    "StatModeld": 120101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1018,
+    "StatModeld": 120101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1019,
+    "StatModeld": 120101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1020,
+    "StatModeld": 120101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1021,
+    "StatModeld": 120101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1022,
+    "StatModeld": 120101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1023,
+    "StatModeld": 120101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1024,
+    "StatModeld": 120101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1025,
+    "StatModeld": 120101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1026,
+    "StatModeld": 120101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1027,
+    "StatModeld": 120101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1028,
+    "StatModeld": 120101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1029,
+    "StatModeld": 120102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1030,
+    "StatModeld": 120102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1031,
+    "StatModeld": 120102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 40000,
+    "ID": 1032,
+    "StatModeld": 120102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1033,
+    "StatModeld": 120102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1034,
+    "StatModeld": 120102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 35000,
+    "ID": 1035,
+    "StatModeld": 120102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1036,
+    "StatModeld": 120102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1037,
+    "StatModeld": 120102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1038,
+    "StatModeld": 120102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1039,
+    "StatModeld": 120102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 36810,
+    "ID": 1040,
+    "StatModeld": 120102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1041,
+    "StatModeld": 120102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1042,
+    "StatModeld": 120102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1043,
+    "StatModeld": 120102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1044,
+    "StatModeld": 120102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1045,
+    "StatModeld": 120102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1046,
+    "StatModeld": 120102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1047,
+    "StatModeld": 120102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1048,
+    "StatModeld": 120102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1049,
+    "StatModeld": 120102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1050,
+    "StatModeld": 120102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1051,
+    "StatModeld": 120102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1052,
+    "StatModeld": 120102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1053,
+    "StatModeld": 120102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1054,
+    "StatModeld": 120102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1055,
+    "StatModeld": 120102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1056,
+    "StatModeld": 120102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 11491,
+    "ID": 1057,
+    "StatModeld": 120103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1058,
+    "StatModeld": 120103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1059,
+    "StatModeld": 120103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1060,
+    "StatModeld": 120103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1061,
+    "StatModeld": 120103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1062,
+    "StatModeld": 120103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 80000,
+    "ID": 1063,
+    "StatModeld": 120103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1064,
+    "StatModeld": 120103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1065,
+    "StatModeld": 120103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1066,
+    "StatModeld": 120103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1067,
+    "StatModeld": 120103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 15850,
+    "ID": 1068,
+    "StatModeld": 120103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 1000,
+    "ID": 1069,
+    "StatModeld": 120103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1070,
+    "StatModeld": 120103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1071,
+    "StatModeld": 120103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1072,
+    "StatModeld": 120103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1073,
+    "StatModeld": 120103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 4394,
+    "ID": 1074,
+    "StatModeld": 120103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 4380,
+    "ID": 1075,
+    "StatModeld": 120103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1076,
+    "StatModeld": 120103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1077,
+    "StatModeld": 120103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 43,
+    "ID": 1078,
+    "StatModeld": 120103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1079,
+    "StatModeld": 120103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1080,
+    "StatModeld": 120103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1081,
+    "StatModeld": 120103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1082,
+    "StatModeld": 120103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1083,
+    "StatModeld": 120103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1084,
+    "StatModeld": 120103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 36000,
+    "ID": 1085,
+    "StatModeld": 100101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1086,
+    "StatModeld": 100101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1087,
+    "StatModeld": 100101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 13500,
+    "ID": 1088,
+    "StatModeld": 100101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1089,
+    "StatModeld": 100101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1090,
+    "StatModeld": 100101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 31500,
+    "ID": 1091,
+    "StatModeld": 100101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1092,
+    "StatModeld": 100101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1093,
+    "StatModeld": 100101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1094,
+    "StatModeld": 100101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1095,
+    "StatModeld": 100101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 35000,
+    "ID": 1096,
+    "StatModeld": 100101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1097,
+    "StatModeld": 100101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1098,
+    "StatModeld": 100101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1099,
+    "StatModeld": 100101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1100,
+    "StatModeld": 100101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1101,
+    "StatModeld": 100101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1102,
+    "StatModeld": 100101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1103,
+    "StatModeld": 100101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1104,
+    "StatModeld": 100101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1105,
+    "StatModeld": 100101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1106,
+    "StatModeld": 100101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1107,
+    "StatModeld": 100101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1108,
+    "StatModeld": 100101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1109,
+    "StatModeld": 100101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1110,
+    "StatModeld": 100101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1111,
+    "StatModeld": 100101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1112,
+    "StatModeld": 100101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 13500,
+    "ID": 1113,
+    "StatModeld": 100102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1114,
+    "StatModeld": 100102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1115,
+    "StatModeld": 100102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 36000,
+    "ID": 1116,
+    "StatModeld": 100102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1117,
+    "StatModeld": 100102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1118,
+    "StatModeld": 100102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 31500,
+    "ID": 1119,
+    "StatModeld": 100102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1120,
+    "StatModeld": 100102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1121,
+    "StatModeld": 100102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1122,
+    "StatModeld": 100102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1123,
+    "StatModeld": 100102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 35000,
+    "ID": 1124,
+    "StatModeld": 100102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1125,
+    "StatModeld": 100102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1126,
+    "StatModeld": 100102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1127,
+    "StatModeld": 100102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1128,
+    "StatModeld": 100102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1129,
+    "StatModeld": 100102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1130,
+    "StatModeld": 100102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1131,
+    "StatModeld": 100102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1132,
+    "StatModeld": 100102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1133,
+    "StatModeld": 100102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1134,
+    "StatModeld": 100102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1135,
+    "StatModeld": 100102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1136,
+    "StatModeld": 100102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1137,
+    "StatModeld": 100102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1138,
+    "StatModeld": 100102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1139,
+    "StatModeld": 100102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1140,
+    "StatModeld": 100102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1141,
+    "StatModeld": 100103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1142,
+    "StatModeld": 100103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1143,
+    "StatModeld": 100103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 13500,
+    "ID": 1144,
+    "StatModeld": 100103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1145,
+    "StatModeld": 100103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1146,
+    "StatModeld": 100103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 72000,
+    "ID": 1147,
+    "StatModeld": 100103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1148,
+    "StatModeld": 100103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1149,
+    "StatModeld": 100103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1150,
+    "StatModeld": 100103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1151,
+    "StatModeld": 100103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 35000,
+    "ID": 1152,
+    "StatModeld": 100103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1153,
+    "StatModeld": 100103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1154,
+    "StatModeld": 100103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1155,
+    "StatModeld": 100103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1156,
+    "StatModeld": 100103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1157,
+    "StatModeld": 100103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1158,
+    "StatModeld": 100103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1159,
+    "StatModeld": 100103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1160,
+    "StatModeld": 100103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1161,
+    "StatModeld": 100103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1162,
+    "StatModeld": 100103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1163,
+    "StatModeld": 100103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1164,
+    "StatModeld": 100103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1165,
+    "StatModeld": 100103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1166,
+    "StatModeld": 100103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1167,
+    "StatModeld": 100103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1168,
+    "StatModeld": 100103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1169,
+    "StatModeld": 90101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1170,
+    "StatModeld": 90101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1171,
+    "StatModeld": 90101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1172,
+    "StatModeld": 90101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1173,
+    "StatModeld": 90101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1174,
+    "StatModeld": 90101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1175,
+    "StatModeld": 90101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1176,
+    "StatModeld": 90101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1177,
+    "StatModeld": 90101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1178,
+    "StatModeld": 90101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1179,
+    "StatModeld": 90101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 34000,
+    "ID": 1180,
+    "StatModeld": 90101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1181,
+    "StatModeld": 90101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1182,
+    "StatModeld": 90101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1183,
+    "StatModeld": 90101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1184,
+    "StatModeld": 90101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1185,
+    "StatModeld": 90101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1186,
+    "StatModeld": 90101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1187,
+    "StatModeld": 90101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1188,
+    "StatModeld": 90101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1189,
+    "StatModeld": 90101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1190,
+    "StatModeld": 90101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1191,
+    "StatModeld": 90101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1192,
+    "StatModeld": 90101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1193,
+    "StatModeld": 90101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1194,
+    "StatModeld": 90101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1195,
+    "StatModeld": 90101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1196,
+    "StatModeld": 90101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1197,
+    "StatModeld": 90102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1198,
+    "StatModeld": 90102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1199,
+    "StatModeld": 90102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1200,
+    "StatModeld": 90102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1201,
+    "StatModeld": 90102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1202,
+    "StatModeld": 90102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1203,
+    "StatModeld": 90102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1204,
+    "StatModeld": 90102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1205,
+    "StatModeld": 90102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1206,
+    "StatModeld": 90102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1207,
+    "StatModeld": 90102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 34000,
+    "ID": 1208,
+    "StatModeld": 90102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1209,
+    "StatModeld": 90102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1210,
+    "StatModeld": 90102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1211,
+    "StatModeld": 90102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1212,
+    "StatModeld": 90102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1213,
+    "StatModeld": 90102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1214,
+    "StatModeld": 90102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1215,
+    "StatModeld": 90102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1216,
+    "StatModeld": 90102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1217,
+    "StatModeld": 90102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1218,
+    "StatModeld": 90102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1219,
+    "StatModeld": 90102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1220,
+    "StatModeld": 90102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1221,
+    "StatModeld": 90102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1222,
+    "StatModeld": 90102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1223,
+    "StatModeld": 90102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1224,
+    "StatModeld": 90102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 9000,
+    "ID": 1225,
+    "StatModeld": 90103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1226,
+    "StatModeld": 90103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1227,
+    "StatModeld": 90103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1228,
+    "StatModeld": 90103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1229,
+    "StatModeld": 90103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1230,
+    "StatModeld": 90103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 64000,
+    "ID": 1231,
+    "StatModeld": 90103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1232,
+    "StatModeld": 90103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1233,
+    "StatModeld": 90103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1234,
+    "StatModeld": 90103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1235,
+    "StatModeld": 90103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 34000,
+    "ID": 1236,
+    "StatModeld": 90103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 1000,
+    "ID": 1237,
+    "StatModeld": 90103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1238,
+    "StatModeld": 90103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1239,
+    "StatModeld": 90103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1240,
+    "StatModeld": 90103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1241,
+    "StatModeld": 90103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1242,
+    "StatModeld": 90103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1243,
+    "StatModeld": 90103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1244,
+    "StatModeld": 90103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1245,
+    "StatModeld": 90103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 43,
+    "ID": 1246,
+    "StatModeld": 90103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1247,
+    "StatModeld": 90103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1248,
+    "StatModeld": 90103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1249,
+    "StatModeld": 90103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1250,
+    "StatModeld": 90103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1251,
+    "StatModeld": 90103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1252,
+    "StatModeld": 90103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1253,
+    "StatModeld": 80101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1254,
+    "StatModeld": 80101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1255,
+    "StatModeld": 80101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 10500,
+    "ID": 1256,
+    "StatModeld": 80101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1257,
+    "StatModeld": 80101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1258,
+    "StatModeld": 80101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 25000,
+    "ID": 1259,
+    "StatModeld": 80101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1260,
+    "StatModeld": 80101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1261,
+    "StatModeld": 80101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1262,
+    "StatModeld": 80101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1263,
+    "StatModeld": 80101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 33000,
+    "ID": 1264,
+    "StatModeld": 80101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1265,
+    "StatModeld": 80101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1266,
+    "StatModeld": 80101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1267,
+    "StatModeld": 80101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1268,
+    "StatModeld": 80101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1269,
+    "StatModeld": 80101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1270,
+    "StatModeld": 80101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1271,
+    "StatModeld": 80101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1272,
+    "StatModeld": 80101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1273,
+    "StatModeld": 80101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1274,
+    "StatModeld": 80101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1275,
+    "StatModeld": 80101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1276,
+    "StatModeld": 80101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1277,
+    "StatModeld": 80101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1278,
+    "StatModeld": 80101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1279,
+    "StatModeld": 80101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1280,
+    "StatModeld": 80101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 10500,
+    "ID": 1281,
+    "StatModeld": 80102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1282,
+    "StatModeld": 80102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1283,
+    "StatModeld": 80102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1284,
+    "StatModeld": 80102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1285,
+    "StatModeld": 80102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1286,
+    "StatModeld": 80102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 25000,
+    "ID": 1287,
+    "StatModeld": 80102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1288,
+    "StatModeld": 80102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1289,
+    "StatModeld": 80102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1290,
+    "StatModeld": 80102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1291,
+    "StatModeld": 80102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 33000,
+    "ID": 1292,
+    "StatModeld": 80102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1293,
+    "StatModeld": 80102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1294,
+    "StatModeld": 80102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1295,
+    "StatModeld": 80102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1296,
+    "StatModeld": 80102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1297,
+    "StatModeld": 80102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1298,
+    "StatModeld": 80102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1299,
+    "StatModeld": 80102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1300,
+    "StatModeld": 80102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1301,
+    "StatModeld": 80102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1302,
+    "StatModeld": 80102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1303,
+    "StatModeld": 80102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1304,
+    "StatModeld": 80102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1305,
+    "StatModeld": 80102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1306,
+    "StatModeld": 80102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1307,
+    "StatModeld": 80102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1308,
+    "StatModeld": 80102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 10500,
+    "ID": 1309,
+    "StatModeld": 80103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1310,
+    "StatModeld": 80103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1311,
+    "StatModeld": 80103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 10500,
+    "ID": 1312,
+    "StatModeld": 80103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1313,
+    "StatModeld": 80103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1314,
+    "StatModeld": 80103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 56000,
+    "ID": 1315,
+    "StatModeld": 80103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1316,
+    "StatModeld": 80103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1317,
+    "StatModeld": 80103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1318,
+    "StatModeld": 80103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1319,
+    "StatModeld": 80103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 33000,
+    "ID": 1320,
+    "StatModeld": 80103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 1000,
+    "ID": 1321,
+    "StatModeld": 80103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1322,
+    "StatModeld": 80103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1323,
+    "StatModeld": 80103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1324,
+    "StatModeld": 80103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1325,
+    "StatModeld": 80103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1326,
+    "StatModeld": 80103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1327,
+    "StatModeld": 80103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1328,
+    "StatModeld": 80103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1329,
+    "StatModeld": 80103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 43,
+    "ID": 1330,
+    "StatModeld": 80103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1331,
+    "StatModeld": 80103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1332,
+    "StatModeld": 80103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1333,
+    "StatModeld": 80103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1334,
+    "StatModeld": 80103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1335,
+    "StatModeld": 80103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1336,
+    "StatModeld": 80103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 24000,
+    "ID": 1337,
+    "StatModeld": 60101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1338,
+    "StatModeld": 60101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1339,
+    "StatModeld": 60101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 9000,
+    "ID": 1340,
+    "StatModeld": 60101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1341,
+    "StatModeld": 60101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1342,
+    "StatModeld": 60101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 21000,
+    "ID": 1343,
+    "StatModeld": 60101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1344,
+    "StatModeld": 60101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1345,
+    "StatModeld": 60101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1346,
+    "StatModeld": 60101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1347,
+    "StatModeld": 60101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1348,
+    "StatModeld": 60101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1349,
+    "StatModeld": 60101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1350,
+    "StatModeld": 60101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1351,
+    "StatModeld": 60101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1352,
+    "StatModeld": 60101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1353,
+    "StatModeld": 60101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1354,
+    "StatModeld": 60101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1355,
+    "StatModeld": 60101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1356,
+    "StatModeld": 60101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1357,
+    "StatModeld": 60101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1358,
+    "StatModeld": 60101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1359,
+    "StatModeld": 60101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1360,
+    "StatModeld": 60101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1361,
+    "StatModeld": 60101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1362,
+    "StatModeld": 60101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1363,
+    "StatModeld": 60101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1364,
+    "StatModeld": 60101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 9000,
+    "ID": 1365,
+    "StatModeld": 60102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1366,
+    "StatModeld": 60102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1367,
+    "StatModeld": 60102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 24000,
+    "ID": 1368,
+    "StatModeld": 60102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1369,
+    "StatModeld": 60102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1370,
+    "StatModeld": 60102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 21000,
+    "ID": 1371,
+    "StatModeld": 60102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1372,
+    "StatModeld": 60102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1373,
+    "StatModeld": 60102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1374,
+    "StatModeld": 60102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1375,
+    "StatModeld": 60102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 33000,
+    "ID": 1376,
+    "StatModeld": 60102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1377,
+    "StatModeld": 60102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1378,
+    "StatModeld": 60102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1379,
+    "StatModeld": 60102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1380,
+    "StatModeld": 60102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1381,
+    "StatModeld": 60102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1382,
+    "StatModeld": 60102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1383,
+    "StatModeld": 60102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1384,
+    "StatModeld": 60102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1385,
+    "StatModeld": 60102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1386,
+    "StatModeld": 60102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1387,
+    "StatModeld": 60102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1388,
+    "StatModeld": 60102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1389,
+    "StatModeld": 60102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1390,
+    "StatModeld": 60102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1391,
+    "StatModeld": 60102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1392,
+    "StatModeld": 60102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 9000,
+    "ID": 1393,
+    "StatModeld": 60103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1394,
+    "StatModeld": 60103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1395,
+    "StatModeld": 60103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 9000,
+    "ID": 1396,
+    "StatModeld": 60103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1397,
+    "StatModeld": 60103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1398,
+    "StatModeld": 60103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 48000,
+    "ID": 1399,
+    "StatModeld": 60103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1400,
+    "StatModeld": 60103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1401,
+    "StatModeld": 60103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1402,
+    "StatModeld": 60103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1403,
+    "StatModeld": 60103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 33000,
+    "ID": 1404,
+    "StatModeld": 60103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 1000,
+    "ID": 1405,
+    "StatModeld": 60103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1406,
+    "StatModeld": 60103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1407,
+    "StatModeld": 60103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1408,
+    "StatModeld": 60103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1409,
+    "StatModeld": 60103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1410,
+    "StatModeld": 60103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1411,
+    "StatModeld": 60103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1412,
+    "StatModeld": 60103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1413,
+    "StatModeld": 60103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 43,
+    "ID": 1414,
+    "StatModeld": 60103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1415,
+    "StatModeld": 60103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1416,
+    "StatModeld": 60103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1417,
+    "StatModeld": 60103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1418,
+    "StatModeld": 60103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1419,
+    "StatModeld": 60103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1420,
+    "StatModeld": 60103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 20000,
+    "ID": 1421,
+    "StatModeld": 40101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1422,
+    "StatModeld": 40101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1423,
+    "StatModeld": 40101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 8000,
+    "ID": 1424,
+    "StatModeld": 40101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1425,
+    "StatModeld": 40101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1426,
+    "StatModeld": 40101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1427,
+    "StatModeld": 40101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1428,
+    "StatModeld": 40101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1429,
+    "StatModeld": 40101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1430,
+    "StatModeld": 40101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1431,
+    "StatModeld": 40101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1432,
+    "StatModeld": 40101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1433,
+    "StatModeld": 40101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1434,
+    "StatModeld": 40101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1435,
+    "StatModeld": 40101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1436,
+    "StatModeld": 40101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1437,
+    "StatModeld": 40101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1438,
+    "StatModeld": 40101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1439,
+    "StatModeld": 40101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1440,
+    "StatModeld": 40101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1441,
+    "StatModeld": 40101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1442,
+    "StatModeld": 40101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1443,
+    "StatModeld": 40101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1444,
+    "StatModeld": 40101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1445,
+    "StatModeld": 40101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1446,
+    "StatModeld": 40101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1447,
+    "StatModeld": 40101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1448,
+    "StatModeld": 40101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 8000,
+    "ID": 1449,
+    "StatModeld": 40102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1450,
+    "StatModeld": 40102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1451,
+    "StatModeld": 40102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 20000,
+    "ID": 1452,
+    "StatModeld": 40102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1453,
+    "StatModeld": 40102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1454,
+    "StatModeld": 40102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1455,
+    "StatModeld": 40102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1456,
+    "StatModeld": 40102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1457,
+    "StatModeld": 40102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1458,
+    "StatModeld": 40102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1459,
+    "StatModeld": 40102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1460,
+    "StatModeld": 40102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1461,
+    "StatModeld": 40102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1462,
+    "StatModeld": 40102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1463,
+    "StatModeld": 40102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1464,
+    "StatModeld": 40102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1465,
+    "StatModeld": 40102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1466,
+    "StatModeld": 40102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1467,
+    "StatModeld": 40102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1468,
+    "StatModeld": 40102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1469,
+    "StatModeld": 40102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1470,
+    "StatModeld": 40102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1471,
+    "StatModeld": 40102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1472,
+    "StatModeld": 40102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1473,
+    "StatModeld": 40102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1474,
+    "StatModeld": 40102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1475,
+    "StatModeld": 40102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1476,
+    "StatModeld": 40102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 8000,
+    "ID": 1477,
+    "StatModeld": 40103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1478,
+    "StatModeld": 40103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1479,
+    "StatModeld": 40103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 8000,
+    "ID": 1480,
+    "StatModeld": 40103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1481,
+    "StatModeld": 40103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1482,
+    "StatModeld": 40103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 40000,
+    "ID": 1483,
+    "StatModeld": 40103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1484,
+    "StatModeld": 40103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1485,
+    "StatModeld": 40103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1486,
+    "StatModeld": 40103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1487,
+    "StatModeld": 40103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1488,
+    "StatModeld": 40103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1489,
+    "StatModeld": 40103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1490,
+    "StatModeld": 40103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1491,
+    "StatModeld": 40103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1492,
+    "StatModeld": 40103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1493,
+    "StatModeld": 40103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1494,
+    "StatModeld": 40103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1495,
+    "StatModeld": 40103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1496,
+    "StatModeld": 40103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1497,
+    "StatModeld": 40103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1498,
+    "StatModeld": 40103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1499,
+    "StatModeld": 40103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1500,
+    "StatModeld": 40103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1501,
+    "StatModeld": 40103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1502,
+    "StatModeld": 40103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1503,
+    "StatModeld": 40103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1504,
+    "StatModeld": 40103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1505,
+    "StatModeld": 35101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1506,
+    "StatModeld": 35101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1507,
+    "StatModeld": 35101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 7000,
+    "ID": 1508,
+    "StatModeld": 35101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1509,
+    "StatModeld": 35101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1510,
+    "StatModeld": 35101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1511,
+    "StatModeld": 35101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1512,
+    "StatModeld": 35101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1513,
+    "StatModeld": 35101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1514,
+    "StatModeld": 35101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1515,
+    "StatModeld": 35101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 31000,
+    "ID": 1516,
+    "StatModeld": 35101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1517,
+    "StatModeld": 35101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1518,
+    "StatModeld": 35101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1519,
+    "StatModeld": 35101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1520,
+    "StatModeld": 35101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1521,
+    "StatModeld": 35101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1522,
+    "StatModeld": 35101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1523,
+    "StatModeld": 35101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1524,
+    "StatModeld": 35101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1525,
+    "StatModeld": 35101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1526,
+    "StatModeld": 35101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1527,
+    "StatModeld": 35101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1528,
+    "StatModeld": 35101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1529,
+    "StatModeld": 35101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1530,
+    "StatModeld": 35101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1531,
+    "StatModeld": 35101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1532,
+    "StatModeld": 35101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 7000,
+    "ID": 1533,
+    "StatModeld": 35102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1534,
+    "StatModeld": 35102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1535,
+    "StatModeld": 35102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1536,
+    "StatModeld": 35102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1537,
+    "StatModeld": 35102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1538,
+    "StatModeld": 35102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 17000,
+    "ID": 1539,
+    "StatModeld": 35102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1540,
+    "StatModeld": 35102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1541,
+    "StatModeld": 35102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1542,
+    "StatModeld": 35102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1543,
+    "StatModeld": 35102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 31000,
+    "ID": 1544,
+    "StatModeld": 35102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1545,
+    "StatModeld": 35102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1546,
+    "StatModeld": 35102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1547,
+    "StatModeld": 35102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1548,
+    "StatModeld": 35102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1549,
+    "StatModeld": 35102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1550,
+    "StatModeld": 35102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1551,
+    "StatModeld": 35102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1552,
+    "StatModeld": 35102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1553,
+    "StatModeld": 35102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1554,
+    "StatModeld": 35102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1555,
+    "StatModeld": 35102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1556,
+    "StatModeld": 35102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1557,
+    "StatModeld": 35102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1558,
+    "StatModeld": 35102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1559,
+    "StatModeld": 35102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1560,
+    "StatModeld": 35102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 7000,
+    "ID": 1561,
+    "StatModeld": 35103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1562,
+    "StatModeld": 35103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1563,
+    "StatModeld": 35103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 7000,
+    "ID": 1564,
+    "StatModeld": 35103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1565,
+    "StatModeld": 35103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1566,
+    "StatModeld": 35103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 36000,
+    "ID": 1567,
+    "StatModeld": 35103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1568,
+    "StatModeld": 35103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1569,
+    "StatModeld": 35103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1570,
+    "StatModeld": 35103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1571,
+    "StatModeld": 35103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 31000,
+    "ID": 1572,
+    "StatModeld": 35103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1573,
+    "StatModeld": 35103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1574,
+    "StatModeld": 35103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1575,
+    "StatModeld": 35103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1576,
+    "StatModeld": 35103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1577,
+    "StatModeld": 35103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1578,
+    "StatModeld": 35103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 13000,
+    "ID": 1579,
+    "StatModeld": 35103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1580,
+    "StatModeld": 35103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1581,
+    "StatModeld": 35103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1582,
+    "StatModeld": 35103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1583,
+    "StatModeld": 35103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1584,
+    "StatModeld": 35103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1585,
+    "StatModeld": 35103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1586,
+    "StatModeld": 35103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1587,
+    "StatModeld": 35103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1588,
+    "StatModeld": 35103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1589,
+    "StatModeld": 30101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1590,
+    "StatModeld": 30101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1591,
+    "StatModeld": 30101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 6000,
+    "ID": 1592,
+    "StatModeld": 30101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1593,
+    "StatModeld": 30101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1594,
+    "StatModeld": 30101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1595,
+    "StatModeld": 30101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1596,
+    "StatModeld": 30101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1597,
+    "StatModeld": 30101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1598,
+    "StatModeld": 30101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1599,
+    "StatModeld": 30101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 30000,
+    "ID": 1600,
+    "StatModeld": 30101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1601,
+    "StatModeld": 30101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1602,
+    "StatModeld": 30101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1603,
+    "StatModeld": 30101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1604,
+    "StatModeld": 30101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1605,
+    "StatModeld": 30101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1606,
+    "StatModeld": 30101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1607,
+    "StatModeld": 30101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1608,
+    "StatModeld": 30101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1609,
+    "StatModeld": 30101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1610,
+    "StatModeld": 30101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1611,
+    "StatModeld": 30101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1612,
+    "StatModeld": 30101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1613,
+    "StatModeld": 30101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1614,
+    "StatModeld": 30101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1615,
+    "StatModeld": 30101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1616,
+    "StatModeld": 30101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 6000,
+    "ID": 1617,
+    "StatModeld": 30102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1618,
+    "StatModeld": 30102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1619,
+    "StatModeld": 30102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1620,
+    "StatModeld": 30102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1621,
+    "StatModeld": 30102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1622,
+    "StatModeld": 30102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 16000,
+    "ID": 1623,
+    "StatModeld": 30102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1624,
+    "StatModeld": 30102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1625,
+    "StatModeld": 30102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1626,
+    "StatModeld": 30102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1627,
+    "StatModeld": 30102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 30000,
+    "ID": 1628,
+    "StatModeld": 30102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1629,
+    "StatModeld": 30102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1630,
+    "StatModeld": 30102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1631,
+    "StatModeld": 30102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1632,
+    "StatModeld": 30102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1633,
+    "StatModeld": 30102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1634,
+    "StatModeld": 30102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1635,
+    "StatModeld": 30102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1636,
+    "StatModeld": 30102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1637,
+    "StatModeld": 30102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1638,
+    "StatModeld": 30102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1639,
+    "StatModeld": 30102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1640,
+    "StatModeld": 30102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1641,
+    "StatModeld": 30102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1642,
+    "StatModeld": 30102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1643,
+    "StatModeld": 30102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1644,
+    "StatModeld": 30102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 6000,
+    "ID": 1645,
+    "StatModeld": 30103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1646,
+    "StatModeld": 30103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1647,
+    "StatModeld": 30103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 6000,
+    "ID": 1648,
+    "StatModeld": 30103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1649,
+    "StatModeld": 30103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1650,
+    "StatModeld": 30103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 32000,
+    "ID": 1651,
+    "StatModeld": 30103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1652,
+    "StatModeld": 30103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1653,
+    "StatModeld": 30103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1654,
+    "StatModeld": 30103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1655,
+    "StatModeld": 30103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 30000,
+    "ID": 1656,
+    "StatModeld": 30103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1657,
+    "StatModeld": 30103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1658,
+    "StatModeld": 30103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1659,
+    "StatModeld": 30103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1660,
+    "StatModeld": 30103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1661,
+    "StatModeld": 30103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1662,
+    "StatModeld": 30103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1663,
+    "StatModeld": 30103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1664,
+    "StatModeld": 30103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1665,
+    "StatModeld": 30103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1666,
+    "StatModeld": 30103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1667,
+    "StatModeld": 30103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1668,
+    "StatModeld": 30103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1669,
+    "StatModeld": 30103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1670,
+    "StatModeld": 30103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1671,
+    "StatModeld": 30103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1672,
+    "StatModeld": 30103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1673,
+    "StatModeld": 25101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1674,
+    "StatModeld": 25101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1675,
+    "StatModeld": 25101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 5000,
+    "ID": 1676,
+    "StatModeld": 25101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1677,
+    "StatModeld": 25101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1678,
+    "StatModeld": 25101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1679,
+    "StatModeld": 25101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1680,
+    "StatModeld": 25101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1681,
+    "StatModeld": 25101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1682,
+    "StatModeld": 25101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1683,
+    "StatModeld": 25101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 29000,
+    "ID": 1684,
+    "StatModeld": 25101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1685,
+    "StatModeld": 25101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1686,
+    "StatModeld": 25101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1687,
+    "StatModeld": 25101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1688,
+    "StatModeld": 25101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1689,
+    "StatModeld": 25101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1690,
+    "StatModeld": 25101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1691,
+    "StatModeld": 25101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1692,
+    "StatModeld": 25101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1693,
+    "StatModeld": 25101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1694,
+    "StatModeld": 25101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1695,
+    "StatModeld": 25101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1696,
+    "StatModeld": 25101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1697,
+    "StatModeld": 25101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1698,
+    "StatModeld": 25101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1699,
+    "StatModeld": 25101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1700,
+    "StatModeld": 25101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 5000,
+    "ID": 1701,
+    "StatModeld": 25102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1702,
+    "StatModeld": 25102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1703,
+    "StatModeld": 25102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1704,
+    "StatModeld": 25102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1705,
+    "StatModeld": 25102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1706,
+    "StatModeld": 25102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 15000,
+    "ID": 1707,
+    "StatModeld": 25102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1708,
+    "StatModeld": 25102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1709,
+    "StatModeld": 25102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1710,
+    "StatModeld": 25102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1711,
+    "StatModeld": 25102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 29000,
+    "ID": 1712,
+    "StatModeld": 25102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1713,
+    "StatModeld": 25102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1714,
+    "StatModeld": 25102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1715,
+    "StatModeld": 25102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1716,
+    "StatModeld": 25102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1717,
+    "StatModeld": 25102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1718,
+    "StatModeld": 25102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1719,
+    "StatModeld": 25102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1720,
+    "StatModeld": 25102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1721,
+    "StatModeld": 25102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1722,
+    "StatModeld": 25102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1723,
+    "StatModeld": 25102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1724,
+    "StatModeld": 25102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1725,
+    "StatModeld": 25102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1726,
+    "StatModeld": 25102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1727,
+    "StatModeld": 25102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1728,
+    "StatModeld": 25102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 5000,
+    "ID": 1729,
+    "StatModeld": 25103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1730,
+    "StatModeld": 25103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1731,
+    "StatModeld": 25103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 5000,
+    "ID": 1732,
+    "StatModeld": 25103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1733,
+    "StatModeld": 25103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1734,
+    "StatModeld": 25103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1735,
+    "StatModeld": 25103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1736,
+    "StatModeld": 25103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1737,
+    "StatModeld": 25103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1738,
+    "StatModeld": 25103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1739,
+    "StatModeld": 25103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 29000,
+    "ID": 1740,
+    "StatModeld": 25103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1741,
+    "StatModeld": 25103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1742,
+    "StatModeld": 25103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1743,
+    "StatModeld": 25103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1744,
+    "StatModeld": 25103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1745,
+    "StatModeld": 25103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1746,
+    "StatModeld": 25103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 11000,
+    "ID": 1747,
+    "StatModeld": 25103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1748,
+    "StatModeld": 25103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1749,
+    "StatModeld": 25103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1750,
+    "StatModeld": 25103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1751,
+    "StatModeld": 25103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1752,
+    "StatModeld": 25103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1753,
+    "StatModeld": 25103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1754,
+    "StatModeld": 25103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1755,
+    "StatModeld": 25103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1756,
+    "StatModeld": 25103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1757,
+    "StatModeld": 20101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1758,
+    "StatModeld": 20101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1759,
+    "StatModeld": 20101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 4000,
+    "ID": 1760,
+    "StatModeld": 20101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1761,
+    "StatModeld": 20101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1762,
+    "StatModeld": 20101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1763,
+    "StatModeld": 20101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1764,
+    "StatModeld": 20101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1765,
+    "StatModeld": 20101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1766,
+    "StatModeld": 20101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1767,
+    "StatModeld": 20101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1768,
+    "StatModeld": 20101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1769,
+    "StatModeld": 20101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1770,
+    "StatModeld": 20101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1771,
+    "StatModeld": 20101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1772,
+    "StatModeld": 20101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1773,
+    "StatModeld": 20101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1774,
+    "StatModeld": 20101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1775,
+    "StatModeld": 20101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1776,
+    "StatModeld": 20101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1777,
+    "StatModeld": 20101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1778,
+    "StatModeld": 20101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1779,
+    "StatModeld": 20101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1780,
+    "StatModeld": 20101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1781,
+    "StatModeld": 20101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1782,
+    "StatModeld": 20101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1783,
+    "StatModeld": 20101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1784,
+    "StatModeld": 20101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 4000,
+    "ID": 1785,
+    "StatModeld": 20102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1786,
+    "StatModeld": 20102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1787,
+    "StatModeld": 20102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 12000,
+    "ID": 1788,
+    "StatModeld": 20102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1789,
+    "StatModeld": 20102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1790,
+    "StatModeld": 20102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 14000,
+    "ID": 1791,
+    "StatModeld": 20102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1792,
+    "StatModeld": 20102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1793,
+    "StatModeld": 20102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1794,
+    "StatModeld": 20102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1795,
+    "StatModeld": 20102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1796,
+    "StatModeld": 20102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1797,
+    "StatModeld": 20102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1798,
+    "StatModeld": 20102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1799,
+    "StatModeld": 20102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1800,
+    "StatModeld": 20102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1801,
+    "StatModeld": 20102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1802,
+    "StatModeld": 20102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1803,
+    "StatModeld": 20102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1804,
+    "StatModeld": 20102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1805,
+    "StatModeld": 20102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1806,
+    "StatModeld": 20102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1807,
+    "StatModeld": 20102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1808,
+    "StatModeld": 20102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1809,
+    "StatModeld": 20102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1810,
+    "StatModeld": 20102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1811,
+    "StatModeld": 20102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1812,
+    "StatModeld": 20102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 4000,
+    "ID": 1813,
+    "StatModeld": 20103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1814,
+    "StatModeld": 20103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1815,
+    "StatModeld": 20103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 4000,
+    "ID": 1816,
+    "StatModeld": 20103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1817,
+    "StatModeld": 20103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1818,
+    "StatModeld": 20103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 24000,
+    "ID": 1819,
+    "StatModeld": 20103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1820,
+    "StatModeld": 20103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1821,
+    "StatModeld": 20103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1822,
+    "StatModeld": 20103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1823,
+    "StatModeld": 20103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 28000,
+    "ID": 1824,
+    "StatModeld": 20103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1825,
+    "StatModeld": 20103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1826,
+    "StatModeld": 20103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1827,
+    "StatModeld": 20103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1828,
+    "StatModeld": 20103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1829,
+    "StatModeld": 20103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1830,
+    "StatModeld": 20103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 10000,
+    "ID": 1831,
+    "StatModeld": 20103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1832,
+    "StatModeld": 20103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1833,
+    "StatModeld": 20103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1834,
+    "StatModeld": 20103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1835,
+    "StatModeld": 20103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1836,
+    "StatModeld": 20103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1837,
+    "StatModeld": 20103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1838,
+    "StatModeld": 20103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1839,
+    "StatModeld": 20103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1840,
+    "StatModeld": 20103,
+    "EStatType": "ElementDamDarkness"
+  }
+]

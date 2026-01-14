@@ -1,19 +1,21 @@
 [
   {
-    "ID": 300,
-    "Title": "Event.24Halloween.MiniGameA.Title",
-    "RankingGroupMain": 500,
-    "RankingGroupSub": 0,
-    "RecordReward": 404,
-    "TutorialID": 2005,
-    "HorizontalSpeed": 15,
-    "FallAcceleration": 30,
     "RiseHeight": 1,
     "RiseVerticalSpeed": 6,
-    "PCPrefab": "Flappy_Player_Halloween",
-    "ItemPrefab": "Flappy_Item_Halloween",
-    "BGPrefab": "Flappy_BGController_Halloween",
+    "FallAcceleration": 30,
+    "BGUseType": 1,
+    "HorizontalSpeed": 15,
+    "ID": 300,
+    "RecordReward": 410,
     "GroupID": 20030,
+    "TutorialID": 2005,
+    "RankingGroupMain": 500,
+    "RankingGroupSub": 0,
+    "Title": "Event.24Halloween.MiniGameA.Title",
+    "BGPrefab": "Flappy_BGController_Halloween",
+    "PCPrefab": "Flappy_Player_Halloween",
+    "RecordRewardReset": "Daily",
+    "ItemPrefab": "Flappy_Item_Halloween",
     "ResultPopupImg": "Img_Event_Result_Flappy"
   }
 ]

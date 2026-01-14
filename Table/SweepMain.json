@@ -1,79 +1,79 @@
 [
   {
+    "PaymentItemValue": 0,
     "ID": 1,
-    "ContentsType": "NormalGate",
-    "ModeType": "SJW",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
     "ConsumptionType": true,
-    "PaymentItemType": "",
+    "ConditionValue": 25,
     "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ContentsType": "NormalGate",
+    "PaymentItemType": "",
+    "ConditionType": "Power",
+    "ModeType": "SJW"
   },
   {
+    "PaymentItemValue": 0,
     "ID": 2,
+    "ConsumptionType": true,
+    "ConditionValue": 25,
+    "PaymentItemIndex": 0,
     "ContentsType": "NormalGate",
-    "ModeType": "Hunter",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
-    "ConsumptionType": true,
     "PaymentItemType": "",
-    "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ConditionType": "Power",
+    "ModeType": "Hunter"
   },
   {
+    "PaymentItemValue": 0,
     "ID": 3,
-    "ContentsType": "RedGate",
-    "ModeType": "SJW",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
     "ConsumptionType": true,
-    "PaymentItemType": "",
+    "ConditionValue": 25,
     "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ContentsType": "RedGate",
+    "PaymentItemType": "",
+    "ConditionType": "Power",
+    "ModeType": "SJW"
   },
   {
+    "PaymentItemValue": 0,
     "ID": 4,
+    "ConsumptionType": true,
+    "ConditionValue": 25,
+    "PaymentItemIndex": 0,
     "ContentsType": "RedGate",
-    "ModeType": "Hunter",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
-    "ConsumptionType": true,
     "PaymentItemType": "",
-    "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ConditionType": "Power",
+    "ModeType": "Hunter"
   },
   {
+    "PaymentItemValue": 0,
     "ID": 5,
+    "ConsumptionType": true,
+    "ConditionValue": 25,
+    "PaymentItemIndex": 0,
     "ContentsType": "DungeonBreak",
-    "ModeType": "SJW",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
-    "ConsumptionType": true,
     "PaymentItemType": "",
-    "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ConditionType": "Power",
+    "ModeType": "SJW"
   },
   {
+    "PaymentItemValue": 0,
     "ID": 6,
-    "ContentsType": "SpecialGate",
-    "ModeType": "SJW",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
     "ConsumptionType": true,
-    "PaymentItemType": "",
+    "ConditionValue": 25,
     "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ContentsType": "SpecialGate",
+    "PaymentItemType": "",
+    "ConditionType": "Power",
+    "ModeType": "SJW"
   },
   {
+    "PaymentItemValue": 0,
     "ID": 7,
-    "ContentsType": "SpecialGate",
-    "ModeType": "Hunter",
-    "ConditionType": "Power",
-    "ConditionValue": 25,
     "ConsumptionType": true,
-    "PaymentItemType": "",
+    "ConditionValue": 25,
     "PaymentItemIndex": 0,
-    "PaymentItemValue": 0
+    "ContentsType": "SpecialGate",
+    "PaymentItemType": "",
+    "ConditionType": "Power",
+    "ModeType": "Hunter"
   }
 ]

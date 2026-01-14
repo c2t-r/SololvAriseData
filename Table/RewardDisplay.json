@@ -1,3692 +1,4248 @@
 [
   {
     "ID": 100001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1000,
     "DisplayIcon": "Item_Package_Epic",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.100001",
     "DisplayDesc": "It.StringDesc.100001",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.StringName.100001"
   },
   {
     "ID": 100101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1001,
     "DisplayIcon": "Item_Package_Epic",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.100101",
     "DisplayDesc": "It.StringDesc.100101",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.StringName.100101"
   },
   {
     "ID": 13000101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 130001,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 13000102,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 130001,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 13004001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030002,
+    "DisplayView": true,
     "DisplayGroupID": 130040,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10030002",
     "DisplayDesc": "It.StringDesc.10030002",
-    "DisplayView": true,
-    "RelatedItemID": 10030002
+    "DisplayName": "It.StringName.10030002"
   },
   {
     "ID": 13004002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 130040,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 13004003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 130040,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 13004004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 130040,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 13008001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030003,
+    "DisplayView": true,
     "DisplayGroupID": 130080,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10030003",
     "DisplayDesc": "It.StringDesc.10030003",
-    "DisplayView": true,
-    "RelatedItemID": 10030003
+    "DisplayName": "It.StringName.10030003"
   },
   {
     "ID": 13008002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030002,
+    "DisplayView": true,
     "DisplayGroupID": 130080,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10030002",
     "DisplayDesc": "It.StringDesc.10030002",
-    "DisplayView": true,
-    "RelatedItemID": 10030002
+    "DisplayName": "It.StringName.10030002"
   },
   {
     "ID": 13008003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 130080,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 13008004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050003,
+    "DisplayView": true,
     "DisplayGroupID": 130080,
     "DisplayIcon": "Item_Artifact_LevelUP_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10050003",
     "DisplayDesc": "It.StringDesc.10050003",
-    "DisplayView": true,
-    "RelatedItemID": 10050003
+    "DisplayName": "It.StringName.10050003"
   },
   {
     "ID": 13008005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 130080,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 13008006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 130080,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 13108010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050003,
+    "DisplayView": true,
     "DisplayGroupID": 131080,
     "DisplayIcon": "Item_Artifact_LevelUP_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10050003",
     "DisplayDesc": "It.StringDesc.10050003",
-    "DisplayView": true,
-    "RelatedItemID": 10050003
+    "DisplayName": "It.StringName.10050003"
   },
   {
     "ID": 13108011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 131080,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 13108012,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 131080,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 13200101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10032001,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_HunterSkillUp_GS_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10032001",
     "DisplayDesc": "It.StringDesc.10032001",
-    "DisplayView": true,
-    "RelatedItemID": 10032001
+    "DisplayName": "It.StringName.10032001"
   },
   {
     "ID": 13200102,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 13200103,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 13200104,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 13200105,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 13200106,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 13200107,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 13200108,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040007,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_SJW",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040007",
     "DisplayDesc": "It.StringDesc.10040007",
-    "DisplayView": true,
-    "RelatedItemID": 10040007
+    "DisplayName": "It.StringName.10040007"
   },
   {
     "ID": 13200109,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 13200110,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 13200111,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 13200112,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 13200113,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 132001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 13204001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10032002,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_HunterSkillUp_GS_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10032002",
     "DisplayDesc": "It.StringDesc.10032002",
-    "DisplayView": true,
-    "RelatedItemID": 10032002
+    "DisplayName": "It.StringName.10032002"
   },
   {
     "ID": 13204002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10032001,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_HunterSkillUp_GS_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10032001",
     "DisplayDesc": "It.StringDesc.10032001",
-    "DisplayView": true,
-    "RelatedItemID": 10032001
+    "DisplayName": "It.StringName.10032001"
   },
   {
     "ID": 13204003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 13204004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 13204005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 13204006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 13204007,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 13204008,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 13204009,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040007,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_SJW",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040007",
     "DisplayDesc": "It.StringDesc.10040007",
-    "DisplayView": true,
-    "RelatedItemID": 10040007
+    "DisplayName": "It.StringName.10040007"
   },
   {
     "ID": 13204010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 13204011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 13204012,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 13204013,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 13204014,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 132040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 13208001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10032003,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_HunterSkillUp_GS_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10032003",
     "DisplayDesc": "It.StringDesc.10032003",
-    "DisplayView": true,
-    "RelatedItemID": 10032003
+    "DisplayName": "It.StringName.10032003"
   },
   {
     "ID": 13208002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10032002,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_HunterSkillUp_GS_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10032002",
     "DisplayDesc": "It.StringDesc.10032002",
-    "DisplayView": true,
-    "RelatedItemID": 10032002
+    "DisplayName": "It.StringName.10032002"
   },
   {
     "ID": 13208003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10032001,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_HunterSkillUp_GS_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10032001",
     "DisplayDesc": "It.StringDesc.10032001",
-    "DisplayView": true,
-    "RelatedItemID": 10032001
+    "DisplayName": "It.StringName.10032001"
   },
   {
     "ID": 13208004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 13208005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 13208006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 13208007,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 13208008,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 13208009,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 13208010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040007,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_SJW",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040007",
     "DisplayDesc": "It.StringDesc.10040007",
-    "DisplayView": true,
-    "RelatedItemID": 10040007
+    "DisplayName": "It.StringName.10040007"
   },
   {
     "ID": 13208011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 13208012,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 13208013,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 13208014,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 13208015,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 132080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 13800101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 138001,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 13804001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030002,
+    "DisplayView": true,
     "DisplayGroupID": 138040,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10030002",
     "DisplayDesc": "It.StringDesc.10030002",
-    "DisplayView": true,
-    "RelatedItemID": 10030002
+    "DisplayName": "It.StringName.10030002"
   },
   {
     "ID": 13804002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 138040,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 13808001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030003,
+    "DisplayView": true,
     "DisplayGroupID": 138080,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10030003",
     "DisplayDesc": "It.StringDesc.10030003",
-    "DisplayView": true,
-    "RelatedItemID": 10030003
+    "DisplayName": "It.StringName.10030003"
   },
   {
     "ID": 13808002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030002,
+    "DisplayView": true,
     "DisplayGroupID": 138080,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10030002",
     "DisplayDesc": "It.StringDesc.10030002",
-    "DisplayView": true,
-    "RelatedItemID": 10030002
+    "DisplayName": "It.StringName.10030002"
   },
   {
     "ID": 13808003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 138080,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 14000101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160001,
+    "DisplayView": true,
     "DisplayGroupID": 140001,
     "DisplayIcon": "Icon_Weapon_Levelup_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160001",
     "DisplayDesc": "It.StringDesc.10160001",
-    "DisplayView": true,
-    "RelatedItemID": 10160001
+    "DisplayName": "It.StringName.10160001"
   },
   {
     "ID": 14004001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160002,
+    "DisplayView": true,
     "DisplayGroupID": 140040,
     "DisplayIcon": "Icon_Weapon_Levelup_2",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160002",
     "DisplayDesc": "It.StringDesc.10160002",
-    "DisplayView": true,
-    "RelatedItemID": 10160002
+    "DisplayName": "It.StringName.10160002"
   },
   {
     "ID": 14004002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160001,
+    "DisplayView": true,
     "DisplayGroupID": 140040,
     "DisplayIcon": "Icon_Weapon_Levelup_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160001",
     "DisplayDesc": "It.StringDesc.10160001",
-    "DisplayView": true,
-    "RelatedItemID": 10160001
+    "DisplayName": "It.StringName.10160001"
   },
   {
     "ID": 14108001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160003,
+    "DisplayView": true,
     "DisplayGroupID": 141080,
     "DisplayIcon": "Icon_Weapon_Levelup_3",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160003",
     "DisplayDesc": "It.StringDesc.10160003",
-    "DisplayView": true,
-    "RelatedItemID": 10160003
+    "DisplayName": "It.StringName.10160003"
   },
   {
     "ID": 14108002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160002,
+    "DisplayView": true,
     "DisplayGroupID": 141080,
     "DisplayIcon": "Icon_Weapon_Levelup_2",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160002",
     "DisplayDesc": "It.StringDesc.10160002",
-    "DisplayView": true,
-    "RelatedItemID": 10160002
+    "DisplayName": "It.StringName.10160002"
   },
   {
     "ID": 14108003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160001,
+    "DisplayView": true,
     "DisplayGroupID": 141080,
     "DisplayIcon": "Icon_Weapon_Levelup_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160001",
     "DisplayDesc": "It.StringDesc.10160001",
-    "DisplayView": true,
-    "RelatedItemID": 10160001
+    "DisplayName": "It.StringName.10160001"
   },
   {
     "ID": 14200101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10090001,
+    "DisplayView": true,
     "DisplayGroupID": 142001,
     "DisplayIcon": "Item_Material_RuneCraft_Rune_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10090001",
     "DisplayDesc": "It.StringDesc.10090001",
-    "DisplayView": true,
-    "RelatedItemID": 10090001
+    "DisplayName": "It.StringName.10090001"
   },
   {
     "ID": 14204001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10090001,
+    "DisplayView": true,
     "DisplayGroupID": 142040,
     "DisplayIcon": "Item_Material_RuneCraft_Rune_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10090001",
     "DisplayDesc": "It.StringDesc.10090001",
-    "DisplayView": true,
-    "RelatedItemID": 10090001
+    "DisplayName": "It.StringName.10090001"
   },
   {
     "ID": 14208001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10090001,
+    "DisplayView": true,
     "DisplayGroupID": 142080,
     "DisplayIcon": "Item_Material_RuneCraft_Rune_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10090001",
     "DisplayDesc": "It.StringDesc.10090001",
-    "DisplayView": true,
-    "RelatedItemID": 10090001
+    "DisplayName": "It.StringName.10090001"
   },
   {
     "ID": 14800101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 14800102,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 14800103,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 14800104,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 14800105,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 14800106,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 14800107,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 14800108,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 14800109,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 14800110,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 14800111,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 148001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 14804001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 14804002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 14804003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 14804004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 14804005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 14804006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 14804007,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 14804008,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 14804009,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 14804010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 14804011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 148040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 14808001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 14808002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 14808003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 14808004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 14808005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 14808006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 14808007,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 14808008,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 14808009,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 14808010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 14808011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 148080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 14900101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 14900102,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 14900103,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 14900104,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 14900105,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 14900106,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 14900107,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 14900108,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 14900109,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 14900110,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 14900111,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 149001,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 14904001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 14904002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 14904003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 14904004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 14904005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 14904006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 14904007,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 14904008,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 14904009,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 14904010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 14904011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 149040,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 14908001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040001,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Assassin",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040001",
     "DisplayDesc": "It.StringDesc.10040001",
-    "DisplayView": true,
-    "RelatedItemID": 10040001
+    "DisplayName": "It.StringName.10040001"
   },
   {
     "ID": 14908002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040002,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fighter",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040002",
     "DisplayDesc": "It.StringDesc.10040002",
-    "DisplayView": true,
-    "RelatedItemID": 10040002
+    "DisplayName": "It.StringName.10040002"
   },
   {
     "ID": 14908003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040003,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Tank",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040003",
     "DisplayDesc": "It.StringDesc.10040003",
-    "DisplayView": true,
-    "RelatedItemID": 10040003
+    "DisplayName": "It.StringName.10040003"
   },
   {
     "ID": 14908004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040004,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Mage",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040004",
     "DisplayDesc": "It.StringDesc.10040004",
-    "DisplayView": true,
-    "RelatedItemID": 10040004
+    "DisplayName": "It.StringName.10040004"
   },
   {
     "ID": 14908005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040005,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Ranger",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040005",
     "DisplayDesc": "It.StringDesc.10040005",
-    "DisplayView": true,
-    "RelatedItemID": 10040005
+    "DisplayName": "It.StringName.10040005"
   },
   {
     "ID": 14908006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10040006,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Healer",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040006",
     "DisplayDesc": "It.StringDesc.10040006",
-    "DisplayView": true,
-    "RelatedItemID": 10040006
+    "DisplayName": "It.StringName.10040006"
   },
   {
     "ID": 14908007,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041001",
     "DisplayDesc": "It.StringDesc.10041001",
-    "DisplayView": true,
-    "RelatedItemID": 10041001
+    "DisplayName": "It.StringName.10041001"
   },
   {
     "ID": 14908008,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Water",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041002",
     "DisplayDesc": "It.StringDesc.10041002",
-    "DisplayView": true,
-    "RelatedItemID": 10041002
+    "DisplayName": "It.StringName.10041002"
   },
   {
     "ID": 14908009,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041003",
     "DisplayDesc": "It.StringDesc.10041003",
-    "DisplayView": true,
-    "RelatedItemID": 10041003
+    "DisplayName": "It.StringName.10041003"
   },
   {
     "ID": 14908010,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Light",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041004",
     "DisplayDesc": "It.StringDesc.10041004",
-    "DisplayView": true,
-    "RelatedItemID": 10041004
+    "DisplayName": "It.StringName.10041004"
   },
   {
     "ID": 14908011,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
     "DisplayGroupID": 149080,
     "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10041005",
     "DisplayDesc": "It.StringDesc.10041005",
-    "DisplayView": true,
-    "RelatedItemID": 10041005
+    "DisplayName": "It.StringName.10041005"
   },
   {
     "ID": 15000101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 150001,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15004001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 150040,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15004002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 150040,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15008001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 150080,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15008002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 150080,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15100101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 151001,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15104001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 151040,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15104002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 151040,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15108001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 151080,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15108002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 151080,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15200101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 152001,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15204001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 152040,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15204002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 152040,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15208001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 152080,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15208002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 152080,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15800101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 158001,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15804001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 158040,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15804002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 158040,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15808001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 158080,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15808002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 158080,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15900101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 159001,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15904001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 159040,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15904002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 159040,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 15908001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000010,
+    "DisplayView": true,
     "DisplayGroupID": 159080,
     "DisplayIcon": "Currency_IndunEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.IndunEnterPointName",
     "DisplayDesc": "Currency.IndunEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000010
+    "DisplayName": "Currency.IndunEnterPointName"
   },
   {
     "ID": 15908002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000015,
+    "DisplayView": true,
     "DisplayGroupID": 159080,
     "DisplayIcon": "Currency_AdvantEnterPoint",
     "DisplayRarity": "Common",
-    "DisplayName": "Currency.AdventEnterPointName",
     "DisplayDesc": "Currency.AdventEnterPointDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000015
+    "DisplayName": "Currency.AdventEnterPointName"
   },
   {
     "ID": 16200101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 162001,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 16204001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 162040,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 16204002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 162040,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 16208001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050003,
+    "DisplayView": true,
     "DisplayGroupID": 162080,
     "DisplayIcon": "Item_Artifact_LevelUP_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10050003",
     "DisplayDesc": "It.StringDesc.10050003",
-    "DisplayView": true,
-    "RelatedItemID": 10050003
+    "DisplayName": "It.StringName.10050003"
   },
   {
     "ID": 16208002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 162080,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 16208003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 162080,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 16800101,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10080006,
+    "DisplayView": true,
     "DisplayGroupID": 168000,
     "DisplayIcon": "Item_Material_Decomposition_Shadow_Core",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10080006",
     "DisplayDesc": "It.StringDesc.10080006",
-    "DisplayView": true,
-    "RelatedItemID": 10080006
+    "DisplayName": "It.StringName.10080006"
   },
   {
     "ID": 16800102,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10110001,
+    "DisplayView": true,
     "DisplayGroupID": 168000,
     "DisplayIcon": "Item_Material_ShadowEXP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10110001",
     "DisplayDesc": "It.StringDesc.10110001",
-    "DisplayView": true,
-    "RelatedItemID": 10110001
+    "DisplayName": "It.StringName.10110001"
   },
   {
     "ID": 16800103,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10190001,
+    "DisplayView": true,
     "DisplayGroupID": 168000,
     "DisplayIcon": "Item_Material_ShadowLevel_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10190001",
     "DisplayDesc": "It.StringDesc.10190001",
-    "DisplayView": true,
-    "RelatedItemID": 10190001
+    "DisplayName": "It.StringName.10190001"
   },
   {
     "ID": 16804001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10080006,
+    "DisplayView": true,
     "DisplayGroupID": 168040,
     "DisplayIcon": "Item_Material_Decomposition_Shadow_Core",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10080006",
     "DisplayDesc": "It.StringDesc.10080006",
-    "DisplayView": true,
-    "RelatedItemID": 10080006
+    "DisplayName": "It.StringName.10080006"
   },
   {
     "ID": 16804002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10110002,
+    "DisplayView": true,
     "DisplayGroupID": 168040,
     "DisplayIcon": "Item_Material_ShadowEXP_2",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10110002",
     "DisplayDesc": "It.StringDesc.10110002",
-    "DisplayView": true,
-    "RelatedItemID": 10110002
+    "DisplayName": "It.StringName.10110002"
   },
   {
     "ID": 16804003,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10110001,
+    "DisplayView": true,
     "DisplayGroupID": 168040,
     "DisplayIcon": "Item_Material_ShadowEXP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10110001",
     "DisplayDesc": "It.StringDesc.10110001",
-    "DisplayView": true,
-    "RelatedItemID": 10110001
+    "DisplayName": "It.StringName.10110001"
   },
   {
     "ID": 16804004,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10190001,
+    "DisplayView": true,
     "DisplayGroupID": 168040,
     "DisplayIcon": "Item_Material_ShadowLevel_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10190001",
     "DisplayDesc": "It.StringDesc.10190001",
-    "DisplayView": true,
-    "RelatedItemID": 10190001
+    "DisplayName": "It.StringName.10190001"
   },
   {
     "ID": 16808001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10080006,
+    "DisplayView": true,
     "DisplayGroupID": 168080,
     "DisplayIcon": "Item_Material_Decomposition_Shadow_Core",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10080006",
     "DisplayDesc": "It.StringDesc.10080006",
-    "DisplayView": true,
-    "RelatedItemID": 10080006
+    "DisplayName": "It.StringName.10080006"
   },
   {
     "ID": 16808002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10110003,
+    "DisplayView": true,
     "DisplayGroupID": 168080,
     "DisplayIcon": "Item_Material_ShadowEXP_3",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10110003",
     "DisplayDesc": "It.StringDesc.10110003",
-    "DisplayView": true,
-    "RelatedItemID": 10110003
+    "DisplayName": "It.StringName.10110003"
   },
   {
     "ID": 16808003,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10110002,
+    "DisplayView": true,
     "DisplayGroupID": 168080,
     "DisplayIcon": "Item_Material_ShadowEXP_2",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10110002",
     "DisplayDesc": "It.StringDesc.10110002",
-    "DisplayView": true,
-    "RelatedItemID": 10110002
+    "DisplayName": "It.StringName.10110002"
   },
   {
     "ID": 16808004,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10110001,
+    "DisplayView": true,
     "DisplayGroupID": 168080,
     "DisplayIcon": "Item_Material_ShadowEXP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10110001",
     "DisplayDesc": "It.StringDesc.10110001",
-    "DisplayView": true,
-    "RelatedItemID": 10110001
+    "DisplayName": "It.StringName.10110001"
   },
   {
     "ID": 16808005,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10190001,
+    "DisplayView": true,
     "DisplayGroupID": 168080,
     "DisplayIcon": "Item_Material_ShadowLevel_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10190001",
     "DisplayDesc": "It.StringDesc.10190001",
+    "DisplayName": "It.StringName.10190001"
+  },
+  {
+    "ID": 16903001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10033001,
     "DisplayView": true,
-    "RelatedItemID": 10190001
+    "DisplayGroupID": 169030,
+    "DisplayIcon": "Iitem_HunterSkillUp_Shadow_1",
+    "DisplayRarity": "Common",
+    "DisplayDesc": "It.StringDesc.10033001",
+    "DisplayName": "It.StringName.10033001"
+  },
+  {
+    "ID": 16907001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10033002,
+    "DisplayView": true,
+    "DisplayGroupID": 169070,
+    "DisplayIcon": "Iitem_HunterSkillUp_Shadow_2",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.10033002",
+    "DisplayName": "It.StringName.10033002"
+  },
+  {
+    "ID": 16907002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10033001,
+    "DisplayView": true,
+    "DisplayGroupID": 169070,
+    "DisplayIcon": "Iitem_HunterSkillUp_Shadow_1",
+    "DisplayRarity": "Common",
+    "DisplayDesc": "It.StringDesc.10033001",
+    "DisplayName": "It.StringName.10033001"
   },
   {
     "ID": 11010101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110101,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11020101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110201,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11030101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110301,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11040101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110401,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11050101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110501,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11060101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110601,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11012001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110120,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11022001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110220,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11032001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110320,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11042001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110420,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11052001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110520,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11062001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110620,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11014001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110140,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11024001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110240,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11034001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110340,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11044001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110440,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11054001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110540,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11064001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110640,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11016001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110160,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11026001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110260,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11036001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110360,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11046001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110460,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11056001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110560,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11066001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110660,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11018001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110180,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11028001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110280,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11038001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110380,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11048001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110480,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11058001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110580,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11068001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 110680,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11840101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118401,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11850101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118501,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11860101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118601,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11842001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118420,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11852001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118520,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11862001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118620,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11844001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118440,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11854001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118540,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11864001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118640,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11846001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118460,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11856001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118560,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11866001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118660,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11848001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118480,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11858001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118580,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 11868001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 118680,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 17010001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 1000016,
+    "DisplayView": true,
     "DisplayGroupID": 170100,
     "DisplayIcon": "Currency_ExchangeJewel",
     "DisplayRarity": "Rare",
-    "DisplayName": "Currency.MagicEssenceName",
     "DisplayDesc": "Currency.MagicEssenceDesc",
-    "DisplayView": true,
-    "RelatedItemID": 1000016
+    "DisplayName": "Currency.MagicEssenceName"
   },
   {
     "ID": 17020001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10130001,
+    "DisplayView": true,
     "DisplayGroupID": 170200,
     "DisplayIcon": "Item_Material_LesserManaSone_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10130001",
     "DisplayDesc": "It.StringDesc.10130001",
-    "DisplayView": true,
-    "RelatedItemID": 10130001
+    "DisplayName": "It.StringName.10130001"
   },
   {
     "ID": 17110001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10020001,
+    "DisplayView": true,
     "DisplayGroupID": 171100,
     "DisplayIcon": "Item_HunterUpgrade_R",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10020001",
     "DisplayDesc": "It.StringDesc.10020001",
-    "DisplayView": true,
-    "RelatedItemID": 10020001
+    "DisplayName": "It.StringName.10020001"
   },
   {
     "ID": 17120001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10020001,
+    "DisplayView": true,
     "DisplayGroupID": 171200,
     "DisplayIcon": "Item_HunterUpgrade_R",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10020001",
     "DisplayDesc": "It.StringDesc.10020001",
-    "DisplayView": true,
-    "RelatedItemID": 10020001
+    "DisplayName": "It.StringName.10020001"
   },
   {
     "ID": 17120002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10020002,
+    "DisplayView": true,
     "DisplayGroupID": 171200,
     "DisplayIcon": "Item_HunterUpgrade_SR",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10020002",
     "DisplayDesc": "It.StringDesc.10020002",
-    "DisplayView": true,
-    "RelatedItemID": 10020002
+    "DisplayName": "It.StringName.10020002"
   },
   {
     "ID": 17130001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10020001,
+    "DisplayView": true,
     "DisplayGroupID": 171300,
     "DisplayIcon": "Item_HunterUpgrade_R",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10020001",
     "DisplayDesc": "It.StringDesc.10020001",
-    "DisplayView": true,
-    "RelatedItemID": 10020001
+    "DisplayName": "It.StringName.10020001"
   },
   {
     "ID": 17130002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10020002,
+    "DisplayView": true,
     "DisplayGroupID": 171300,
     "DisplayIcon": "Item_HunterUpgrade_SR",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10020002",
     "DisplayDesc": "It.StringDesc.10020002",
-    "DisplayView": true,
-    "RelatedItemID": 10020002
+    "DisplayName": "It.StringName.10020002"
   },
   {
     "ID": 17130003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10020003,
+    "DisplayView": true,
     "DisplayGroupID": 171300,
     "DisplayIcon": "Item_HunterUpgrade_SSR",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10020003",
     "DisplayDesc": "It.StringDesc.10020003",
-    "DisplayView": true,
-    "RelatedItemID": 10020003
+    "DisplayName": "It.StringName.10020003"
   },
   {
     "ID": 17210001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10090001,
+    "DisplayView": true,
     "DisplayGroupID": 172100,
     "DisplayIcon": "Item_Material_RuneCraft_Rune_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10090001",
     "DisplayDesc": "It.StringDesc.10090001",
-    "DisplayView": true,
-    "RelatedItemID": 10090001
+    "DisplayName": "It.StringName.10090001"
   },
   {
     "ID": 17311001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173110,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "100",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "100"
   },
   {
     "ID": 17311002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173110,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "100",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "100"
   },
   {
     "ID": 17312001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173120,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "100",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "100"
   },
   {
     "ID": 17312002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173120,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17312003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173120,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "100",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "100"
   },
   {
     "ID": 17312004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173120,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17313001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173130,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "100",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "100"
   },
   {
     "ID": 17313002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173130,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17313003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173130,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17313004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173130,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "100",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "100"
   },
   {
     "ID": 17313005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173130,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17313006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173130,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17321001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173210,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17321002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173210,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17322001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173220,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17322002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173220,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17322003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173220,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17322004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173220,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17323001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173230,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17323002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173230,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17323003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173230,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "200",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "200"
   },
   {
     "ID": 17323004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173230,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17323005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173230,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 17323006,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 173230,
     "DisplayIcon": "0",
     "DisplayRarity": "None",
-    "DisplayName": "500",
     "DisplayDesc": "0",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "500"
   },
   {
     "ID": 11910101,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119101,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910201,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119201,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910301,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119301,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910401,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119401,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 13000001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 130000,
     "DisplayIcon": "Item_Material_ShadowEXP_2",
     "DisplayRarity": "Common",
-    "DisplayName": "",
     "DisplayDesc": "",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": ""
   },
   {
     "ID": 12110001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1211000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12120001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1212000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12130001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1213000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12140001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1214000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12210001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1221000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12220001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1222000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12230001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1223000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12240001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1224000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12310001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1231000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12320001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1232000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12330001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1233000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12340001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1234000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12410001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1241000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12420001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1242000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12430001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1243000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 12440001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1244000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 13110001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1311000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Ring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Ring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Ring"
   },
   {
     "ID": 13120001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1312000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Ring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Ring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Ring"
   },
   {
     "ID": 13130001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1313000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Ring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Ring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Ring"
   },
   {
     "ID": 13140001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1314000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Ring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Ring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Ring"
   },
   {
     "ID": 13210001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1321000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Necklace",
     "DisplayDesc": "It.DisplayDesc.Artifact.Necklace",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Necklace"
   },
   {
     "ID": 13220001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1322000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Necklace",
     "DisplayDesc": "It.DisplayDesc.Artifact.Necklace",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Necklace"
   },
   {
     "ID": 13230001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1323000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Necklace",
     "DisplayDesc": "It.DisplayDesc.Artifact.Necklace",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Necklace"
   },
   {
     "ID": 13240001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1324000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Necklace",
     "DisplayDesc": "It.DisplayDesc.Artifact.Necklace",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Necklace"
   },
   {
     "ID": 13310001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1331000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Earring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Earring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Earring"
   },
   {
     "ID": 13320001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1332000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Earring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Earring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Earring"
   },
   {
     "ID": 13330001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1333000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Earring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Earring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Earring"
   },
   {
     "ID": 13340001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1334000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Earring",
     "DisplayDesc": "It.DisplayDesc.Artifact.Earring",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Earring"
   },
   {
     "ID": 13410001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1341000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Bracelet",
     "DisplayDesc": "It.DisplayDesc.Artifact.Bracelet",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Bracelet"
   },
   {
     "ID": 13420001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1342000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Bracelet",
     "DisplayDesc": "It.DisplayDesc.Artifact.Bracelet",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Bracelet"
   },
   {
     "ID": 13430001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1343000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Bracelet",
     "DisplayDesc": "It.DisplayDesc.Artifact.Bracelet",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Bracelet"
   },
   {
     "ID": 13440001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1344000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Bracelet",
     "DisplayDesc": "It.DisplayDesc.Artifact.Bracelet",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Bracelet"
   },
   {
     "ID": 14110001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1411000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 14120001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1412000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 14130001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1413000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 14140001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1414000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 14210001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1421000,
     "DisplayIcon": "Item_Display_Artifact_All_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14220001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1422000,
     "DisplayIcon": "Item_Display_Artifact_All_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14230001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1423000,
     "DisplayIcon": "Item_Display_Artifact_All_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14240001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1424000,
     "DisplayIcon": "Item_Display_Artifact_All_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14310001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1431000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14320001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1432000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14330001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1433000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14340001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1434000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14410001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1441000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14420001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1442000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14430001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1443000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14440001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1444000,
     "DisplayIcon": "Item_Display_Artifact_Equip_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14510001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1451000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14520001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1452000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14530001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1453000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14540001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1454000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14610001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1461000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Common",
     "DisplayRarity": "Common",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14620001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1462000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Rare",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14630001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1463000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 14640001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 1464000,
     "DisplayIcon": "Item_Display_Artifact_Acc_Legendary",
     "DisplayRarity": "Legendary",
-    "DisplayName": "It.DisplayName.Artifact.All",
     "DisplayDesc": "It.DisplayDesc.Artifact.All",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.All"
   },
   {
     "ID": 4003001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050003,
+    "DisplayView": true,
     "DisplayGroupID": 4003000,
     "DisplayIcon": "Item_Artifact_LevelUP_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10050003",
     "DisplayDesc": "It.StringDesc.10050003",
-    "DisplayView": true,
-    "RelatedItemID": 10050003
+    "DisplayName": "It.StringName.10050003"
   },
   {
     "ID": 4003002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 4003000,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 4003003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 4003000,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 4002001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10050002,
+    "DisplayView": true,
     "DisplayGroupID": 4002000,
     "DisplayIcon": "Item_Artifact_LevelUP_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10050002",
     "DisplayDesc": "It.StringDesc.10050002",
-    "DisplayView": true,
-    "RelatedItemID": 10050002
+    "DisplayName": "It.StringName.10050002"
   },
   {
     "ID": 4002002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 4002000,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 4001001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10050001,
+    "DisplayView": true,
     "DisplayGroupID": 4001000,
     "DisplayIcon": "Item_Artifact_LevelUP_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10050001",
     "DisplayDesc": "It.StringDesc.10050001",
-    "DisplayView": true,
-    "RelatedItemID": 10050001
+    "DisplayName": "It.StringName.10050001"
   },
   {
     "ID": 2203001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030003,
+    "DisplayView": true,
     "DisplayGroupID": 2203000,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10030003",
     "DisplayDesc": "It.StringDesc.10030003",
-    "DisplayView": true,
-    "RelatedItemID": 10030003
+    "DisplayName": "It.StringName.10030003"
   },
   {
     "ID": 2203002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030002,
+    "DisplayView": true,
     "DisplayGroupID": 2203000,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10030002",
     "DisplayDesc": "It.StringDesc.10030002",
-    "DisplayView": true,
-    "RelatedItemID": 10030002
+    "DisplayName": "It.StringName.10030002"
   },
   {
     "ID": 2203003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 2203000,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 2202001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10030002,
+    "DisplayView": true,
     "DisplayGroupID": 2202000,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10030002",
     "DisplayDesc": "It.StringDesc.10030002",
-    "DisplayView": true,
-    "RelatedItemID": 10030002
+    "DisplayName": "It.StringName.10030002"
   },
   {
     "ID": 2202002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 2202000,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 2201001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10030001,
+    "DisplayView": true,
     "DisplayGroupID": 2201000,
     "DisplayIcon": "Iitem_HunterSkillUp_SJW_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10030001",
     "DisplayDesc": "It.StringDesc.10030001",
-    "DisplayView": true,
-    "RelatedItemID": 10030001
+    "DisplayName": "It.StringName.10030001"
   },
   {
     "ID": 2303001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10031009,
+    "DisplayView": true,
     "DisplayGroupID": 2303000,
     "DisplayIcon": "Iitem_HunterSkillUp_SSR_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10031009",
     "DisplayDesc": "It.StringDesc.10031009",
-    "DisplayView": true,
-    "RelatedItemID": 10031009
+    "DisplayName": "It.StringName.10031009"
   },
   {
     "ID": 2303002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10031008,
+    "DisplayView": true,
     "DisplayGroupID": 2303000,
     "DisplayIcon": "Iitem_HunterSkillUp_SR_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10031008",
     "DisplayDesc": "It.StringDesc.10031008",
-    "DisplayView": true,
-    "RelatedItemID": 10031008
+    "DisplayName": "It.StringName.10031008"
   },
   {
     "ID": 2303003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10031007,
+    "DisplayView": true,
     "DisplayGroupID": 2303000,
     "DisplayIcon": "Iitem_HunterSkillUp_R_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10031007",
     "DisplayDesc": "It.StringDesc.10031007",
-    "DisplayView": true,
-    "RelatedItemID": 10031007
+    "DisplayName": "It.StringName.10031007"
   },
   {
     "ID": 2302001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10031008,
+    "DisplayView": true,
     "DisplayGroupID": 2302000,
     "DisplayIcon": "Iitem_HunterSkillUp_SR_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10031008",
     "DisplayDesc": "It.StringDesc.10031008",
-    "DisplayView": true,
-    "RelatedItemID": 10031008
+    "DisplayName": "It.StringName.10031008"
   },
   {
     "ID": 2302002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10031007,
+    "DisplayView": true,
     "DisplayGroupID": 2302000,
     "DisplayIcon": "Iitem_HunterSkillUp_R_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10031007",
     "DisplayDesc": "It.StringDesc.10031007",
-    "DisplayView": true,
-    "RelatedItemID": 10031007
+    "DisplayName": "It.StringName.10031007"
   },
   {
     "ID": 2301001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10031007,
+    "DisplayView": true,
     "DisplayGroupID": 2301000,
     "DisplayIcon": "Iitem_HunterSkillUp_R_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10031007",
     "DisplayDesc": "It.StringDesc.10031007",
-    "DisplayView": true,
-    "RelatedItemID": 10031007
+    "DisplayName": "It.StringName.10031007"
   },
   {
     "ID": 5003001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160003,
+    "DisplayView": true,
     "DisplayGroupID": 5003000,
     "DisplayIcon": "Icon_Weapon_Levelup_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10160003",
     "DisplayDesc": "It.StringDesc.10160003",
-    "DisplayView": true,
-    "RelatedItemID": 10160003
+    "DisplayName": "It.StringName.10160003"
   },
   {
     "ID": 5003002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160002,
+    "DisplayView": true,
     "DisplayGroupID": 5003000,
     "DisplayIcon": "Icon_Weapon_Levelup_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10160002",
     "DisplayDesc": "It.StringDesc.10160002",
-    "DisplayView": true,
-    "RelatedItemID": 10160002
+    "DisplayName": "It.StringName.10160002"
   },
   {
     "ID": 5003003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10160001,
+    "DisplayView": true,
     "DisplayGroupID": 5003000,
     "DisplayIcon": "Icon_Weapon_Levelup_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160001",
     "DisplayDesc": "It.StringDesc.10160001",
-    "DisplayView": true,
-    "RelatedItemID": 10160001
+    "DisplayName": "It.StringName.10160001"
   },
   {
     "ID": 5002001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10160002,
+    "DisplayView": true,
     "DisplayGroupID": 5002000,
     "DisplayIcon": "Icon_Weapon_Levelup_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10160002",
     "DisplayDesc": "It.StringDesc.10160002",
-    "DisplayView": true,
-    "RelatedItemID": 10160002
+    "DisplayName": "It.StringName.10160002"
   },
   {
     "ID": 5002002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10160001,
+    "DisplayView": true,
     "DisplayGroupID": 5002000,
     "DisplayIcon": "Icon_Weapon_Levelup_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160001",
     "DisplayDesc": "It.StringDesc.10160001",
-    "DisplayView": true,
-    "RelatedItemID": 10160001
+    "DisplayName": "It.StringName.10160001"
   },
   {
     "ID": 5001001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10160001,
+    "DisplayView": true,
     "DisplayGroupID": 5001000,
     "DisplayIcon": "Icon_Weapon_Levelup_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10160001",
     "DisplayDesc": "It.StringDesc.10160001",
-    "DisplayView": true,
-    "RelatedItemID": 10160001
+    "DisplayName": "It.StringName.10160001"
   },
   {
     "ID": 3003001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10020003,
+    "DisplayView": true,
     "DisplayGroupID": 3003000,
     "DisplayIcon": "Item_HunterUpgrade_SSR",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10020003",
     "DisplayDesc": "It.StringDesc.10020003",
-    "DisplayView": true,
-    "RelatedItemID": 10020003
+    "DisplayName": "It.StringName.10020003"
   },
   {
     "ID": 3003002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10020002,
+    "DisplayView": true,
     "DisplayGroupID": 3003000,
     "DisplayIcon": "Item_HunterUpgrade_SR",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10020002",
     "DisplayDesc": "It.StringDesc.10020002",
-    "DisplayView": true,
-    "RelatedItemID": 10020002
+    "DisplayName": "It.StringName.10020002"
   },
   {
     "ID": 3003003,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10020001,
+    "DisplayView": true,
     "DisplayGroupID": 3003000,
     "DisplayIcon": "Item_HunterUpgrade_R",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10020001",
     "DisplayDesc": "It.StringDesc.10020001",
-    "DisplayView": true,
-    "RelatedItemID": 10020001
+    "DisplayName": "It.StringName.10020001"
   },
   {
     "ID": 3002001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10020002,
+    "DisplayView": true,
     "DisplayGroupID": 3002000,
     "DisplayIcon": "Item_HunterUpgrade_SR",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10020002",
     "DisplayDesc": "It.StringDesc.10020002",
-    "DisplayView": true,
-    "RelatedItemID": 10020002
+    "DisplayName": "It.StringName.10020002"
   },
   {
     "ID": 3002002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10020001,
+    "DisplayView": true,
     "DisplayGroupID": 3002000,
     "DisplayIcon": "Item_HunterUpgrade_R",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10020001",
     "DisplayDesc": "It.StringDesc.10020001",
-    "DisplayView": true,
-    "RelatedItemID": 10020001
+    "DisplayName": "It.StringName.10020001"
   },
   {
     "ID": 3001001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10020001,
+    "DisplayView": true,
     "DisplayGroupID": 3001000,
     "DisplayIcon": "Item_HunterUpgrade_R",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10020001",
     "DisplayDesc": "It.StringDesc.10020001",
-    "DisplayView": true,
-    "RelatedItemID": 10020001
+    "DisplayName": "It.StringName.10020001"
   },
   {
     "ID": 6003001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10170003,
+    "DisplayView": true,
     "DisplayGroupID": 6003000,
     "DisplayIcon": "Item_Material_TimeMark_3",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.StringName.10170003",
     "DisplayDesc": "It.StringDesc.10170003",
-    "DisplayView": true,
-    "RelatedItemID": 10170003
+    "DisplayName": "It.StringName.10170003"
   },
   {
     "ID": 6003002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10170002,
+    "DisplayView": true,
     "DisplayGroupID": 6003000,
     "DisplayIcon": "Item_Material_TimeMark_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10170002",
     "DisplayDesc": "It.StringDesc.10170002",
-    "DisplayView": true,
-    "RelatedItemID": 10170002
+    "DisplayName": "It.StringName.10170002"
   },
   {
     "ID": 6003003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10170001,
+    "DisplayView": true,
     "DisplayGroupID": 6003000,
     "DisplayIcon": "Item_Material_TimeMark_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10170001",
     "DisplayDesc": "It.StringDesc.10170001",
-    "DisplayView": true,
-    "RelatedItemID": 10170001
+    "DisplayName": "It.StringName.10170001"
   },
   {
     "ID": 6002001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10170002,
+    "DisplayView": true,
     "DisplayGroupID": 6002000,
     "DisplayIcon": "Item_Material_TimeMark_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10170002",
     "DisplayDesc": "It.StringDesc.10170002",
-    "DisplayView": true,
-    "RelatedItemID": 10170002
+    "DisplayName": "It.StringName.10170002"
   },
   {
     "ID": 6002002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10170001,
+    "DisplayView": true,
     "DisplayGroupID": 6002000,
     "DisplayIcon": "Item_Material_TimeMark_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10170001",
     "DisplayDesc": "It.StringDesc.10170001",
-    "DisplayView": true,
-    "RelatedItemID": 10170001
+    "DisplayName": "It.StringName.10170001"
   },
   {
     "ID": 6001001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10170001,
+    "DisplayView": true,
     "DisplayGroupID": 6001000,
     "DisplayIcon": "Item_Material_TimeMark_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10170001",
     "DisplayDesc": "It.StringDesc.10170001",
-    "DisplayView": true,
-    "RelatedItemID": 10170001
+    "DisplayName": "It.StringName.10170001"
   },
   {
     "ID": 11910501,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119501,
     "DisplayIcon": "Item_Display_Artifact_Necklace_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910502,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119501,
     "DisplayIcon": "Item_Display_Artifact_Bracelet_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910601,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119601,
     "DisplayIcon": "Item_Display_Artifact_Earring_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910602,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119601,
     "DisplayIcon": "Item_Display_Artifact_Acc_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Acc",
     "DisplayDesc": "It.DisplayDesc.Artifact.Acc",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Acc"
   },
   {
     "ID": 11910701,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119701,
     "DisplayIcon": "Item_Display_Artifact_Gloves_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11910702,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119701,
     "DisplayIcon": "Item_Display_Artifact_Boots_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11910801,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119801,
     "DisplayIcon": "Item_Display_Artifact_Helmet_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
-    "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayName": "It.DisplayName.Artifact.Equip"
   },
   {
     "ID": 11910802,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
     "DisplayGroupID": 119801,
     "DisplayIcon": "Item_Display_Artifact_Equip_Epic",
     "DisplayRarity": "Epic",
-    "DisplayName": "It.DisplayName.Artifact.Equip",
     "DisplayDesc": "It.DisplayDesc.Artifact.Equip",
+    "DisplayName": "It.DisplayName.Artifact.Equip"
+  },
+  {
+    "ID": 1473001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10040010,
     "DisplayView": true,
-    "RelatedItemID": 0
+    "DisplayGroupID": 1473000,
+    "DisplayIcon": "Item_HunterSkillUp_GS_3",
+    "DisplayRarity": "Epic",
+    "DisplayDesc": "It.StringDesc.Limitbreak_BluePrint",
+    "DisplayName": "It.StringName.10040010"
+  },
+  {
+    "ID": 1473002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10040009,
+    "DisplayView": true,
+    "DisplayGroupID": 1473000,
+    "DisplayIcon": "Item_HunterSkillUp_GS_2",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.Limitbreak_BluePrint",
+    "DisplayName": "It.StringName.10040009"
+  },
+  {
+    "ID": 1473003,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10040008,
+    "DisplayView": true,
+    "DisplayGroupID": 1473000,
+    "DisplayIcon": "Item_HunterSkillUp_GS_1",
+    "DisplayRarity": "Common",
+    "DisplayDesc": "It.StringDesc.Limitbreak_BluePrint",
+    "DisplayName": "It.StringName.10040008"
   },
   {
     "ID": 1472001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10040009,
+    "DisplayView": true,
     "DisplayGroupID": 1472000,
     "DisplayIcon": "Item_HunterSkillUp_GS_2",
     "DisplayRarity": "Rare",
-    "DisplayName": "It.StringName.10040009",
     "DisplayDesc": "It.StringDesc.Limitbreak_BluePrint",
-    "DisplayView": true,
-    "RelatedItemID": 10040009
+    "DisplayName": "It.StringName.10040009"
   },
   {
     "ID": 1472002,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10040008,
+    "DisplayView": true,
     "DisplayGroupID": 1472000,
     "DisplayIcon": "Item_HunterSkillUp_GS_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040008",
     "DisplayDesc": "It.StringDesc.Limitbreak_BluePrint",
-    "DisplayView": true,
-    "RelatedItemID": 10040008
+    "DisplayName": "It.StringName.10040008"
   },
   {
     "ID": 1471001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 10040008,
+    "DisplayView": true,
     "DisplayGroupID": 1471000,
     "DisplayIcon": "Item_HunterSkillUp_GS_1",
     "DisplayRarity": "Common",
-    "DisplayName": "It.StringName.10040008",
     "DisplayDesc": "It.StringDesc.Limitbreak_BluePrint",
+    "DisplayName": "It.StringName.10040008"
+  },
+  {
+    "ID": 24010001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041001,
     "DisplayView": true,
-    "RelatedItemID": 10040008
+    "DisplayGroupID": 2401000,
+    "DisplayIcon": "Item_Material_GSLimitBreak_Fire",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.10041001",
+    "DisplayName": "It.StringName.10041001"
+  },
+  {
+    "ID": 24010002,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041002,
+    "DisplayView": true,
+    "DisplayGroupID": 2401000,
+    "DisplayIcon": "Item_Material_GSLimitBreak_Water",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.10041002",
+    "DisplayName": "It.StringName.10041002"
+  },
+  {
+    "ID": 24010003,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041003,
+    "DisplayView": true,
+    "DisplayGroupID": 2401000,
+    "DisplayIcon": "Item_Material_GSLimitBreak_Wind",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.10041003",
+    "DisplayName": "It.StringName.10041003"
+  },
+  {
+    "ID": 24010004,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041004,
+    "DisplayView": true,
+    "DisplayGroupID": 2401000,
+    "DisplayIcon": "Item_Material_GSLimitBreak_Light",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.10041004",
+    "DisplayName": "It.StringName.10041004"
+  },
+  {
+    "ID": 24010005,
+    "RewardDisplay": 0,
+    "RelatedItemID": 10041005,
+    "DisplayView": true,
+    "DisplayGroupID": 2401000,
+    "DisplayIcon": "Item_Material_GSLimitBreak_Dark",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "It.StringDesc.10041005",
+    "DisplayName": "It.StringName.10041005"
+  },
+  {
+    "ID": 24020001,
+    "RewardDisplay": 0,
+    "RelatedItemID": 0,
+    "DisplayView": true,
+    "DisplayGroupID": 2402000,
+    "DisplayIcon": "Item_Material_GSLimitBreak_CubeBoxSingle",
+    "DisplayRarity": "Rare",
+    "DisplayDesc": "Item_Display_Desc_Cube",
+    "DisplayName": "Item_Display_Name_Cube"
+  },
+  {
+    "ID": 2900001,
+    "RewardDisplay": 1,
+    "RelatedItemID": 0,
+    "DisplayView": true,
+    "DisplayGroupID": 2900000,
+    "DisplayIcon": "Gold",
+    "DisplayRarity": "Common",
+    "DisplayDesc": "Currency.GoldDesc",
+    "DisplayName": "Currency.GoldName"
+  },
+  {
+    "ID": 3100001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10260001,
+    "DisplayView": true,
+    "DisplayGroupID": 3100000,
+    "DisplayIcon": "Item_GateBox_GSexp_A",
+    "DisplayRarity": "Epic",
+    "DisplayDesc": "SysConstStr.RewardBox.ListDesc",
+    "DisplayName": "It.StringName.10260001"
+  },
+  {
+    "ID": 3200001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10260002,
+    "DisplayView": true,
+    "DisplayGroupID": 3200000,
+    "DisplayIcon": "Item_GateBox_TimeMark_A",
+    "DisplayRarity": "Epic",
+    "DisplayDesc": "SysConstStr.RewardBox.ListDesc",
+    "DisplayName": "It.StringName.10260002"
+  },
+  {
+    "ID": 3300001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10260003,
+    "DisplayView": true,
+    "DisplayGroupID": 3300000,
+    "DisplayIcon": "Item_GateBox_ShadowExp_A",
+    "DisplayRarity": "Epic",
+    "DisplayDesc": "SysConstStr.RewardBox.ListDesc",
+    "DisplayName": "It.StringName.10260003"
+  },
+  {
+    "ID": 3400001,
+    "RewardDisplay": -1,
+    "RelatedItemID": 10260004,
+    "DisplayView": true,
+    "DisplayGroupID": 3400000,
+    "DisplayIcon": "Item_GateBox_Gold_A",
+    "DisplayRarity": "Epic",
+    "DisplayDesc": "SysConstStr.RewardBox.ListDesc",
+    "DisplayName": "It.StringName.10260004"
   }
 ]

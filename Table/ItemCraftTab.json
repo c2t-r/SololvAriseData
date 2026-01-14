@@ -1,26 +1,46 @@
 [
   {
+    "SubTabGroup": 4,
     "ID": 1,
+    "EventDataID": 0,
+    "IsEventTab": true,
     "TabOrder": 1,
-    "TabType": 1,
-    "TabIcon": "Icon_Tab_Craft_All",
-    "TabNameString": "",
-    "EventDataID": 0
-  },
-  {
-    "ID": 2,
-    "TabOrder": 2,
     "TabType": 2,
-    "TabIcon": "Icon_Tab_Craft_Hunter_SSR",
+    "CraftType": "Event",
     "TabNameString": "",
-    "EventDataID": 0
+    "TabIcon": "Icon_CraftTab_Event"
   },
   {
+    "SubTabGroup": 5,
+    "ID": 2,
+    "EventDataID": 0,
+    "IsEventTab": true,
+    "TabOrder": 2,
+    "TabType": 1,
+    "CraftType": "Normal",
+    "TabNameString": "",
+    "TabIcon": "Icon_CraftTab_All"
+  },
+  {
+    "SubTabGroup": 6,
     "ID": 3,
+    "EventDataID": 0,
+    "IsEventTab": true,
     "TabOrder": 3,
     "TabType": 2,
-    "TabIcon": "Icon_Tab_Craft_Hunter_SR",
+    "CraftType": "Normal",
     "TabNameString": "",
-    "EventDataID": 0
+    "TabIcon": "Icon_CraftTab_WeaponCraft"
+  },
+  {
+    "SubTabGroup": 0,
+    "ID": 4,
+    "EventDataID": 0,
+    "IsEventTab": true,
+    "TabOrder": 4,
+    "TabType": 0,
+    "CraftType": "Artifact",
+    "TabNameString": "",
+    "TabIcon": "Icon_CraftTab_ArtifactCraft"
   }
 ]

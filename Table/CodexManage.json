@@ -1,74 +1,112 @@
 [
   {
-    "ID": 1,
-    "CodexType": "Hunter",
     "CodexOrder": 3,
     "UnUsed": true,
-    "BannerResource": "Collection_Hunter",
+    "ID": 1,
     "IconResource": "Icon_CodexTap_Hunter",
-    "NameTag": "SysConstStr.Glossary.CollectionHunter"
+    "BannerResource": "Collection_Hunter",
+    "NameTag": "SysConstStr.Glossary.CollectionHunter",
+    "CodexType": "Hunter",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 2,
-    "CodexType": "Shadow",
     "CodexOrder": 2,
     "UnUsed": true,
-    "BannerResource": "Collection_Shadow",
+    "ID": 2,
     "IconResource": "Icon_CodexTap_Shadow",
-    "NameTag": "SysConstStr.Glossary.CollectionShadow"
+    "BannerResource": "Collection_Shadow",
+    "NameTag": "SysConstStr.Glossary.CollectionShadow",
+    "CodexType": "Shadow",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 3,
-    "CodexType": "GS",
     "CodexOrder": 1,
     "UnUsed": true,
-    "BannerResource": "Collection_Weapon",
+    "ID": 3,
     "IconResource": "Icon_CodexTap_Weapon",
-    "NameTag": "SysConstStr.Glossary.Weapon"
+    "BannerResource": "Collection_Weapon",
+    "NameTag": "SysConstStr.Glossary.Weapon",
+    "CodexType": "GS",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 5,
-    "CodexType": "Artifact",
     "CodexOrder": 4,
     "UnUsed": true,
-    "BannerResource": "Collection_Artifact",
+    "ID": 5,
     "IconResource": "Icon_CodexTap_Artifact",
-    "NameTag": "SysConstStr.Glossary.CollectionArtifact"
+    "BannerResource": "Collection_Artifact",
+    "NameTag": "SysConstStr.Glossary.CollectionArtifact",
+    "CodexType": "Artifact",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 6,
-    "CodexType": "Active",
     "CodexOrder": 5,
     "UnUsed": true,
-    "BannerResource": "Collection_Rune",
+    "ID": 6,
     "IconResource": "Icon_CodexTap_Rune",
-    "NameTag": "SysConstStr.Glossary.CollectionRune"
+    "BannerResource": "Collection_Rune",
+    "NameTag": "SysConstStr.Glossary.CollectionRune",
+    "CodexType": "Active",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 7,
-    "CodexType": "StoryMemoir",
     "CodexOrder": 7,
     "UnUsed": true,
-    "BannerResource": "Collection_Memory",
+    "ID": 7,
     "IconResource": "Icon_CodexTap_Memory",
-    "NameTag": "SysConstStr.Glossary.CollectionStoryMemoir"
+    "BannerResource": "Collection_Memory",
+    "NameTag": "SysConstStr.Glossary.CollectionStoryMemoir",
+    "CodexType": "StoryMemoir",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 8,
-    "CodexType": "Emblem",
     "CodexOrder": 6,
     "UnUsed": true,
-    "BannerResource": "Collection_Emblem",
+    "ID": 8,
     "IconResource": "Icon_CodexTap_Emblem",
-    "NameTag": "SysConstStr.Glossary.CollectionEmblem"
+    "BannerResource": "Collection_Emblem",
+    "NameTag": "SysConstStr.Glossary.CollectionEmblem",
+    "CodexType": "Emblem",
+    "CodexGroupType": "Normal"
   },
   {
-    "ID": 9,
-    "CodexType": "Core",
     "CodexOrder": 8,
     "UnUsed": true,
-    "BannerResource": "Collection_Core",
+    "ID": 9,
     "IconResource": "Icon_Inventory_MainBtn_Core",
-    "NameTag": "SysConstStr.Glossary.Core"
+    "BannerResource": "Collection_Core",
+    "NameTag": "SysConstStr.Glossary.Core",
+    "CodexType": "Core",
+    "CodexGroupType": "Normal"
+  },
+  {
+    "CodexOrder": 1,
+    "UnUsed": true,
+    "ID": 1001,
+    "IconResource": "Icon_Inventory_MainBtn_Core",
+    "BannerResource": "Collection_Core",
+    "NameTag": "SysConstStr.Glossary.Core",
+    "CodexType": "DimensionBlessItem",
+    "CodexGroupType": "Dimension"
+  },
+  {
+    "CodexOrder": 1,
+    "UnUsed": true,
+    "ID": 1002,
+    "IconResource": "Icon_Inventory_MainBtn_Core",
+    "BannerResource": "Collection_Core",
+    "NameTag": "SysConstStr.Glossary.Core",
+    "CodexType": "DimensionCode",
+    "CodexGroupType": "Dimension"
+  },
+  {
+    "CodexOrder": 1,
+    "UnUsed": true,
+    "ID": 1003,
+    "IconResource": "Icon_Inventory_MainBtn_Core",
+    "BannerResource": "Collection_Core",
+    "NameTag": "SysConstStr.Glossary.Core",
+    "CodexType": "DimensionEpisode",
+    "CodexGroupType": "Dimension"
   }
 ]

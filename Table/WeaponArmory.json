@@ -1,158 +1,368 @@
 [
   {
+    "OpenSkipItem": 0,
+    "SlotIndex": 0,
     "ID": 101,
-    "PageGroup": 1,
-    "SlotIndex": 0,
-    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenValue": 0,
     "RelatedSlot": 0,
-    "OpenCondition": "DefaultOpen",
-    "OpenValue": 0,
-    "RequiredItem": 0,
-    "RequiredCount": 0,
+    "CurrencyCost": 0,
+    "OpenSkipCost": 0,
+    "PageGroup": 1,
+    "RequiredItemList": [],
+    "RequiredCountList": [],
     "CurrencyType": "0",
-    "CurrencyCost": 0
+    "IconResourceName": "WeaponArmory_Portrait_1",
+    "OpenSkipType": "0",
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenCondition": "DefaultOpen"
   },
   {
+    "OpenSkipItem": 0,
+    "SlotIndex": 1,
     "ID": 102,
-    "PageGroup": 1,
-    "SlotIndex": 1,
-    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenValue": 0,
     "RelatedSlot": 101,
-    "OpenCondition": "DefaultOpen",
-    "OpenValue": 0,
-    "RequiredItem": 0,
-    "RequiredCount": 0,
+    "CurrencyCost": 0,
+    "OpenSkipCost": 0,
+    "PageGroup": 1,
+    "RequiredItemList": [],
+    "RequiredCountList": [],
     "CurrencyType": "0",
-    "CurrencyCost": 0
+    "IconResourceName": "WeaponArmory_Portrait_2",
+    "OpenSkipType": "0",
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenCondition": "DefaultOpen"
   },
   {
+    "OpenSkipItem": 0,
+    "SlotIndex": 2,
     "ID": 103,
-    "PageGroup": 1,
-    "SlotIndex": 2,
-    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
-    "RelatedSlot": 102,
-    "OpenCondition": "DefaultOpen",
     "OpenValue": 0,
-    "RequiredItem": 0,
-    "RequiredCount": 0,
+    "RelatedSlot": 102,
+    "CurrencyCost": 0,
+    "OpenSkipCost": 0,
+    "PageGroup": 1,
+    "RequiredItemList": [],
+    "RequiredCountList": [],
     "CurrencyType": "0",
-    "CurrencyCost": 0
+    "IconResourceName": "WeaponArmory_Portrait_3",
+    "OpenSkipType": "0",
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenCondition": "DefaultOpen"
   },
   {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 3,
     "ID": 104,
-    "PageGroup": 1,
-    "SlotIndex": 3,
-    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenValue": 20,
     "RelatedSlot": 103,
-    "OpenCondition": "LevelSJW",
-    "OpenValue": 20,
-    "RequiredItem": 10170001,
-    "RequiredCount": 100,
+    "CurrencyCost": 1000,
+    "OpenSkipCost": 1000,
+    "PageGroup": 1,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      100
+    ],
     "CurrencyType": "MagicEssence",
-    "CurrencyCost": 1000
+    "IconResourceName": "WeaponArmory_Portrait_4",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenCondition": "LevelSJW"
   },
   {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 4,
     "ID": 105,
-    "PageGroup": 1,
-    "SlotIndex": 4,
-    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenValue": 30,
     "RelatedSlot": 104,
-    "OpenCondition": "LevelSJW",
-    "OpenValue": 30,
-    "RequiredItem": 10170001,
-    "RequiredCount": 150,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 1500
-  },
-  {
-    "ID": 106,
+    "CurrencyCost": 1500,
+    "OpenSkipCost": 1000,
     "PageGroup": 1,
-    "SlotIndex": 5,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      150
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_5",
+    "OpenSkipType": "MagicEssence",
     "SlotTitle": "WeaponArmory.Page1_SlotTitle",
-    "RelatedSlot": 105,
-    "OpenCondition": "LevelSJW",
-    "OpenValue": 40,
-    "RequiredItem": 10170001,
-    "RequiredCount": 200,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 2000
+    "OpenCondition": "LevelSJW"
   },
   {
-    "ID": 201,
-    "PageGroup": 2,
-    "SlotIndex": 0,
-    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
-    "RelatedSlot": 106,
-    "OpenCondition": "BattleClass",
-    "OpenValue": 15,
-    "RequiredItem": 10170001,
-    "RequiredCount": 150,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 1500
-  },
-  {
-    "ID": 202,
-    "PageGroup": 2,
-    "SlotIndex": 1,
-    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
-    "RelatedSlot": 201,
-    "OpenCondition": "BattleClass",
-    "OpenValue": 20,
-    "RequiredItem": 10170001,
-    "RequiredCount": 200,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 2000
-  },
-  {
-    "ID": 203,
-    "PageGroup": 2,
-    "SlotIndex": 2,
-    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
-    "RelatedSlot": 202,
-    "OpenCondition": "BattleClass",
-    "OpenValue": 25,
-    "RequiredItem": 10170001,
-    "RequiredCount": 250,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 2500
-  },
-  {
-    "ID": 204,
-    "PageGroup": 2,
-    "SlotIndex": 3,
-    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
-    "RelatedSlot": 203,
-    "OpenCondition": "BattleClass",
-    "OpenValue": 30,
-    "RequiredItem": 10170002,
-    "RequiredCount": 60,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 3000
-  },
-  {
-    "ID": 205,
-    "PageGroup": 2,
-    "SlotIndex": 4,
-    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
-    "RelatedSlot": 204,
-    "OpenCondition": "BattleClass",
-    "OpenValue": 35,
-    "RequiredItem": 10170002,
-    "RequiredCount": 75,
-    "CurrencyType": "MagicEssence",
-    "CurrencyCost": 3750
-  },
-  {
-    "ID": 206,
-    "PageGroup": 2,
+    "OpenSkipItem": 1000016,
     "SlotIndex": 5,
-    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
-    "RelatedSlot": 205,
-    "OpenCondition": "BattleClass",
+    "ID": 106,
     "OpenValue": 40,
-    "RequiredItem": 10170002,
-    "RequiredCount": 90,
+    "RelatedSlot": 105,
+    "CurrencyCost": 2000,
+    "OpenSkipCost": 1000,
+    "PageGroup": 1,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      200
+    ],
     "CurrencyType": "MagicEssence",
-    "CurrencyCost": 4500
+    "IconResourceName": "WeaponArmory_Portrait_6",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page1_SlotTitle",
+    "OpenCondition": "LevelSJW"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 0,
+    "ID": 201,
+    "OpenValue": 15,
+    "RelatedSlot": 106,
+    "CurrencyCost": 1500,
+    "OpenSkipCost": 1500,
+    "PageGroup": 2,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      150
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_7",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 1,
+    "ID": 202,
+    "OpenValue": 20,
+    "RelatedSlot": 201,
+    "CurrencyCost": 2000,
+    "OpenSkipCost": 2000,
+    "PageGroup": 2,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      200
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_8",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 2,
+    "ID": 203,
+    "OpenValue": 25,
+    "RelatedSlot": 202,
+    "CurrencyCost": 2500,
+    "OpenSkipCost": 2500,
+    "PageGroup": 2,
+    "RequiredItemList": [
+      10170001
+    ],
+    "RequiredCountList": [
+      250
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_9",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 3,
+    "ID": 204,
+    "OpenValue": 30,
+    "RelatedSlot": 203,
+    "CurrencyCost": 3000,
+    "OpenSkipCost": 3000,
+    "PageGroup": 2,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      60
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_10",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 4,
+    "ID": 205,
+    "OpenValue": 35,
+    "RelatedSlot": 204,
+    "CurrencyCost": 3750,
+    "OpenSkipCost": 3500,
+    "PageGroup": 2,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      75
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_11",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 5,
+    "ID": 206,
+    "OpenValue": 40,
+    "RelatedSlot": 205,
+    "CurrencyCost": 4500,
+    "OpenSkipCost": 4000,
+    "PageGroup": 2,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      90
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_12",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page2_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 0,
+    "ID": 301,
+    "OpenValue": 45,
+    "RelatedSlot": 206,
+    "CurrencyCost": 3750,
+    "OpenSkipCost": 6750,
+    "PageGroup": 3,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      75
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_13",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page3_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 1,
+    "ID": 302,
+    "OpenValue": 50,
+    "RelatedSlot": 301,
+    "CurrencyCost": 5000,
+    "OpenSkipCost": 7500,
+    "PageGroup": 3,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      100
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_14",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page3_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 2,
+    "ID": 303,
+    "OpenValue": 55,
+    "RelatedSlot": 302,
+    "CurrencyCost": 6250,
+    "OpenSkipCost": 8250,
+    "PageGroup": 3,
+    "RequiredItemList": [
+      10170002
+    ],
+    "RequiredCountList": [
+      125
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_15",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page3_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 3,
+    "ID": 304,
+    "OpenValue": 60,
+    "RelatedSlot": 303,
+    "CurrencyCost": 7500,
+    "OpenSkipCost": 9000,
+    "PageGroup": 3,
+    "RequiredItemList": [
+      10170003
+    ],
+    "RequiredCountList": [
+      30
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_16",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page3_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 4,
+    "ID": 305,
+    "OpenValue": 65,
+    "RelatedSlot": 304,
+    "CurrencyCost": 8750,
+    "OpenSkipCost": 9750,
+    "PageGroup": 3,
+    "RequiredItemList": [
+      10170003
+    ],
+    "RequiredCountList": [
+      35
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_17",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page3_SlotTitle",
+    "OpenCondition": "BattleClass"
+  },
+  {
+    "OpenSkipItem": 1000016,
+    "SlotIndex": 5,
+    "ID": 306,
+    "OpenValue": 70,
+    "RelatedSlot": 305,
+    "CurrencyCost": 10000,
+    "OpenSkipCost": 10500,
+    "PageGroup": 3,
+    "RequiredItemList": [
+      10170003
+    ],
+    "RequiredCountList": [
+      40
+    ],
+    "CurrencyType": "MagicEssence",
+    "IconResourceName": "WeaponArmory_Portrait_18",
+    "OpenSkipType": "MagicEssence",
+    "SlotTitle": "WeaponArmory.Page3_SlotTitle",
+    "OpenCondition": "BattleClass"
   }
 ]

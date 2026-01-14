@@ -1,378 +1,618 @@
 [
   {
+    "MoveTargetID": 12,
     "ID": 101,
-    "MainPcID": 1,
-    "JobConDesc": "",
-    "JobConType": "SMission",
     "JobConVal": 203,
-    "MoveTargetID": 12
+    "MainPcID": 1,
+    "JobConDesc": "",
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 0,
     "ID": 102,
-    "MainPcID": 1,
-    "JobConDesc": "",
-    "JobConType": "JobGrade",
     "JobConVal": 0,
-    "MoveTargetID": 0
+    "MainPcID": 1,
+    "JobConDesc": "",
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 0,
     "ID": 103,
-    "MainPcID": 1,
-    "JobConDesc": "",
-    "JobConType": "JobGrade",
     "JobConVal": 1,
-    "MoveTargetID": 0
+    "MainPcID": 1,
+    "JobConDesc": "",
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 0,
     "ID": 104,
-    "MainPcID": 1,
-    "JobConDesc": "",
-    "JobConType": "JobGrade",
     "JobConVal": 2,
-    "MoveTargetID": 0
+    "MainPcID": 1,
+    "JobConDesc": "",
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 0,
     "ID": 105,
-    "MainPcID": 1,
-    "JobConDesc": "",
-    "JobConType": "JobGrade",
     "JobConVal": 3,
-    "MoveTargetID": 0
-  },
-  {
-    "ID": 106,
     "MainPcID": 1,
     "JobConDesc": "",
-    "JobConType": "JobGrade",
-    "JobConVal": 4,
-    "MoveTargetID": 0
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 0,
+    "ID": 106,
+    "JobConVal": 4,
+    "MainPcID": 1,
+    "JobConDesc": "",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
     "ID": 111,
+    "JobConVal": 3,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition111",
-    "JobConType": "SMission",
-    "JobConVal": 203,
-    "MoveTargetID": 12
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 12,
     "ID": 112,
+    "JobConVal": 203,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition112",
-    "JobConType": "SMission",
-    "JobConVal": 203,
-    "MoveTargetID": 12
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 2,
     "ID": 211,
+    "JobConVal": 1,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition211",
-    "JobConType": "SMission",
-    "JobConVal": 601,
-    "MoveTargetID": 12
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 8,
     "ID": 212,
+    "JobConVal": 15,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition212",
-    "JobConType": "SMission",
-    "JobConVal": 612,
-    "MoveTargetID": 12
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 12,
     "ID": 213,
+    "JobConVal": 612,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition213",
-    "JobConType": "MainPcLv",
-    "JobConVal": 15,
-    "MoveTargetID": 8
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 8,
     "ID": 214,
+    "JobConVal": 2,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition214",
-    "JobConType": "GateGrade",
-    "JobConVal": 2,
-    "MoveTargetID": 8
+    "JobConType": "GateGrade"
   },
   {
+    "MoveTargetID": 2,
     "ID": 311,
+    "JobConVal": 2,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition311",
-    "JobConType": "SMission",
-    "JobConVal": 901,
-    "MoveTargetID": 12
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 8,
     "ID": 312,
+    "JobConVal": 20,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition312",
-    "JobConType": "SMission",
-    "JobConVal": 903,
-    "MoveTargetID": 12
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 12,
     "ID": 313,
+    "JobConVal": 903,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition313",
-    "JobConType": "JobGrade",
-    "JobConVal": 2,
-    "MoveTargetID": 0
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 8,
     "ID": 411,
+    "JobConVal": 25,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition411",
-    "JobConType": "SMission",
-    "JobConVal": 904,
-    "MoveTargetID": 12
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 2,
     "ID": 412,
+    "JobConVal": 3,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition412",
-    "JobConType": "SMission",
-    "JobConVal": 904,
-    "MoveTargetID": 12
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 12,
     "ID": 413,
+    "JobConVal": 904,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition413",
-    "JobConType": "JobGrade",
-    "JobConVal": 3,
-    "MoveTargetID": 0
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 12,
     "ID": 511,
+    "JobConVal": 30806,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition511",
-    "JobConType": "SMission",
-    "JobConVal": 30806,
-    "MoveTargetID": 12
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 2,
     "ID": 512,
+    "JobConVal": 4,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition512",
-    "JobConType": "JobGrade",
-    "JobConVal": 4,
-    "MoveTargetID": 2
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 2,
     "ID": 513,
+    "JobConVal": 70000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition513",
-    "JobConType": "BattlePower",
-    "JobConVal": 70000,
-    "MoveTargetID": 2
+    "JobConType": "BattlePower"
   },
   {
+    "MoveTargetID": 4,
     "ID": 514,
+    "JobConVal": 3010002,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition514",
-    "JobConType": "Achieve",
-    "JobConVal": 3010002,
-    "MoveTargetID": 4
+    "JobConType": "Achieve"
   },
   {
+    "MoveTargetID": 8,
     "ID": 515,
+    "JobConVal": 55,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition515",
-    "JobConType": "MainPcLv",
-    "JobConVal": 55,
-    "MoveTargetID": 8
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 12,
     "ID": 516,
+    "JobConVal": 31510,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition516",
-    "JobConType": "SMission",
-    "JobConVal": 31510,
-    "MoveTargetID": 12
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 2,
     "ID": 517,
+    "JobConVal": 90000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition517",
-    "JobConType": "BattlePower",
-    "JobConVal": 90000,
-    "MoveTargetID": 2
+    "JobConType": "BattlePower"
   },
   {
+    "MoveTargetID": 24,
     "ID": 518,
+    "JobConVal": 1035,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition518",
-    "JobConType": "TowerClear",
-    "JobConVal": 1035,
-    "MoveTargetID": 24
+    "JobConType": "TowerClear"
   },
   {
+    "MoveTargetID": 8,
     "ID": 519,
+    "JobConVal": 70,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition519",
-    "JobConType": "MainPcLv",
-    "JobConVal": 70,
-    "MoveTargetID": 8
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 2,
     "ID": 520,
+    "JobConVal": 5,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition520",
-    "JobConType": "JobGrade",
-    "JobConVal": 5,
-    "MoveTargetID": 2
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 12,
     "ID": 521,
+    "JobConVal": 31814,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition521",
-    "JobConType": "SMission",
-    "JobConVal": 31814,
-    "MoveTargetID": 12
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 2,
     "ID": 522,
+    "JobConVal": 140000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition522",
-    "JobConType": "BattlePower",
-    "JobConVal": 140000,
-    "MoveTargetID": 2
+    "JobConType": "BattlePower"
   },
   {
+    "MoveTargetID": 24,
     "ID": 523,
+    "JobConVal": 1045,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition523",
-    "JobConType": "TowerClear",
-    "JobConVal": 1045,
-    "MoveTargetID": 24
+    "JobConType": "TowerClear"
   },
   {
+    "MoveTargetID": 8,
     "ID": 524,
+    "JobConVal": 85,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition524",
-    "JobConType": "MainPcLv",
-    "JobConVal": 85,
-    "MoveTargetID": 8
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 2,
     "ID": 525,
+    "JobConVal": 6,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition525",
-    "JobConType": "JobGrade",
-    "JobConVal": 6,
-    "MoveTargetID": 2
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 2,
     "ID": 1010,
+    "JobConVal": 4,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1010",
-    "JobConType": "JobGrade",
-    "JobConVal": 4,
-    "MoveTargetID": 2
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 8,
     "ID": 1011,
+    "JobConVal": 55,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1011",
-    "JobConType": "MainPcLv",
-    "JobConVal": 55,
-    "MoveTargetID": 8
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 24,
     "ID": 1020,
+    "JobConVal": 1010,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1020",
-    "JobConType": "TowerClear",
-    "JobConVal": 1010,
-    "MoveTargetID": 24
+    "JobConType": "TowerClear"
   },
   {
+    "MoveTargetID": 2,
     "ID": 1021,
+    "JobConVal": 70000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1021",
-    "JobConType": "BattlePower",
-    "JobConVal": 70000,
-    "MoveTargetID": 2
+    "JobConType": "BattlePower"
   },
   {
+    "MoveTargetID": 2,
     "ID": 1110,
+    "JobConVal": 5,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1110",
-    "JobConType": "JobGrade",
-    "JobConVal": 5,
-    "MoveTargetID": 2
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 8,
     "ID": 1111,
+    "JobConVal": 60,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1111",
-    "JobConType": "MainPcLv",
-    "JobConVal": 60,
-    "MoveTargetID": 8
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 12,
     "ID": 1120,
+    "JobConVal": 1510,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1120",
-    "JobConType": "SMission",
-    "JobConVal": 1510,
-    "MoveTargetID": 12
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 24,
     "ID": 1121,
+    "JobConVal": 1020,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1121",
-    "JobConType": "TowerClear",
-    "JobConVal": 1020,
-    "MoveTargetID": 24
+    "JobConType": "TowerClear"
   },
   {
+    "MoveTargetID": 2,
     "ID": 1122,
+    "JobConVal": 80000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1122",
-    "JobConType": "BattlePower",
-    "JobConVal": 80000,
-    "MoveTargetID": 2
+    "JobConType": "BattlePower"
   },
   {
+    "MoveTargetID": 2,
     "ID": 1210,
+    "JobConVal": 6,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1210",
-    "JobConType": "JobGrade",
-    "JobConVal": 6,
-    "MoveTargetID": 2
+    "JobConType": "JobGrade"
   },
   {
+    "MoveTargetID": 8,
     "ID": 1211,
+    "JobConVal": 70,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1211",
-    "JobConType": "MainPcLv",
-    "JobConVal": 70,
-    "MoveTargetID": 8
+    "JobConType": "MainPcLv"
   },
   {
+    "MoveTargetID": 12,
     "ID": 1220,
+    "JobConVal": 1814,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1220",
-    "JobConType": "SMission",
-    "JobConVal": 1814,
-    "MoveTargetID": 12
+    "JobConType": "SMission"
   },
   {
+    "MoveTargetID": 24,
     "ID": 1221,
+    "JobConVal": 1030,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1221",
-    "JobConType": "TowerClear",
-    "JobConVal": 1030,
-    "MoveTargetID": 24
+    "JobConType": "TowerClear"
   },
   {
+    "MoveTargetID": 2,
     "ID": 1222,
+    "JobConVal": 120000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1222",
-    "JobConType": "BattlePower",
-    "JobConVal": 120000,
-    "MoveTargetID": 2
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1310,
+    "JobConVal": 7,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1310",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1311,
+    "JobConVal": 80,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1311",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1320,
+    "JobConVal": 2902,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1320",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1321,
+    "JobConVal": 1040,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1321",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1322,
+    "JobConVal": 150000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1322",
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1410,
+    "JobConVal": 8,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1410",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1411,
+    "JobConVal": 90,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1411",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1420,
+    "JobConVal": 3109,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1420",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1421,
+    "JobConVal": 1045,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1421",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1422,
+    "JobConVal": 200000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1422",
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1510,
+    "JobConVal": 9,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1510",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1511,
+    "JobConVal": 100,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1511",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1520,
+    "JobConVal": 3308,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1520",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1521,
+    "JobConVal": 1050,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1521",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1522,
+    "JobConVal": 250000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1522",
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1610,
+    "JobConVal": 10,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1610",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1611,
+    "JobConVal": 110,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1611",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1620,
+    "JobConVal": 3604,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1620",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1621,
+    "JobConVal": 1055,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1621",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1622,
+    "JobConVal": 300000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1622",
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1710,
+    "JobConVal": 11,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1710",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1711,
+    "JobConVal": 115,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1711",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1720,
+    "JobConVal": 3910,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1720",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1721,
+    "JobConVal": 1060,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1721",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1722,
+    "JobConVal": 350000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1722",
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1810,
+    "JobConVal": 12,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1810",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1811,
+    "JobConVal": 120,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1811",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1820,
+    "JobConVal": 4110,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1820",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1821,
+    "JobConVal": 1065,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1821",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1822,
+    "JobConVal": 400000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1822",
+    "JobConType": "BattlePower"
   }
 ]

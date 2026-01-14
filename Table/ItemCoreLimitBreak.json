@@ -1,11 +1,182 @@
 [
   {
-    "ID": 1,
-    "LimitBreakID": 1001,
-    "LimitBreakGrade": 0,
-    "MaterialItem": "[0]",
-    "MaterialCount": "[0]",
+    "ID": 1001,
     "GoldValue": 0,
-    "MaxLevel": 10
+    "LimitBreakID": 1000,
+    "EnhanceGoldValue": 2000,
+    "MaxLevel": 10,
+    "LimitBreakGrade": 0,
+    "MaterialItem": [
+      0
+    ],
+    "EnhanceMaterialCount": [
+      5
+    ],
+    "EnhanceMaterialItem": [
+      10170008
+    ],
+    "MaterialCount": [
+      0
+    ]
+  },
+  {
+    "ID": 1002,
+    "GoldValue": 100000,
+    "LimitBreakID": 1000,
+    "EnhanceGoldValue": 3000,
+    "MaxLevel": 15,
+    "LimitBreakGrade": 1,
+    "MaterialItem": [
+      10170007
+    ],
+    "EnhanceMaterialCount": [
+      7
+    ],
+    "EnhanceMaterialItem": [
+      10170008
+    ],
+    "MaterialCount": [
+      5
+    ]
+  },
+  {
+    "ID": 1003,
+    "GoldValue": 300000,
+    "LimitBreakID": 1000,
+    "EnhanceGoldValue": 5000,
+    "MaxLevel": 20,
+    "LimitBreakGrade": 2,
+    "MaterialItem": [
+      10170012
+    ],
+    "EnhanceMaterialCount": [
+      9
+    ],
+    "EnhanceMaterialItem": [
+      10170008
+    ],
+    "MaterialCount": [
+      5
+    ]
+  },
+  {
+    "ID": 2001,
+    "GoldValue": 0,
+    "LimitBreakID": 2000,
+    "EnhanceGoldValue": 5000,
+    "MaxLevel": 10,
+    "LimitBreakGrade": 0,
+    "MaterialItem": [
+      0
+    ],
+    "EnhanceMaterialCount": [
+      4
+    ],
+    "EnhanceMaterialItem": [
+      10170009
+    ],
+    "MaterialCount": [
+      0
+    ]
+  },
+  {
+    "ID": 2002,
+    "GoldValue": 100000,
+    "LimitBreakID": 2000,
+    "EnhanceGoldValue": 7500,
+    "MaxLevel": 15,
+    "LimitBreakGrade": 1,
+    "MaterialItem": [
+      10170007
+    ],
+    "EnhanceMaterialCount": [
+      6
+    ],
+    "EnhanceMaterialItem": [
+      10170009
+    ],
+    "MaterialCount": [
+      10
+    ]
+  },
+  {
+    "ID": 2003,
+    "GoldValue": 300000,
+    "LimitBreakID": 2000,
+    "EnhanceGoldValue": 12500,
+    "MaxLevel": 20,
+    "LimitBreakGrade": 2,
+    "MaterialItem": [
+      10170012
+    ],
+    "EnhanceMaterialCount": [
+      10
+    ],
+    "EnhanceMaterialItem": [
+      10170009
+    ],
+    "MaterialCount": [
+      10
+    ]
+  },
+  {
+    "ID": 3001,
+    "GoldValue": 0,
+    "LimitBreakID": 3000,
+    "EnhanceGoldValue": 10000,
+    "MaxLevel": 10,
+    "LimitBreakGrade": 0,
+    "MaterialItem": [
+      0
+    ],
+    "EnhanceMaterialCount": [
+      3
+    ],
+    "EnhanceMaterialItem": [
+      10170010
+    ],
+    "MaterialCount": [
+      0
+    ]
+  },
+  {
+    "ID": 3002,
+    "GoldValue": 100000,
+    "LimitBreakID": 3000,
+    "EnhanceGoldValue": 15000,
+    "MaxLevel": 15,
+    "LimitBreakGrade": 1,
+    "MaterialItem": [
+      10170007
+    ],
+    "EnhanceMaterialCount": [
+      5
+    ],
+    "EnhanceMaterialItem": [
+      10170010
+    ],
+    "MaterialCount": [
+      20
+    ]
+  },
+  {
+    "ID": 3003,
+    "GoldValue": 300000,
+    "LimitBreakID": 3000,
+    "EnhanceGoldValue": 18000,
+    "MaxLevel": 20,
+    "LimitBreakGrade": 2,
+    "MaterialItem": [
+      10170012
+    ],
+    "EnhanceMaterialCount": [
+      7
+    ],
+    "EnhanceMaterialItem": [
+      10170010
+    ],
+    "MaterialCount": [
+      20
+    ]
   }
 ]
