@@ -1,13 +1,25 @@
 [
   {
-    "ShopTabID": 10610,
+    "ShopTabID": 0,
     "ID": 1,
     "EventPointID": 400002,
-    "ShopMoveTargetID": 31014,
-    "TutorialID": 3004,
+    "ShopMoveTargetID": 0,
+    "TutorialID": 3005,
     "IngameTutorialID": 3005,
     "PvpDungeonID": 1,
-    "RewardGroupID": 2044100,
+    "RewardGroupID": 0,
+    "Title": "Event.PvpTitle_01",
+    "PagePrefab": ""
+  },
+  {
+    "ShopTabID": 0,
+    "ID": 2,
+    "EventPointID": 400004,
+    "ShopMoveTargetID": 0,
+    "TutorialID": 3005,
+    "IngameTutorialID": 3005,
+    "PvpDungeonID": 1,
+    "RewardGroupID": 0,
     "Title": "Event.PvpTitle_01",
     "PagePrefab": ""
   }

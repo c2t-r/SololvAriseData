@@ -948,5 +948,59 @@
     "HunterUnlockResource": "ChristopherReed",
     "ListBanner": "",
     "HunterName": "SysConstStr.ChName.ChristopherReed"
+  },
+  {
+    "SPStageMileageLink": 5010001,
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 36,
+    "ID": 36,
+    "OpenLevel": 0,
+    "OpenKey": 1,
+    "EventGroupID": 36,
+    "BonusRewardCap": 8000,
+    "PoinIndex": 5010001,
+    "CollabID": 0,
+    "BGResource": "Levelup_City_HunterAssociation_Loading_Img",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.SianHalat",
+    "HunterIDs": [
+      541
+    ],
+    "HunterResource": "SianHalat_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "PointIcon": "Img_Profile_Icon_Hunter0541",
+    "HunterUnlockResource": "SianHalat",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.SianHalat"
+  },
+  {
+    "SPStageMileageLink": 5110001,
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 37,
+    "ID": 37,
+    "OpenLevel": 0,
+    "OpenKey": 1,
+    "EventGroupID": 37,
+    "BonusRewardCap": 8000,
+    "PoinIndex": 5110001,
+    "CollabID": 0,
+    "BGResource": "Levelup_City_HunterAssociation_Loading_Img",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.SonKiHoon_PC",
+    "HunterIDs": [
+      551
+    ],
+    "HunterResource": "SonKiHoon_PC_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "PointIcon": "Img_Profile_Icon_Hunter0551",
+    "HunterUnlockResource": "SonKiHoon_PC",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.SonKiHoon"
   }
 ]

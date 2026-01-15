@@ -680,6 +680,22 @@
     "Desc": "SysPost.Desc.ID23"
   },
   {
+    "StoragePeriodMin": 20160,
+    "ID": 91,
+    "Name": "SysPost.Name.ID91",
+    "PostID": "LibraryDungeonFirstReward",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ID91"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 92,
+    "Name": "SysPost.Name.ID92",
+    "PostID": "LibraryDungeonSeasonReward",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ID92"
+  },
+  {
     "StoragePeriodMin": 129600,
     "ID": 93,
     "Name": "SysPost.Name.UnusualWorldBossPlay",
@@ -710,5 +726,13 @@
     "PostID": "CoopDungeonReward",
     "Type": "General",
     "Desc": "SysPost.Desc.ID97"
+  },
+  {
+    "StoragePeriodMin": 8640,
+    "ID": 100,
+    "Name": "SysPost.Name.ChaosBattleFieldSkipReward",
+    "PostID": "ChaosBattleFieldSkipReward",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ChaosBattleFieldSkipReward"
   }
 ]

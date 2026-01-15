@@ -100,7 +100,7 @@
     "IconQuickMenu": "Icon_lobby_Information",
     "SpawnSpot": "InformastionDesk_Spawn",
     "IdleMotion": [
-      "SeoLin_PC_Idle_B"
+      "SeoLin_NPC_Idle_B"
     ],
     "NpcType": "Menu"
   },
@@ -2052,7 +2052,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 15000,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1139,
@@ -2084,7 +2084,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 15000,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1140,
@@ -2116,7 +2116,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 15000,
+    "SpawnRate": 26500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1141,
@@ -2136,6 +2136,70 @@
     "SpawnSpot": "",
     "IdleMotion": [
       "Lobby_SianHalat_Stand_01"
+    ],
+    "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 82,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 5300,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1142,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 551,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "TeleportSpot": "",
+    "PickSpawnStart": "",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [],
+    "PickSpawnEnd": "",
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_SonKiHoon_PC_Stand_01"
+    ],
+    "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 83,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 26500,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1143,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 561,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-01-29T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [],
+    "PickSpawnEnd": "",
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_MeriLaine_Stand_01"
     ],
     "NpcType": "Dialog"
   }

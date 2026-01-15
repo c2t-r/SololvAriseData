@@ -373,13 +373,27 @@
   {
     "ID": 521,
     "SearchPatternGroupId": 521,
-    "SearchTypePrefix": "Stat",
-    "SearchTypeSuffix": "StatBreak",
+    "SearchTypePrefix": "Dist",
+    "SearchTypeSuffix": "DistNearest",
     "SearchValue1": "0"
   },
   {
     "ID": 531,
     "SearchPatternGroupId": 531,
+    "SearchTypePrefix": "Dist",
+    "SearchTypeSuffix": "DistNearest",
+    "SearchValue1": "0"
+  },
+  {
+    "ID": 541,
+    "SearchPatternGroupId": 541,
+    "SearchTypePrefix": "Dist",
+    "SearchTypeSuffix": "DistNearest",
+    "SearchValue1": "1"
+  },
+  {
+    "ID": 551,
+    "SearchPatternGroupId": 551,
     "SearchTypePrefix": "Stat",
     "SearchTypeSuffix": "StatBreak",
     "SearchValue1": "0"

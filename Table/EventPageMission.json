@@ -2704,6 +2704,86 @@
     "MissionType": "Once"
   },
   {
+    "DailyRepeat": 4,
+    "ID": 409101,
+    "MissionGroupID": 4091,
+    "TaskID": 404601,
+    "RewardGroupID": 2056202,
+    "MissionType": "Weekly"
+  },
+  {
+    "DailyRepeat": 4,
+    "ID": 409102,
+    "MissionGroupID": 4091,
+    "TaskID": 404602,
+    "RewardGroupID": 2056203,
+    "MissionType": "Weekly"
+  },
+  {
+    "DailyRepeat": 4,
+    "ID": 409103,
+    "MissionGroupID": 4091,
+    "TaskID": 404603,
+    "RewardGroupID": 2056202,
+    "MissionType": "Weekly"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 409104,
+    "MissionGroupID": 4091,
+    "TaskID": 404604,
+    "RewardGroupID": 2056204,
+    "MissionType": "Weekly"
+  },
+  {
+    "DailyRepeat": -1,
+    "ID": 409105,
+    "MissionGroupID": 4091,
+    "TaskID": 404605,
+    "RewardGroupID": 2056205,
+    "MissionType": "Repeat"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 409201,
+    "MissionGroupID": 4092,
+    "TaskID": 2026,
+    "RewardGroupID": 4100301,
+    "MissionType": "Daily"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 409202,
+    "MissionGroupID": 4092,
+    "TaskID": 2027,
+    "RewardGroupID": 4100302,
+    "MissionType": "Daily"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 409203,
+    "MissionGroupID": 4092,
+    "TaskID": 2028,
+    "RewardGroupID": 4100303,
+    "MissionType": "Daily"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 409204,
+    "MissionGroupID": 4092,
+    "TaskID": 2029,
+    "RewardGroupID": 4100304,
+    "MissionType": "Once"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 409205,
+    "MissionGroupID": 4092,
+    "TaskID": 2030,
+    "RewardGroupID": 4100305,
+    "MissionType": "Once"
+  },
+  {
     "DailyRepeat": 1,
     "ID": 1000001,
     "MissionGroupID": 100001,
@@ -2822,5 +2902,45 @@
     "TaskID": 402205,
     "RewardGroupID": 71000003,
     "MissionType": "Repeat"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 1000021,
+    "MissionGroupID": 4093,
+    "TaskID": 2026,
+    "RewardGroupID": 4100301,
+    "MissionType": "Daily"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 1000022,
+    "MissionGroupID": 4093,
+    "TaskID": 2027,
+    "RewardGroupID": 4100302,
+    "MissionType": "Daily"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 1000023,
+    "MissionGroupID": 4093,
+    "TaskID": 2028,
+    "RewardGroupID": 4100303,
+    "MissionType": "Daily"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 1000024,
+    "MissionGroupID": 4093,
+    "TaskID": 2029,
+    "RewardGroupID": 4100304,
+    "MissionType": "Once"
+  },
+  {
+    "DailyRepeat": 1,
+    "ID": 1000025,
+    "MissionGroupID": 4093,
+    "TaskID": 2030,
+    "RewardGroupID": 4100305,
+    "MissionType": "Once"
   }
 ]

@@ -370,6 +370,16 @@
     "ItemTimeLimitType": "Once"
   },
   {
+    "ID": 1038,
+    "ReplaceItemIndex": 1000003,
+    "ReplaceItemValue": 50,
+    "ExpirationPeriod": 0,
+    "EndTime": "2026-03-05T09:00:00+09:00",
+    "ReplaceItemType": "Gold",
+    "StartTime": "2026-01-22T09:00:00+09:00",
+    "ItemTimeLimitType": "Once"
+  },
+  {
     "ID": 2001,
     "ReplaceItemIndex": 1000003,
     "ReplaceItemValue": 50,
@@ -1564,9 +1574,9 @@
     "ReplaceItemIndex": 1000003,
     "ReplaceItemValue": 50,
     "ExpirationPeriod": 0,
-    "EndTime": "2026-01-16T09:00:00+09:00",
+    "EndTime": "2026-02-12T09:00:00+09:00",
     "ReplaceItemType": "Gold",
-    "StartTime": "2025-07-09T09:00:00+09:00",
+    "StartTime": "2026-01-14T09:00:00+09:00",
     "ItemTimeLimitType": "Once"
   },
   {
@@ -1576,7 +1586,7 @@
     "ExpirationPeriod": 0,
     "EndTime": "2026-01-15T09:00:00+09:00",
     "ReplaceItemType": "Gold",
-    "StartTime": "2025-12-17T09:00:00+09:00",
+    "StartTime": "2025-12-18T09:00:00+09:00",
     "ItemTimeLimitType": "Once"
   },
   {
@@ -1586,7 +1596,7 @@
     "ExpirationPeriod": 0,
     "EndTime": "2026-01-15T09:00:00+09:00",
     "ReplaceItemType": "Gold",
-    "StartTime": "2025-12-17T09:00:00+09:00",
+    "StartTime": "2025-12-18T09:00:00+09:00",
     "ItemTimeLimitType": "Once"
   },
   {
@@ -1596,7 +1606,7 @@
     "ExpirationPeriod": 0,
     "EndTime": "2026-01-15T09:00:00+09:00",
     "ReplaceItemType": "Gold",
-    "StartTime": "2025-12-17T09:00:00+09:00",
+    "StartTime": "2025-12-18T09:00:00+09:00",
     "ItemTimeLimitType": "Once"
   },
   {
@@ -1606,7 +1616,7 @@
     "ExpirationPeriod": 0,
     "EndTime": "2026-01-15T09:00:00+09:00",
     "ReplaceItemType": "Gold",
-    "StartTime": "2025-12-17T09:00:00+09:00",
+    "StartTime": "2025-12-18T09:00:00+09:00",
     "ItemTimeLimitType": "Once"
   },
   {
@@ -1616,7 +1626,27 @@
     "ExpirationPeriod": 0,
     "EndTime": "2026-01-15T09:00:00+09:00",
     "ReplaceItemType": "Material",
-    "StartTime": "2025-12-17T09:00:00+09:00",
+    "StartTime": "2025-12-18T09:00:00+09:00",
+    "ItemTimeLimitType": "Once"
+  },
+  {
+    "ID": 2127,
+    "ReplaceItemIndex": 1000003,
+    "ReplaceItemValue": 50,
+    "ExpirationPeriod": 0,
+    "EndTime": "2026-02-12T09:00:00+09:00",
+    "ReplaceItemType": "Gold",
+    "StartTime": "2026-01-14T09:00:00+09:00",
+    "ItemTimeLimitType": "Once"
+  },
+  {
+    "ID": 2128,
+    "ReplaceItemIndex": 1000003,
+    "ReplaceItemValue": 50,
+    "ExpirationPeriod": 0,
+    "EndTime": "2026-02-12T09:00:00+09:00",
+    "ReplaceItemType": "Gold",
+    "StartTime": "2026-01-14T09:00:00+09:00",
     "ItemTimeLimitType": "Once"
   }
 ]

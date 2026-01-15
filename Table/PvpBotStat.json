@@ -1,6 +1,510 @@
 [
   {
+    "StatValue": 50000,
+    "ID": 1,
+    "StatModeld": 1101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 2,
+    "StatModeld": 1101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 3,
+    "StatModeld": 1101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 20000,
+    "ID": 4,
+    "StatModeld": 1101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 5,
+    "StatModeld": 1101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 6,
+    "StatModeld": 1101,
+    "EStatType": "AddArm"
+  },
+  {
     "StatValue": 40000,
+    "ID": 7,
+    "StatModeld": 1101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 8,
+    "StatModeld": 1101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 9,
+    "StatModeld": 1101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 10,
+    "StatModeld": 1101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 11,
+    "StatModeld": 1101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 38000,
+    "ID": 12,
+    "StatModeld": 1101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2100,
+    "ID": 13,
+    "StatModeld": 1101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 14,
+    "StatModeld": 1101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 15,
+    "StatModeld": 1101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 16,
+    "StatModeld": 1101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 17,
+    "StatModeld": 1101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 18,
+    "StatModeld": 1101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 19,
+    "StatModeld": 1101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 20,
+    "StatModeld": 1101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 21,
+    "StatModeld": 1101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 22,
+    "StatModeld": 1101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 23,
+    "StatModeld": 1101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 24,
+    "StatModeld": 1101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 25,
+    "StatModeld": 1101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 26,
+    "StatModeld": 1101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 27,
+    "StatModeld": 1101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 28,
+    "StatModeld": 1101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 20000,
+    "ID": 29,
+    "StatModeld": 1102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 30,
+    "StatModeld": 1102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 31,
+    "StatModeld": 1102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 50000,
+    "ID": 32,
+    "StatModeld": 1102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 33,
+    "StatModeld": 1102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 34,
+    "StatModeld": 1102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 40000,
+    "ID": 35,
+    "StatModeld": 1102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 36,
+    "StatModeld": 1102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 37,
+    "StatModeld": 1102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 38,
+    "StatModeld": 1102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 39,
+    "StatModeld": 1102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 38000,
+    "ID": 40,
+    "StatModeld": 1102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2100,
+    "ID": 41,
+    "StatModeld": 1102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 42,
+    "StatModeld": 1102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 43,
+    "StatModeld": 1102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 44,
+    "StatModeld": 1102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 45,
+    "StatModeld": 1102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 46,
+    "StatModeld": 1102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 47,
+    "StatModeld": 1102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 48,
+    "StatModeld": 1102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 49,
+    "StatModeld": 1102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 50,
+    "StatModeld": 1102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 51,
+    "StatModeld": 1102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 52,
+    "StatModeld": 1102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 53,
+    "StatModeld": 1102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 54,
+    "StatModeld": 1102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 55,
+    "StatModeld": 1102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 56,
+    "StatModeld": 1102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 57,
+    "StatModeld": 1103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 58,
+    "StatModeld": 1103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 59,
+    "StatModeld": 1103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 20000,
+    "ID": 60,
+    "StatModeld": 1103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 61,
+    "StatModeld": 1103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 62,
+    "StatModeld": 1103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 100000,
+    "ID": 63,
+    "StatModeld": 1103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 64,
+    "StatModeld": 1103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 65,
+    "StatModeld": 1103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 66,
+    "StatModeld": 1103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 67,
+    "StatModeld": 1103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 38000,
+    "ID": 68,
+    "StatModeld": 1103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2100,
+    "ID": 69,
+    "StatModeld": 1103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 70,
+    "StatModeld": 1103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 71,
+    "StatModeld": 1103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 72,
+    "StatModeld": 1103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 73,
+    "StatModeld": 1103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 74,
+    "StatModeld": 1103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 75,
+    "StatModeld": 1103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 76,
+    "StatModeld": 1103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 77,
+    "StatModeld": 1103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 78,
+    "StatModeld": 1103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 79,
+    "StatModeld": 1103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 80,
+    "StatModeld": 1103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 81,
+    "StatModeld": 1103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 82,
+    "StatModeld": 1103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 83,
+    "StatModeld": 1103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 84,
+    "StatModeld": 1103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 50000,
     "ID": 1001,
     "StatModeld": 120101,
     "EStatType": "Att"
@@ -18,7 +522,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 15000,
+    "StatValue": 20000,
     "ID": 1004,
     "StatModeld": 120101,
     "EStatType": "Arm"
@@ -36,7 +540,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 35000,
+    "StatValue": 40000,
     "ID": 1007,
     "StatModeld": 120101,
     "EStatType": "MHP"
@@ -168,7 +672,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 15000,
+    "StatValue": 20000,
     "ID": 1029,
     "StatModeld": 120102,
     "EStatType": "Att"
@@ -186,7 +690,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 40000,
+    "StatValue": 50000,
     "ID": 1032,
     "StatModeld": 120102,
     "EStatType": "Arm"
@@ -204,7 +708,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 35000,
+    "StatValue": 40000,
     "ID": 1035,
     "StatModeld": 120102,
     "EStatType": "MHP"
@@ -354,7 +858,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 15000,
+    "StatValue": 20000,
     "ID": 1060,
     "StatModeld": 120103,
     "EStatType": "Arm"
@@ -372,7 +876,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 80000,
+    "StatValue": 100000,
     "ID": 1063,
     "StatModeld": 120103,
     "EStatType": "MHP"
@@ -504,7 +1008,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 36000,
+    "StatValue": 45000,
     "ID": 1085,
     "StatModeld": 100101,
     "EStatType": "Att"
@@ -522,7 +1026,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 13500,
+    "StatValue": 16000,
     "ID": 1088,
     "StatModeld": 100101,
     "EStatType": "Arm"
@@ -540,7 +1044,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 31500,
+    "StatValue": 37000,
     "ID": 1091,
     "StatModeld": 100101,
     "EStatType": "MHP"
@@ -672,7 +1176,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 13500,
+    "StatValue": 16000,
     "ID": 1113,
     "StatModeld": 100102,
     "EStatType": "Att"
@@ -690,7 +1194,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 36000,
+    "StatValue": 45000,
     "ID": 1116,
     "StatModeld": 100102,
     "EStatType": "Arm"
@@ -708,7 +1212,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 31500,
+    "StatValue": 37000,
     "ID": 1119,
     "StatModeld": 100102,
     "EStatType": "MHP"
@@ -858,7 +1362,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 13500,
+    "StatValue": 16000,
     "ID": 1144,
     "StatModeld": 100103,
     "EStatType": "Arm"
@@ -876,7 +1380,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 72000,
+    "StatValue": 83000,
     "ID": 1147,
     "StatModeld": 100103,
     "EStatType": "MHP"
@@ -1008,7 +1512,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 32000,
+    "StatValue": 40000,
     "ID": 1169,
     "StatModeld": 90101,
     "EStatType": "Att"
@@ -1026,7 +1530,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 12000,
+    "StatValue": 14000,
     "ID": 1172,
     "StatModeld": 90101,
     "EStatType": "Arm"
@@ -1044,7 +1548,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 28000,
+    "StatValue": 32000,
     "ID": 1175,
     "StatModeld": 90101,
     "EStatType": "MHP"
@@ -1176,7 +1680,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 12000,
+    "StatValue": 14000,
     "ID": 1197,
     "StatModeld": 90102,
     "EStatType": "Att"
@@ -1194,7 +1698,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 32000,
+    "StatValue": 40000,
     "ID": 1200,
     "StatModeld": 90102,
     "EStatType": "Arm"
@@ -1212,7 +1716,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 28000,
+    "StatValue": 32000,
     "ID": 1203,
     "StatModeld": 90102,
     "EStatType": "MHP"
@@ -1362,7 +1866,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 12000,
+    "StatValue": 14000,
     "ID": 1228,
     "StatModeld": 90103,
     "EStatType": "Arm"
@@ -1380,7 +1884,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 64000,
+    "StatValue": 73000,
     "ID": 1231,
     "StatModeld": 90103,
     "EStatType": "MHP"
@@ -1512,7 +2016,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 28000,
+    "StatValue": 35000,
     "ID": 1253,
     "StatModeld": 80101,
     "EStatType": "Att"
@@ -1530,7 +2034,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 10500,
+    "StatValue": 12000,
     "ID": 1256,
     "StatModeld": 80101,
     "EStatType": "Arm"
@@ -1548,7 +2052,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 25000,
+    "StatValue": 28500,
     "ID": 1259,
     "StatModeld": 80101,
     "EStatType": "MHP"
@@ -1680,7 +2184,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 10500,
+    "StatValue": 12000,
     "ID": 1281,
     "StatModeld": 80102,
     "EStatType": "Att"
@@ -1698,7 +2202,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 28000,
+    "StatValue": 35000,
     "ID": 1284,
     "StatModeld": 80102,
     "EStatType": "Arm"
@@ -1716,7 +2220,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 25000,
+    "StatValue": 28500,
     "ID": 1287,
     "StatModeld": 80102,
     "EStatType": "MHP"
@@ -1866,7 +2370,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 10500,
+    "StatValue": 12000,
     "ID": 1312,
     "StatModeld": 80103,
     "EStatType": "Arm"
@@ -1884,7 +2388,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 56000,
+    "StatValue": 65000,
     "ID": 1315,
     "StatModeld": 80103,
     "EStatType": "MHP"
@@ -2016,7 +2520,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 24000,
+    "StatValue": 30000,
     "ID": 1337,
     "StatModeld": 60101,
     "EStatType": "Att"
@@ -2034,7 +2538,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 9000,
+    "StatValue": 10500,
     "ID": 1340,
     "StatModeld": 60101,
     "EStatType": "Arm"
@@ -2052,7 +2556,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 21000,
+    "StatValue": 25000,
     "ID": 1343,
     "StatModeld": 60101,
     "EStatType": "MHP"
@@ -2184,7 +2688,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 9000,
+    "StatValue": 10500,
     "ID": 1365,
     "StatModeld": 60102,
     "EStatType": "Att"
@@ -2202,7 +2706,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 24000,
+    "StatValue": 30000,
     "ID": 1368,
     "StatModeld": 60102,
     "EStatType": "Arm"
@@ -2220,7 +2724,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 21000,
+    "StatValue": 25000,
     "ID": 1371,
     "StatModeld": 60102,
     "EStatType": "MHP"
@@ -2370,7 +2874,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 9000,
+    "StatValue": 10500,
     "ID": 1396,
     "StatModeld": 60103,
     "EStatType": "Arm"
@@ -2388,7 +2892,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 48000,
+    "StatValue": 56000,
     "ID": 1399,
     "StatModeld": 60103,
     "EStatType": "MHP"
@@ -2520,7 +3024,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 20000,
+    "StatValue": 25000,
     "ID": 1421,
     "StatModeld": 40101,
     "EStatType": "Att"
@@ -2538,7 +3042,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 8000,
+    "StatValue": 9500,
     "ID": 1424,
     "StatModeld": 40101,
     "EStatType": "Arm"
@@ -2556,7 +3060,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 18000,
+    "StatValue": 22000,
     "ID": 1427,
     "StatModeld": 40101,
     "EStatType": "MHP"
@@ -2688,7 +3192,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 8000,
+    "StatValue": 9500,
     "ID": 1449,
     "StatModeld": 40102,
     "EStatType": "Att"
@@ -2706,7 +3210,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 20000,
+    "StatValue": 25000,
     "ID": 1452,
     "StatModeld": 40102,
     "EStatType": "Arm"
@@ -2724,7 +3228,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 18000,
+    "StatValue": 22000,
     "ID": 1455,
     "StatModeld": 40102,
     "EStatType": "MHP"
@@ -2874,7 +3378,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 8000,
+    "StatValue": 9500,
     "ID": 1480,
     "StatModeld": 40103,
     "EStatType": "Arm"
@@ -2892,7 +3396,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 40000,
+    "StatValue": 48000,
     "ID": 1483,
     "StatModeld": 40103,
     "EStatType": "MHP"
@@ -3024,7 +3528,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 18000,
+    "StatValue": 21000,
     "ID": 1505,
     "StatModeld": 35101,
     "EStatType": "Att"
@@ -3042,7 +3546,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 7000,
+    "StatValue": 8200,
     "ID": 1508,
     "StatModeld": 35101,
     "EStatType": "Arm"
@@ -3060,7 +3564,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 17000,
+    "StatValue": 20000,
     "ID": 1511,
     "StatModeld": 35101,
     "EStatType": "MHP"
@@ -3192,7 +3696,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 7000,
+    "StatValue": 8200,
     "ID": 1533,
     "StatModeld": 35102,
     "EStatType": "Att"
@@ -3210,7 +3714,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 18000,
+    "StatValue": 21000,
     "ID": 1536,
     "StatModeld": 35102,
     "EStatType": "Arm"
@@ -3228,7 +3732,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 17000,
+    "StatValue": 20000,
     "ID": 1539,
     "StatModeld": 35102,
     "EStatType": "MHP"
@@ -3378,7 +3882,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 7000,
+    "StatValue": 8200,
     "ID": 1564,
     "StatModeld": 35103,
     "EStatType": "Arm"
@@ -3396,7 +3900,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 36000,
+    "StatValue": 44000,
     "ID": 1567,
     "StatModeld": 35103,
     "EStatType": "MHP"
@@ -3528,7 +4032,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 16000,
+    "StatValue": 19000,
     "ID": 1589,
     "StatModeld": 30101,
     "EStatType": "Att"
@@ -3546,7 +4050,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 6000,
+    "StatValue": 7000,
     "ID": 1592,
     "StatModeld": 30101,
     "EStatType": "Arm"
@@ -3564,7 +4068,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 16000,
+    "StatValue": 18000,
     "ID": 1595,
     "StatModeld": 30101,
     "EStatType": "MHP"
@@ -3696,7 +4200,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 6000,
+    "StatValue": 7000,
     "ID": 1617,
     "StatModeld": 30102,
     "EStatType": "Att"
@@ -3714,7 +4218,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 16000,
+    "StatValue": 19000,
     "ID": 1620,
     "StatModeld": 30102,
     "EStatType": "Arm"
@@ -3732,7 +4236,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 16000,
+    "StatValue": 18000,
     "ID": 1623,
     "StatModeld": 30102,
     "EStatType": "MHP"
@@ -3882,7 +4386,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 6000,
+    "StatValue": 7000,
     "ID": 1648,
     "StatModeld": 30103,
     "EStatType": "Arm"
@@ -3900,7 +4404,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 32000,
+    "StatValue": 38000,
     "ID": 1651,
     "StatModeld": 30103,
     "EStatType": "MHP"
@@ -4032,7 +4536,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 14000,
+    "StatValue": 17000,
     "ID": 1673,
     "StatModeld": 25101,
     "EStatType": "Att"
@@ -4050,7 +4554,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 5000,
+    "StatValue": 6000,
     "ID": 1676,
     "StatModeld": 25101,
     "EStatType": "Arm"
@@ -4068,7 +4572,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 15000,
+    "StatValue": 16500,
     "ID": 1679,
     "StatModeld": 25101,
     "EStatType": "MHP"
@@ -4200,7 +4704,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 5000,
+    "StatValue": 6000,
     "ID": 1701,
     "StatModeld": 25102,
     "EStatType": "Att"
@@ -4218,7 +4722,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 14000,
+    "StatValue": 17000,
     "ID": 1704,
     "StatModeld": 25102,
     "EStatType": "Arm"
@@ -4236,7 +4740,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 15000,
+    "StatValue": 16500,
     "ID": 1707,
     "StatModeld": 25102,
     "EStatType": "MHP"
@@ -4386,7 +4890,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 5000,
+    "StatValue": 6000,
     "ID": 1732,
     "StatModeld": 25103,
     "EStatType": "Arm"
@@ -4404,7 +4908,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 28000,
+    "StatValue": 33000,
     "ID": 1735,
     "StatModeld": 25103,
     "EStatType": "MHP"
@@ -4536,7 +5040,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 12000,
+    "StatValue": 15000,
     "ID": 1757,
     "StatModeld": 20101,
     "EStatType": "Att"
@@ -4554,7 +5058,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 4000,
+    "StatValue": 5000,
     "ID": 1760,
     "StatModeld": 20101,
     "EStatType": "Arm"
@@ -4572,7 +5076,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 14000,
+    "StatValue": 15000,
     "ID": 1763,
     "StatModeld": 20101,
     "EStatType": "MHP"
@@ -4704,7 +5208,7 @@
     "EStatType": "ElementDamDarkness"
   },
   {
-    "StatValue": 4000,
+    "StatValue": 5000,
     "ID": 1785,
     "StatModeld": 20102,
     "EStatType": "Att"
@@ -4722,7 +5226,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 12000,
+    "StatValue": 15000,
     "ID": 1788,
     "StatModeld": 20102,
     "EStatType": "Arm"
@@ -4740,7 +5244,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 14000,
+    "StatValue": 15000,
     "ID": 1791,
     "StatModeld": 20102,
     "EStatType": "MHP"
@@ -4890,7 +5394,7 @@
     "EStatType": "AttR"
   },
   {
-    "StatValue": 4000,
+    "StatValue": 5000,
     "ID": 1816,
     "StatModeld": 20103,
     "EStatType": "Arm"
@@ -4908,7 +5412,7 @@
     "EStatType": "AddArm"
   },
   {
-    "StatValue": 24000,
+    "StatValue": 29000,
     "ID": 1819,
     "StatModeld": 20103,
     "EStatType": "MHP"
@@ -5037,6 +5541,510 @@
     "StatValue": 1382,
     "ID": 1840,
     "StatModeld": 20103,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 48000,
+    "ID": 1841,
+    "StatModeld": 130101,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1842,
+    "StatModeld": 130101,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1843,
+    "StatModeld": 130101,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1844,
+    "StatModeld": 130101,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1845,
+    "StatModeld": 130101,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1846,
+    "StatModeld": 130101,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 40000,
+    "ID": 1847,
+    "StatModeld": 130101,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1848,
+    "StatModeld": 130101,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1849,
+    "StatModeld": 130101,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1850,
+    "StatModeld": 130101,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1851,
+    "StatModeld": 130101,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 37710,
+    "ID": 1852,
+    "StatModeld": 130101,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1853,
+    "StatModeld": 130101,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1854,
+    "StatModeld": 130101,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1855,
+    "StatModeld": 130101,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1856,
+    "StatModeld": 130101,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1857,
+    "StatModeld": 130101,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1858,
+    "StatModeld": 130101,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1859,
+    "StatModeld": 130101,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1860,
+    "StatModeld": 130101,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1861,
+    "StatModeld": 130101,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1862,
+    "StatModeld": 130101,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1863,
+    "StatModeld": 130101,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1864,
+    "StatModeld": 130101,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1865,
+    "StatModeld": 130101,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1866,
+    "StatModeld": 130101,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1867,
+    "StatModeld": 130101,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1868,
+    "StatModeld": 130101,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1869,
+    "StatModeld": 130102,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1870,
+    "StatModeld": 130102,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1871,
+    "StatModeld": 130102,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 48000,
+    "ID": 1872,
+    "StatModeld": 130102,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1873,
+    "StatModeld": 130102,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1874,
+    "StatModeld": 130102,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 37000,
+    "ID": 1875,
+    "StatModeld": 130102,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1876,
+    "StatModeld": 130102,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1877,
+    "StatModeld": 130102,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1878,
+    "StatModeld": 130102,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1879,
+    "StatModeld": 130102,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 37710,
+    "ID": 1880,
+    "StatModeld": 130102,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 2000,
+    "ID": 1881,
+    "StatModeld": 130102,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1882,
+    "StatModeld": 130102,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1883,
+    "StatModeld": 130102,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1884,
+    "StatModeld": 130102,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1885,
+    "StatModeld": 130102,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1886,
+    "StatModeld": 130102,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1887,
+    "StatModeld": 130102,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1888,
+    "StatModeld": 130102,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1889,
+    "StatModeld": 130102,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1890,
+    "StatModeld": 130102,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1891,
+    "StatModeld": 130102,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1892,
+    "StatModeld": 130102,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1893,
+    "StatModeld": 130102,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1894,
+    "StatModeld": 130102,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1895,
+    "StatModeld": 130102,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1896,
+    "StatModeld": 130102,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1897,
+    "StatModeld": 130103,
+    "EStatType": "Att"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1898,
+    "StatModeld": 130103,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1899,
+    "StatModeld": 130103,
+    "EStatType": "AttR"
+  },
+  {
+    "StatValue": 18000,
+    "ID": 1900,
+    "StatModeld": 130103,
+    "EStatType": "Arm"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1901,
+    "StatModeld": 130103,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1902,
+    "StatModeld": 130103,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatValue": 94000,
+    "ID": 1903,
+    "StatModeld": 130103,
+    "EStatType": "MHP"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1904,
+    "StatModeld": 130103,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1905,
+    "StatModeld": 130103,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1906,
+    "StatModeld": 130103,
+    "EStatType": "Critical"
+  },
+  {
+    "StatValue": 19000,
+    "ID": 1907,
+    "StatModeld": 130103,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatValue": 37710,
+    "ID": 1908,
+    "StatModeld": 130103,
+    "EStatType": "Precision"
+  },
+  {
+    "StatValue": 1000,
+    "ID": 1909,
+    "StatModeld": 130103,
+    "EStatType": "MMP"
+  },
+  {
+    "StatValue": 10,
+    "ID": 1910,
+    "StatModeld": 130103,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatValue": 6500,
+    "ID": 1911,
+    "StatModeld": 130103,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatValue": 390,
+    "ID": 1912,
+    "StatModeld": 130103,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1913,
+    "StatModeld": 130103,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatValue": 4394,
+    "ID": 1914,
+    "StatModeld": 130103,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatValue": 4380,
+    "ID": 1915,
+    "StatModeld": 130103,
+    "EStatType": "Dam"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1916,
+    "StatModeld": 130103,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1917,
+    "StatModeld": 130103,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatValue": 43,
+    "ID": 1918,
+    "StatModeld": 130103,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatValue": 0,
+    "ID": 1919,
+    "StatModeld": 130103,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1920,
+    "StatModeld": 130103,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1921,
+    "StatModeld": 130103,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1922,
+    "StatModeld": 130103,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1923,
+    "StatModeld": 130103,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatValue": 1382,
+    "ID": 1924,
+    "StatModeld": 130103,
     "EStatType": "ElementDamDarkness"
   }
 ]

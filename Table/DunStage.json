@@ -6262,8 +6262,8 @@
     "Unused": true,
     "UnUsedAuto": true,
     "MonsterIndicatorGroupID": 101,
-    "Timelimit": 300000,
-    "ContentsLoadingGroupID": 10000,
+    "Timelimit": 90000,
+    "ContentsLoadingGroupID": 180000,
     "StageMainText": "PVP.StageMainText.01",
     "BossMetaInfo": [],
     "StageDescription": "PVP.StageDescription.01",
@@ -68322,6 +68322,798 @@
     "AddActiveScene1": ""
   },
   {
+    "ID": 183601,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText01",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription01",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SianHalat.MainText01",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183602,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText02",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription02",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SianHalat.MainText02",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183603,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText03",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription03",
+    "BgmListSet": "BgmListSet_183603_01_Trigger",
+    "StageSubText": "Hunterstory.SianHalat.MainText03",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SianHalat_03_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SianHalat_03_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_City_Square",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_City_Square_night",
+    "BGSceneName1": "Levelup_City_Square",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183604,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText04",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription04",
+    "BgmListSet": "BgmListSet_183604_01_Trigger",
+    "StageSubText": "Hunterstory.SianHalat.MainText04",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SianHalat_04_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SianHalat_04_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_City_Square_Street_night",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_City_Square_Street_night",
+    "BGSceneName1": "Levelup_City_Square_Street_night",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183605,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText05",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription05",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SianHalat.MainText05",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183606,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText06",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription06",
+    "BgmListSet": "BgmListSet_183606_01_Trigger",
+    "StageSubText": "Hunterstory.SianHalat.MainText06",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SianHalat_06_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SianHalat_06_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Gate_Cave_Red_BattleZone_1",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_Gate_Cave_Red_BossRoom_1",
+    "BGSceneName1": "Levelup_Gate_Cave_Red_BattleZone_1",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183607,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText07",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription07",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SianHalat.MainText07",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183608,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SianHalat.MainText08",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription08",
+    "BgmListSet": "BgmListSet_183608_01_Trigger",
+    "StageSubText": "Hunterstory.SianHalat.MainText08",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SianHalat_08_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SianHalat_08_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_HunterAssociation_Gym",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_HunterAssociation_Gym",
+    "BGSceneName1": "Levelup_HunterAssociation_Gym",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183609,
+    "MultiContentsType": 0,
+    "BossInfo1": 36002,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "HunterStory.EventName.SianHalat",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SianHalat.StageDescription08",
+    "BgmListSet": "BgmListSet_183609_01_Trigger",
+    "StageSubText": "HunterStory.EventName.SianHalat",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SianHalat_Repeat_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SianHalat_Repeat_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_City_Square",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      10
+    ],
+    "IconResourceName": "Levelup_City_Square_night",
+    "BGSceneName1": "Levelup_City_Square",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183701,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText01",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription01",
+    "BgmListSet": "BgmListSet_183701_01_Trigger",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText01",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SonKihoon_01_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SonKihoon_01_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_RedGate_Desert_Oasis",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_RedGate_Desert_Oasis",
+    "BGSceneName1": "Levelup_RedGate_Desert_Oasis",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183702,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText02",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription02",
+    "BgmListSet": "BgmListSet_183702_01_Trigger",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText02",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SonKihoon_02_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SonKihoon_02_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_RedGate_Desert_Oasis_Night",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_RedGate_Desert_Oasis_Night",
+    "BGSceneName1": "Levelup_RedGate_Desert_Oasis_Night",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183703,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText03",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription03",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText03",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183704,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText04",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription04",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText04",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183705,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText05",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription05",
+    "BgmListSet": "BgmListSet_183705_01_Trigger",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText05",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SonKihoon_05_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SonKihoon_05_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Gate_Cave_Red_BattleZone_3",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_Gate_Cave_Red_BossRoom_3",
+    "BGSceneName1": "Levelup_Gate_Cave_Red_BattleZone_3",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183706,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText06",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription06",
+    "BgmListSet": "BgmListSet_183706_01_Trigger",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText06",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SonKihoon_06_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SonKihoon_06_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Gate_Cave_Red_BattleZone_2",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "Levelup_Gate_Cave_Red_BossRoom_1",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "Levelup_Gate_Cave_Red_BossRoom_1",
+    "BGSceneName1": "Levelup_Gate_Cave_Red_BattleZone_2",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": "Levelup_Gate_Cave_Red_BossRoom_1"
+  },
+  {
+    "ID": 183707,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "Hunterstory.SonKiHoon_PC.MainText07",
+    "BossMetaInfo": [],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription07",
+    "BgmListSet": "",
+    "StageSubText": "Hunterstory.SonKiHoon_PC.MainText07",
+    "StrongAttribute": [],
+    "TriggerScene1": "",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [],
+    "DungeonBuffListID": [],
+    "IconResourceName": "",
+    "BGSceneName1": "",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 183708,
+    "MultiContentsType": 0,
+    "BossInfo1": 35709,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "HunterStory.EventName.SonKiHoon_PC",
+    "BossMetaInfo": [
+      1540000001
+    ],
+    "StageDescription": "Hunterstory.SonKiHoon_PC.StageDescription06",
+    "BgmListSet": "BgmListSet_183708_01_Trigger",
+    "StageSubText": "HunterStory.EventName.SonKiHoon_PC",
+    "StrongAttribute": [],
+    "TriggerScene1": "Hunterstory_SonKihoon_Repeat_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Hunterstory_SonKihoon_Repeat_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Gate_Cave_Red_BattleZone_2",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "Levelup_Gate_Cave_Red_BossRoom_1",
+    "WeakAttribute": [
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      10
+    ],
+    "IconResourceName": "Levelup_Gate_Cave_Red_BossRoom_1",
+    "BGSceneName1": "Levelup_Gate_Cave_Red_BattleZone_2",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": "Levelup_Gate_Cave_Red_BossRoom_1"
+  },
+  {
     "ID": 190101,
     "MultiContentsType": 0,
     "BossInfo1": 0,
@@ -78261,7 +79053,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78282,11 +79074,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78319,7 +79111,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78340,11 +79132,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78377,7 +79169,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78398,11 +79190,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78434,7 +79226,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78455,11 +79247,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78492,7 +79284,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78513,11 +79305,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78550,7 +79342,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78571,11 +79363,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78607,7 +79399,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78628,11 +79420,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78665,7 +79457,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -78686,11 +79478,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -78725,7 +79517,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_02_TriggerScene",
     "TriggerScene3": "",
@@ -78746,11 +79538,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -78783,7 +79575,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -78804,11 +79596,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -78842,7 +79634,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -78863,11 +79655,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -78901,7 +79693,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -78922,11 +79714,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -78960,7 +79752,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -78981,11 +79773,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -79020,7 +79812,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79041,11 +79833,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79080,7 +79872,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79101,11 +79893,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79138,7 +79930,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_03_TriggerScene",
     "TriggerScene3": "",
@@ -79159,11 +79951,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79198,7 +79990,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79219,11 +80011,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79257,7 +80049,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_02_TriggerScene",
     "TriggerScene3": "",
@@ -79278,11 +80070,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79318,7 +80110,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79339,11 +80131,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79379,7 +80171,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79400,11 +80192,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79439,7 +80231,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79460,11 +80252,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79498,7 +80290,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -79519,11 +80311,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79558,7 +80350,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600401999
+      1600441999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_RaidBoss_03_TriggerScene",
     "TriggerScene3": "",
@@ -79579,11 +80371,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600341999
+      1600311999
     ],
     "DungeonBuffListID": [
-      16,
-      7,
+      12,
+      9,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_E_01",
@@ -79617,7 +80409,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79638,11 +80430,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -79675,7 +80467,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79696,11 +80488,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -79733,7 +80525,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79754,11 +80546,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -79790,7 +80582,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79811,11 +80603,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -79849,7 +80641,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79870,11 +80662,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -79907,7 +80699,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79928,11 +80720,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -79964,7 +80756,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -79985,11 +80777,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -80021,7 +80813,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_Elite_01_TriggerScene",
     "TriggerScene3": "",
@@ -80042,11 +80834,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_D_01",
@@ -80080,7 +80872,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_03_TriggerScene",
     "TriggerScene3": "",
@@ -80101,11 +80893,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -80140,7 +80932,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -80161,11 +80953,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -80201,7 +80993,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -80222,11 +81014,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -80261,7 +81053,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -80282,11 +81074,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -80322,7 +81114,7 @@
     "BgmListSet": "BgmListSet_ArchitectTrial_01",
     "StageSubText": "EContentsType.ArchitectTrial",
     "StrongAttribute": [
-      1600411999
+      1600461999
     ],
     "TriggerScene1": "Levelup_ArchitectTrial_DungeonBoss_01_TriggerScene",
     "TriggerScene3": "",
@@ -80343,11 +81135,11 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999
+      1600371999
     ],
     "DungeonBuffListID": [
-      14,
-      11,
+      13,
+      10,
       33
     ],
     "IconResourceName": "Levelup_Kandialu_C_01",
@@ -80398,14 +81190,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80458,14 +81250,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80518,14 +81310,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80579,14 +81371,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80640,14 +81432,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80701,14 +81493,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80762,14 +81554,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_Dungeon_SpaceOfIllusions",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80822,14 +81614,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80883,14 +81675,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -80943,14 +81735,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81005,14 +81797,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81067,14 +81859,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81127,14 +81919,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_HapjeongStation_1F",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81187,14 +81979,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81247,14 +82039,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81307,14 +82099,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81369,14 +82161,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81429,14 +82221,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81489,14 +82281,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_Gate_Cave_Red_Dark_BossRoom_3",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81549,14 +82341,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81609,14 +82401,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81669,14 +82461,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81730,14 +82522,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_RedGate_SnowField_Forest",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81790,14 +82582,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81851,14 +82643,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81911,14 +82703,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -81971,14 +82763,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82031,14 +82823,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82091,14 +82883,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82152,14 +82944,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82212,14 +83004,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82272,14 +83064,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82333,14 +83125,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82394,14 +83186,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82427,6 +83219,7 @@
     "ContentsLoadingGroupID": 150000,
     "StageMainText": "DunStage.StageMainText.12502",
     "BossMetaInfo": [
+      1540000001,
       1540001001,
       1540001023,
       1540001032,
@@ -82455,14 +83248,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82517,14 +83310,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82577,14 +83370,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82638,14 +83431,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82698,14 +83491,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82757,14 +83550,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82817,14 +83610,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82877,14 +83670,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82938,14 +83731,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_Gate_Cave_Black_BossRoom_4",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -82997,14 +83790,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83056,14 +83849,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83116,14 +83909,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83176,14 +83969,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83235,14 +84028,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83296,14 +84089,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83356,14 +84149,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83416,14 +84209,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83472,14 +84265,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83528,14 +84321,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
-      1600301999,
-      1600361999,
-      1600371999
+      1600371999,
+      1600311999,
+      1600361999
     ],
     "DungeonBuffListID": [
-      11,
-      8,
       10,
+      9,
+      8,
       21,
       33
     ],
@@ -83587,14 +84380,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
       10,
-      9,
+      11,
+      7,
       21,
       33
     ],
@@ -83647,14 +84440,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
       10,
-      9,
+      11,
+      7,
       21,
       33
     ],
@@ -83707,14 +84500,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -83768,14 +84561,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -83829,14 +84622,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -83890,14 +84683,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -83951,14 +84744,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_Dungeon_SpaceOfIllusions",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84011,14 +84804,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84072,14 +84865,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84132,14 +84925,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84194,14 +84987,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84256,14 +85049,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84316,14 +85109,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_HapjeongStation_1F",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84376,14 +85169,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84436,14 +85229,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84496,14 +85289,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84558,14 +85351,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84618,14 +85411,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84678,14 +85471,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_Gate_Cave_Red_Dark_BossRoom_3",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84738,14 +85531,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84798,14 +85591,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84858,14 +85651,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84919,14 +85712,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_RedGate_SnowField_Forest",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -84979,14 +85772,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85040,14 +85833,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85100,14 +85893,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85160,14 +85953,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85220,14 +86013,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85280,14 +86073,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85341,14 +86134,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85401,14 +86194,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85461,14 +86254,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85522,14 +86315,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85583,14 +86376,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85616,6 +86409,7 @@
     "ContentsLoadingGroupID": 150000,
     "StageMainText": "DunStage.StageMainText.12502",
     "BossMetaInfo": [
+      1540000001,
       1540001001,
       1540001023,
       1540001032,
@@ -85644,14 +86438,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85706,14 +86500,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85766,14 +86560,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85827,14 +86621,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85887,14 +86681,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -85946,14 +86740,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86006,14 +86800,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86066,14 +86860,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86127,14 +86921,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "Levelup_Gate_Cave_Black_BossRoom_4",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86186,14 +86980,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86245,14 +87039,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86305,14 +87099,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86365,14 +87159,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86424,14 +87218,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86485,14 +87279,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86545,14 +87339,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86605,14 +87399,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86661,14 +87455,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86717,14 +87511,14 @@
     "AddBGSceneName3": "",
     "AddBGSceneName1": "",
     "WeakAttribute": [
+      1600371999,
       1600301999,
-      1600311999,
-      1600371999
+      1600341999
     ],
     "DungeonBuffListID": [
-      11,
-      9,
       10,
+      11,
+      7,
       21,
       33
     ],
@@ -86908,13 +87702,13 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600311999,
-      1600361999
+      1600361999,
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      9,
       8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -86969,11 +87763,11 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600361999
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -87156,13 +87950,13 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600311999,
-      1600361999
+      1600361999,
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      9,
       8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -87217,11 +88011,11 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600361999
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -87404,13 +88198,13 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600311999,
-      1600361999
+      1600361999,
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      9,
       8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -87465,11 +88259,11 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600361999
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -87652,13 +88446,13 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600311999,
-      1600361999
+      1600361999,
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      9,
       8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
@@ -87713,15 +88507,381 @@
     "AddBGSceneName1": "",
     "WeakAttribute": [
       1600301999,
-      1600361999
+      1600371999
     ],
     "DungeonBuffListID": [
       11,
-      8,
+      10,
       39
     ],
     "IconResourceName": "DG_Kamish_Boss",
     "BGSceneName1": "DG_Kamish_Boss",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 260101,
+    "MultiContentsType": 0,
+    "BossInfo1": 10702,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 601031,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 50000,
+    "StageMainText": "EContentsType.NewbieProtocol",
+    "BossMetaInfo": [
+      1540000003,
+      1540001031,
+      1540001038
+    ],
+    "StageDescription": "DunStage.StageDescription.260101",
+    "BgmListSet": "BgmListSet_ThroneRoom_Igris_01",
+    "StageSubText": "EContentsType.NewbieProtocol",
+    "StrongAttribute": [
+      1600441999
+    ],
+    "TriggerScene1": "Dungeon_ThroneRoom_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Dungeon_ThroneRoom_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Dungeon_ThroneRoom",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      12,
+      10
+    ],
+    "IconResourceName": "Levelup_Dungeon_ThroneRoom",
+    "BGSceneName1": "Levelup_Dungeon_ThroneRoom",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 260102,
+    "MultiContentsType": 0,
+    "BossInfo1": 10801,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 103,
+    "Timelimit": 300000,
+    "ContentsLoadingGroupID": 50000,
+    "StageMainText": "EContentsType.NewbieProtocol",
+    "BossMetaInfo": [
+      1540000001,
+      1540001044,
+      1540001036,
+      1540001038
+    ],
+    "StageDescription": "DunStage.StageDescription.260101",
+    "BgmListSet": "BgmListSet_Demoncastle_Middlestairs_Vulcan_01",
+    "StageSubText": "EContentsType.NewbieProtocol",
+    "StrongAttribute": [
+      1600401999
+    ],
+    "TriggerScene1": "110205_01_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "110205_01_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Dungeon_DemonCastle_Vulcan_BossRoom",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600311999,
+      1600341999
+    ],
+    "DungeonBuffListID": [
+      16,
+      9,
+      7,
+      21
+    ],
+    "IconResourceName": "Levelup_Dungeon_DemonCastle_Vulcan_BossRoom",
+    "BGSceneName1": "Levelup_Dungeon_DemonCastle_Vulcan_BossRoom",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 260103,
+    "MultiContentsType": 0,
+    "BossInfo1": 14201,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 300000,
+    "ContentsLoadingGroupID": 50000,
+    "StageMainText": "EContentsType.NewbieProtocol",
+    "BossMetaInfo": [
+      1540000001,
+      1540001031,
+      1540001044,
+      1540001038
+    ],
+    "StageDescription": "DunStage.StageDescription.260101",
+    "BgmListSet": "BgmListSet_Demoncastle_Topfloor_Baran_02",
+    "StageSubText": "EContentsType.NewbieProtocol",
+    "StrongAttribute": [],
+    "TriggerScene1": "110506_01_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "110506_01_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Dungeon_DemonCastle_Topfloor_Baran",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600301999,
+      1600311999,
+      1600341999,
+      1600361999,
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      11,
+      9,
+      7,
+      8,
+      10,
+      21,
+      28
+    ],
+    "IconResourceName": "Levelup_Dungeon_DemonCastle_Topfloor",
+    "BGSceneName1": "Levelup_Dungeon_DemonCastle_Topfloor_Baran",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 270201,
+    "MultiContentsType": 0,
+    "BossInfo1": 10702,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 601031,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 180000,
+    "ContentsLoadingGroupID": 50000,
+    "StageMainText": "EContentsType.NewbieProtocol",
+    "BossMetaInfo": [
+      1540000003,
+      1540001031,
+      1540001038
+    ],
+    "StageDescription": "DunStage.StageDescription.260101",
+    "BgmListSet": "BgmListSet_ThroneRoom_Igris_01",
+    "StageSubText": "EContentsType.NewbieProtocol",
+    "StrongAttribute": [
+      1600441999
+    ],
+    "TriggerScene1": "Dungeon_ThroneRoom_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "Dungeon_ThroneRoom_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Dungeon_ThroneRoom",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      12,
+      10
+    ],
+    "IconResourceName": "Levelup_Dungeon_ThroneRoom",
+    "BGSceneName1": "Levelup_Dungeon_ThroneRoom",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 270202,
+    "MultiContentsType": 0,
+    "BossInfo1": 10801,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 103,
+    "Timelimit": 300000,
+    "ContentsLoadingGroupID": 50000,
+    "StageMainText": "EContentsType.NewbieProtocol",
+    "BossMetaInfo": [
+      1540000001,
+      1540001044,
+      1540001036,
+      1540001038
+    ],
+    "StageDescription": "DunStage.StageDescription.260101",
+    "BgmListSet": "BgmListSet_Demoncastle_Middlestairs_Vulcan_01",
+    "StageSubText": "EContentsType.NewbieProtocol",
+    "StrongAttribute": [
+      1600401999
+    ],
+    "TriggerScene1": "110205_01_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "110205_01_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Dungeon_DemonCastle_Vulcan_BossRoom",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600311999,
+      1600341999
+    ],
+    "DungeonBuffListID": [
+      16,
+      9,
+      7,
+      21
+    ],
+    "IconResourceName": "Levelup_Dungeon_DemonCastle_Vulcan_BossRoom",
+    "BGSceneName1": "Levelup_Dungeon_DemonCastle_Vulcan_BossRoom",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 270203,
+    "MultiContentsType": 0,
+    "BossInfo1": 14201,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 300000,
+    "ContentsLoadingGroupID": 50000,
+    "StageMainText": "EContentsType.NewbieProtocol",
+    "BossMetaInfo": [
+      1540000001,
+      1540001031,
+      1540001044,
+      1540001038
+    ],
+    "StageDescription": "DunStage.StageDescription.260101",
+    "BgmListSet": "BgmListSet_Demoncastle_Topfloor_Baran_02",
+    "StageSubText": "EContentsType.NewbieProtocol",
+    "StrongAttribute": [],
+    "TriggerScene1": "110506_01_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "110506_01_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Dungeon_DemonCastle_Topfloor_Baran",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600301999,
+      1600311999,
+      1600341999,
+      1600361999,
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      11,
+      9,
+      7,
+      8,
+      10,
+      21,
+      28
+    ],
+    "IconResourceName": "Levelup_Dungeon_DemonCastle_Topfloor",
+    "BGSceneName1": "Levelup_Dungeon_DemonCastle_Topfloor_Baran",
     "BGSceneName3": "",
     "BGSceneName2": "",
     "AddActiveScene2": "",
@@ -116556,6 +117716,106 @@
     ],
     "DungeonBuffListID": [
       11
+    ],
+    "IconResourceName": "Levelup_Kandialu_C_04",
+    "BGSceneName1": "Levelup_Kandialu_C_04",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 8001036,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 0,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "EBattleContentType.HunterExperience",
+    "BossMetaInfo": [],
+    "StageDescription": "EBattleContentType.HunterExperience.Description001",
+    "BgmListSet": "BgmListSet_Kandialu_01",
+    "StageSubText": "EBattleContentType.HunterExperience",
+    "StrongAttribute": [],
+    "TriggerScene1": "HunterExperience_Type_36_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "HunterExperience_Type_36_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Kandialu_C_04",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      10
+    ],
+    "IconResourceName": "Levelup_Kandialu_C_04",
+    "BGSceneName1": "Levelup_Kandialu_C_04",
+    "BGSceneName3": "",
+    "BGSceneName2": "",
+    "AddActiveScene2": "",
+    "AddActiveScene3": "",
+    "AddActiveScene1": ""
+  },
+  {
+    "ID": 8001037,
+    "MultiContentsType": 0,
+    "BossInfo1": 0,
+    "BossInfo2": 0,
+    "BossInfo3": 0,
+    "RandomizeSpawnID": 0,
+    "Unused": true,
+    "UnUsedAuto": true,
+    "MonsterIndicatorGroupID": 100,
+    "Timelimit": 0,
+    "ContentsLoadingGroupID": 80000,
+    "StageMainText": "EBattleContentType.HunterExperience",
+    "BossMetaInfo": [],
+    "StageDescription": "EBattleContentType.HunterExperience.Description001",
+    "BgmListSet": "BgmListSet_Kandialu_01",
+    "StageSubText": "EBattleContentType.HunterExperience",
+    "StrongAttribute": [],
+    "TriggerScene1": "HunterExperience_Type_37_TriggerScene",
+    "TriggerScene3": "",
+    "TriggerScene2": "",
+    "LightScene1": "",
+    "LightScene3": "",
+    "LightScene2": "",
+    "TriggerName1": "HunterExperience_Type_37_Trigger",
+    "TriggerName2": "",
+    "TriggerName3": "",
+    "AddLightScene1": "",
+    "AddLightScene2": "",
+    "AddLightScene3": "",
+    "ActiveScene1": "Levelup_Kandialu_C_04",
+    "ActiveScene3": "",
+    "ActiveScene2": "",
+    "AddBGSceneName2": "",
+    "AddBGSceneName3": "",
+    "AddBGSceneName1": "",
+    "WeakAttribute": [
+      1600371999
+    ],
+    "DungeonBuffListID": [
+      10
     ],
     "IconResourceName": "Levelup_Kandialu_C_04",
     "BGSceneName1": "Levelup_Kandialu_C_04",

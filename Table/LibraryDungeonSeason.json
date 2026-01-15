@@ -112,5 +112,65 @@
       "Water",
       "Darkness"
     ]
+  },
+  {
+    "DifficultyGroup": 3,
+    "ID": 5,
+    "SeasonReward": 3,
+    "StageInfo": 5,
+    "PenaltyFixID": [
+      4000501,
+      4000101
+    ],
+    "FixedDungeonStage": [
+      240109,
+      240106,
+      240103
+    ],
+    "DemoHunter1": [
+      50001,
+      50002,
+      50003
+    ],
+    "DemoHunter2": [
+      50004,
+      50005,
+      50006
+    ],
+    "SeasonElement": [
+      "Darkness",
+      "Water",
+      "Light"
+    ]
+  },
+  {
+    "DifficultyGroup": 3,
+    "ID": 6,
+    "SeasonReward": 4,
+    "StageInfo": 6,
+    "PenaltyFixID": [
+      4000401,
+      4000801
+    ],
+    "FixedDungeonStage": [
+      240311,
+      240304,
+      240310
+    ],
+    "DemoHunter1": [
+      60001,
+      60002,
+      60003
+    ],
+    "DemoHunter2": [
+      60004,
+      60005,
+      60006
+    ],
+    "SeasonElement": [
+      "Darkness",
+      "Fire",
+      "Wind"
+    ]
   }
 ]

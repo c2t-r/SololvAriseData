@@ -649,7 +649,7 @@
     "CollabID": 0,
     "BG": "Img_Fate10005_BG",
     "Title": "Fate.Title10025",
-    "FateResourcePage": "FateCharDetailPicture002",
+    "FateResourcePage": "FateCharDetailPicture003",
     "FateResource": "Prefab_Fate10025",
     "Type": "Hunter",
     "FateStory": [
@@ -671,7 +671,8 @@
     "CharIDs": [
       261,
       51,
-      371
+      371,
+      541
     ]
   },
   {
@@ -680,7 +681,7 @@
     "CollabID": 0,
     "BG": "Img_Fate10012_BG",
     "Title": "Fate.Title10026",
-    "FateResourcePage": "FateCharDetailPicture001",
+    "FateResourcePage": "FateCharDetailPicture002",
     "FateResource": "Prefab_Fate10026",
     "Type": "Hunter",
     "FateStory": [
@@ -694,7 +695,8 @@
     ],
     "CharIDs": [
       121,
-      291
+      291,
+      441
     ]
   },
   {
@@ -948,6 +950,98 @@
     "CharIDs": [
       341,
       531
+    ]
+  },
+  {
+    "ID": 10038,
+    "Unused": true,
+    "CollabID": 0,
+    "BG": "Img_Fate10003_BG",
+    "Title": "Fate.Title10038",
+    "FateResourcePage": "FateCharDetailPicture004",
+    "FateResource": "Prefab_Fate10038",
+    "Type": "Hunter",
+    "FateStory": [
+      "Fate10038.Story_01",
+      "Blank",
+      "Fate10038.Story_02",
+      "Blank",
+      "Fate10038.Story_03"
+    ],
+    "CharIDs": [
+      551,
+      241,
+      251,
+      181,
+      301
+    ]
+  },
+  {
+    "ID": 10039,
+    "Unused": true,
+    "CollabID": 0,
+    "BG": "Img_Fate10013_BG",
+    "Title": "Fate.Title10039",
+    "FateResourcePage": "FateCharDetailPicture001",
+    "FateResource": "Prefab_Fate10039",
+    "Type": "Hunter",
+    "FateStory": [
+      "Fate10039.Story_01",
+      "Blank",
+      "Fate10039.Story_02",
+      "Blank",
+      "Fate10039.Story_03",
+      "Blank",
+      "Fate10039.Story_04",
+      "Blank",
+      "Fate10039.Story_05"
+    ],
+    "CharIDs": [
+      551,
+      131
+    ]
+  },
+  {
+    "ID": 10040,
+    "Unused": true,
+    "CollabID": 0,
+    "BG": "Img_Fate10008_BG",
+    "Title": "Fate.Title10040",
+    "FateResourcePage": "FateCharDetailPicture001",
+    "FateResource": "Prefab_Fate10040",
+    "Type": "Hunter",
+    "FateStory": [
+      "Fate10040.Story_01",
+      "Blank",
+      "Fate10040.Story_02",
+      "Blank",
+      "Fate10040.Story_03"
+    ],
+    "CharIDs": [
+      551,
+      51
+    ]
+  },
+  {
+    "ID": 10041,
+    "Unused": true,
+    "CollabID": 0,
+    "BG": "Img_Fate10014_BG",
+    "Title": "Fate.Title10041",
+    "FateResourcePage": "FateCharDetailPicture002",
+    "FateResource": "Prefab_Fate10041",
+    "Type": "Hunter",
+    "FateStory": [
+      "Fate10041.Story_01",
+      "Blank",
+      "Fate10041.Story_02",
+      "Blank",
+      "Fate10041.Story_03"
+    ],
+    "CharIDs": [
+      541,
+      371,
+      51
     ]
   }
 ]

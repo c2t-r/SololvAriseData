@@ -1080,16 +1080,6 @@
     "PartsPrefName": "Gina_Weapon1_PFV"
   },
   {
-    "ID": 109,
-    "GroupID": 241,
-    "Index": 1,
-    "AwakeActive": true,
-    "KeepEffect": true,
-    "AttachParentName": "Weapon_Equip_Root",
-    "CharPartsType": "Weapon",
-    "PartsPrefName": "AliciaBlanchet_Weapon02_PFV"
-  },
-  {
     "ID": 110,
     "GroupID": 251,
     "Index": 0,
@@ -2608,5 +2598,15 @@
     "AttachParentName": "Bike_Transrate",
     "CharPartsType": "Weapon",
     "PartsPrefName": "SeoLin_PC_Skin_Epic_Christmas2025_Weapon1_PFV"
+  },
+  {
+    "ID": 262,
+    "GroupID": 561,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bip001 Prop1",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MeriLaine_Weapon0_PFV"
   }
 ]

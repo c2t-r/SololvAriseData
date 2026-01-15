@@ -920,14 +920,6 @@
     "CategoryString": "SysConstStr.Glossary.EnhanceStep"
   },
   {
-    "Order": 5,
-    "ID": 123,
-    "GroupID": 3,
-    "SortCategory": "EquipmentType",
-    "ContentsType": "Artifact",
-    "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
-  },
-  {
     "Order": 6,
     "ID": 124,
     "GroupID": 3,
@@ -1110,5 +1102,157 @@
     "SortCategory": "CoreType",
     "ContentsType": "Core",
     "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
+  },
+  {
+    "Order": 1,
+    "ID": 156,
+    "GroupID": 3,
+    "SortCategory": "Recommend",
+    "ContentsType": "Core",
+    "CategoryString": "ESortCategory.Recommend"
+  },
+  {
+    "Order": 2,
+    "ID": 157,
+    "GroupID": 3,
+    "SortCategory": "Level",
+    "ContentsType": "Core",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 158,
+    "GroupID": 3,
+    "SortCategory": "Rarity",
+    "ContentsType": "Core",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 5,
+    "ID": 160,
+    "GroupID": 3,
+    "SortCategory": "Acquisition",
+    "ContentsType": "Core",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 161,
+    "GroupID": 1,
+    "SortCategory": "RewardBoost",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "UIString.SecretArchive.BonusPreview"
+  },
+  {
+    "Order": 2,
+    "ID": 162,
+    "GroupID": 1,
+    "SortCategory": "Level",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 163,
+    "GroupID": 1,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 4,
+    "ID": 164,
+    "GroupID": 1,
+    "SortCategory": "ID",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "SysConstStr.Glossary.SortTypeID"
+  },
+  {
+    "Order": 5,
+    "ID": 165,
+    "GroupID": 1,
+    "SortCategory": "Power",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 6,
+    "ID": 166,
+    "GroupID": 1,
+    "SortCategory": "SkillLevel",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "SysConstStr.SJWPage.PassiveSkillRuneSkillLevel"
+  },
+  {
+    "Order": 7,
+    "ID": 167,
+    "GroupID": 1,
+    "SortCategory": "Evolve",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "SysConstStr.Glossary.Ascend"
+  },
+  {
+    "Order": 8,
+    "ID": 168,
+    "GroupID": 1,
+    "SortCategory": "Acquisition",
+    "ContentsType": "GSHunterStory",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 169,
+    "GroupID": 1,
+    "SortCategory": "RewardBoost",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "UIString.SecretArchive.BonusPreview"
+  },
+  {
+    "Order": 2,
+    "ID": 170,
+    "GroupID": 1,
+    "SortCategory": "Level",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 171,
+    "GroupID": 1,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 4,
+    "ID": 172,
+    "GroupID": 1,
+    "SortCategory": "ID",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "SysConstStr.Glossary.SortTypeID"
+  },
+  {
+    "Order": 5,
+    "ID": 173,
+    "GroupID": 1,
+    "SortCategory": "Power",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 6,
+    "ID": 174,
+    "GroupID": 1,
+    "SortCategory": "Evolve",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "SysConstStr.Glossary.Ascend"
+  },
+  {
+    "Order": 7,
+    "ID": 175,
+    "GroupID": 1,
+    "SortCategory": "Acquisition",
+    "ContentsType": "RelicHunterStory",
+    "CategoryString": "ESortCategory.Obtain"
   }
 ]

@@ -5,7 +5,8 @@
     "Amount": 1,
     "ID": 1,
     "End": 30000,
-    "Interval": 15000
+    "Interval": 3000,
+    "AddBuff": []
   },
   {
     "Start": 30000,
@@ -13,7 +14,8 @@
     "Amount": 1,
     "ID": 2,
     "End": 60000,
-    "Interval": 10000
+    "Interval": 2500,
+    "AddBuff": []
   },
   {
     "Start": 60000,
@@ -21,7 +23,8 @@
     "Amount": 1,
     "ID": 3,
     "End": 90000,
-    "Interval": 7500
+    "Interval": 2000,
+    "AddBuff": []
   },
   {
     "Start": 90000,
@@ -29,6 +32,7 @@
     "Amount": 1,
     "ID": 4,
     "End": 990000,
-    "Interval": 3000
+    "Interval": 1000,
+    "AddBuff": []
   }
 ]

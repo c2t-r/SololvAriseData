@@ -9278,5 +9278,115 @@
     "MotionType": "Worries",
     "Loop": "Dialog_SeoLin_PC_Worries_01_Loop",
     "End": "Dialog_SeoLin_PC_Worries_01_End"
+  },
+  {
+    "ID": 938,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910653,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_SianHalat_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 939,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910653,
+    "Start": "Dialog_SianHalat_HeadScratch_01_Start",
+    "MotionType": "HeadScratch",
+    "Loop": "Dialog_SianHalat_HeadScratch_01_Loop",
+    "End": "Dialog_SianHalat_HeadScratch_01_End"
+  },
+  {
+    "ID": 940,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910653,
+    "Start": "Dialog_SianHalat_Special_01_Start",
+    "MotionType": "ChestHand",
+    "Loop": "Dialog_SianHalat_Special_01_Loop",
+    "End": "Dialog_SianHalat_Special_01_End"
+  },
+  {
+    "ID": 941,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910653,
+    "Start": "Dialog_SianHalat_ShakingHead1_01_Start",
+    "MotionType": "ShakingHead1",
+    "Loop": "Dialog_SianHalat_ShakingHead1_01_Loop",
+    "End": "Dialog_SianHalat_ShakingHead1_01_End"
+  },
+  {
+    "ID": 942,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910664,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_Female_Adult2_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 943,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910665,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_SonKiHoon_PC_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 944,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910665,
+    "Start": "",
+    "MotionType": "Special",
+    "Loop": "Dialog_SonKiHoon_PC_LowerHead_01",
+    "End": ""
+  },
+  {
+    "ID": 945,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910665,
+    "Start": "Dialog_SonKiHoon_PC_OneHandOut_01_Start",
+    "MotionType": "LowerHead",
+    "Loop": "Dialog_SonKiHoon_PC_OneHandOut_01_Loop",
+    "End": "Dialog_SonKiHoon_PC_OneHandOut_01_End"
+  },
+  {
+    "ID": 946,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910665,
+    "Start": "Dialog_SonKiHoon_PC_WaistHand_01_Start",
+    "MotionType": "WaistHand",
+    "Loop": "Dialog_SonKiHoon_PC_WaistHand_01_Loop",
+    "End": "Dialog_SonKiHoon_PC_WaistHand_01_End"
+  },
+  {
+    "ID": 947,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910665,
+    "Start": "Dialog_SonKiHoon_PC_Worries_01_Start",
+    "MotionType": "Worries",
+    "Loop": "Dialog_SonKiHoon_PC_Worries_01_Loop",
+    "End": "Dialog_SonKiHoon_PC_Worries_01_End"
+  },
+  {
+    "ID": 950,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910653,
+    "Start": "Dialog_SianHalat_Special_02_Start",
+    "MotionType": "Special",
+    "Loop": "Dialog_SianHalat_Special_02_Loop",
+    "End": "Dialog_SianHalat_Special_02_End"
   }
 ]

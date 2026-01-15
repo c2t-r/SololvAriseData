@@ -357,6 +357,15 @@
   },
   {
     "IsGuild": true,
+    "ID": 121,
+    "TopMenuPage": "StageReady",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "NewbieProtocol",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
     "ID": 11,
     "TopMenuPage": "GatePotal",
     "TopMenuSubPage": "",
@@ -1195,6 +1204,15 @@
   },
   {
     "IsGuild": true,
+    "ID": 79,
+    "TopMenuPage": "NewbieProtocol",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
     "ID": 700,
     "TopMenuPage": "CostumeEncyclopedia",
     "TopMenuSubPage": "",
@@ -1749,6 +1767,19 @@
     "TopMenuPage": "EventPvp",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "400001",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30003002
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2008,
+    "TopMenuPage": "EventPvp",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "400003",
     "TopMenuDisplayType": [
       3
     ],

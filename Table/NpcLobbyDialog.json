@@ -38331,11 +38331,11 @@
   {
     "SortOrder": 1,
     "ID": 3218,
-    "DialogGroupID": 4200,
+    "DialogGroupID": 4201,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char541.Dialog001",
+    "DialogTag": "LobbyNPC.Char541.Dialog007",
     "DialogFacial": "",
     "DialogSound": [
       "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
@@ -38345,47 +38345,33 @@
   {
     "SortOrder": 2,
     "ID": 3219,
-    "DialogGroupID": 4200,
+    "DialogGroupID": 4201,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char541.Dialog002",
+    "DialogTag": "LobbyNPC.Char541.Dialog008",
     "DialogFacial": "",
     "DialogSound": []
   },
   {
-    "SortOrder": 1,
+    "SortOrder": 3,
     "ID": 3220,
-    "DialogGroupID": 4298,
+    "DialogGroupID": 4201,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char541.Dialog003",
-    "DialogFacial": "",
-    "DialogSound": [
-      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
-      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
-    ]
-  },
-  {
-    "SortOrder": 2,
-    "ID": 3221,
-    "DialogGroupID": 4298,
-    "ReactionDialog": "",
-    "DialogEmoticon": "",
-    "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char541.Dialog004",
+    "DialogTag": "LobbyNPC.Char541.Dialog009",
     "DialogFacial": "",
     "DialogSound": []
   },
   {
     "SortOrder": 1,
-    "ID": 3222,
-    "DialogGroupID": 4299,
+    "ID": 3221,
+    "DialogGroupID": 4202,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char541.Dialog005",
+    "DialogTag": "LobbyNPC.Char541.Dialog010",
     "DialogFacial": "",
     "DialogSound": [
       "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
@@ -38394,12 +38380,1880 @@
   },
   {
     "SortOrder": 2,
-    "ID": 3223,
-    "DialogGroupID": 4299,
+    "ID": 3222,
+    "DialogGroupID": 4202,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char541.Dialog006",
+    "DialogTag": "LobbyNPC.Char541.Dialog011",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3223,
+    "DialogGroupID": 4203,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog012",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3224,
+    "DialogGroupID": 4203,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog013",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3225,
+    "DialogGroupID": 4204,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog014",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3226,
+    "DialogGroupID": 4204,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog015",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3227,
+    "DialogGroupID": 4205,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction001",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog016",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3228,
+    "DialogGroupID": 4205,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog017",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3229,
+    "DialogGroupID": 4205,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog018",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3230,
+    "DialogGroupID": 4206,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog019",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3231,
+    "DialogGroupID": 4206,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction002",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog020",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3232,
+    "DialogGroupID": 4206,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog021",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3233,
+    "DialogGroupID": 4207,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction003",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog022",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3234,
+    "DialogGroupID": 4207,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog023",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3235,
+    "DialogGroupID": 4207,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog024",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3236,
+    "DialogGroupID": 4208,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction004",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog025",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3237,
+    "DialogGroupID": 4208,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog026",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3238,
+    "DialogGroupID": 4208,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog027",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3239,
+    "DialogGroupID": 4209,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction005",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog028",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3240,
+    "DialogGroupID": 4209,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog029",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3241,
+    "DialogGroupID": 4210,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog030",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3242,
+    "DialogGroupID": 4210,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog031",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3243,
+    "DialogGroupID": 4211,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction006",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog032",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3244,
+    "DialogGroupID": 4211,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog033",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3245,
+    "DialogGroupID": 4211,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction007",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog034",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3246,
+    "DialogGroupID": 4211,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog035",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3247,
+    "DialogGroupID": 4212,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog036",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3248,
+    "DialogGroupID": 4212,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction008",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog037",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3249,
+    "DialogGroupID": 4212,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog038",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3250,
+    "DialogGroupID": 4212,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog039",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3251,
+    "DialogGroupID": 4213,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog040",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3252,
+    "DialogGroupID": 4213,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction009",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog041",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3253,
+    "DialogGroupID": 4213,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog042",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3254,
+    "DialogGroupID": 4213,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog043",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3255,
+    "DialogGroupID": 4214,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog044",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3256,
+    "DialogGroupID": 4214,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction010",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog045",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3257,
+    "DialogGroupID": 4214,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog046",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3258,
+    "DialogGroupID": 4214,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog047",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3259,
+    "DialogGroupID": 4215,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog048",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3260,
+    "DialogGroupID": 4215,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog049",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3261,
+    "DialogGroupID": 4215,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction011",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog050",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3262,
+    "DialogGroupID": 4215,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog051",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3263,
+    "DialogGroupID": 4216,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog052",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3264,
+    "DialogGroupID": 4216,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction012",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog053",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3265,
+    "DialogGroupID": 4216,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog054",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3266,
+    "DialogGroupID": 4216,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog055",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3267,
+    "DialogGroupID": 4217,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog056",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3268,
+    "DialogGroupID": 4217,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction013",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog057",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3269,
+    "DialogGroupID": 4217,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog058",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3270,
+    "DialogGroupID": 4217,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog059",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3271,
+    "DialogGroupID": 4218,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction014",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog060",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3272,
+    "DialogGroupID": 4218,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog061",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3273,
+    "DialogGroupID": 4218,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog062",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3274,
+    "DialogGroupID": 4218,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog063",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3275,
+    "DialogGroupID": 4219,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog064",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3276,
+    "DialogGroupID": 4220,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog065",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3277,
+    "DialogGroupID": 4221,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction015",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog066",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3278,
+    "DialogGroupID": 4221,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog067",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3279,
+    "DialogGroupID": 4221,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog068",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3280,
+    "DialogGroupID": 4221,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction016",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog069",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3281,
+    "DialogGroupID": 4221,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog070",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3282,
+    "DialogGroupID": 4221,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog071",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3283,
+    "DialogGroupID": 4222,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction017",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog072",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3284,
+    "DialogGroupID": 4222,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog073",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3285,
+    "DialogGroupID": 4222,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog074",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3286,
+    "DialogGroupID": 4222,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction018",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog075",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3287,
+    "DialogGroupID": 4222,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog076",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3288,
+    "DialogGroupID": 4222,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog077",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3289,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction019",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog078",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_1",
+      "OutGame_Dia_SianHalat_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3290,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog079",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3291,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog080",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3292,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog081",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3293,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "LobbyNPC.Char541.Reaction020",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog082",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3294,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog083",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 7,
+    "ID": 3295,
+    "DialogGroupID": 4223,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char541.Dialog084",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3296,
+    "DialogGroupID": 4301,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog007",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3297,
+    "DialogGroupID": 4301,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog008",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3298,
+    "DialogGroupID": 4301,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog009",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3299,
+    "DialogGroupID": 4302,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction001",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog010",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3300,
+    "DialogGroupID": 4302,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog011",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3301,
+    "DialogGroupID": 4303,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction002",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog012",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3302,
+    "DialogGroupID": 4303,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog013",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3303,
+    "DialogGroupID": 4304,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction003",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog014",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3304,
+    "DialogGroupID": 4304,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog015",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3305,
+    "DialogGroupID": 4305,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction004",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog016",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3306,
+    "DialogGroupID": 4305,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog017",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3307,
+    "DialogGroupID": 4305,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog018",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3308,
+    "DialogGroupID": 4306,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog019",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3309,
+    "DialogGroupID": 4306,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction005",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog020",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3310,
+    "DialogGroupID": 4306,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog021",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3311,
+    "DialogGroupID": 4307,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction006",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog022",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3312,
+    "DialogGroupID": 4307,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog023",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3313,
+    "DialogGroupID": 4307,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog024",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3314,
+    "DialogGroupID": 4308,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog025",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3315,
+    "DialogGroupID": 4308,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction007",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog026",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3316,
+    "DialogGroupID": 4308,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog027",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3317,
+    "DialogGroupID": 4309,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction008",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog028",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3318,
+    "DialogGroupID": 4309,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog029",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3319,
+    "DialogGroupID": 4310,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog030",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3320,
+    "DialogGroupID": 4310,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog031",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3321,
+    "DialogGroupID": 4311,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction009",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog032",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3322,
+    "DialogGroupID": 4311,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog033",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3323,
+    "DialogGroupID": 4311,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog034",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3324,
+    "DialogGroupID": 4311,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog035",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3325,
+    "DialogGroupID": 4312,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog036",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3326,
+    "DialogGroupID": 4312,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction010",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog037",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3327,
+    "DialogGroupID": 4312,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog038",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3328,
+    "DialogGroupID": 4312,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog039",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3329,
+    "DialogGroupID": 4313,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog040",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3330,
+    "DialogGroupID": 4313,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog041",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3331,
+    "DialogGroupID": 4313,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction011",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog042",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3332,
+    "DialogGroupID": 4313,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog043",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3333,
+    "DialogGroupID": 4314,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction012",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog044",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3334,
+    "DialogGroupID": 4314,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog045",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3335,
+    "DialogGroupID": 4314,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction013",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog046",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3336,
+    "DialogGroupID": 4314,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog047",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3337,
+    "DialogGroupID": 4315,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog048",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3338,
+    "DialogGroupID": 4315,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog049",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3339,
+    "DialogGroupID": 4315,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction014",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog050",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3340,
+    "DialogGroupID": 4315,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog051",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3341,
+    "DialogGroupID": 4316,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction015",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog052",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3342,
+    "DialogGroupID": 4316,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction016",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog053",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3343,
+    "DialogGroupID": 4316,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction017",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog054",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3344,
+    "DialogGroupID": 4316,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog055",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3345,
+    "DialogGroupID": 4317,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction018",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog056",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3346,
+    "DialogGroupID": 4317,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog057",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3347,
+    "DialogGroupID": 4317,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction019",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog058",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3348,
+    "DialogGroupID": 4317,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog059",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3349,
+    "DialogGroupID": 4318,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog060",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3350,
+    "DialogGroupID": 4318,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog061",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3351,
+    "DialogGroupID": 4318,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction020",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog062",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3352,
+    "DialogGroupID": 4318,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog063",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3353,
+    "DialogGroupID": 4319,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog064",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3354,
+    "DialogGroupID": 4320,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog065",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3355,
+    "DialogGroupID": 4321,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog066",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3356,
+    "DialogGroupID": 4321,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog067",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3357,
+    "DialogGroupID": 4321,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog068",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3358,
+    "DialogGroupID": 4321,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction021",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog069",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3359,
+    "DialogGroupID": 4321,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction022",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog070",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3360,
+    "DialogGroupID": 4321,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog071",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3361,
+    "DialogGroupID": 4322,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog072",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3362,
+    "DialogGroupID": 4322,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog073",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3363,
+    "DialogGroupID": 4322,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog074",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3364,
+    "DialogGroupID": 4322,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction023",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog075",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3365,
+    "DialogGroupID": 4322,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog076",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3366,
+    "DialogGroupID": 4322,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog077",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3367,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction024",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog078",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_1",
+      "OutGame_Dia_SonKiHoon_PC_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3368,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction025",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog079",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3369,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog080",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3370,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog081",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3371,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "LobbyNPC.Char551.Reaction026",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog082",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3372,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog083",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 7,
+    "ID": 3373,
+    "DialogGroupID": 4323,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char551.Dialog084",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3374,
+    "DialogGroupID": 4400,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char561.Dialog001",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_MeriLaine_Lobby_Interection_1_1",
+      "OutGame_Dia_MeriLaine_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3375,
+    "DialogGroupID": 4400,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char561.Dialog002",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3376,
+    "DialogGroupID": 4498,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char561.Dialog003",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_MeriLaine_Lobby_Interection_1_1",
+      "OutGame_Dia_MeriLaine_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3377,
+    "DialogGroupID": 4498,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char561.Dialog004",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3378,
+    "DialogGroupID": 4499,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char561.Dialog005",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_MeriLaine_Lobby_Interection_1_1",
+      "OutGame_Dia_MeriLaine_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3379,
+    "DialogGroupID": 4499,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char561.Dialog006",
     "DialogFacial": "",
     "DialogSound": []
   }

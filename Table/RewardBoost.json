@@ -290,6 +290,24 @@
   {
     "RewardBoostGroupID": 30101,
     "IsNew": true,
+    "TargetID": 551,
+    "ID": 39,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 10,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 30101,
+    "IsNew": true,
+    "TargetID": 302030046,
+    "ID": 40,
+    "AddBonusPerEvolution": 1,
+    "BaseRewardQuantity": 5,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 30101,
+    "IsNew": true,
     "TargetID": 241,
     "ID": 47,
     "AddBonusPerEvolution": 2,
@@ -2022,6 +2040,132 @@
     "ID": 237,
     "AddBonusPerEvolution": 0,
     "BaseRewardQuantity": 7,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "TargetID": 541,
+    "ID": 238,
+    "AddBonusPerEvolution": 5,
+    "BaseRewardQuantity": 50,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "TargetID": 302030045,
+    "ID": 239,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 20,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "TargetID": 441,
+    "ID": 240,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 10,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "TargetID": 302030035,
+    "ID": 241,
+    "AddBonusPerEvolution": 1,
+    "BaseRewardQuantity": 5,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "TargetID": 51,
+    "ID": 242,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 10,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 50101,
+    "IsNew": true,
+    "TargetID": 302020001,
+    "ID": 243,
+    "AddBonusPerEvolution": 1,
+    "BaseRewardQuantity": 5,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 551,
+    "ID": 244,
+    "AddBonusPerEvolution": 5,
+    "BaseRewardQuantity": 50,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 302030046,
+    "ID": 245,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 20,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 241,
+    "ID": 246,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 10,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 302030023,
+    "ID": 247,
+    "AddBonusPerEvolution": 1,
+    "BaseRewardQuantity": 5,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 181,
+    "ID": 248,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 10,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 302030010,
+    "ID": 249,
+    "AddBonusPerEvolution": 1,
+    "BaseRewardQuantity": 5,
+    "BoostCondition1": "RelicEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 301,
+    "ID": 250,
+    "AddBonusPerEvolution": 2,
+    "BaseRewardQuantity": 10,
+    "BoostCondition1": "HunterEvolveCheck"
+  },
+  {
+    "RewardBoostGroupID": 51101,
+    "IsNew": true,
+    "TargetID": 302030020,
+    "ID": 251,
+    "AddBonusPerEvolution": 1,
+    "BaseRewardQuantity": 5,
     "BoostCondition1": "RelicEvolveCheck"
   }
 ]
