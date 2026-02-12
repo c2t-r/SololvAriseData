@@ -9380,6 +9380,26 @@
     "End": "Dialog_SonKiHoon_PC_Worries_01_End"
   },
   {
+    "ID": 948,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910666,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_CursedGiant_Boss_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 949,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910667,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_CursedGiant_Boss_Idle_01",
+    "End": ""
+  },
+  {
     "ID": 950,
     "Index": 0,
     "Facial": true,
@@ -9388,5 +9408,155 @@
     "MotionType": "Special",
     "Loop": "Dialog_SianHalat_Special_02_Loop",
     "End": "Dialog_SianHalat_Special_02_End"
+  },
+  {
+    "ID": 951,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910668,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_MeriLaine_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 952,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910668,
+    "Start": "Dialog_MeriLaine_CrossArmed_01_Start",
+    "MotionType": "CrossArmed",
+    "Loop": "Dialog_MeriLaine_CrossArmed_01_Loop",
+    "End": "Dialog_MeriLaine_CrossArmed_01_End"
+  },
+  {
+    "ID": 953,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910668,
+    "Start": "Dialog_MeriLaine_Special_01_Start",
+    "MotionType": "Special",
+    "Loop": "Dialog_MeriLaine_Special_01_Loop",
+    "End": "Dialog_MeriLaine_Special_01_End"
+  },
+  {
+    "ID": 954,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910678,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_Npcinfo_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 955,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910679,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_Female_Magician2_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 956,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910679,
+    "Start": "Dialog_Female_Magician2_Worries_01_Start",
+    "MotionType": "Worries",
+    "Loop": "Dialog_Female_Magician2_Worries_01_Loop",
+    "End": "Dialog_Female_Magician2_Worries_01_End"
+  },
+  {
+    "ID": 957,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910679,
+    "Start": "Dialog_Female_Magician2_WaistHand_01_Start",
+    "MotionType": "WaistHand",
+    "Loop": "Dialog_Female_Magician2_WaistHand_01_Loop",
+    "End": "Dialog_Female_Magician2_WaistHand_01_End"
+  },
+  {
+    "ID": 958,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910679,
+    "Start": "Dialog_Female_Magician2_Special_01_Start",
+    "MotionType": "Special",
+    "Loop": "Dialog_Female_Magician2_Special_01_Loop",
+    "End": "Dialog_Female_Magician2_Special_01_End"
+  },
+  {
+    "ID": 959,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910680,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_BodyguardDialog_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 960,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910403,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_MinByungGu_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 961,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910403,
+    "Start": "Dialog_MinByungGu_Worries_01_Start",
+    "MotionType": "Worries",
+    "Loop": "Dialog_MinByungGu_Worries_01_Loop",
+    "End": "Dialog_MinByungGu_Worries_01_End"
+  },
+  {
+    "ID": 962,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910403,
+    "Start": "Dialog_MinByungGu_Special_01_Start",
+    "MotionType": "Special",
+    "Loop": "Dialog_MinByungGu_Special_01_Loop",
+    "End": "Dialog_MinByungGu_Special_01_End"
+  },
+  {
+    "ID": 963,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910403,
+    "Start": "Dialog_MinByungGu_ClenchFist_01_Start",
+    "MotionType": "ClenchFist",
+    "Loop": "Dialog_MinByungGu_ClenchFist_01_Loop",
+    "End": "Dialog_MinByungGu_ClenchFist_01_End"
+  },
+  {
+    "ID": 964,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910099,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_BlueGolemBoss_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 965,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910681,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_HugeGiant_Boss_Idle_01",
+    "End": ""
   }
 ]

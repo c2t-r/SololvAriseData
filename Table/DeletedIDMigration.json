@@ -1,0 +1,489 @@
+[
+  {
+    "RemovedID": 101,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 101,
+    "ID": 1,
+    "DefaultMigrationRewardGroupID": 99001010,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 102,
+    "ExceptionMigrationRewardGroupID": 99001010,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 102,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 102,
+    "ID": 2,
+    "DefaultMigrationRewardGroupID": 99001020,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 103,
+    "ExceptionMigrationRewardGroupID": 99001020,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 103,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 103,
+    "ID": 3,
+    "DefaultMigrationRewardGroupID": 99001030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 104,
+    "ExceptionMigrationRewardGroupID": 99001031,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 104,
+    "RemovedStoryDungeonID": 10104,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 103,
+    "ID": 4,
+    "DefaultMigrationRewardGroupID": 99001040,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 106,
+    "ExceptionMigrationRewardGroupID": 99001041,
+    "RemovedBattleMissionIDList": [
+      1010401,
+      1010402,
+      1010403
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 106,
+    "RemovedStoryDungeonID": 10106,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 103,
+    "ID": 5,
+    "DefaultMigrationRewardGroupID": 99001050,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 201,
+    "ExceptionMigrationRewardGroupID": 99001051,
+    "RemovedBattleMissionIDList": [
+      1010601,
+      1010602,
+      1010603
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 201,
+    "RemovedStoryDungeonID": 10201,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 201,
+    "ID": 6,
+    "DefaultMigrationRewardGroupID": 99002010,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 203,
+    "ExceptionMigrationRewardGroupID": 99002011,
+    "RemovedBattleMissionIDList": [
+      1020101,
+      1020102,
+      1020103
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 203,
+    "RemovedStoryDungeonID": 10203,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 201,
+    "ID": 7,
+    "DefaultMigrationRewardGroupID": 99002030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 301,
+    "ExceptionMigrationRewardGroupID": 99002031,
+    "RemovedBattleMissionIDList": [
+      1020301,
+      1020302,
+      1020303
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 30102,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 30102,
+    "ID": 8,
+    "DefaultMigrationRewardGroupID": 99101020,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 30103,
+    "ExceptionMigrationRewardGroupID": 99101020,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 30103,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 30103,
+    "ID": 9,
+    "DefaultMigrationRewardGroupID": 99101030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 30104,
+    "ExceptionMigrationRewardGroupID": 99101031,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 30104,
+    "RemovedStoryDungeonID": 310104,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 30103,
+    "ID": 10,
+    "DefaultMigrationRewardGroupID": 99101040,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 30106,
+    "ExceptionMigrationRewardGroupID": 99101041,
+    "RemovedBattleMissionIDList": [
+      31010401,
+      31010402,
+      31010403
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 30106,
+    "RemovedStoryDungeonID": 310106,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 30103,
+    "ID": 11,
+    "DefaultMigrationRewardGroupID": 99101050,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 30201,
+    "ExceptionMigrationRewardGroupID": 99101051,
+    "RemovedBattleMissionIDList": [
+      31010601,
+      31010602,
+      31010603
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 30201,
+    "RemovedStoryDungeonID": 310201,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 30201,
+    "ID": 12,
+    "DefaultMigrationRewardGroupID": 99102010,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 30203,
+    "ExceptionMigrationRewardGroupID": 99102011,
+    "RemovedBattleMissionIDList": [
+      31020101,
+      31020102,
+      31020103
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 30203,
+    "RemovedStoryDungeonID": 310203,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 30201,
+    "ID": 13,
+    "DefaultMigrationRewardGroupID": 99102030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 30301,
+    "ExceptionMigrationRewardGroupID": 99102031,
+    "RemovedBattleMissionIDList": [
+      31020301,
+      31020302,
+      31020303
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 50102,
+    "RemovedStoryDungeonID": 510102,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 50102,
+    "ID": 14,
+    "DefaultMigrationRewardGroupID": 99201020,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 50103,
+    "ExceptionMigrationRewardGroupID": 99201020,
+    "RemovedBattleMissionIDList": [
+      51010201,
+      51010202,
+      51010203
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 50103,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 50103,
+    "ID": 15,
+    "DefaultMigrationRewardGroupID": 99201030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 50104,
+    "ExceptionMigrationRewardGroupID": 99201031,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 50104,
+    "RemovedStoryDungeonID": 510104,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 50103,
+    "ID": 16,
+    "DefaultMigrationRewardGroupID": 99201040,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 50106,
+    "ExceptionMigrationRewardGroupID": 99201041,
+    "RemovedBattleMissionIDList": [
+      51010401,
+      51010402,
+      51010403
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 50106,
+    "RemovedStoryDungeonID": 510106,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 50103,
+    "ID": 17,
+    "DefaultMigrationRewardGroupID": 99201050,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 50201,
+    "ExceptionMigrationRewardGroupID": 99201051,
+    "RemovedBattleMissionIDList": [
+      51010601,
+      51010602,
+      51010603
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 50201,
+    "RemovedStoryDungeonID": 510201,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 50201,
+    "ID": 18,
+    "DefaultMigrationRewardGroupID": 99202010,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 50203,
+    "ExceptionMigrationRewardGroupID": 99202011,
+    "RemovedBattleMissionIDList": [
+      51020101,
+      51020102,
+      51020103
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 50203,
+    "RemovedStoryDungeonID": 510203,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 50201,
+    "ID": 19,
+    "DefaultMigrationRewardGroupID": 99202030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 50301,
+    "ExceptionMigrationRewardGroupID": 99202031,
+    "RemovedBattleMissionIDList": [
+      51020301,
+      51020302,
+      51020303
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1000102,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1000102,
+    "ID": 20,
+    "DefaultMigrationRewardGroupID": 99301020,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1000103,
+    "ExceptionMigrationRewardGroupID": 99301020,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1000103,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1000103,
+    "ID": 21,
+    "DefaultMigrationRewardGroupID": 99301030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1000104,
+    "ExceptionMigrationRewardGroupID": 99301031,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1000104,
+    "RemovedStoryDungeonID": 1010104,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1000103,
+    "ID": 22,
+    "DefaultMigrationRewardGroupID": 99301040,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1000106,
+    "ExceptionMigrationRewardGroupID": 99301041,
+    "RemovedBattleMissionIDList": [
+      101010401,
+      101010402,
+      101010403
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1000106,
+    "RemovedStoryDungeonID": 1010106,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1000103,
+    "ID": 23,
+    "DefaultMigrationRewardGroupID": 99301050,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1000201,
+    "ExceptionMigrationRewardGroupID": 99301051,
+    "RemovedBattleMissionIDList": [
+      101010601,
+      101010602,
+      101010603
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1000201,
+    "RemovedStoryDungeonID": 1010201,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1000201,
+    "ID": 24,
+    "DefaultMigrationRewardGroupID": 99302010,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1000203,
+    "ExceptionMigrationRewardGroupID": 99302011,
+    "RemovedBattleMissionIDList": [
+      101020101,
+      101020102,
+      101020103
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1000203,
+    "RemovedStoryDungeonID": 1010203,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1000201,
+    "ID": 25,
+    "DefaultMigrationRewardGroupID": 99302030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1000301,
+    "ExceptionMigrationRewardGroupID": 99302031,
+    "RemovedBattleMissionIDList": [
+      101020301,
+      101020302,
+      101020303
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1030102,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1030102,
+    "ID": 26,
+    "DefaultMigrationRewardGroupID": 99401020,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1030103,
+    "ExceptionMigrationRewardGroupID": 99401020,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1030103,
+    "RemovedStoryDungeonID": 0,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1030103,
+    "ID": 27,
+    "DefaultMigrationRewardGroupID": 99401030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1030104,
+    "ExceptionMigrationRewardGroupID": 99401031,
+    "RemovedBattleMissionIDList": [],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1030104,
+    "RemovedStoryDungeonID": 1310104,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1030103,
+    "ID": 28,
+    "DefaultMigrationRewardGroupID": 99401040,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1030106,
+    "ExceptionMigrationRewardGroupID": 99401041,
+    "RemovedBattleMissionIDList": [
+      131010401,
+      131010402,
+      131010403
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1030106,
+    "RemovedStoryDungeonID": 1310106,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1030103,
+    "ID": 29,
+    "DefaultMigrationRewardGroupID": 99401050,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1030201,
+    "ExceptionMigrationRewardGroupID": 99401051,
+    "RemovedBattleMissionIDList": [
+      131010601,
+      131010602,
+      131010603
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1030201,
+    "RemovedStoryDungeonID": 1310201,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1030201,
+    "ID": 30,
+    "DefaultMigrationRewardGroupID": 99402010,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1030203,
+    "ExceptionMigrationRewardGroupID": 99402011,
+    "RemovedBattleMissionIDList": [
+      131020101,
+      131020102,
+      131020103
+    ],
+    "Type": "Story"
+  },
+  {
+    "RemovedID": 1030203,
+    "RemovedStoryDungeonID": 1310203,
+    "ChapterClearRewardForceSet": true,
+    "TargetID": 1030201,
+    "ID": 31,
+    "DefaultMigrationRewardGroupID": 99402030,
+    "MigrationGroupID": 1,
+    "RemovedNextID": 1030301,
+    "ExceptionMigrationRewardGroupID": 99402031,
+    "RemovedBattleMissionIDList": [
+      131020301,
+      131020302,
+      131020303
+    ],
+    "Type": "Story"
+  }
+]

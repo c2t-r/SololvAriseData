@@ -50,5 +50,57 @@
       51105
     ],
     "ResultPopupImg": "Img_Event_Result_Snake"
+  },
+  {
+    "ComboScoreUpValue": 5,
+    "PCSpeedUpTriggerTime": 30000,
+    "MapMinSize": 300,
+    "MapDownsizeTime": 5000,
+    "SpawnDistanceWall": 80,
+    "SpawnDistanceChar": 200,
+    "ComboScore": 15,
+    "ID": 60001,
+    "MapDownsizeTriggerTime": 3500,
+    "ItemSpawnCoolTimeMax": 30000,
+    "ComboScoreUpCount": 5,
+    "RecordReward": 429,
+    "ShadowDispawnTime": 12000,
+    "ItemSpawnCoolTimeMin": 23000,
+    "SnakeOffset": 0.4000000059604645,
+    "ShadowSpawnCoolTimeMin": 2000,
+    "ComboTime": 7000,
+    "PCSpeedMax": 300.0,
+    "ItemComboSpawnCount": 7,
+    "ShadowSpawnCoolTimeMax": 5000,
+    "TutorialID": 2034,
+    "RankingGroupMain": 503,
+    "PCSpeed": 220,
+    "ComboScoreMax": 50,
+    "MapDownsizeSize": 50,
+    "ItemDispawnTime": 12000,
+    "PCSpeedUpTime": 15000,
+    "RankingGroupSub": 0,
+    "ShadowSpawnCoolTimeFever": 1000,
+    "PCRotateRadius": 45.0,
+    "PCSpeedUpValue": 10.0,
+    "MapPrefab": "Map_Minigame_Snake_01",
+    "Title": "Event.Minigame.Snake.Title",
+    "BGPrefab": "BG_MiniGame_Snake_01",
+    "PCPrefab": "Minigame_Snake_Char_PC_01",
+    "ItemList": [
+      52100,
+      52200
+    ],
+    "ModuleName": "MiniGameSnake_Module_26Valentineday",
+    "RecordRewardReset": "Weekly",
+    "ShadowList": [
+      51001,
+      51106,
+      51107,
+      51108,
+      51109,
+      51110
+    ],
+    "ResultPopupImg": "Img_Event_Result_Snake_02"
   }
 ]

@@ -1448,5 +1448,730 @@
       14006
     ],
     "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 3,
+    "ID": 21001,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 99999991,
+    "Position1": 1,
+    "StatType": "",
+    "PreviousTrait": [],
+    "TraitType": "Skill"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21002,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12002,
+    "Position1": 2,
+    "StatType": "",
+    "PreviousTrait": [
+      21001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21003,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12012,
+    "Position1": 2,
+    "StatType": "",
+    "PreviousTrait": [
+      21001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21004,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12022,
+    "Position1": 2,
+    "StatType": "",
+    "PreviousTrait": [
+      21001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21005,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12003,
+    "Position1": 3,
+    "StatType": "",
+    "PreviousTrait": [
+      21002
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21006,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12013,
+    "Position1": 3,
+    "StatType": "",
+    "PreviousTrait": [
+      21003
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21007,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12023,
+    "Position1": 3,
+    "StatType": "",
+    "PreviousTrait": [
+      21004
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21008,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12001,
+    "Position1": 4,
+    "StatType": "",
+    "PreviousTrait": [
+      21005
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21009,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12011,
+    "Position1": 4,
+    "StatType": "",
+    "PreviousTrait": [
+      21006
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 21010,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12021,
+    "Position1": 4,
+    "StatType": "",
+    "PreviousTrait": [
+      21007
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 4,
+    "ID": 21011,
+    "TraitGroup": 3,
+    "Position2": -1,
+    "TraitValue": 12031,
+    "Position1": 5,
+    "StatType": "",
+    "PreviousTrait": [
+      21008,
+      21009
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 4,
+    "ID": 21012,
+    "TraitGroup": 3,
+    "Position2": 1,
+    "TraitValue": 12032,
+    "Position1": 5,
+    "StatType": "",
+    "PreviousTrait": [
+      21009,
+      21010
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 3,
+    "ID": 21013,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12033,
+    "Position1": 6,
+    "StatType": "",
+    "PreviousTrait": [
+      21011
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 3,
+    "ID": 21014,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12034,
+    "Position1": 6,
+    "StatType": "",
+    "PreviousTrait": [
+      21011,
+      21012
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 3,
+    "ID": 21015,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12035,
+    "Position1": 6,
+    "StatType": "",
+    "PreviousTrait": [
+      21012
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 7,
+    "ID": 22001,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 99999992,
+    "Position1": 7,
+    "StatType": "",
+    "PreviousTrait": [
+      21013,
+      21014,
+      21015
+    ],
+    "TraitType": "Skill"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22002,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12004,
+    "Position1": 8,
+    "StatType": "",
+    "PreviousTrait": [
+      22001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22003,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12014,
+    "Position1": 8,
+    "StatType": "",
+    "PreviousTrait": [
+      22001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22004,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12024,
+    "Position1": 8,
+    "StatType": "",
+    "PreviousTrait": [
+      22001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22005,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12005,
+    "Position1": 9,
+    "StatType": "",
+    "PreviousTrait": [
+      22002
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22006,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12015,
+    "Position1": 9,
+    "StatType": "",
+    "PreviousTrait": [
+      22003
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22007,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12025,
+    "Position1": 9,
+    "StatType": "",
+    "PreviousTrait": [
+      22004
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22008,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12006,
+    "Position1": 10,
+    "StatType": "",
+    "PreviousTrait": [
+      22005
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22009,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12016,
+    "Position1": 10,
+    "StatType": "",
+    "PreviousTrait": [
+      22006
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 1,
+    "RequireTraitPoint": 2,
+    "ID": 22010,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12026,
+    "Position1": 10,
+    "StatType": "",
+    "PreviousTrait": [
+      22007
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 4,
+    "ID": 22011,
+    "TraitGroup": 3,
+    "Position2": -1,
+    "TraitValue": 12031,
+    "Position1": 11,
+    "StatType": "",
+    "PreviousTrait": [
+      22008,
+      22009
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 4,
+    "ID": 22012,
+    "TraitGroup": 3,
+    "Position2": 1,
+    "TraitValue": 12032,
+    "Position1": 11,
+    "StatType": "",
+    "PreviousTrait": [
+      22009,
+      22010
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 22013,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12033,
+    "Position1": 12,
+    "StatType": "",
+    "PreviousTrait": [
+      22011
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 22014,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12034,
+    "Position1": 12,
+    "StatType": "",
+    "PreviousTrait": [
+      22011,
+      22012
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 22015,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12035,
+    "Position1": 12,
+    "StatType": "",
+    "PreviousTrait": [
+      22012
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 8,
+    "ID": 23001,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 99999993,
+    "Position1": 13,
+    "StatType": "",
+    "PreviousTrait": [
+      22013,
+      22014,
+      22015
+    ],
+    "TraitType": "Skill"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23002,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12002,
+    "Position1": 14,
+    "StatType": "",
+    "PreviousTrait": [
+      23001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23003,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12012,
+    "Position1": 14,
+    "StatType": "",
+    "PreviousTrait": [
+      23001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23004,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12022,
+    "Position1": 14,
+    "StatType": "",
+    "PreviousTrait": [
+      23001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23005,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12003,
+    "Position1": 15,
+    "StatType": "",
+    "PreviousTrait": [
+      23002
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23006,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12013,
+    "Position1": 15,
+    "StatType": "",
+    "PreviousTrait": [
+      23003
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23007,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12023,
+    "Position1": 15,
+    "StatType": "",
+    "PreviousTrait": [
+      23004
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23008,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12001,
+    "Position1": 16,
+    "StatType": "",
+    "PreviousTrait": [
+      23005
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23009,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12011,
+    "Position1": 16,
+    "StatType": "",
+    "PreviousTrait": [
+      23006
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 23010,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12021,
+    "Position1": 16,
+    "StatType": "",
+    "PreviousTrait": [
+      23007
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 3,
+    "RequireTraitPoint": 4,
+    "ID": 23011,
+    "TraitGroup": 3,
+    "Position2": -1,
+    "TraitValue": 12031,
+    "Position1": 17,
+    "StatType": "",
+    "PreviousTrait": [
+      23008,
+      23009
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 3,
+    "RequireTraitPoint": 4,
+    "ID": 23012,
+    "TraitGroup": 3,
+    "Position2": 1,
+    "TraitValue": 12032,
+    "Position1": 17,
+    "StatType": "",
+    "PreviousTrait": [
+      23009,
+      23010
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24001,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12004,
+    "Position1": 18,
+    "StatType": "",
+    "PreviousTrait": [
+      23011
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24002,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12014,
+    "Position1": 18,
+    "StatType": "",
+    "PreviousTrait": [
+      23011,
+      23012
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24003,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12024,
+    "Position1": 18,
+    "StatType": "",
+    "PreviousTrait": [
+      23012
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24004,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12005,
+    "Position1": 19,
+    "StatType": "",
+    "PreviousTrait": [
+      24001
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24005,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12015,
+    "Position1": 19,
+    "StatType": "",
+    "PreviousTrait": [
+      24002
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24006,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12025,
+    "Position1": 19,
+    "StatType": "",
+    "PreviousTrait": [
+      24003
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24007,
+    "TraitGroup": 3,
+    "Position2": -2,
+    "TraitValue": 12006,
+    "Position1": 20,
+    "StatType": "",
+    "PreviousTrait": [
+      24004
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24008,
+    "TraitGroup": 3,
+    "Position2": 0,
+    "TraitValue": 12016,
+    "Position1": 20,
+    "StatType": "",
+    "PreviousTrait": [
+      24005
+    ],
+    "TraitType": "PassiveBuff"
+  },
+  {
+    "BuffLevel": 2,
+    "RequireTraitPoint": 3,
+    "ID": 24009,
+    "TraitGroup": 3,
+    "Position2": 2,
+    "TraitValue": 12026,
+    "Position1": 20,
+    "StatType": "",
+    "PreviousTrait": [
+      24006
+    ],
+    "TraitType": "PassiveBuff"
   }
 ]

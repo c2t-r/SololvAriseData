@@ -676,6 +676,19 @@
     "BgImg": "PointEventRank_Illust_SianHalat"
   },
   {
+    "ID": 355,
+    "MissionGroupID": 3361,
+    "RankRewardID": 1012000,
+    "RewardAllGetEnd": true,
+    "RankGroupID": 3001000,
+    "WebViewID": 0,
+    "TitleColor1": "c1d8ff",
+    "TitleColor2": "ffffff",
+    "PointImage": "item_PointEvent_Icon_1",
+    "PointType": "Rank",
+    "BgImg": "PointEventRank_Illust_MeriLaine"
+  },
+  {
     "ID": 401,
     "MissionGroupID": 3301,
     "RankRewardID": 0,
@@ -1393,6 +1406,32 @@
   {
     "ID": 458,
     "MissionGroupID": 3305,
+    "RankRewardID": 0,
+    "RewardAllGetEnd": true,
+    "RankGroupID": 0,
+    "WebViewID": 0,
+    "TitleColor1": "FFBB40",
+    "TitleColor2": "FFFFFF",
+    "PointImage": "item_PointEvent_Icon_1",
+    "PointType": "Point",
+    "BgImg": "PointEvent_Illust_Mission01"
+  },
+  {
+    "ID": 459,
+    "MissionGroupID": 3326,
+    "RankRewardID": 0,
+    "RewardAllGetEnd": true,
+    "RankGroupID": 0,
+    "WebViewID": 0,
+    "TitleColor1": "FFBB40",
+    "TitleColor2": "FFFFFF",
+    "PointImage": "item_PointEvent_Icon_1",
+    "PointType": "Point",
+    "BgImg": "PointEvent_Illust_Mission01"
+  },
+  {
+    "ID": 460,
+    "MissionGroupID": 3327,
     "RankRewardID": 0,
     "RewardAllGetEnd": true,
     "RankGroupID": 0,

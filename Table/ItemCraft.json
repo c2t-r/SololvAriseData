@@ -2160,6 +2160,43 @@
   {
     "FixedSort": 0,
     "LimitCount": true,
+    "SubTabGroup": 3002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 0,
+    "ID": 301057,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 399954,
+    "EventUsed": true,
+    "EventDataID": 0,
+    "CraftTabIndex": 3,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 0,
+    "CraftGetID": 302030047,
+    "RecipeGroup": [
+      500,
+      3100
+    ],
+    "CraftGetSubType": "Relic",
+    "OptionalRecipeRequirement": [],
+    "OptionalRecipeGroup": [],
+    "MaterialID": [
+      10150005
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "Relic",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 0,
+    "LimitCount": true,
     "SubTabGroup": 3001,
     "CraftPriceValue": 20000,
     "AutoCraftCheck": 0,
@@ -5622,6 +5659,266 @@
     "CraftGetSubType": "GS",
     "OptionalRecipeRequirement": [],
     "OptionalRecipeGroup": [],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "GS",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 1,
+    "ID": 401112,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 930,
+    "EventUsed": true,
+    "EventDataID": 401033,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 11,
+    "CraftGetID": 302030047,
+    "RecipeGroup": [
+      4050
+    ],
+    "CraftGetSubType": "Relic",
+    "OptionalRecipeRequirement": [],
+    "OptionalRecipeGroup": [],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "Relic",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 1,
+    "ID": 401113,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 933,
+    "EventUsed": true,
+    "EventDataID": 401033,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 11,
+    "CraftGetID": 302030009,
+    "RecipeGroup": [
+      4051
+    ],
+    "CraftGetSubType": "Relic",
+    "OptionalRecipeRequirement": [],
+    "OptionalRecipeGroup": [],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "Relic",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 1,
+    "ID": 401114,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 934,
+    "EventUsed": true,
+    "EventDataID": 401033,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 11,
+    "CraftGetID": 302030016,
+    "RecipeGroup": [
+      4052
+    ],
+    "CraftGetSubType": "Relic",
+    "OptionalRecipeRequirement": [],
+    "OptionalRecipeGroup": [],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "Relic",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 0,
+    "ID": 401115,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 995,
+    "EventUsed": true,
+    "EventDataID": 405034,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 2,
+    "CraftGetID": 200030024,
+    "RecipeGroup": [
+      3316
+    ],
+    "CraftGetSubType": "GS",
+    "OptionalRecipeRequirement": [],
+    "OptionalRecipeGroup": [],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "GS",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 0,
+    "ID": 401116,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 996,
+    "EventUsed": true,
+    "EventDataID": 405035,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 2,
+    "CraftGetID": 200030023,
+    "RecipeGroup": [
+      3316
+    ],
+    "CraftGetSubType": "GS",
+    "OptionalRecipeRequirement": [],
+    "OptionalRecipeGroup": [],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "GS",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 0,
+    "ID": 401117,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 996,
+    "EventUsed": true,
+    "EventDataID": 405036,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 2,
+    "CraftGetID": 200030030,
+    "RecipeGroup": [
+      4054
+    ],
+    "CraftGetSubType": "GS",
+    "OptionalRecipeRequirement": [
+      1
+    ],
+    "OptionalRecipeGroup": [
+      4053
+    ],
+    "MaterialID": [
+      20001003
+    ],
+    "CraftPriceType": "Gold",
+    "CraftType": "Normal",
+    "Category": "GS",
+    "MaterialValue": [
+      100
+    ]
+  },
+  {
+    "FixedSort": 1,
+    "LimitCount": true,
+    "SubTabGroup": 1002,
+    "CraftPriceValue": 20000,
+    "AutoCraftCheck": 0,
+    "ID": 401118,
+    "CraftCount": 0,
+    "GoldValue": 20000,
+    "Sort": 996,
+    "EventUsed": true,
+    "EventDataID": 405037,
+    "CraftTabIndex": 1,
+    "CraftGroup": 0,
+    "AutoCraftGroup": 0,
+    "AutoCraftSort": 0,
+    "Multiple": true,
+    "CraftGetValue": 1,
+    "Count": 2,
+    "CraftGetID": 200030029,
+    "RecipeGroup": [
+      4054
+    ],
+    "CraftGetSubType": "GS",
+    "OptionalRecipeRequirement": [
+      1
+    ],
+    "OptionalRecipeGroup": [
+      4055
+    ],
     "MaterialID": [
       20001003
     ],

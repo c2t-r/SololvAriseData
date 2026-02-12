@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "ModeIndex": 1,
+    "Stage": 1,
+    "StageUnlockCondition": 5201,
+    "ID": 101,
+    "StageGroupID": 101,
+    "BattleSquadID": 1000001,
+    "RewardGroupID": 210,
+    "BossName": "SysConstStr.ChName.IgrisBoss",
+    "BossResourceName": "Igris_Boss_Portrait"
+  },
+  {
+    "ModeIndex": 2,
+    "Stage": 1,
+    "StageUnlockCondition": 5201,
+    "ID": 102,
+    "StageGroupID": 102,
+    "BattleSquadID": 1000004,
+    "RewardGroupID": 220,
+    "BossName": "SysConstStr.ChName.IgrisBoss",
+    "BossResourceName": "Igris_Boss_Portrait"
+  },
+  {
+    "ModeIndex": 1,
+    "Stage": 2,
+    "StageUnlockCondition": 5202,
+    "ID": 201,
+    "StageGroupID": 201,
+    "BattleSquadID": 1000002,
+    "RewardGroupID": 230,
+    "BossName": "SysConstStr.ChName.VulcanBoss",
+    "BossResourceName": "Vulcan_Boss_Portrait"
+  },
+  {
+    "ModeIndex": 2,
+    "Stage": 2,
+    "StageUnlockCondition": 5202,
+    "ID": 202,
+    "StageGroupID": 202,
+    "BattleSquadID": 1000005,
+    "RewardGroupID": 240,
+    "BossName": "SysConstStr.ChName.VulcanBoss",
+    "BossResourceName": "Vulcan_Boss_Portrait"
+  },
+  {
+    "ModeIndex": 1,
+    "Stage": 3,
+    "StageUnlockCondition": 5203,
+    "ID": 301,
+    "StageGroupID": 301,
+    "BattleSquadID": 1000003,
+    "RewardGroupID": 250,
+    "BossName": "SysConstStr.ChName.BaranBoss",
+    "BossResourceName": "Baran_Boss_Portrait"
+  },
+  {
+    "ModeIndex": 2,
+    "Stage": 3,
+    "StageUnlockCondition": 5203,
+    "ID": 302,
+    "StageGroupID": 302,
+    "BattleSquadID": 1000006,
+    "RewardGroupID": 260,
+    "BossName": "SysConstStr.ChName.BaranBoss",
+    "BossResourceName": "Baran_Boss_Portrait"
+  }
+]

@@ -705,6 +705,15 @@
     "Desc": ""
   },
   {
+    "ID": 127,
+    "Value1": 561,
+    "Title": "MoveTarget.HunterStory_SpecialStage_Title",
+    "ContentsType": "HunterStory",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 301,
     "Value1": 11,
     "Title": "MoveTarget.HunterSecret_Title_12",
@@ -1574,6 +1583,17 @@
     "Desc": ""
   },
   {
+    "ID": 1145,
+    "Value1": 0,
+    "Title": "MoveTarget.BGMEncyclopedia",
+    "ContentsType": "BGMEncyclopedia",
+    "ShortCutIndexes": [
+      0
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 5101,
     "Value1": 0,
     "Title": "MoveTarget.Advent_Step",
@@ -2403,6 +2423,39 @@
     "ID": 5343,
     "Value1": 5,
     "Title": "MoveTarget.Raid_Title_5343",
+    "ContentsType": "Raid",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 5351,
+    "Value1": 6,
+    "Title": "MoveTarget.Raid_Title_5351",
+    "ContentsType": "Raid",
+    "ShortCutIndexes": [
+      1
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 5352,
+    "Value1": 6,
+    "Title": "MoveTarget.Raid_Title_5352",
+    "ContentsType": "Raid",
+    "ShortCutIndexes": [
+      2
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 5353,
+    "Value1": 6,
+    "Title": "MoveTarget.Raid_Title_5353",
     "ContentsType": "Raid",
     "ShortCutIndexes": [
       3
@@ -12028,11 +12081,11 @@
   },
   {
     "ID": 30043,
-    "Value1": 90014,
+    "Value1": 90016,
     "Title": "MoveTarget.Shap_Tap",
     "ContentsType": "Shop",
     "ShortCutIndexes": [
-      90016
+      90018
     ],
     "ShortCutType": "Shop_Tab",
     "Desc": "MoveTarget.Shop_Short"
@@ -13020,6 +13073,18 @@
     "Desc": ""
   },
   {
+    "ID": 31051,
+    "Value1": 410002336,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      410002336
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -13499,6 +13564,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3055
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40047,
+    "Value1": 3058,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3058
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -14802,6 +14878,39 @@
     "Desc": ""
   },
   {
+    "ID": 50120,
+    "Value1": 628,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      628
+    ],
+    "ShortCutType": "Event_Notice",
+    "Desc": ""
+  },
+  {
+    "ID": 50121,
+    "Value1": 629,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      629
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50122,
+    "Value1": 8000002,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      8000002
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
     "ID": 55001,
     "Value1": 2407,
     "Title": "Event.24Summer.MainTitle.Move",
@@ -16097,6 +16206,24 @@
     "Desc": ""
   },
   {
+    "ID": 55121,
+    "Value1": 400001,
+    "Title": "Event.PvpTitle_01",
+    "ContentsType": "AsyncPvp",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55122,
+    "Value1": 400001,
+    "Title": "",
+    "ContentsType": "AsyncPvpSelectEnemy",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 55123,
     "Value1": 2560,
     "Title": "Event.25Holiday.Main.Title.Move",
@@ -16214,20 +16341,66 @@
     "Desc": ""
   },
   {
-    "ID": 55121,
-    "Value1": 400001,
-    "Title": "Event.PvpTitle_01",
-    "ContentsType": "AsyncPvp",
+    "ID": 55134,
+    "Value1": 2580,
+    "Title": "Event.26Valentine.Main.Title.Move",
+    "ContentsType": "ThemeEventMain",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
     "Desc": ""
   },
   {
-    "ID": 55122,
-    "Value1": 400001,
+    "ID": 55135,
+    "Value1": 2580,
+    "Title": "Event.26Valentine.Main.Title",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      1
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55136,
+    "Value1": 2580,
+    "Title": "Event.Minigame.Snake.Title",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      2
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55137,
+    "Value1": 2580,
+    "Title": "Event.BossChallengeTitle",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55138,
+    "Value1": 2580,
+    "Title": "Event.BoxGacha.BoxGacha26.StringLongName.994",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      4
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55139,
+    "Value1": 2560,
     "Title": "",
-    "ContentsType": "AsyncPvpSelectEnemy",
-    "ShortCutIndexes": [],
+    "ContentsType": "Attendance",
+    "ShortCutIndexes": [
+      5
+    ],
     "ShortCutType": "Main",
     "Desc": ""
   },
@@ -16860,12 +17033,12 @@
   },
   {
     "ID": 99201,
-    "Value1": 401,
+    "Value1": 6,
     "Title": "",
     "ContentsType": "CostumeEncyclopedia_SkinSet",
     "ShortCutIndexes": [
-      601001,
-      6010011
+      201032,
+      0
     ],
     "ShortCutType": "Hunter_Skill",
     "Desc": ""
@@ -17352,6 +17525,15 @@
     "Value1": 0,
     "Title": "DimensionGate.MainTitle",
     "ContentsType": "DimensionGate",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 110503,
+    "Value1": 1,
+    "Title": "MoveTarget.StoryBonus",
+    "ContentsType": "Story",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
     "Desc": ""

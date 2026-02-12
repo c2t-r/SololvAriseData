@@ -1478,7 +1478,8 @@
     "PickSpawnStart": "",
     "NpcMenuBtn": [
       "TrainingRoom",
-      "DimensionEnhance"
+      "DimensionEnhance",
+      "NewbieProtocol"
     ],
     "DlgMotion": [],
     "ExceptAttackWeapon": [],
@@ -1937,7 +1938,8 @@
     "PickSpawnStart": "",
     "NpcMenuBtn": [
       "TrainingRoom",
-      "DimensionEnhance"
+      "DimensionEnhance",
+      "NewbieProtocol"
     ],
     "DlgMotion": [],
     "ExceptAttackWeapon": [],
@@ -2116,7 +2118,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 26500,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1141,
@@ -2148,7 +2150,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 5300,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1142,
@@ -2180,7 +2182,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 26500,
+    "SpawnRate": 28500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1143,
@@ -2191,10 +2193,12 @@
     "MenuNpcName": "",
     "SpawnPlace": "Lobby",
     "TeleportSpot": "",
-    "PickSpawnStart": "2026-01-29T09:00:00+09:00",
+    "PickSpawnStart": "",
     "NpcMenuBtn": [],
     "DlgMotion": [],
-    "ExceptAttackWeapon": [],
+    "ExceptAttackWeapon": [
+      0
+    ],
     "PickSpawnEnd": "",
     "IconQuickMenu": "",
     "SpawnSpot": "",
@@ -2202,5 +2206,72 @@
       "Lobby_MeriLaine_Stand_01"
     ],
     "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 84,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 28500,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1144,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 571,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-02-26T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [
+      0,
+      1
+    ],
+    "PickSpawnEnd": "",
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_SugimotoReiji_Stand_01"
+    ],
+    "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 85,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 0,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 0,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 500466,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "TeleportSpot": "",
+    "PickSpawnStart": "",
+    "NpcMenuBtn": [
+      "BGMEncyclopedia"
+    ],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [],
+    "PickSpawnEnd": "",
+    "IconQuickMenu": "Icon_QuickMenu_BGMEncyclopedia",
+    "SpawnSpot": "BGMEncyclopedia_Spawn",
+    "IdleMotion": [],
+    "NpcType": "Menu"
   }
 ]

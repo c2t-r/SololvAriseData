@@ -1717,5 +1717,22 @@
     "SetBannerResource": "Img_Artifact_Set_FRR_1",
     "SetIcon": "Artifact_Accessories_Bracelet_FRR",
     "SetBannerName": "ArtifactSet.Name.Event.Accessories_FRR"
+  },
+  {
+    "ArtifactSetID": 512,
+    "ID": 51201,
+    "AddBattlePower": 0,
+    "Sort": 1088,
+    "AddBattlePowerR": 0.04500000178813934,
+    "Condition": 2,
+    "Name": "ArtifactSet.Name.Event.Accessories_FRR",
+    "PassiveBuff": [
+      64003078,
+      64003079,
+      64003080
+    ],
+    "SetBannerResource": "Img_Artifact_Set_ChaosStigma",
+    "SetIcon": "Artifact_Equipments_Armor_Stigma",
+    "SetBannerName": "BuffName.ChaosStigma"
   }
 ]

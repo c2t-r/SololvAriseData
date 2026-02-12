@@ -10,6 +10,7 @@
     "ReplicaID": 3000001,
     "ImgBG": "Levelup_Dungeon_DemonCastle_Topfloor_Big",
     "TransRate": [
+      1,
       1
     ],
     "BossName": "SysConstStr.RaidReplica.BossName01",
@@ -19,16 +20,18 @@
       10171001
     ],
     "IsTransLock": [
+      true,
       true
     ],
     "TransItem": [
-      10171002
+      10171002,
+      10171003
     ],
     "ImgBoss": "Baran_Boss"
   },
   {
     "UIShow": true,
-    "TransUnlock": 0,
+    "TransUnlock": 6011,
     "ID": 2,
     "ContentMoveTarget": 23,
     "LevelGroup": 2,
@@ -37,7 +40,8 @@
     "ReplicaID": 3000002,
     "ImgBG": "Levelup_Dungeon_SpaceFantasy_Big",
     "TransRate": [
-      10
+      10,
+      1
     ],
     "BossName": "SysConstStr.RaidReplica.BossName02",
     "ResourcePrefab": "Replica_Baran_Boss",
@@ -46,10 +50,12 @@
       10171002
     ],
     "IsTransLock": [
+      true,
       true
     ],
     "TransItem": [
-      10171001
+      10171001,
+      10171003
     ],
     "ImgBoss": "Yogumunt_Boss"
   },
@@ -58,19 +64,30 @@
     "TransUnlock": 0,
     "ID": 3,
     "ContentMoveTarget": 23,
-    "LevelGroup": 0,
-    "TraitGroup": 0,
-    "ContentsUnlockID": 0,
-    "ReplicaID": 0,
-    "ImgBG": "",
-    "TransRate": [],
-    "BossName": "",
-    "ResourcePrefab": "",
-    "SubName": "",
-    "ExpItem": [],
-    "IsTransLock": [],
-    "TransItem": [],
-    "ImgBoss": ""
+    "LevelGroup": 3,
+    "TraitGroup": 3,
+    "ContentsUnlockID": 6015,
+    "ReplicaID": 3000003,
+    "ImgBG": "DG_UpperProvingArena_Big",
+    "TransRate": [
+      10,
+      100
+    ],
+    "BossName": "SysConstStr.RaidReplica.BossName03",
+    "ResourcePrefab": "Replica_Rakpasha_Boss",
+    "SubName": "SysConstStr.RaidReplica.SubName03",
+    "ExpItem": [
+      10171003
+    ],
+    "IsTransLock": [
+      true,
+      true
+    ],
+    "TransItem": [
+      10171002,
+      10171001
+    ],
+    "ImgBoss": "Rakpasha_Human_Boss"
   },
   {
     "UIShow": true,

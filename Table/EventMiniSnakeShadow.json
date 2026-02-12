@@ -9,6 +9,7 @@
     "ShadowAniWalk": "Shadow_Special_01_IDLE",
     "ShadowPrefab": "Minigame_Snake_Char_Shadow",
     "ShadowAniIdle": "Shadow_Special_01_IDLE",
+    "ShadowHeadIcon": "",
     "ShadowType": "RemoveShadow",
     "ShadowAniDespawn": "Despawn"
   },
@@ -22,6 +23,7 @@
     "ShadowAniWalk": "01_Walk",
     "ShadowPrefab": "Minigame_Snake_Char_Shadow",
     "ShadowAniIdle": "01_IDLE",
+    "ShadowHeadIcon": "MiniGameSnake_ShadowHead01",
     "ShadowType": "Normal",
     "ShadowAniDespawn": "Despawn"
   },
@@ -35,6 +37,7 @@
     "ShadowAniWalk": "02_Walk",
     "ShadowPrefab": "Minigame_Snake_Char_Shadow",
     "ShadowAniIdle": "02_IDLE",
+    "ShadowHeadIcon": "MiniGameSnake_ShadowHead02",
     "ShadowType": "Normal",
     "ShadowAniDespawn": "Despawn"
   },
@@ -48,6 +51,7 @@
     "ShadowAniWalk": "03_Walk",
     "ShadowPrefab": "Minigame_Snake_Char_Shadow",
     "ShadowAniIdle": "03_IDLE",
+    "ShadowHeadIcon": "MiniGameSnake_ShadowHead04",
     "ShadowType": "Normal",
     "ShadowAniDespawn": "Despawn"
   },
@@ -61,6 +65,7 @@
     "ShadowAniWalk": "04_Walk",
     "ShadowPrefab": "Minigame_Snake_Char_Shadow",
     "ShadowAniIdle": "04_IDLE",
+    "ShadowHeadIcon": "MiniGameSnake_ShadowHead03",
     "ShadowType": "Normal",
     "ShadowAniDespawn": "Despawn"
   },
@@ -74,6 +79,77 @@
     "ShadowAniWalk": "05_Walk",
     "ShadowPrefab": "Minigame_Snake_Char_Shadow",
     "ShadowAniIdle": "05_IDLE",
+    "ShadowHeadIcon": "MiniGameSnake_ShadowHead05",
+    "ShadowType": "Normal",
+    "ShadowAniDespawn": "Despawn"
+  },
+  {
+    "ShadowMoveTime": 5000,
+    "ShadowSpawnWeight": 40,
+    "ShadowScore": 20,
+    "ID": 51106,
+    "ShadowMove": 100,
+    "ShadowSpawnWeightFever": 40,
+    "ShadowAniWalk": "06_Walk",
+    "ShadowPrefab": "Minigame_Snake_Char_Shadow",
+    "ShadowAniIdle": "06_IDLE",
+    "ShadowHeadIcon": "Img_MiniGameSnake26Valentine_Head05",
+    "ShadowType": "Normal",
+    "ShadowAniDespawn": "Despawn"
+  },
+  {
+    "ShadowMoveTime": 2000,
+    "ShadowSpawnWeight": 30,
+    "ShadowScore": 30,
+    "ID": 51107,
+    "ShadowMove": 60,
+    "ShadowSpawnWeightFever": 30,
+    "ShadowAniWalk": "07_Walk",
+    "ShadowPrefab": "Minigame_Snake_Char_Shadow",
+    "ShadowAniIdle": "07_IDLE",
+    "ShadowHeadIcon": "Img_MiniGameSnake26Valentine_Head04",
+    "ShadowType": "Normal",
+    "ShadowAniDespawn": "Despawn"
+  },
+  {
+    "ShadowMoveTime": -1,
+    "ShadowSpawnWeight": 20,
+    "ShadowScore": 50,
+    "ID": 51108,
+    "ShadowMove": 0,
+    "ShadowSpawnWeightFever": 20,
+    "ShadowAniWalk": "08_Walk",
+    "ShadowPrefab": "Minigame_Snake_Char_Shadow",
+    "ShadowAniIdle": "08_IDLE",
+    "ShadowHeadIcon": "Img_MiniGameSnake26Valentine_Head01",
+    "ShadowType": "Normal",
+    "ShadowAniDespawn": "Despawn"
+  },
+  {
+    "ShadowMoveTime": 5000,
+    "ShadowSpawnWeight": 30,
+    "ShadowScore": 40,
+    "ID": 51109,
+    "ShadowMove": 80,
+    "ShadowSpawnWeightFever": 30,
+    "ShadowAniWalk": "09_Walk",
+    "ShadowPrefab": "Minigame_Snake_Char_Shadow",
+    "ShadowAniIdle": "09_IDLE",
+    "ShadowHeadIcon": "Img_MiniGameSnake26Valentine_Head03",
+    "ShadowType": "Normal",
+    "ShadowAniDespawn": "Despawn"
+  },
+  {
+    "ShadowMoveTime": 4000,
+    "ShadowSpawnWeight": 20,
+    "ShadowScore": 60,
+    "ID": 51110,
+    "ShadowMove": 120,
+    "ShadowSpawnWeightFever": 20,
+    "ShadowAniWalk": "10_Walk",
+    "ShadowPrefab": "Minigame_Snake_Char_Shadow",
+    "ShadowAniIdle": "10_IDLE",
+    "ShadowHeadIcon": "Img_MiniGameSnake26Valentine_Head02",
     "ShadowType": "Normal",
     "ShadowAniDespawn": "Despawn"
   }

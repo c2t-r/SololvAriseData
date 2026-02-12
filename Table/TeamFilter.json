@@ -860,5 +860,49 @@
     "FilterTarget": "GS",
     "FilterType": "BanID",
     "FilterDesc": "육즙 가득 꼬치구이"
+  },
+  {
+    "ID": 9100011,
+    "GroupID": 910001,
+    "FilterValue": [
+      "200030027"
+    ],
+    "FilterTarget": "GS",
+    "FilterType": "BanID",
+    "FilterDesc": ""
+  },
+  {
+    "ID": 9100012,
+    "GroupID": 910001,
+    "FilterValue": [
+      "421",
+      "431",
+      "451",
+      "461",
+      "471",
+      "491",
+      "501",
+      "511"
+    ],
+    "FilterTarget": "Hunter",
+    "FilterType": "BanID",
+    "FilterDesc": ""
+  },
+  {
+    "ID": 9100021,
+    "GroupID": 910002,
+    "FilterValue": [
+      "421",
+      "431",
+      "451",
+      "461",
+      "471",
+      "491",
+      "501",
+      "511"
+    ],
+    "FilterTarget": "Hunter",
+    "FilterType": "BanID",
+    "FilterDesc": ""
   }
 ]

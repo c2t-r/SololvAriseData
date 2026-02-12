@@ -8141,7 +8141,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_Win",
+    "TimeLinePrefab": "MeriLaine_Win",
     "Type": "Win"
   },
   {
@@ -8150,7 +8150,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_Fail",
+    "TimeLinePrefab": "MeriLaine_Fail",
     "Type": "Fail"
   },
   {
@@ -8168,7 +8168,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_TagOut",
+    "TimeLinePrefab": "MeriLaine_TagOut",
     "Type": "TagOut"
   },
   {
@@ -8186,7 +8186,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_StartAction",
+    "TimeLinePrefab": "MeriLaine_StartAction",
     "Type": "Intro"
   },
   {
@@ -8195,7 +8195,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_Win_Endloop",
+    "TimeLinePrefab": "MeriLaine_Win_Endloop",
     "Type": "WinIdle"
   },
   {
@@ -8204,7 +8204,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_Fail_Endloop",
+    "TimeLinePrefab": "MeriLaine_Fail_Endloop",
     "Type": "FailIdle"
   },
   {
@@ -8213,7 +8213,7 @@
     "GroupID": 561,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "LauraWalker_Evolve",
+    "TimeLinePrefab": "MeriLaine_Evolve",
     "Type": "Evolve"
   },
   {
@@ -8314,5 +8314,266 @@
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "SianHalat_Evolve",
     "Type": "Evolve"
+  },
+  {
+    "ID": 925,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_StartAction",
+    "Type": "DungeonBreakIntro"
+  },
+  {
+    "ID": 926,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 927,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 928,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 1,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 929,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 930,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 931,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_SocialMotion",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 932,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 933,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 934,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 935,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_ShowRoomIdle",
+    "Type": "ShowRoomIdle"
+  },
+  {
+    "ID": 936,
+    "UseSkip": true,
+    "GroupID": 201032,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWooSkinLegendDragonForm_GuildLobbyIdle",
+    "Type": "GuildLobbyIdle"
+  },
+  {
+    "ID": 937,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 938,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 939,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 940,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 941,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 942,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 943,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 944,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 945,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 946,
+    "UseSkip": true,
+    "GroupID": 571,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SugimotoReiji_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 947,
+    "UseSkip": true,
+    "GroupID": 36401,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Giant_Elite_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 948,
+    "UseSkip": true,
+    "GroupID": 21701,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shieldrex_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 949,
+    "UseSkip": true,
+    "GroupID": 21001,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "HugeGiant_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 950,
+    "UseSkip": true,
+    "GroupID": 22101,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "HugeGiant_Boss_2_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 951,
+    "UseSkip": true,
+    "GroupID": 22102,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "HugeGiant_Boss_2_Intro_B",
+    "Type": "Intro"
+  },
+  {
+    "ID": 952,
+    "UseSkip": true,
+    "GroupID": 21801,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Minotaur_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 953,
+    "UseSkip": true,
+    "GroupID": 20702,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Cyclops_Boss_Intro_A",
+    "Type": "Intro"
   }
 ]

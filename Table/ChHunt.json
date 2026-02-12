@@ -5306,14 +5306,98 @@
   },
   {
     "NameGroupId": 56,
-    "TrainingRoomComboGuide": 0,
+    "TrainingRoomComboGuide": 58,
     "CharEventActionVoiceGroupID": 561,
     "CheatGain": true,
     "AttachWeaponGroupID": 561,
     "UpgradeID": 2200,
     "MaxStack": 0,
-    "UltimateSkill": 2271901000000,
+    "UltimateSkill": 2561901000000,
     "ID": 561,
+    "PassiveSkill10": 2561811000000,
+    "PassiveSkill05": 2561806000000,
+    "PassiveSkill04": 2561805000000,
+    "PassiveSkill07": 2561808000000,
+    "PassiveSkill06": 2561807000000,
+    "PassiveSkill01": 2561802000000,
+    "PassiveSkill03": 2561804000000,
+    "PassiveSkill02": 2561803000000,
+    "PassiveSkill09": 2561810000000,
+    "PassiveSkill08": 2561809000000,
+    "SupportSkill": 2561501000000,
+    "CodexDisplay": true,
+    "PassiveSkill": 2561801000000,
+    "CoreAttack": 2561101000000,
+    "CollabID": 0,
+    "SizeStandard": 2,
+    "CodexDisplayTime": "",
+    "CommonEvolveMaterials": [],
+    "MainStats": "MHP",
+    "HunterModeDescTemp": "ChHunt.HunterModeDescTemp.ID561",
+    "OriginRank": "S",
+    "Guild": "Richter",
+    "SupporterDescTemp": "ChHunt.SupporterDescTemp.ID561",
+    "BaseGrade": "SSR",
+    "SkillGroupSet": [
+      2561001000000,
+      2561002000000,
+      2561003000000,
+      2561401000000,
+      2561402000000,
+      2561403000000,
+      2561601000000
+    ],
+    "ClassType": "Stacker",
+    "GachaAppearResource": "MeriLaine_Gacha_Intro",
+    "RecommendedStats3": "CriDam",
+    "RecommendedStats2": "Critical",
+    "AutoSupporterConditionID": [
+      5,
+      6,
+      7
+    ],
+    "RecommendedStats1": "MHP",
+    "HunterBattleTip": "SysConstStr.BattleTip.561",
+    "StringDesc": "",
+    "ActiveSkill01": [
+      2561201000000
+    ],
+    "ActiveSkill02": [
+      2561301000000
+    ],
+    "ActiveSkill03": [],
+    "BTRangeType": "Melee",
+    "HunterCategory": [
+      "ElementAccumulate",
+      "SpSupport"
+    ],
+    "setMainSubtitle": "Default",
+    "BatteTipSkillLv": [
+      "ActiveSkill02",
+      "UltimateSkill",
+      "ActiveSkill01",
+      "CoreAttack",
+      "QteSkill",
+      "BaseAttack",
+      "SupportSkill"
+    ],
+    "PvpSpell": [
+      30114,
+      30107
+    ],
+    "SupporterUIBoldConditionID": [],
+    "BTRoleType": "Breaker"
+  },
+  {
+    "NameGroupId": 57,
+    "TrainingRoomComboGuide": 0,
+    "CharEventActionVoiceGroupID": 571,
+    "CheatGain": true,
+    "AttachWeaponGroupID": 571,
+    "UpgradeID": 2300,
+    "MaxStack": 0,
+    "UltimateSkill": 2271901000000,
+    "ID": 571,
     "PassiveSkill10": 2271811000000,
     "PassiveSkill05": 2271806000000,
     "PassiveSkill04": 2271805000000,
@@ -5332,11 +5416,11 @@
     "SizeStandard": 2,
     "CodexDisplayTime": "",
     "CommonEvolveMaterials": [],
-    "MainStats": "",
-    "HunterModeDescTemp": "ChHunt.HunterModeDescTemp.ID561",
+    "MainStats": "Att",
+    "HunterModeDescTemp": "ChHunt.HunterModeDescTemp.ID571",
     "OriginRank": "S",
-    "Guild": "Richter",
-    "SupporterDescTemp": "ChHunt.SupporterDescTemp.ID561",
+    "Guild": "DrawSword",
+    "SupporterDescTemp": "ChHunt.SupporterDescTemp.ID571",
     "BaseGrade": "SSR",
     "SkillGroupSet": [
       2271001000000,
@@ -5348,7 +5432,7 @@
       2271601000000
     ],
     "ClassType": "Stacker",
-    "GachaAppearResource": "MeilinFisher_Gacha_Intro",
+    "GachaAppearResource": "Sugimoto_Gacha_Intro",
     "RecommendedStats3": "CriDam",
     "RecommendedStats2": "Critical",
     "AutoSupporterConditionID": [
@@ -5356,8 +5440,8 @@
       6,
       7
     ],
-    "RecommendedStats1": "MHP",
-    "HunterBattleTip": "SysConstStr.BattleTip.561",
+    "RecommendedStats1": "Att",
+    "HunterBattleTip": "SysConstStr.BattleTip.571",
     "StringDesc": "",
     "ActiveSkill01": [
       2271201000000
@@ -5368,7 +5452,7 @@
     "ActiveSkill03": [],
     "BTRangeType": "Melee",
     "HunterCategory": [],
-    "setMainSubtitle": "",
+    "setMainSubtitle": "Default",
     "BatteTipSkillLv": [
       "ActiveSkill01",
       "ActiveSkill02",
@@ -5378,7 +5462,10 @@
       "BaseAttack",
       "SupportSkill"
     ],
-    "PvpSpell": [],
+    "PvpSpell": [
+      30114,
+      30107
+    ],
     "SupporterUIBoldConditionID": [],
     "BTRoleType": "Breaker"
   },

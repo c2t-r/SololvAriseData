@@ -78,5 +78,21 @@
     "OpenDate": "1987-05-27T00:00:00+09:00",
     "RaidStageUIType": "Bhaltair",
     "BGSpine": "Boss_spine_Baltair_Prefab"
+  },
+  {
+    "RaidOpenCondition": 1,
+    "BlessRerollGroup": 1,
+    "Level": 3,
+    "ID": 6,
+    "GroupID": 3,
+    "Value": 50,
+    "Name": "Raid.Name06",
+    "BossName": "Rockpasa_Boss_big",
+    "UnlockType": "BattleClass",
+    "BossDesc": "SysConstStr.Raid.BossDesc_Rockpasa",
+    "ResourceName": "DG_UpperProvingArena",
+    "OpenDate": "1987-05-27T00:00:00+09:00",
+    "RaidStageUIType": "Normal",
+    "BGSpine": "Boss_spine_Rakpasha_Prefab"
   }
 ]

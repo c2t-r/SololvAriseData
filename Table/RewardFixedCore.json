@@ -108,5 +108,83 @@
       -1,
       -1
     ]
+  },
+  {
+    "Level": 10,
+    "ID": 100001,
+    "Option": [
+      "AddAtt",
+      "Dam"
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100002,
+    "Option": [
+      "AddArm",
+      "Critical"
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100003,
+    "Option": [
+      "AddMHP",
+      "CriDam"
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 0,
+    "ID": 100004,
+    "Option": [
+      "AttR",
+      "Dam"
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 0,
+    "ID": 100005,
+    "Option": [
+      "ArmR",
+      "Dam"
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 0,
+    "ID": 100006,
+    "Option": [
+      "MHPR",
+      "Dam"
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
   }
 ]

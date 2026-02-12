@@ -3,16 +3,16 @@
     "ID": 1,
     "AutoUnlockType": 2,
     "OptionHidden": true,
-    "SemiAutoUnlockValue": 102,
-    "FullAutoUnlockValue": 203,
+    "SemiAutoUnlockValue": 101,
+    "FullAutoUnlockValue": 201,
     "ContentsType": "MainStory"
   },
   {
     "ID": 2,
     "AutoUnlockType": 2,
     "OptionHidden": true,
-    "SemiAutoUnlockValue": 102,
-    "FullAutoUnlockValue": 203,
+    "SemiAutoUnlockValue": 101,
+    "FullAutoUnlockValue": 201,
     "ContentsType": "SubStory"
   },
   {
@@ -270,5 +270,13 @@
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
     "ContentsType": "NewbieProtocol"
+  },
+  {
+    "ID": 35,
+    "AutoUnlockType": 0,
+    "OptionHidden": true,
+    "SemiAutoUnlockValue": 1,
+    "FullAutoUnlockValue": 1,
+    "ContentsType": "ArtifactDungeon"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "MoveTargetID": 12,
     "ID": 101,
-    "JobConVal": 203,
+    "JobConVal": 201,
     "MainPcID": 1,
     "JobConDesc": "",
     "JobConType": "SMission"
@@ -50,7 +50,7 @@
   {
     "MoveTargetID": 8,
     "ID": 111,
-    "JobConVal": 3,
+    "JobConVal": 2,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition111",
     "JobConType": "MainPcLv"
@@ -58,7 +58,7 @@
   {
     "MoveTargetID": 12,
     "ID": 112,
-    "JobConVal": 203,
+    "JobConVal": 201,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition112",
     "JobConType": "SMission"
@@ -613,6 +613,46 @@
     "JobConVal": 400000,
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition1822",
+    "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1910,
+    "JobConVal": 13,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1910",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 1911,
+    "JobConVal": 130,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1911",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 1920,
+    "JobConVal": 4307,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1920",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 24,
+    "ID": 1921,
+    "JobConVal": 1065,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1921",
+    "JobConType": "TowerClear"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 1922,
+    "JobConVal": 500000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition1922",
     "JobConType": "BattlePower"
   }
 ]

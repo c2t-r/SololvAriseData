@@ -10,7 +10,6 @@
     "JobStageID": 0,
     "ID": 100,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 0,
     "MainPcGrade": 0,
     "SweepPoint": 30,
     "GainSkillDisplay": 0,
@@ -32,6 +31,7 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "",
     "JobGrade": "E",
+    "GainRewardDisplay": [],
     "JobOpenConID": [],
     "JobConType": "",
     "JobProducionMovie": "",
@@ -51,14 +51,13 @@
     "JobStageID": 1001,
     "ID": 101,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 0,
     "MainPcGrade": 1,
     "SweepPoint": 40,
     "GainSkillDisplay": 1001901000100,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
     "AddBattlePowerR": 0.02500000037252903,
-    "JobConVal": 203,
+    "JobConVal": 201,
     "GainSkinDisplay": 201002,
     "MainPcID": 1,
     "ResourceID": 5,
@@ -106,6 +105,7 @@
     ],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "C",
+    "GainRewardDisplay": [],
     "JobOpenConID": [
       111
     ],
@@ -129,7 +129,6 @@
     "JobStageID": 1002,
     "ID": 102,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 0,
     "MainPcGrade": 2,
     "SweepPoint": 55,
     "GainSkillDisplay": 1001201000000,
@@ -157,6 +156,7 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "B",
+    "GainRewardDisplay": [],
     "JobOpenConID": [
       211,
       212
@@ -182,7 +182,6 @@
     "JobStageID": 1003,
     "ID": 103,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 0,
     "MainPcGrade": 3,
     "SweepPoint": 70,
     "GainSkillDisplay": 1001901000000,
@@ -206,6 +205,7 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "A",
+    "GainRewardDisplay": [],
     "JobOpenConID": [
       311,
       312
@@ -230,10 +230,9 @@
     "JobStageID": 1004,
     "ID": 104,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 6337,
     "MainPcGrade": 4,
     "SweepPoint": 85,
-    "GainSkillDisplay": 0,
+    "GainSkillDisplay": 1001306000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
     "AddBattlePowerR": 0.15000000596046448,
@@ -247,11 +246,21 @@
       1001002000000,
       1001003000000
     ],
-    "GainSkillGroupID": [],
+    "GainSkillGroupID": [
+      1001306000000
+    ],
     "JobIconName": "Icon_JobClass_ShadowLord_1",
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      6337,
+      9031,
+      9032,
+      9033,
+      9034,
+      9035
+    ],
     "JobOpenConID": [
       411,
       412
@@ -276,7 +285,6 @@
     "JobStageID": 1005,
     "ID": 105,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 9011,
     "MainPcGrade": 5,
     "SweepPoint": 100,
     "GainSkillDisplay": 1001302000000,
@@ -300,6 +308,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ChangeJob_SJW_ThroneRoom",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9011
+    ],
     "JobOpenConID": [
       1010,
       1011
@@ -325,7 +336,6 @@
     "JobStageID": 1006,
     "ID": 106,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 9016,
     "MainPcGrade": 6,
     "SweepPoint": 115,
     "GainSkillDisplay": 1001303000000,
@@ -349,6 +359,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ChangeJob_SJW_ThroneRoom",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9016
+    ],
     "JobOpenConID": [
       1110,
       1111
@@ -375,7 +388,6 @@
     "JobStageID": 1007,
     "ID": 107,
     "AddBattlePower": 3000,
-    "GainRewardDisplay": 9018,
     "MainPcGrade": 7,
     "SweepPoint": 130,
     "GainSkillDisplay": 1001304000000,
@@ -399,6 +411,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9018
+    ],
     "JobOpenConID": [
       1210,
       1211
@@ -425,7 +440,6 @@
     "JobStageID": 1008,
     "ID": 108,
     "AddBattlePower": 7000,
-    "GainRewardDisplay": 9020,
     "MainPcGrade": 8,
     "SweepPoint": 145,
     "GainSkillDisplay": 1001901000200,
@@ -449,6 +463,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9020
+    ],
     "JobOpenConID": [
       1310,
       1311
@@ -475,7 +492,6 @@
     "JobStageID": 1009,
     "ID": 109,
     "AddBattlePower": 11000,
-    "GainRewardDisplay": 9022,
     "MainPcGrade": 9,
     "SweepPoint": 160,
     "GainSkillDisplay": 0,
@@ -497,6 +513,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9022
+    ],
     "JobOpenConID": [
       1410,
       1411
@@ -523,7 +542,6 @@
     "JobStageID": 1010,
     "ID": 110,
     "AddBattlePower": 15000,
-    "GainRewardDisplay": 9024,
     "MainPcGrade": 10,
     "SweepPoint": 175,
     "GainSkillDisplay": 0,
@@ -545,6 +563,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9024
+    ],
     "JobOpenConID": [
       1510,
       1511
@@ -571,7 +592,6 @@
     "JobStageID": 1011,
     "ID": 111,
     "AddBattlePower": 19000,
-    "GainRewardDisplay": 9025,
     "MainPcGrade": 11,
     "SweepPoint": 190,
     "GainSkillDisplay": 1001305000000,
@@ -595,6 +615,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9025
+    ],
     "JobOpenConID": [
       1610,
       1611
@@ -621,7 +644,6 @@
     "JobStageID": 1012,
     "ID": 112,
     "AddBattlePower": 23000,
-    "GainRewardDisplay": 0,
     "MainPcGrade": 12,
     "SweepPoint": 205,
     "GainSkillDisplay": 0,
@@ -643,6 +665,7 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [],
     "JobOpenConID": [
       1710,
       1711
@@ -669,7 +692,6 @@
     "JobStageID": 1013,
     "ID": 113,
     "AddBattlePower": 27000,
-    "GainRewardDisplay": 9029,
     "MainPcGrade": 13,
     "SweepPoint": 220,
     "GainSkillDisplay": 0,
@@ -691,6 +713,9 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
     "JobGrade": "S",
+    "GainRewardDisplay": [
+      9029
+    ],
     "JobOpenConID": [
       1810,
       1811
@@ -708,6 +733,54 @@
   },
   {
     "StageMonsterSkillLevel": 0,
+    "BaseStatPoint": 10,
+    "GainEmblemSlot": true,
+    "GainReward": 9030,
+    "StageMonsterLevel": 0,
+    "StageRecommendedPower": 0,
+    "JobCostumeID": 201031,
+    "JobStageID": 1014,
+    "ID": 114,
+    "AddBattlePower": 31000,
+    "MainPcGrade": 14,
+    "SweepPoint": 235,
+    "GainSkillDisplay": 0,
+    "JobCoreAtkSkill": 1001106000000,
+    "BattleSquadDataID": 0,
+    "AddBattlePowerR": 0.2750000059604645,
+    "JobConVal": 3001005,
+    "GainSkinDisplay": 201031,
+    "MainPcID": 1,
+    "ResourceID": 6,
+    "AutoSetSkill": true,
+    "JobBaseAtkSkill": [
+      1001001000000,
+      1001002000000,
+      1001003000000
+    ],
+    "GainSkillGroupID": [],
+    "JobIconName": "Icon_JobClass_ShadowLord_11",
+    "ExceptSkillGroupID": [],
+    "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
+    "JobGrade": "S",
+    "GainRewardDisplay": [],
+    "JobOpenConID": [
+      1910,
+      1911
+    ],
+    "JobConType": "Achieve",
+    "JobProducionMovie": "Sjw_JobMovie_13",
+    "ConditionString": "SysConstStr.ConditionString.SJW_S_11",
+    "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_11",
+    "JobStageConID": [
+      1920,
+      1921,
+      1922
+    ],
+    "JobName": "SysConstStr.JobName.SJW_S_11"
+  },
+  {
+    "StageMonsterSkillLevel": 0,
     "BaseStatPoint": 0,
     "GainEmblemSlot": true,
     "GainReward": 0,
@@ -717,7 +790,6 @@
     "JobStageID": 0,
     "ID": 1000001,
     "AddBattlePower": 0,
-    "GainRewardDisplay": 0,
     "MainPcGrade": 0,
     "SweepPoint": 30,
     "GainSkillDisplay": 0,
@@ -739,6 +811,7 @@
     "ExceptSkillGroupID": [],
     "JobProducionMovieScene": "",
     "JobGrade": "E",
+    "GainRewardDisplay": [],
     "JobOpenConID": [],
     "JobConType": "",
     "JobProducionMovie": "",

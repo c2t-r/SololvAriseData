@@ -1402,5 +1402,189 @@
       "CriDam",
       "ArmPen"
     ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10101,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddMHP",
+    "SubOption": [
+      "MHPR",
+      "CriDam",
+      "Dam",
+      "MPCostRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10102,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "ElementDamWaterP",
+    "SubOption": [
+      "AddMHP",
+      "MHPR",
+      "Dam",
+      "AddMMP"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10103,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddMHP",
+    "SubOption": [
+      "MHPR",
+      "Dam",
+      "CriDam",
+      "MPCostRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10104,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddMMP",
+    "SubOption": [
+      "AddMHP",
+      "MHPR",
+      "CriDam",
+      "DamRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10105,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddMHP",
+    "SubOption": [
+      "MHPR",
+      "Critical",
+      "AddArm",
+      "MPCostRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10106,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddArm",
+    "SubOption": [
+      "MHPR",
+      "AddMHP",
+      "Critical",
+      "AddMMP"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10107,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddAtt",
+    "SubOption": [
+      "MHPR",
+      "ArmPen",
+      "Critical",
+      "AddArm"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10108,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "CriDam",
+    "SubOption": [
+      "MHPR",
+      "AddMHP",
+      "Dam",
+      "AddMMP"
+    ]
   }
 ]

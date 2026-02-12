@@ -2605,8 +2605,108 @@
     "Index": 0,
     "AwakeActive": true,
     "KeepEffect": true,
-    "AttachParentName": "Bip001 Prop1",
+    "AttachParentName": "Point_Prop_01",
     "CharPartsType": "Weapon",
     "PartsPrefName": "MeriLaine_Weapon0_PFV"
+  },
+  {
+    "ID": 263,
+    "GroupID": 561,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Point_BackWeapon_Skin",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MeriLaine_Weapon1_PFV"
+  },
+  {
+    "ID": 264,
+    "GroupID": 859,
+    "Index": 77,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Prop_Weapon_Dualwield_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_WinchesterLock_02_PFV"
+  },
+  {
+    "ID": 265,
+    "GroupID": 571,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Skin_Weapon_katana",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "SugimotoReiji_Weapon0_PFV"
+  },
+  {
+    "ID": 266,
+    "GroupID": 571,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Skin_Weapon_Scabbard",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "SugimotoReiji_Weapon1_PFV"
+  },
+  {
+    "ID": 267,
+    "GroupID": 571,
+    "Index": 2,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Pt_Back_Weapon",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "SugimotoReiji_Weapon2_PFV"
+  },
+  {
+    "ID": 268,
+    "GroupID": 162,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Prop_MinByungGu_Weapon",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MinByungGu_Weapon01_PFV"
+  },
+  {
+    "ID": 269,
+    "GroupID": 162,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Book_Left",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MinByungGuSkinRare_Weapon1_PFV"
+  },
+  {
+    "ID": 270,
+    "GroupID": 162,
+    "Index": 2,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Book_Right",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MinByungGuSkinRare_Weapon2_PFV"
+  },
+  {
+    "ID": 271,
+    "GroupID": 162,
+    "Index": 3,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Point_Weapon_B_Root",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MinByungGu_Weapon02_PFV"
+  },
+  {
+    "ID": 272,
+    "GroupID": 162,
+    "Index": 4,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Point_MinByungGu_Book_B",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "MinByungGuSkinRare_Weapon0_PFV"
   }
 ]

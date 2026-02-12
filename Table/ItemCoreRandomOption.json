@@ -808,5 +808,59 @@
     "OptMinValue": 35,
     "RandomOptID": 102112,
     "StatType": "MPRegenR"
+  },
+  {
+    "Level": 1,
+    "Prob": 100,
+    "ID": 200102001,
+    "OptMaxValue": 1217,
+    "OptMinValue": 120,
+    "RandomOptID": 200102,
+    "StatType": "AddAtt"
+  },
+  {
+    "Level": 1,
+    "Prob": 100,
+    "ID": 201102001,
+    "OptMaxValue": 1217,
+    "OptMinValue": 120,
+    "RandomOptID": 201102,
+    "StatType": "AddArm"
+  },
+  {
+    "Level": 1,
+    "Prob": 100,
+    "ID": 202102001,
+    "OptMaxValue": 2434,
+    "OptMinValue": 245,
+    "RandomOptID": 202102,
+    "StatType": "AddMHP"
+  },
+  {
+    "Level": 1,
+    "Prob": 100,
+    "ID": 200112001,
+    "OptMaxValue": 1478,
+    "OptMinValue": 150,
+    "RandomOptID": 200112,
+    "StatType": "Dam"
+  },
+  {
+    "Level": 1,
+    "Prob": 100,
+    "ID": 201112001,
+    "OptMaxValue": 1478,
+    "OptMinValue": 150,
+    "RandomOptID": 201112,
+    "StatType": "Critical"
+  },
+  {
+    "Level": 1,
+    "Prob": 100,
+    "ID": 202112001,
+    "OptMaxValue": 1478,
+    "OptMinValue": 150,
+    "RandomOptID": 202112,
+    "StatType": "CriDam"
   }
 ]

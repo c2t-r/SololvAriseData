@@ -8,9 +8,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -208,9 +206,7 @@
     "IsClientCheck": true,
     "GoalValue": 3,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -408,9 +404,7 @@
     "IsClientCheck": true,
     "GoalValue": 5,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -27852,9 +27846,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -27952,9 +27944,7 @@
     "IsClientCheck": true,
     "GoalValue": 5,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -29492,9 +29482,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -29912,9 +29900,7 @@
     "IsClientCheck": true,
     "GoalValue": 3,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -29952,9 +29938,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -30481,6 +30465,222 @@
     "TargetID3": [],
     "TargetContents": "",
     "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 99999,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70136,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Target_SJWLevel",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 99999,
+    "DetailValue01": 140,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70137,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Target_SJWLevel",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70138,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_Login",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_Login",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Login",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70139,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_ClearAdvent",
+    "MoveTarget": [
+      40
+    ],
+    "TitleStringID": "Quest.Title_ClearAdvent",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearAdvent",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70140,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_ClearInstantDungeon",
+    "MoveTarget": [
+      9
+    ],
+    "TitleStringID": "Quest.Title_ClearInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70141,
+    "IsClientCheck": true,
+    "GoalValue": 30,
+    "DescStringID": "Quest.Desc_ClearGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70142,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_TimeAtteck_Season",
+    "MoveTarget": [
+      11
+    ],
+    "TitleStringID": "Quest.Title_TimeAtteck_Season",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TimeAtteck_Season",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70143,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_ProceedWorldBoss",
+    "MoveTarget": [
+      10
+    ],
+    "TitleStringID": "Quest.Title_ProceedWorldBoss",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "WorldBoss_UseTicket",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70144,
+    "IsClientCheck": true,
+    "GoalValue": 100,
+    "DescStringID": "Quest.Desc_TryEnhanceArtifact",
+    "MoveTarget": [
+      7
+    ],
+    "TitleStringID": "Quest.Title_TryEnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TryEnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70145,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_Login",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_Login",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Login",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70146,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_WeeklyMission_Goal",
+    "MoveTarget": [
+      13
+    ],
+    "TitleStringID": "Quest.Title_WeeklyMission_Goal",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "WeeklyMission_Goal",
     "DetailValueList": []
   },
   {
@@ -55514,6 +55714,266 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 336101,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_GetHunter_Target",
+    "MoveTarget": [
+      25
+    ],
+    "TitleStringID": "Quest.Title_GetHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GetHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 336102,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunter_TargetCount",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_TargetCount",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 336103,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EvolveHunter_TargetCount",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_TargetCount",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 336104,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_UpgradeHunter_TargetCount",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UpgradeHunter_TargetCount",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UpgradeHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 336105,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunterSkill_TargetCount",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunterSkill_TargetCount",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunterSkill_TargetCount",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336106,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunter_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336107,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunter_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SSR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336108,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EvolveHunter_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336109,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EvolveHunter_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SSR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336110,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_UpgradeHunter_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UpgradeHunter_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UpgradeHunter_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336111,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_UpgradeHunter_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UpgradeHunter_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SSR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UpgradeHunter_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336112,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunterSkill_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunterSkill_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunterSkill_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 336113,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunterSkill_Grade",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunterSkill_Grade",
+    "DetailValue04": "",
+    "DetailValue03": "SSR",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunterSkill_Grade",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
     "TargetID": 0,
     "TargetID2": 0,
     "ID": 340101,
@@ -58940,9 +59400,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59060,9 +59518,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59180,9 +59636,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59300,9 +59754,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59400,9 +59852,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59500,9 +59950,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59540,9 +59988,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59620,9 +60066,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59720,9 +60164,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59760,9 +60202,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59820,9 +60260,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -59900,9 +60338,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60000,9 +60436,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60100,9 +60534,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60200,9 +60632,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60300,9 +60730,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60400,9 +60828,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60680,9 +61106,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60780,9 +61204,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60880,9 +61302,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -60960,9 +61380,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61060,9 +61478,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61140,9 +61556,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61240,9 +61654,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61340,9 +61752,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61420,9 +61830,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61716,9 +62124,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61836,9 +62242,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -61970,9 +62374,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -62148,9 +62550,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -62248,9 +62648,7 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_Login",
-    "MoveTarget": [
-      1
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_Login",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -62995,6 +63393,292 @@
     "TargetID3": [],
     "TargetContents": "",
     "TaskType": "ClearEventStory",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 500,
+    "TargetID": 60001,
+    "TargetID2": 0,
+    "ID": 409701,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_MiniGame_HighestScore",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_MiniGame_HighestScore",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "MiniGame_HighestScore",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 1000,
+    "TargetID": 60001,
+    "TargetID2": 0,
+    "ID": 409702,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_MiniGame_HighestScore",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_MiniGame_HighestScore",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "MiniGame_HighestScore",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 1500,
+    "TargetID": 60001,
+    "TargetID2": 0,
+    "ID": 409703,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_MiniGame_HighestScore",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_MiniGame_HighestScore",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "MiniGame_HighestScore",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 8120109,
+    "TargetID2": 0,
+    "ID": 409801,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Event.BossChallenge.26ValentineBoss.TitleStep02",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_ClearEventStory_FRR",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearEventStory",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 8120110,
+    "TargetID2": 0,
+    "ID": 409802,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Event.BossChallenge.26ValentineBoss.TitleStep02",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_ClearEventStory_FRR",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearEventStory",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 8120111,
+    "TargetID2": 0,
+    "ID": 409803,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Event.BossChallenge.26ValentineBoss.TitleStep02",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_ClearEventStory_FRR",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearEventStory",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409804,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_Login",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_Login",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Login",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409805,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_Clear_AdventInstantDungeon",
+    "MoveTarget": [
+      39
+    ],
+    "TitleStringID": "Quest.Title_Clear_AdventInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Clear_AdventInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409806,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_EndGateMining",
+    "MoveTarget": [
+      26
+    ],
+    "TitleStringID": "Quest.Title_EndGateMining",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EndGateMining",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409807,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ProceedRaid",
+    "MoveTarget": [
+      23
+    ],
+    "TitleStringID": "Quest.Title_ProceedRaid",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedRaid",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409808,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ProceedWorldBoss",
+    "MoveTarget": [
+      10
+    ],
+    "TitleStringID": "Quest.Title_ProceedWorldBoss",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "WorldBoss_UseTicket",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409809,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_DMGateClear",
+    "MoveTarget": [
+      150001
+    ],
+    "TitleStringID": "Quest.Title_DMGateClear",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DMGateClear",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 1,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409810,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ClearArchitectTrial_Level",
+    "MoveTarget": [
+      63
+    ],
+    "TitleStringID": "Quest.Title_ClearArchitectTrial_Level",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "CompleteArchitectTrial_Level",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409811,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_TCP_MatchingAll_CoopDungeon",
+    "MoveTarget": [
+      69
+    ],
+    "TitleStringID": "Quest.Title_TCP_MatchingAll_CoopDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TCP_MatchingAll",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 409812,
+    "IsClientCheck": true,
+    "GoalValue": 1000000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
     "DetailValueList": []
   },
   {
@@ -65263,6 +65947,46 @@
     "TargetID": 551,
     "TargetID2": 0,
     "ID": 5063002,
+    "IsClientCheck": true,
+    "GoalValue": 11,
+    "DescStringID": "Quest.Desc_GetHunter_Target",
+    "MoveTarget": [
+      25
+    ],
+    "TitleStringID": "Quest.Title_GetHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GetHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 5064001,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_GetHunter_Target",
+    "MoveTarget": [
+      25
+    ],
+    "TitleStringID": "Quest.Title_GetHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GetHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 5064002,
     "IsClientCheck": true,
     "GoalValue": 11,
     "DescStringID": "Quest.Desc_GetHunter_Target",
@@ -76339,6 +77063,24 @@
     "ID": 3001013,
     "IsClientCheck": true,
     "GoalValue": 130,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3001014,
+    "IsClientCheck": true,
+    "GoalValue": 140,
     "DescStringID": "Quest.Desc_LevelupSJW",
     "MoveTarget": [],
     "TitleStringID": "Quest.Title_LevelupSJW",
@@ -88291,6 +89033,206 @@
   },
   {
     "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034011,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034012,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034013,
+    "IsClientCheck": true,
+    "GoalValue": 15,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034014,
+    "IsClientCheck": true,
+    "GoalValue": 20,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034015,
+    "IsClientCheck": true,
+    "GoalValue": 25,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034016,
+    "IsClientCheck": true,
+    "GoalValue": 30,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034017,
+    "IsClientCheck": true,
+    "GoalValue": 35,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034018,
+    "IsClientCheck": true,
+    "GoalValue": 40,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034019,
+    "IsClientCheck": true,
+    "GoalValue": 45,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 135,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 3034020,
+    "IsClientCheck": true,
+    "GoalValue": 50,
+    "DescStringID": "Quest.Desc_LevelupHunter",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
     "DetailValue01": 0,
     "TargetID": 0,
     "TargetID2": 0,
@@ -95471,6 +96413,46 @@
   },
   {
     "DetailValue02": 0,
+    "DetailValue01": 1,
+    "TargetID": 6,
+    "TargetID2": 0,
+    "ID": 4024001,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ClearRaid_Target",
+    "MoveTarget": [
+      5351
+    ],
+    "TitleStringID": "Quest.Title_ClearRaid_Rockpasa01",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearRaid_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 2,
+    "TargetID": 6,
+    "TargetID2": 0,
+    "ID": 4024002,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ClearRaid_Target",
+    "MoveTarget": [
+      5352
+    ],
+    "TitleStringID": "Quest.Title_ClearRaid_Rockpasa02",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearRaid_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
     "DetailValue01": 0,
     "TargetID": 0,
     "TargetID2": 0,
@@ -96857,6 +97839,206 @@
     "ID": 6001070,
     "IsClientCheck": true,
     "GoalValue": 130,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001071,
+    "IsClientCheck": true,
+    "GoalValue": 131,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001072,
+    "IsClientCheck": true,
+    "GoalValue": 132,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001073,
+    "IsClientCheck": true,
+    "GoalValue": 133,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001074,
+    "IsClientCheck": true,
+    "GoalValue": 134,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001075,
+    "IsClientCheck": true,
+    "GoalValue": 135,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001076,
+    "IsClientCheck": true,
+    "GoalValue": 136,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001077,
+    "IsClientCheck": true,
+    "GoalValue": 137,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001078,
+    "IsClientCheck": true,
+    "GoalValue": 138,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001079,
+    "IsClientCheck": true,
+    "GoalValue": 139,
+    "DescStringID": "Quest.Desc_LevelupSJW",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_LevelupSJW",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupSJW",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 6001080,
+    "IsClientCheck": true,
+    "GoalValue": 140,
     "DescStringID": "Quest.Desc_LevelupSJW",
     "MoveTarget": [
       8
@@ -118746,7 +119928,7 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 203,
+    "TargetID": 201,
     "TargetID2": 0,
     "ID": 10100066,
     "IsClientCheck": true,
@@ -126732,9 +127914,7 @@
     "IsClientCheck": true,
     "GoalValue": 2,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -126812,9 +127992,7 @@
     "IsClientCheck": true,
     "GoalValue": 4,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -126892,9 +128070,7 @@
     "IsClientCheck": true,
     "GoalValue": 6,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -126972,9 +128148,7 @@
     "IsClientCheck": true,
     "GoalValue": 8,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127052,9 +128226,7 @@
     "IsClientCheck": true,
     "GoalValue": 10,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127132,9 +128304,7 @@
     "IsClientCheck": true,
     "GoalValue": 12,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127212,9 +128382,7 @@
     "IsClientCheck": true,
     "GoalValue": 15,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127292,9 +128460,7 @@
     "IsClientCheck": true,
     "GoalValue": 17,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127372,9 +128538,7 @@
     "IsClientCheck": true,
     "GoalValue": 19,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127452,9 +128616,7 @@
     "IsClientCheck": true,
     "GoalValue": 21,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127532,9 +128694,7 @@
     "IsClientCheck": true,
     "GoalValue": 23,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127612,9 +128772,7 @@
     "IsClientCheck": true,
     "GoalValue": 25,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127692,9 +128850,7 @@
     "IsClientCheck": true,
     "GoalValue": 27,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -127772,9 +128928,7 @@
     "IsClientCheck": true,
     "GoalValue": 30,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55026
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -128972,9 +130126,7 @@
     "IsClientCheck": true,
     "GoalValue": 2,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129052,9 +130204,7 @@
     "IsClientCheck": true,
     "GoalValue": 4,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129132,9 +130282,7 @@
     "IsClientCheck": true,
     "GoalValue": 6,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129212,9 +130360,7 @@
     "IsClientCheck": true,
     "GoalValue": 8,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129292,9 +130438,7 @@
     "IsClientCheck": true,
     "GoalValue": 10,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129372,9 +130516,7 @@
     "IsClientCheck": true,
     "GoalValue": 12,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129452,9 +130594,7 @@
     "IsClientCheck": true,
     "GoalValue": 15,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129532,9 +130672,7 @@
     "IsClientCheck": true,
     "GoalValue": 17,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129612,9 +130750,7 @@
     "IsClientCheck": true,
     "GoalValue": 19,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129692,9 +130828,7 @@
     "IsClientCheck": true,
     "GoalValue": 21,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55033
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129772,9 +130906,7 @@
     "IsClientCheck": true,
     "GoalValue": 2,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129852,9 +130984,7 @@
     "IsClientCheck": true,
     "GoalValue": 4,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -129932,9 +131062,7 @@
     "IsClientCheck": true,
     "GoalValue": 6,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130012,9 +131140,7 @@
     "IsClientCheck": true,
     "GoalValue": 8,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130092,9 +131218,7 @@
     "IsClientCheck": true,
     "GoalValue": 10,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130172,9 +131296,7 @@
     "IsClientCheck": true,
     "GoalValue": 12,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130252,9 +131374,7 @@
     "IsClientCheck": true,
     "GoalValue": 15,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130332,9 +131452,7 @@
     "IsClientCheck": true,
     "GoalValue": 17,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130412,9 +131530,7 @@
     "IsClientCheck": true,
     "GoalValue": 19,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -130492,9 +131608,7 @@
     "IsClientCheck": true,
     "GoalValue": 21,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55040
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133372,9 +134486,7 @@
     "IsClientCheck": true,
     "GoalValue": 2,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133452,9 +134564,7 @@
     "IsClientCheck": true,
     "GoalValue": 4,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133532,9 +134642,7 @@
     "IsClientCheck": true,
     "GoalValue": 6,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133612,9 +134720,7 @@
     "IsClientCheck": true,
     "GoalValue": 8,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133692,9 +134798,7 @@
     "IsClientCheck": true,
     "GoalValue": 10,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133772,9 +134876,7 @@
     "IsClientCheck": true,
     "GoalValue": 12,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133852,9 +134954,7 @@
     "IsClientCheck": true,
     "GoalValue": 14,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -133932,9 +135032,7 @@
     "IsClientCheck": true,
     "GoalValue": 16,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134012,9 +135110,7 @@
     "IsClientCheck": true,
     "GoalValue": 18,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134092,9 +135188,7 @@
     "IsClientCheck": true,
     "GoalValue": 20,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134172,9 +135266,7 @@
     "IsClientCheck": true,
     "GoalValue": 24,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134252,9 +135344,7 @@
     "IsClientCheck": true,
     "GoalValue": 28,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134332,9 +135422,7 @@
     "IsClientCheck": true,
     "GoalValue": 32,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134412,9 +135500,7 @@
     "IsClientCheck": true,
     "GoalValue": 36,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134492,9 +135578,7 @@
     "IsClientCheck": true,
     "GoalValue": 40,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134572,9 +135656,7 @@
     "IsClientCheck": true,
     "GoalValue": 44,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134652,9 +135734,7 @@
     "IsClientCheck": true,
     "GoalValue": 48,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134732,9 +135812,7 @@
     "IsClientCheck": true,
     "GoalValue": 52,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134812,9 +135890,7 @@
     "IsClientCheck": true,
     "GoalValue": 56,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134892,9 +135968,7 @@
     "IsClientCheck": true,
     "GoalValue": 60,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -134972,9 +136046,7 @@
     "IsClientCheck": true,
     "GoalValue": 64,
     "DescStringID": "Quest.Desc_ClearEventStoryBossChapter",
-    "MoveTarget": [
-      55058
-    ],
+    "MoveTarget": [],
     "TitleStringID": "Quest.Title_ClearEventStoryBossChapter",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -146988,7 +148060,7 @@
     "TargetID2": 0,
     "ID": 12002216,
     "IsClientCheck": true,
-    "GoalValue": 2,
+    "GoalValue": 1,
     "DescStringID": "Quest.Desc_Craft_Any",
     "MoveTarget": [
       33
@@ -147548,7 +148620,7 @@
     "TargetID2": 0,
     "ID": 12002244,
     "IsClientCheck": true,
-    "GoalValue": 2,
+    "GoalValue": 1,
     "DescStringID": "Quest.Desc_Compose_Any",
     "MoveTarget": [
       36
@@ -149467,6 +150539,1686 @@
     "TargetID": 0,
     "TargetID2": 0,
     "ID": 12002384,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "AttendanceMission.Desc_GemCombine",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "AttendanceMission.Desc_GemCombine",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GemCombine",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002401,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearSecretArchive",
+    "MoveTarget": [
+      46
+    ],
+    "TitleStringID": "Quest.Title_ClearSecretArchive",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSecretArchive",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002402,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearRedGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearRedGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearRedGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002403,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunter_Any",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 10,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002404,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002405,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_Craft_Any",
+    "MoveTarget": [
+      33
+    ],
+    "TitleStringID": "Quest.Title_Craft_Any_EnterNum",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Craft_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002406,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearSpecialGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearSpecialGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSpecialGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002407,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupRelic_Any",
+    "MoveTarget": [
+      6
+    ],
+    "TitleStringID": "Quest.Title_LevelupRelic_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupRelic_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002408,
+    "IsClientCheck": true,
+    "GoalValue": 100000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002409,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_EndGateMining",
+    "MoveTarget": [
+      43
+    ],
+    "TitleStringID": "Quest.Title_EndGateMining",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EndGateMining",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002410,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearDungeonBreak",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearDungeonBreak",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearDungeonBreak",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002411,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearInstantDungeon",
+    "MoveTarget": [
+      9
+    ],
+    "TitleStringID": "Quest.Title_ClearInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 10,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002412,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002413,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_DailyMissionClear",
+    "MoveTarget": [
+      1071
+    ],
+    "TitleStringID": "Quest.Title_DailyMissionClear",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DailyMission_Goal",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002414,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupHunterSkill_Any",
+    "MoveTarget": [
+      1025
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunterSkill_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunterSkill_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002415,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearAdvent",
+    "MoveTarget": [
+      40
+    ],
+    "TitleStringID": "Quest.Title_ClearAdvent",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearAdvent",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002416,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_DisassembleItem_SubType",
+    "MoveTarget": [
+      1065
+    ],
+    "TitleStringID": "Quest.Title_DisassembleItem_SubType",
+    "DetailValue04": "",
+    "DetailValue03": "Artifact",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DisassembleItem_SubType",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002417,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_DisassembleItem_SubType",
+    "MoveTarget": [
+      1133
+    ],
+    "TitleStringID": "Quest.Title_DisassembleItem_SubType",
+    "DetailValue04": "",
+    "DetailValue03": "GS",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DisassembleItem_SubType",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 10604,
+    "TargetID2": 0,
+    "ID": 12002418,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_BuyShop_Target",
+    "MoveTarget": [
+      30016
+    ],
+    "TitleStringID": "Quest.Title_BuyShop_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "BuyShop_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002419,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGS_Any",
+    "MoveTarget": [
+      5
+    ],
+    "TitleStringID": "Quest.Title_LevelupGS_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGS_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002420,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGSSkill_Any",
+    "MoveTarget": [
+      1045
+    ],
+    "TitleStringID": "Quest.Title_LevelupGSSkill_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGSSkill_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002421,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_RuneCompsiteGet",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_RuneCompsiteGet",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "RuneCompsiteGet",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002422,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_Gacha_Any",
+    "MoveTarget": [
+      25
+    ],
+    "TitleStringID": "Quest.Title_Gacha_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Gacha_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 20,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002423,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 10606,
+    "TargetID2": 0,
+    "ID": 12002424,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_BuyShop_Target",
+    "MoveTarget": [
+      30013
+    ],
+    "TitleStringID": "Quest.Title_BuyShop_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "BuyShop_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002425,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_ClearGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002426,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_RuneCompsiteGet",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_RuneCompsiteGet",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "RuneCompsiteGet",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002427,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_TryComposeEmblem",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_TryComposeEmblem",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TryComposeEmblem",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002428,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "AttendanceMission.Desc_GemCombine",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "AttendanceMission.Desc_GemCombine",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GemCombine",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002429,
+    "IsClientCheck": true,
+    "GoalValue": 6,
+    "DescStringID": "Quest.Desc_ClearSecretArchive",
+    "MoveTarget": [
+      46
+    ],
+    "TitleStringID": "Quest.Title_ClearSecretArchive",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSecretArchive",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002430,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearRedGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearRedGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearRedGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002431,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_LevelupHunter_Any",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 10,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002432,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002433,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_Craft_Any",
+    "MoveTarget": [
+      33
+    ],
+    "TitleStringID": "Quest.Title_Craft_Any_EnterNum",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Craft_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002434,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearSpecialGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearSpecialGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSpecialGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002435,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_LevelupRelic_Any",
+    "MoveTarget": [
+      6
+    ],
+    "TitleStringID": "Quest.Title_LevelupRelic_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupRelic_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002436,
+    "IsClientCheck": true,
+    "GoalValue": 100000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002437,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_EndGateMining",
+    "MoveTarget": [
+      43
+    ],
+    "TitleStringID": "Quest.Title_EndGateMining",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EndGateMining",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002438,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearDungeonBreak",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearDungeonBreak",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearDungeonBreak",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002439,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearInstantDungeon",
+    "MoveTarget": [
+      9
+    ],
+    "TitleStringID": "Quest.Title_ClearInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 10,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002440,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002441,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_DailyMissionClear",
+    "MoveTarget": [
+      1071
+    ],
+    "TitleStringID": "Quest.Title_DailyMissionClear",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DailyMission_Goal",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002442,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_LevelupHunterSkill_Any",
+    "MoveTarget": [
+      1025
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunterSkill_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunterSkill_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002443,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearAdvent",
+    "MoveTarget": [
+      40
+    ],
+    "TitleStringID": "Quest.Title_ClearAdvent",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearAdvent",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002444,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ClearArchitectTrial_Any",
+    "MoveTarget": [
+      63
+    ],
+    "TitleStringID": "Quest.Title_ClearArchitectTrial_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearArchitectTrial_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002445,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_RuneCompsiteGet",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_RuneCompsiteGet",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "RuneCompsiteGet",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002446,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_TimeAtteck_Season",
+    "MoveTarget": [
+      11
+    ],
+    "TitleStringID": "Quest.Title_TimeAtteck_Season",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TimeAtteck_Season",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002447,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGS_Any",
+    "MoveTarget": [
+      5
+    ],
+    "TitleStringID": "Quest.Title_LevelupGS_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGS_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 20,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002448,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002449,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_TryComposeEmblem",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_TryComposeEmblem",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TryComposeEmblem",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002450,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ProceedWorldBoss",
+    "MoveTarget": [
+      10
+    ],
+    "TitleStringID": "Quest.Title_ProceedWorldBoss",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "WorldBoss_UseTicket",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002451,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGSSkill_Any",
+    "MoveTarget": [
+      1045
+    ],
+    "TitleStringID": "Quest.Title_LevelupGSSkill_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGSSkill_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002452,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_GuildBoss",
+    "MoveTarget": [
+      100006
+    ],
+    "TitleStringID": "Quest.Title_GuildBoss",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GuildBoss",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002453,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_ClearGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002454,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ProceedChaosBattleField",
+    "MoveTarget": [
+      47
+    ],
+    "TitleStringID": "Quest.Title_ProceedChaosBattleField",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedChaosBattleField",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002455,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGS_Any",
+    "MoveTarget": [
+      5
+    ],
+    "TitleStringID": "Quest.Title_LevelupGS_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGS_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002456,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "AttendanceMission.Desc_GemCombine",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "AttendanceMission.Desc_GemCombine",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GemCombine",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002457,
+    "IsClientCheck": true,
+    "GoalValue": 9,
+    "DescStringID": "Quest.Desc_ClearSecretArchive",
+    "MoveTarget": [
+      46
+    ],
+    "TitleStringID": "Quest.Title_ClearSecretArchive",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSecretArchive",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002458,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearRedGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearRedGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearRedGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002459,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_LevelupHunter_Any",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 10,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002460,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002461,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_Craft_Any",
+    "MoveTarget": [
+      33
+    ],
+    "TitleStringID": "Quest.Title_Craft_Any_EnterNum",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Craft_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002462,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearSpecialGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearSpecialGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSpecialGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002463,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_LevelupRelic_Any",
+    "MoveTarget": [
+      6
+    ],
+    "TitleStringID": "Quest.Title_LevelupRelic_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupRelic_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002464,
+    "IsClientCheck": true,
+    "GoalValue": 100000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002465,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_EndGateMining",
+    "MoveTarget": [
+      43
+    ],
+    "TitleStringID": "Quest.Title_EndGateMining",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EndGateMining",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002466,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearDungeonBreak",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearDungeonBreak",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearDungeonBreak",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002467,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearInstantDungeon",
+    "MoveTarget": [
+      9
+    ],
+    "TitleStringID": "Quest.Title_ClearInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 10,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002468,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002469,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_DailyMissionClear",
+    "MoveTarget": [
+      1071
+    ],
+    "TitleStringID": "Quest.Title_DailyMissionClear",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DailyMission_Goal",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002470,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_LevelupHunterSkill_Any",
+    "MoveTarget": [
+      1025
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunterSkill_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunterSkill_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002471,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_ClearAdvent",
+    "MoveTarget": [
+      40
+    ],
+    "TitleStringID": "Quest.Title_ClearAdvent",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearAdvent",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002472,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_DG_BattlePlayCount_All",
+    "MoveTarget": [
+      150001
+    ],
+    "TitleStringID": "Quest.Title_DG_BattlePlayCount_All_DimensionAchievement",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DG_BattlePlayCount_All",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002473,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_RuneCompsiteGet",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_RuneCompsiteGet",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "RuneCompsiteGet",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002474,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_TimeAtteck_Season",
+    "MoveTarget": [
+      11
+    ],
+    "TitleStringID": "Quest.Title_TimeAtteck_Season",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TimeAtteck_Season",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002475,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGS_Any",
+    "MoveTarget": [
+      5
+    ],
+    "TitleStringID": "Quest.Title_LevelupGS_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGS_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 20,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002476,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EnhanceArtifact",
+    "MoveTarget": [
+      1062
+    ],
+    "TitleStringID": "Quest.Title_EnhanceArtifact",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EnhanceArtifact",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002477,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_TryComposeEmblem",
+    "MoveTarget": [
+      36
+    ],
+    "TitleStringID": "Quest.Title_TryComposeEmblem",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TryComposeEmblem",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002478,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ProceedWorldBoss",
+    "MoveTarget": [
+      10
+    ],
+    "TitleStringID": "Quest.Title_ProceedWorldBoss",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "WorldBoss_UseTicket",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002479,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGSSkill_Any",
+    "MoveTarget": [
+      1045
+    ],
+    "TitleStringID": "Quest.Title_LevelupGSSkill_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGSSkill_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002480,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_GuildBoss",
+    "MoveTarget": [
+      100006
+    ],
+    "TitleStringID": "Quest.Title_GuildBoss",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GuildBoss",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002481,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_ClearGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002482,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_ProceedChaosBattleField",
+    "MoveTarget": [
+      47
+    ],
+    "TitleStringID": "Quest.Title_ProceedChaosBattleField",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedChaosBattleField",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002483,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_LevelupGS_Any",
+    "MoveTarget": [
+      5
+    ],
+    "TitleStringID": "Quest.Title_LevelupGS_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupGS_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 12002484,
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "AttendanceMission.Desc_GemCombine",
@@ -156492,11 +159244,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 12,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000081,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 12,
     "DescStringID": "Quest.Title_ShadowGuardRank",
     "MoveTarget": [
       66
@@ -156512,11 +159264,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 14,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000082,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 14,
     "DescStringID": "Quest.Title_ShadowGuardRank",
     "MoveTarget": [
       66
@@ -156532,11 +159284,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 16,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000083,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 16,
     "DescStringID": "Quest.Title_ShadowGuardRank",
     "MoveTarget": [
       66
@@ -156552,11 +159304,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 18,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000084,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 18,
     "DescStringID": "Quest.Title_ShadowGuardRank",
     "MoveTarget": [
       66
@@ -156572,11 +159324,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 20,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000085,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 20,
     "DescStringID": "Quest.Title_ShadowGuardRank",
     "MoveTarget": [
       66
@@ -156632,11 +159384,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 6,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000088,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 6,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156692,11 +159444,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 6,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000091,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 6,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156752,11 +159504,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 6,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000094,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 6,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156812,11 +159564,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 6,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000097,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 6,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156832,11 +159584,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 8,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000098,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 8,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156852,11 +159604,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 8,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000099,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 8,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156872,11 +159624,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 8,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000100,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 8,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -156892,11 +159644,11 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
-    "TargetID": 8,
+    "TargetID": 0,
     "TargetID2": 0,
     "ID": 14000101,
     "IsClientCheck": true,
-    "GoalValue": 1,
+    "GoalValue": 8,
     "DescStringID": "Quest.Title_ShadowGuardTaskLevel",
     "MoveTarget": [
       66
@@ -168422,7 +171174,9 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_AsyncPvp_PvpDeathCount",
-    "MoveTarget": [],
+    "MoveTarget": [
+      55121
+    ],
     "TitleStringID": "Quest.Title_AsyncPvp_PvpDeathCount",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -168440,7 +171194,9 @@
     "IsClientCheck": true,
     "GoalValue": 1,
     "DescStringID": "Quest.Desc_PvpCount",
-    "MoveTarget": [],
+    "MoveTarget": [
+      55121
+    ],
     "TitleStringID": "Quest.Title_PvpCount",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -168458,7 +171214,9 @@
     "IsClientCheck": true,
     "GoalValue": 2,
     "DescStringID": "Quest.Desc_PvpCount",
-    "MoveTarget": [],
+    "MoveTarget": [
+      55121
+    ],
     "TitleStringID": "Quest.Title_PvpCount",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -168476,7 +171234,9 @@
     "IsClientCheck": true,
     "GoalValue": 3,
     "DescStringID": "Quest.Desc_PvpCount",
-    "MoveTarget": [],
+    "MoveTarget": [
+      55121
+    ],
     "TitleStringID": "Quest.Title_PvpCount",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -168494,7 +171254,9 @@
     "IsClientCheck": true,
     "GoalValue": 40,
     "DescStringID": "Quest.Desc_PvpCount",
-    "MoveTarget": [],
+    "MoveTarget": [
+      55121
+    ],
     "TitleStringID": "Quest.Title_PvpCount",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -168512,7 +171274,9 @@
     "IsClientCheck": true,
     "GoalValue": 250,
     "DescStringID": "Quest.Desc_PvpScoreAccumulated",
-    "MoveTarget": [],
+    "MoveTarget": [
+      55121
+    ],
     "TitleStringID": "Quest.Title_PvpScoreAccumulated",
     "DetailValue04": "",
     "DetailValue03": "",
@@ -169483,6 +172247,66 @@
   },
   {
     "DetailValue02": 0,
+    "DetailValue01": 1,
+    "TargetID": 1017,
+    "TargetID2": 0,
+    "ID": 3049,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_TimeAttack_TargetRanking",
+    "MoveTarget": [
+      11
+    ],
+    "TitleStringID": "Quest.Title_TimeAttack_TargetRanking",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TimeAttack_TargetRanking",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 2,
+    "TargetID": 1017,
+    "TargetID2": 0,
+    "ID": 3050,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_TimeAttack_TargetRanking",
+    "MoveTarget": [
+      11
+    ],
+    "TitleStringID": "Quest.Title_TimeAttack_TargetRanking",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TimeAttack_TargetRanking",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 3,
+    "TargetID": 1017,
+    "TargetID2": 0,
+    "ID": 3051,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_TimeAttack_TargetRanking",
+    "MoveTarget": [
+      11
+    ],
+    "TitleStringID": "Quest.Title_TimeAttack_TargetRanking",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "TimeAttack_TargetRanking",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
     "DetailValue01": 0,
     "TargetID": 0,
     "TargetID2": 0,
@@ -170082,6 +172906,560 @@
     "TargetID3": [],
     "TargetContents": "",
     "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500045,
+    "IsClientCheck": true,
+    "GoalValue": 1,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500046,
+    "IsClientCheck": true,
+    "GoalValue": 2,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500047,
+    "IsClientCheck": true,
+    "GoalValue": 3,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500048,
+    "IsClientCheck": true,
+    "GoalValue": 4,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500049,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500050,
+    "IsClientCheck": true,
+    "GoalValue": 6,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500051,
+    "IsClientCheck": true,
+    "GoalValue": 7,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500052,
+    "IsClientCheck": true,
+    "GoalValue": 8,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500053,
+    "IsClientCheck": true,
+    "GoalValue": 9,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 561,
+    "TargetID2": 0,
+    "ID": 99500054,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_EvolveHunter_Target",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_EvolveHunter_Target",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "EvolveHunter_Target",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800001,
+    "IsClientCheck": true,
+    "GoalValue": 5000000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800002,
+    "IsClientCheck": true,
+    "GoalValue": 10000000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800011,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_ProceedRaid",
+    "MoveTarget": [
+      23
+    ],
+    "TitleStringID": "Quest.Title_ProceedRaid",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedRaid",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800012,
+    "IsClientCheck": true,
+    "GoalValue": 15,
+    "DescStringID": "Quest.Desc_ProceedRaid",
+    "MoveTarget": [
+      23
+    ],
+    "TitleStringID": "Quest.Title_ProceedRaid",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedRaid",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800013,
+    "IsClientCheck": true,
+    "GoalValue": 30,
+    "DescStringID": "Quest.Desc_ProceedRaid",
+    "MoveTarget": [
+      23
+    ],
+    "TitleStringID": "Quest.Title_ProceedRaid",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedRaid",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800014,
+    "IsClientCheck": true,
+    "GoalValue": 50,
+    "DescStringID": "Quest.Desc_ProceedRaid",
+    "MoveTarget": [
+      23
+    ],
+    "TitleStringID": "Quest.Title_ProceedRaid",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedRaid",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800021,
+    "IsClientCheck": true,
+    "GoalValue": 20,
+    "DescStringID": "Quest.Desc_Clear_AdventInstantDungeon",
+    "MoveTarget": [
+      39
+    ],
+    "TitleStringID": "Quest.Title_Clear_AdventInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Clear_AdventInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800022,
+    "IsClientCheck": true,
+    "GoalValue": 50,
+    "DescStringID": "Quest.Desc_Clear_AdventInstantDungeon",
+    "MoveTarget": [
+      39
+    ],
+    "TitleStringID": "Quest.Title_Clear_AdventInstantDungeon",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Clear_AdventInstantDungeon",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800031,
+    "IsClientCheck": true,
+    "GoalValue": 50,
+    "DescStringID": "Quest.Desc_ClearGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800032,
+    "IsClientCheck": true,
+    "GoalValue": 100,
+    "DescStringID": "Quest.Desc_ClearGate",
+    "MoveTarget": [
+      8
+    ],
+    "TitleStringID": "Quest.Title_ClearGate",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearGate",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800041,
+    "IsClientCheck": true,
+    "GoalValue": 50,
+    "DescStringID": "Quest.Desc_LevelupHunter_Any",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_LevelupHunter_Any",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupHunter_Any",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800051,
+    "IsClientCheck": true,
+    "GoalValue": 5,
+    "DescStringID": "Quest.Desc_Login",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_Login",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "Login",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800061,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_GetBGM",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_GetBGM",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GetBGM",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800062,
+    "IsClientCheck": true,
+    "GoalValue": 20,
+    "DescStringID": "Quest.Desc_GetBGM",
+    "MoveTarget": [],
+    "TitleStringID": "Quest.Title_GetBGM",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "GetBGM",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800071,
+    "IsClientCheck": true,
+    "GoalValue": 50,
+    "DescStringID": "Quest.Desc_DailyMissionClear",
+    "MoveTarget": [
+      1071
+    ],
+    "TitleStringID": "Quest.Title_DailyMissionClear",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DailyMission_Goal",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800072,
+    "IsClientCheck": true,
+    "GoalValue": 100,
+    "DescStringID": "Quest.Desc_DailyMissionClear",
+    "MoveTarget": [
+      1071
+    ],
+    "TitleStringID": "Quest.Title_DailyMissionClear",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "DailyMission_Goal",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800081,
+    "IsClientCheck": true,
+    "GoalValue": 25,
+    "DescStringID": "Quest.Desc_ProceedChaosBattleField",
+    "MoveTarget": [
+      47
+    ],
+    "TitleStringID": "Quest.Title_ProceedChaosBattleField",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ProceedChaosBattleField",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 99800091,
+    "IsClientCheck": true,
+    "GoalValue": 25,
+    "DescStringID": "Quest.Desc_ClearSecretArchive",
+    "MoveTarget": [
+      46
+    ],
+    "TitleStringID": "Quest.Title_ClearSecretArchive",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "ClearSecretArchive",
     "DetailValueList": []
   },
   {

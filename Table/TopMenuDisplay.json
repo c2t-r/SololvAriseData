@@ -1213,6 +1213,21 @@
   },
   {
     "IsGuild": true,
+    "ID": 81,
+    "TopMenuPage": "BGMEncyclopedia",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 700,
     "TopMenuPage": "CostumeEncyclopedia",
     "TopMenuSubPage": "",
@@ -1619,7 +1634,7 @@
       3
     ],
     "TopMenuDisplayGroup": [
-      40000001
+      40000002
     ]
   },
   {
@@ -1664,6 +1679,34 @@
       10160195,
       10160196,
       10160197
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1032,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_26Valentain",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002206
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1033,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2580",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002206,
+      30002207
     ]
   },
   {
@@ -1785,6 +1828,19 @@
     ],
     "TopMenuDisplayGroup": [
       30003002
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2009,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "HunterEvolve",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30010015
     ]
   }
 ]

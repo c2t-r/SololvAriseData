@@ -484,11 +484,11 @@
     "ID": 102013,
     "Resettable": true,
     "EventGroupID": 10005,
-    "ResetTypeValue": 1,
+    "ResetTypeValue": 0,
     "BonusRewardGroupID": 10007,
     "OpenTime": "2025-12-01T09:00:00+09:00",
-    "EndTime": "2050-01-01T09:00:00+09:00",
-    "ResetType": "SpecificDay",
+    "EndTime": "2026-03-01T09:00:00+09:00",
+    "ResetType": "",
     "TabBonusBG": "Img_Deco_Npc"
   },
   {
@@ -565,6 +565,18 @@
   },
   {
     "DailyCountingLimit": 999,
+    "ID": 102022,
+    "Resettable": true,
+    "EventGroupID": 10005,
+    "ResetTypeValue": 1,
+    "BonusRewardGroupID": 10008,
+    "OpenTime": "2026-03-01T09:00:00+09:00",
+    "EndTime": "2050-01-01T09:00:00+09:00",
+    "ResetType": "SpecificDay",
+    "TabBonusBG": "Img_Deco_Npc"
+  },
+  {
+    "DailyCountingLimit": 999,
     "ID": 900001,
     "Resettable": true,
     "EventGroupID": 900001,
@@ -572,6 +584,42 @@
     "BonusRewardGroupID": 900001,
     "OpenTime": "2025-12-04T09:00:00+09:00",
     "EndTime": "2026-01-15T09:00:00+09:00",
+    "ResetType": "",
+    "TabBonusBG": "Img_Deco_Npc"
+  },
+  {
+    "DailyCountingLimit": 999,
+    "ID": 900002,
+    "Resettable": true,
+    "EventGroupID": 900002,
+    "ResetTypeValue": 0,
+    "BonusRewardGroupID": 900002,
+    "OpenTime": "2026-02-11T09:00:00+09:00",
+    "EndTime": "2026-03-12T09:00:00+09:00",
+    "ResetType": "",
+    "TabBonusBG": "Img_Deco_Npc"
+  },
+  {
+    "DailyCountingLimit": 999,
+    "ID": 900003,
+    "Resettable": true,
+    "EventGroupID": 39,
+    "ResetTypeValue": 0,
+    "BonusRewardGroupID": 39,
+    "OpenTime": "2026-02-11T09:00:00+09:00",
+    "EndTime": "2026-03-12T09:00:00+09:00",
+    "ResetType": "",
+    "TabBonusBG": "Img_Deco_Npc"
+  },
+  {
+    "DailyCountingLimit": 999,
+    "ID": 900004,
+    "Resettable": true,
+    "EventGroupID": 900004,
+    "ResetTypeValue": 0,
+    "BonusRewardGroupID": 900004,
+    "OpenTime": "2026-02-19T09:00:00+09:00",
+    "EndTime": "2026-03-12T09:00:00+09:00",
     "ResetType": "",
     "TabBonusBG": "Img_Deco_Npc"
   }

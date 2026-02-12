@@ -177,7 +177,7 @@
     "ValueFloat1": 0.0,
     "ValueInt1": 0,
     "ExecutionType": "ProductionIconBtnEvent",
-    "ValueString1": "Btn_Sahdow_Igri,,300,160,False,true"
+    "ValueString1": "Btn_Sahdow_Igri,,300,160,true,true"
   },
   {
     "OverLapExe": true,
@@ -268,5 +268,41 @@
     "ValueInt1": 0,
     "ExecutionType": "DimensionGate",
     "ValueString1": ""
+  },
+  {
+    "OverLapExe": true,
+    "ID": 31,
+    "ValueLong1": 0,
+    "ValueFloat1": 0.0,
+    "ValueInt1": 0,
+    "ExecutionType": "TimeProductionIconBtnEvent",
+    "ValueString1": "shadow_kingant_boss_EliteKnight,,400,-50,true,true,5,34,Shadow"
+  },
+  {
+    "OverLapExe": true,
+    "ID": 32,
+    "ValueLong1": 0,
+    "ValueFloat1": 0.0,
+    "ValueInt1": 0,
+    "ExecutionType": "TimeProductionIconBtnEvent",
+    "ValueString1": "Shadow_Iron_EliteKnight,,400,-50,true,true,5,34,Shadow"
+  },
+  {
+    "OverLapExe": true,
+    "ID": 33,
+    "ValueLong1": 0,
+    "ValueFloat1": 0.0,
+    "ValueInt1": 0,
+    "ExecutionType": "TimeProductionIconBtnEvent",
+    "ValueString1": "Shadow_Igris_EliteKnight,,400,-50,true,true,5,34,Shadow"
+  },
+  {
+    "OverLapExe": true,
+    "ID": 34,
+    "ValueLong1": 0,
+    "ValueFloat1": 0.0,
+    "ValueInt1": 0,
+    "ExecutionType": " SendEventTriggerFlag",
+    "ValueString1": "ButtonFail"
   }
 ]

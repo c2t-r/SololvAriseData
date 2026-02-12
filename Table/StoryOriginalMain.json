@@ -1002,5 +1002,59 @@
     "HunterUnlockResource": "SonKiHoon_PC",
     "ListBanner": "",
     "HunterName": "SysConstStr.ChName.SonKiHoon"
+  },
+  {
+    "SPStageMileageLink": 5210001,
+    "RewardBoostGroupID": 52101,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 38,
+    "ID": 38,
+    "OpenLevel": 0,
+    "OpenKey": 1,
+    "EventGroupID": 38,
+    "BonusRewardCap": 8000,
+    "PoinIndex": 5210001,
+    "CollabID": 0,
+    "BGResource": "Levelup_City_HunterAssociation_Loading_Img",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.MeriLaine",
+    "HunterIDs": [
+      561
+    ],
+    "HunterResource": "MeriLaine_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "PointIcon": "Img_Profile_Icon_Hunter0561",
+    "HunterUnlockResource": "MeriLaine",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.MeriLaine"
+  },
+  {
+    "SPStageMileageLink": 5310001,
+    "RewardBoostGroupID": 53101,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 39,
+    "ID": 39,
+    "OpenLevel": 0,
+    "OpenKey": 1,
+    "EventGroupID": 39,
+    "BonusRewardCap": 8000,
+    "PoinIndex": 5310001,
+    "CollabID": 0,
+    "BGResource": "Levelup_City_HunterAssociation_Loading_Img",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.MinByungGu",
+    "HunterIDs": [
+      161
+    ],
+    "HunterResource": "MinByungGu_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "PointIcon": "Img_Profile_Icon_Hunter0161",
+    "HunterUnlockResource": "MinByungGu",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.MinByungGu"
   }
 ]
