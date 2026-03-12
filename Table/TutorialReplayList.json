@@ -342,17 +342,6 @@
   },
   {
     "TutorialTabList": 5,
-    "ID": 936,
-    "GroupValue": 93601,
-    "Sort": 504,
-    "TutorialID": 936,
-    "ForcedRewardGroupID": 1001016,
-    "ContentsUnlockSync": "Advent",
-    "Display": "Always",
-    "TutorialTaskType": "WalkThroughs"
-  },
-  {
-    "TutorialTabList": 5,
     "ID": 937,
     "GroupValue": 93701,
     "Sort": 506,
@@ -370,17 +359,6 @@
     "TutorialID": 938,
     "ForcedRewardGroupID": 1001016,
     "ContentsUnlockSync": "TimeAtteck",
-    "Display": "Always",
-    "TutorialTaskType": "WalkThroughs"
-  },
-  {
-    "TutorialTabList": 5,
-    "ID": 939,
-    "GroupValue": 93901,
-    "Sort": 505,
-    "TutorialID": 939,
-    "ForcedRewardGroupID": 1001016,
-    "ContentsUnlockSync": "InstantDungeon",
     "Display": "Always",
     "TutorialTaskType": "WalkThroughs"
   },
@@ -689,6 +667,17 @@
     "TutorialID": 970,
     "ForcedRewardGroupID": 1001016,
     "ContentsUnlockSync": "HunterTrainingClass",
+    "Display": "CheckTutorial",
+    "TutorialTaskType": "WalkThroughs"
+  },
+  {
+    "TutorialTabList": 5,
+    "ID": 971,
+    "GroupValue": 97101,
+    "Sort": 504,
+    "TutorialID": 971,
+    "ForcedRewardGroupID": 1001016,
+    "ContentsUnlockSync": "ArtifactDungeon",
     "Display": "CheckTutorial",
     "TutorialTaskType": "WalkThroughs"
   },

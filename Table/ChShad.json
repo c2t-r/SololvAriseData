@@ -1984,6 +1984,76 @@
     "ShadowType": "Commander"
   },
   {
+    "PromotionMaxLevel": 2,
+    "WeaponID": 101000,
+    "CheatGain": true,
+    "CombinationCount": 100,
+    "LobbyArrangement": 9,
+    "ID": 101000,
+    "FightPlayTime": 20.0,
+    "CommonderPromotionGrade": 0,
+    "CommonderID": 0,
+    "GradeAddSkillSet04": 101000110700,
+    "GradeAddSkillSet05": 0,
+    "GradeAddSkillSet01": 0,
+    "GradeAddSkillSet02": 101000110600,
+    "GradeAddSkillSet03": 0,
+    "WeaponSkill": 101000120000,
+    "CodexDisplay": true,
+    "MaxLevel": 5,
+    "CodexDisplayTime": "",
+    "StoryImage": "Shadow_Hearth_Boss_Big",
+    "ProductionResourceName": "Shadow_Hearth_Boss_Intro",
+    "StoryDescription": [
+      "SysConstStr.Story_Shadow_Hars_Desc01",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc02",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc03",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc04",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc05",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc06",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc07",
+      "",
+      "SysConstStr.Story_Shadow_Hars_Desc08"
+    ],
+    "StringSubName": "SysConstStr.ChSubName.Shadow_Hars",
+    "BTName": "Monster AI",
+    "ShadowGrade": "Normal",
+    "SkillGroupSet": [
+      101000510100,
+      101000110200,
+      101000110300,
+      101000110400,
+      101000110500
+    ],
+    "LeaderSkill": [
+      101000000800,
+      101001000900,
+      101002001000,
+      101003001100,
+      101004001200,
+      101005001300
+    ],
+    "ShadowGuardTask": [
+      "Crime",
+      "Ordinary",
+      "Secret"
+    ],
+    "IconResourceName": "Shadow_Hearth_Boss_Portrait",
+    "AutoSupporterConditionID": [
+      7,
+      8
+    ],
+    "StringDesc": "SysConstStr.ChName.Shadow_Hars",
+    "StringName": "SysConstStr.ChName.Shadow_Hars",
+    "ShadowType": "Commander"
+  },
+  {
     "PromotionMaxLevel": 0,
     "WeaponID": 0,
     "CheatGain": true,

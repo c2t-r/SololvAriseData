@@ -222,7 +222,7 @@
     "Sort": 202,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
-    "EventLobbyGroup": 0,
+    "EventLobbyGroup": 95022,
     "CodexDisplayTime": "",
     "BGMKey": "BGM_Lobby_Spring_01",
     "BGMImgOffsetX": [
@@ -503,6 +503,30 @@
     ],
     "Artist": "Bgm_Artist_NationalGugakCenter_4",
     "MusicTitle": "Bgm_Title_Endless_Desert_Gugak",
+    "Tab": "Dungeon"
+  },
+  {
+    "ID": 500317,
+    "Sort": 311,
+    "CosDupRewardGroup": 1002002,
+    "CodexDisplay": true,
+    "EventLobbyGroup": 0,
+    "CodexDisplayTime": "",
+    "BGMKey": "BGM_Jukebox_Monarch_of_Iron_Body",
+    "BGMImgOffsetX": [
+      0
+    ],
+    "BGMThumnail": "Item_BGM_Battle_Rockpasa_01",
+    "BGMImg": [
+      "BG_BGM_Battle_Rockpasa_01"
+    ],
+    "ItemRarity": "Epic",
+    "MusicDesc": "Bgm_Desc_Monarch_of_Iron_Body",
+    "LinkMoveTarget": [
+      1084
+    ],
+    "Artist": "Bgm_Artist_SoundTeam",
+    "MusicTitle": "Bgm_Title_Monarch_of_Iron_Body",
     "Tab": "Dungeon"
   }
 ]

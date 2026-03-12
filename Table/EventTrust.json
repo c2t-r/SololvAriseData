@@ -3,6 +3,7 @@
     "CharHunterIDDialog": 930001,
     "ID": 2015011,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 10160160,
     "CharHunterID": 421,
     "ActionCoolTime": 86400,
@@ -28,6 +29,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_IDLE2",
+    "DiaryEmptyString": "",
     "CharImgMain": "Miyeon_Portrait_body",
     "EventItemFavorite": [
       10160171,
@@ -39,6 +41,7 @@
     "CharHunterIDDialog": 930004,
     "ID": 2015012,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 10160160,
     "CharHunterID": 451,
     "ActionCoolTime": 86400,
@@ -64,6 +67,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_IDLE2",
+    "DiaryEmptyString": "",
     "CharImgMain": "Minnie_Portrait_body",
     "EventItemFavorite": [
       10160172,
@@ -75,6 +79,7 @@
     "CharHunterIDDialog": 930003,
     "ID": 2015013,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 10160160,
     "CharHunterID": 461,
     "ActionCoolTime": 86400,
@@ -100,6 +105,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_IDLE2",
+    "DiaryEmptyString": "",
     "CharImgMain": "Soyeon_Portrait_body",
     "EventItemFavorite": [
       10160173,
@@ -111,6 +117,7 @@
     "CharHunterIDDialog": 930005,
     "ID": 2015014,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 10160160,
     "CharHunterID": 471,
     "ActionCoolTime": 86400,
@@ -136,6 +143,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_IDLE2",
+    "DiaryEmptyString": "",
     "CharImgMain": "Yuqi_Portrait_body",
     "EventItemFavorite": [
       10160174,
@@ -147,6 +155,7 @@
     "CharHunterIDDialog": 930002,
     "ID": 2015015,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 10160160,
     "CharHunterID": 431,
     "ActionCoolTime": 86400,
@@ -172,6 +181,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_IDLE2",
+    "DiaryEmptyString": "",
     "CharImgMain": "Shuhua_Portrait_body",
     "EventItemFavorite": [
       10160175,
@@ -183,6 +193,7 @@
     "CharHunterIDDialog": 930029,
     "ID": 2017011,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 0,
     "CharHunterID": 501,
     "ActionCoolTime": 86400,
@@ -204,6 +215,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_FRR",
+    "DiaryEmptyString": "",
     "CharImgMain": "Fern_Portrait_body",
     "EventItemFavorite": [
       10160191,
@@ -215,6 +227,7 @@
     "CharHunterIDDialog": 930028,
     "ID": 2017012,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 0,
     "CharHunterID": 491,
     "ActionCoolTime": 86400,
@@ -236,6 +249,7 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_FRR",
+    "DiaryEmptyString": "",
     "CharImgMain": "Frieren_Portrait_body",
     "EventItemFavorite": [
       10160190,
@@ -247,6 +261,7 @@
     "CharHunterIDDialog": 930030,
     "ID": 2017013,
     "ActionPoint": 20,
+    "CharHunterCostume": 0,
     "ItemIllustMain": 0,
     "CharHunterID": 511,
     "ActionCoolTime": 86400,
@@ -268,11 +283,114 @@
       8
     ],
     "StringMissionName": "Event.Trust.Mission.Title_FRR",
+    "DiaryEmptyString": "",
     "CharImgMain": "Stark_Portrait_body",
     "EventItemFavorite": [
       10160192,
       10160193
     ],
     "StringCharName": "SysConstStr.ChName.Stark_FRR"
+  },
+  {
+    "CharHunterIDDialog": 910692,
+    "ID": 2022021,
+    "ActionPoint": 20,
+    "CharHunterCostume": 581003,
+    "ItemIllustMain": 30002220,
+    "CharHunterID": 381,
+    "ActionCoolTime": 86400,
+    "EventID": 202202,
+    "TrustPointImg": "Img_Event_Trust_Point_01",
+    "CharDialogSetting": "{\"narrow\":{\"aspect\":1.33398438,\"left\":{\"position\":{\"x\":-0.5,\"y\":-1.24700654,\"z\":3.19199967},\"rotation\":{\"x\":2.78013849,\"y\":172.997116,\"z\":-0.341369629},\"scale\":{\"x\":1.00000048,\"y\":1.0,\"z\":1.00000012},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.0059829,\"y\":-1.55219,\"z\":2.480194},\"rotation\":{\"x\":2.80099773,\"y\":179.949951,\"z\":-0.00244588871},\"scale\":{\"x\":1.00000036,\"y\":1.0,\"z\":1.00000036},\"dataState\":1},\"right\":{\"position\":{\"x\":0.364,\"y\":-1.55219424,\"z\":2.48010445},\"rotation\":{\"x\":2.468838,\"y\":-151.794327,\"z\":1.32344937},\"scale\":{\"x\":0.99999994,\"y\":1.0,\"z\":1.00000012},\"dataState\":1}},\"normal\":{\"aspect\":1.77777779,\"left\":{\"position\":{\"x\":-0.67,\"y\":-1.222003,\"z\":3.18299961},\"rotation\":{\"x\":2.77976656,\"y\":172.996826,\"z\":-0.3413086},\"scale\":{\"x\":1.00000012,\"y\":0.99999994,\"z\":1.00000012},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.00500544766,\"y\":-1.572188,\"z\":2.07129335},\"rotation\":{\"x\":2.80047822,\"y\":-178.894455,\"z\":0.05402169},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.00000012},\"dataState\":1},\"right\":{\"position\":{\"x\":0.441,\"y\":-1.57219815,\"z\":2.071085},\"rotation\":{\"x\":2.30321312,\"y\":-145.292572,\"z\":1.59442055},\"scale\":{\"x\":1.00000024,\"y\":1.0,\"z\":1.00000036},\"dataState\":1}},\"wide\":{\"aspect\":2.16666675,\"left\":{\"position\":{\"x\":-0.76014924,\"y\":-1.19700134,\"z\":3.31899929},\"rotation\":{\"x\":2.7806046,\"y\":172.997482,\"z\":-0.341461182},\"scale\":{\"x\":1.00000012,\"y\":0.9999993,\"z\":0.99999845},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.004257335,\"y\":-1.58818471,\"z\":1.95229232},\"rotation\":{\"x\":2.800031,\"y\":178.492447,\"z\":-0.07366943},\"scale\":{\"x\":1.00000048,\"y\":1.0,\"z\":1.000001},\"dataState\":1},\"right\":{\"position\":{\"x\":0.501,\"y\":-1.58821189,\"z\":1.95173693},\"rotation\":{\"x\":2.20302343,\"y\":-141.838684,\"z\":1.730248},\"scale\":{\"x\":1.00000036,\"y\":1.0,\"z\":1.0000006},\"dataState\":1}}}",
+    "StringAction": "",
+    "BGImgSub": "BG_Event_Trust_Sub_26Spring_01",
+    "EventItemID": [
+      30002210,
+      30002211,
+      30002212,
+      30002213
+    ],
+    "EventItemPoint": [
+      8,
+      2,
+      2,
+      8
+    ],
+    "StringMissionName": "Event.Trust.Mission.Title_26Spring",
+    "DiaryEmptyString": "Event.Trust.DiaryPopup.NoDiary.26Spring",
+    "CharImgMain": "TawataKanaeSkinEpicCroppedJacket_Portrait_Body",
+    "EventItemFavorite": [
+      30002210,
+      30002213
+    ],
+    "StringCharName": "SysConstStr.ChName.TawataKanae"
+  },
+  {
+    "CharHunterIDDialog": 910689,
+    "ID": 2022022,
+    "ActionPoint": 20,
+    "CharHunterCostume": 0,
+    "ItemIllustMain": 30002220,
+    "CharHunterID": 571,
+    "ActionCoolTime": 86400,
+    "EventID": 202202,
+    "TrustPointImg": "Img_Event_Trust_Point_01",
+    "CharDialogSetting": "{\"narrow\":{\"aspect\":1.33398438,\"left\":{\"position\":{\"x\":-0.5,\"y\":-1.35400677,\"z\":3.19699979},\"rotation\":{\"x\":2.78013849,\"y\":172.997116,\"z\":-0.341369629},\"scale\":{\"x\":1.00000048,\"y\":1.0,\"z\":1.00000012},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.0059829,\"y\":-1.55219,\"z\":2.480194},\"rotation\":{\"x\":2.80099773,\"y\":179.949951,\"z\":-0.00244588871},\"scale\":{\"x\":1.00000036,\"y\":1.0,\"z\":1.00000036},\"dataState\":2},\"right\":{\"position\":{\"x\":0.364,\"y\":-1.55219424,\"z\":2.48010445},\"rotation\":{\"x\":2.468838,\"y\":-151.794327,\"z\":1.32344937},\"scale\":{\"x\":0.99999994,\"y\":1.0,\"z\":1.00000012},\"dataState\":2}},\"normal\":{\"aspect\":1.77777779,\"left\":{\"position\":{\"x\":-0.67,\"y\":-1.38600779,\"z\":3.19099975},\"rotation\":{\"x\":2.77976656,\"y\":172.996826,\"z\":-0.3413086},\"scale\":{\"x\":1.00000012,\"y\":0.99999994,\"z\":1.00000012},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.00500544766,\"y\":-1.572188,\"z\":2.07129335},\"rotation\":{\"x\":2.80047822,\"y\":-178.894455,\"z\":0.05402169},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.00000012},\"dataState\":2},\"right\":{\"position\":{\"x\":0.441,\"y\":-1.57219815,\"z\":2.071085},\"rotation\":{\"x\":2.30321312,\"y\":-145.292572,\"z\":1.59442055},\"scale\":{\"x\":1.00000024,\"y\":1.0,\"z\":1.00000036},\"dataState\":2}},\"wide\":{\"aspect\":2.16666675,\"left\":{\"position\":{\"x\":-0.76014924,\"y\":-1.36400056,\"z\":3.32699919},\"rotation\":{\"x\":2.7806046,\"y\":172.997482,\"z\":-0.341461182},\"scale\":{\"x\":1.00000012,\"y\":0.9999993,\"z\":0.99999845},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.004257335,\"y\":-1.58818471,\"z\":1.95229232},\"rotation\":{\"x\":2.800031,\"y\":178.492447,\"z\":-0.07366943},\"scale\":{\"x\":1.00000048,\"y\":1.0,\"z\":1.000001},\"dataState\":2},\"right\":{\"position\":{\"x\":0.501,\"y\":-1.58821189,\"z\":1.95173693},\"rotation\":{\"x\":2.20302343,\"y\":-141.838684,\"z\":1.730248},\"scale\":{\"x\":1.00000036,\"y\":1.0,\"z\":1.0000006},\"dataState\":2}}}",
+    "StringAction": "",
+    "BGImgSub": "BG_Event_Trust_Sub_26Spring_02",
+    "EventItemID": [
+      30002210,
+      30002211,
+      30002212,
+      30002213
+    ],
+    "EventItemPoint": [
+      2,
+      8,
+      2,
+      8
+    ],
+    "StringMissionName": "Event.Trust.Mission.Title_26Spring",
+    "DiaryEmptyString": "Event.Trust.DiaryPopup.NoDiary.26Spring",
+    "CharImgMain": "SugimotoReiji_Portrait_Body",
+    "EventItemFavorite": [
+      30002211,
+      30002213
+    ],
+    "StringCharName": "SysConstStr.ChName.SugimotoReiji"
+  },
+  {
+    "CharHunterIDDialog": 910691,
+    "ID": 2022023,
+    "ActionPoint": 20,
+    "CharHunterCostume": 561002,
+    "ItemIllustMain": 30002220,
+    "CharHunterID": 361,
+    "ActionCoolTime": 86400,
+    "EventID": 202202,
+    "TrustPointImg": "Img_Event_Trust_Point_01",
+    "CharDialogSetting": "{\"narrow\":{\"aspect\":1.33398438,\"left\":{\"position\":{\"x\":-0.5,\"y\":-1.27400565,\"z\":3.19299984},\"rotation\":{\"x\":2.78013849,\"y\":172.997116,\"z\":-0.341369629},\"scale\":{\"x\":1.00000048,\"y\":1.0,\"z\":1.00000012},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.0059829,\"y\":-1.55219,\"z\":2.480194},\"rotation\":{\"x\":2.80099773,\"y\":179.949951,\"z\":-0.00244588871},\"scale\":{\"x\":1.00000036,\"y\":1.0,\"z\":1.00000036},\"dataState\":1},\"right\":{\"position\":{\"x\":0.364,\"y\":-1.55219424,\"z\":2.48010445},\"rotation\":{\"x\":2.468838,\"y\":-151.794327,\"z\":1.32344937},\"scale\":{\"x\":0.99999994,\"y\":1.0,\"z\":1.00000012},\"dataState\":1}},\"normal\":{\"aspect\":1.77777779,\"left\":{\"position\":{\"x\":-0.67,\"y\":-1.2270062,\"z\":3.18299985},\"rotation\":{\"x\":2.77976656,\"y\":172.996826,\"z\":-0.3413086},\"scale\":{\"x\":1.00000012,\"y\":0.99999994,\"z\":1.00000012},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.00500544766,\"y\":-1.572188,\"z\":2.07129335},\"rotation\":{\"x\":2.80047822,\"y\":-178.894455,\"z\":0.05402169},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.00000012},\"dataState\":1},\"right\":{\"position\":{\"x\":0.441,\"y\":-1.57219815,\"z\":2.071085},\"rotation\":{\"x\":2.30321312,\"y\":-145.292572,\"z\":1.59442055},\"scale\":{\"x\":1.00000024,\"y\":1.0,\"z\":1.00000036},\"dataState\":1}},\"wide\":{\"aspect\":2.16666675,\"left\":{\"position\":{\"x\":-0.76014924,\"y\":-1.21800423,\"z\":3.31999946},\"rotation\":{\"x\":2.78013921,\"y\":172.9975,\"z\":-0.3413391},\"scale\":{\"x\":1.00000024,\"y\":0.9999993,\"z\":0.9999985},\"dataState\":2},\"center\":{\"position\":{\"x\":-0.004257335,\"y\":-1.58818471,\"z\":1.95229232},\"rotation\":{\"x\":2.800031,\"y\":178.492447,\"z\":-0.07366943},\"scale\":{\"x\":1.00000048,\"y\":1.0,\"z\":1.000001},\"dataState\":1},\"right\":{\"position\":{\"x\":0.501,\"y\":-1.58821189,\"z\":1.95173693},\"rotation\":{\"x\":2.20302343,\"y\":-141.838684,\"z\":1.730248},\"scale\":{\"x\":1.00000036,\"y\":1.0,\"z\":1.0000006},\"dataState\":1}}}",
+    "StringAction": "",
+    "BGImgSub": "BG_Event_Trust_Sub_26Spring_03",
+    "EventItemID": [
+      30002210,
+      30002211,
+      30002212,
+      30002213
+    ],
+    "EventItemPoint": [
+      2,
+      2,
+      8,
+      8
+    ],
+    "StringMissionName": "Event.Trust.Mission.Title_26Spring",
+    "DiaryEmptyString": "Event.Trust.DiaryPopup.NoDiary.26Spring",
+    "CharImgMain": "ShimizuAkariSkinEpicSportsWear_Portrait_Body",
+    "EventItemFavorite": [
+      30002212,
+      30002213
+    ],
+    "StringCharName": "SysConstStr.ChName.ShimizuAkari"
   }
 ]

@@ -620,7 +620,7 @@
     "HotTimeStringName": ""
   },
   {
-    "HotTimeEffectValue": 9,
+    "HotTimeEffectValue": 3,
     "DuplicationType": true,
     "PackageGroup": true,
     "HotTimeRootGroup": 0,
@@ -633,7 +633,7 @@
     "DisplayOrder": 5,
     "HotTimeIcon": "HotTime_Monthly_MultiplePlay",
     "HotTimeEffect": "MultiplePlay",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1316,7 +1316,7 @@
     "DisplayOrder": 1,
     "HotTimeIcon": "HotTime_ArtifactDropUP01",
     "HotTimeEffect": "RewardExtraAdd",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1329,38 +1329,7 @@
     "ContentsMoveTarget": [
       40
     ],
-    "HotTimeDescString": "Event.HotTime.StringDesc.Advent_ArtifactUp",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": ""
-  },
-  {
-    "HotTimeEffectValue": 1,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 3000005,
-    "HotTimeGroupID": 3000005,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 30005,
-    "StringOverlap": true,
-    "DisplayOrder": 1,
-    "HotTimeIcon": "HotTime_ArtifactDropUP01",
-    "HotTimeEffect": "RewardExtraAdd",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "HotTime",
-    "ContentsMoveTarget": [
-      9
-    ],
-    "HotTimeDescString": "Event.HotTime.StringDesc.Instant_ArtifactUp",
+    "HotTimeDescString": "Event.HotTime.StringDesc.ArtifactDungeon_ArtifactUp",
     "HotTimeEffectFocus": [],
     "HotTimeStringName": ""
   },
@@ -1409,7 +1378,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "Subscribe_Benefits_1",
     "HotTimeEffect": "AddMaxCount",
-    "HotTimeContents": "InstantDungeon",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1657,38 +1626,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000003,
-    "HotTimeGroupID": 500002,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1750,38 +1688,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000006,
-    "HotTimeGroupID": 500004,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1812,38 +1719,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000008,
-    "HotTimeGroupID": 500005,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1905,38 +1781,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000011,
-    "HotTimeGroupID": 500007,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -1998,38 +1843,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000014,
-    "HotTimeGroupID": 500009,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -2091,38 +1905,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000017,
-    "HotTimeGroupID": 500011,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -2184,38 +1967,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000020,
-    "HotTimeGroupID": 500013,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -2277,38 +2029,7 @@
     "DisplayOrder": 0,
     "HotTimeIcon": "HotTime_DungeonMileageBuff",
     "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "InstantDungeon",
-    "Class4": [],
-    "Class3": [],
-    "Class2": [
-      0
-    ],
-    "Class1": [
-      0
-    ],
-    "HotTimeType": "SeasonPass",
-    "ContentsMoveTarget": [
-      0
-    ],
-    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
-    "HotTimeEffectFocus": [],
-    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
-  },
-  {
-    "HotTimeEffectValue": 3,
-    "DuplicationType": true,
-    "PackageGroup": true,
-    "HotTimeRootGroup": 0,
-    "ID": 5000023,
-    "HotTimeGroupID": 500015,
-    "Unused": true,
-    "CommonBuffID": 0,
-    "HotTimeTargetGroup": 0,
-    "StringOverlap": true,
-    "DisplayOrder": 0,
-    "HotTimeIcon": "HotTime_DungeonMileageBuff",
-    "HotTimeEffect": "AddMileageRate",
-    "HotTimeContents": "Advent",
+    "HotTimeContents": "ArtifactDungeon",
     "Class4": [],
     "Class3": [],
     "Class2": [
@@ -2332,6 +2053,68 @@
     "HotTimeRootGroup": 0,
     "ID": 5000024,
     "HotTimeGroupID": 500016,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000025,
+    "HotTimeGroupID": 500017,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "ArtifactDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000026,
+    "HotTimeGroupID": 500018,
     "Unused": true,
     "CommonBuffID": 0,
     "HotTimeTargetGroup": 0,

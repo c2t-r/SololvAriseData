@@ -8575,5 +8575,194 @@
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "Cyclops_Boss_Intro_A",
     "Type": "Intro"
+  },
+  {
+    "ID": 954,
+    "UseSkip": true,
+    "GroupID": 271801,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "GotoRyuji_Boss_Intro",
+    "Type": "Intro"
+  },
+  {
+    "ID": 955,
+    "UseSkip": true,
+    "GroupID": 20301,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Manticore_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 956,
+    "UseSkip": true,
+    "GroupID": 272501,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThomasAndre_Boss_Intro",
+    "Type": "Intro"
+  },
+  {
+    "ID": 957,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 958,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 959,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 960,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 961,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 962,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 963,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 964,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 965,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 966,
+    "UseSkip": true,
+    "GroupID": 581,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "MeriLaine_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 1001,
+    "UseSkip": true,
+    "GroupID": 22301,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Instructor_Hyun_Boss_Intro_Master",
+    "Type": "Intro"
+  },
+  {
+    "ID": 968,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_Spawn_Skill_Out",
+    "Type": "ShadowOut"
+  },
+  {
+    "ID": 969,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 970,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_Evolve_Start",
+    "Type": "EvolveStart"
+  },
+  {
+    "ID": 971,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_Evolve_End",
+    "Type": "EvolveEnd"
+  },
+  {
+    "ID": 972,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 973,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 974,
+    "UseSkip": true,
+    "GroupID": 101000,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Hearth_Boss_LobbyIdle",
+    "Type": "LobbySpawn"
   }
 ]

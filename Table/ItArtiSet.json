@@ -1725,14 +1725,191 @@
     "Sort": 1088,
     "AddBattlePowerR": 0.04500000178813934,
     "Condition": 2,
-    "Name": "ArtifactSet.Name.Event.Accessories_FRR",
+    "Name": "BuffName.ChaosStigma",
     "PassiveBuff": [
       64003078,
       64003079,
       64003080
     ],
-    "SetBannerResource": "Img_Artifact_Set_ChaosStigma",
-    "SetIcon": "Artifact_Equipments_Armor_Stigma",
-    "SetBannerName": "BuffName.ChaosStigma"
+    "SetBannerResource": "Img_Artifact_Set_Toughness",
+    "SetIcon": "Artifact_Armor_Common_Light_9",
+    "SetBannerName": "SysConstStr.ArtifactPage.Artifact"
+  },
+  {
+    "ArtifactSetID": 512,
+    "ID": 51202,
+    "AddBattlePower": 0,
+    "Sort": 1088,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "BuffName.ChaosStigma",
+    "PassiveBuff": [
+      64003085,
+      64003086,
+      64003087,
+      64003090
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Toughness",
+    "SetIcon": "Artifact_Armor_Common_Light_9",
+    "SetBannerName": "SysConstStr.ArtifactPage.Artifact"
+  },
+  {
+    "ArtifactSetID": 512,
+    "ID": 51203,
+    "AddBattlePower": 0,
+    "Sort": 1088,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "BuffName.ChaosStigma",
+    "PassiveBuff": [
+      64003095,
+      64003096,
+      64003097,
+      64003103,
+      64003106
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Toughness",
+    "SetIcon": "Artifact_Armor_Common_Light_9",
+    "SetBannerName": "SysConstStr.ArtifactPage.Artifact"
+  },
+  {
+    "ArtifactSetID": 701,
+    "ID": 70101,
+    "AddBattlePower": 0,
+    "Sort": 4011,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Equipments_Architect",
+    "PassiveBuff": [
+      64003202
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Architect",
+    "SetIcon": "Artifact_Equipments_Armor_Architect",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Architect"
+  },
+  {
+    "ArtifactSetID": 701,
+    "ID": 70102,
+    "AddBattlePower": 0,
+    "Sort": 4011,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "ArtifactSet.Name.Equipments_Architect",
+    "PassiveBuff": [
+      64003204,
+      64003206,
+      64003207
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Architect",
+    "SetIcon": "Artifact_Equipments_Armor_Architect",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Architect"
+  },
+  {
+    "ArtifactSetID": 702,
+    "ID": 70201,
+    "AddBattlePower": 0,
+    "Sort": 4010,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Equipments_Valtair",
+    "PassiveBuff": [
+      64003209
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Valtair",
+    "SetIcon": "Artifact_Equipments_Armor_Valtair",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Valtair"
+  },
+  {
+    "ArtifactSetID": 702,
+    "ID": 70202,
+    "AddBattlePower": 0,
+    "Sort": 4010,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "ArtifactSet.Name.Equipments_Valtair",
+    "PassiveBuff": [
+      64003211,
+      64003213,
+      64003214,
+      64003216,
+      64003217
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Valtair",
+    "SetIcon": "Artifact_Equipments_Armor_Valtair",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Valtair"
+  },
+  {
+    "ArtifactSetID": 703,
+    "ID": 70301,
+    "AddBattlePower": 0,
+    "Sort": 4009,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Equipments_Rockpasa",
+    "PassiveBuff": [
+      64003228,
+      64003229,
+      64003231,
+      64003232
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Rockpasa",
+    "SetIcon": "Artifact_Equipments_Armor_Rockpasa",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Rockpasa"
+  },
+  {
+    "ArtifactSetID": 703,
+    "ID": 70302,
+    "AddBattlePower": 0,
+    "Sort": 4009,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "ArtifactSet.Name.Equipments_Rockpasa",
+    "PassiveBuff": [
+      64003234,
+      64003235,
+      64003237,
+      64003238,
+      64003241,
+      64003242,
+      64003244,
+      64003245
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Rockpasa",
+    "SetIcon": "Artifact_Equipments_Armor_Rockpasa",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Rockpasa"
+  },
+  {
+    "ArtifactSetID": 704,
+    "ID": 70401,
+    "AddBattlePower": 0,
+    "Sort": 4008,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Equipments_Kamish",
+    "PassiveBuff": [
+      64003219,
+      64003221
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Kamish",
+    "SetIcon": "Artifact_Equipments_Armor_Kamish",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Kamish"
+  },
+  {
+    "ArtifactSetID": 704,
+    "ID": 70402,
+    "AddBattlePower": 0,
+    "Sort": 4008,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "ArtifactSet.Name.Equipments_Kamish",
+    "PassiveBuff": [
+      64003222,
+      64003224,
+      64003225,
+      64003226
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Kamish",
+    "SetIcon": "Artifact_Equipments_Armor_Kamish",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Kamish"
   }
 ]

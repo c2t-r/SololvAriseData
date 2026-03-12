@@ -9795,6 +9795,36 @@
     "AchievementGrade": "Gold"
   },
   {
+    "SortOrder": 105,
+    "AchievementDisplay": true,
+    "ID": 5065001,
+    "AchievementAvailable": true,
+    "QuestTaskID": 5065001,
+    "AchievementGroupStep": 1,
+    "AchievementGroupID": 5065000,
+    "RewardGroupID": 52080010,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 5065001,
+    "AchievementType": "Collect",
+    "AchievementGrade": "Gold"
+  },
+  {
+    "SortOrder": 105,
+    "AchievementDisplay": true,
+    "ID": 5065002,
+    "AchievementAvailable": true,
+    "QuestTaskID": 5065002,
+    "AchievementGroupStep": 2,
+    "AchievementGroupID": 5065000,
+    "RewardGroupID": 52080020,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 5065002,
+    "AchievementType": "Collect",
+    "AchievementGrade": "Gold"
+  },
+  {
     "SortOrder": 1,
     "AchievementDisplay": true,
     "ID": 3001001,
@@ -24570,6 +24600,21 @@
     "AchievementGrade": "Silver"
   },
   {
+    "SortOrder": 21,
+    "AchievementDisplay": true,
+    "ID": 4024003,
+    "AchievementAvailable": true,
+    "QuestTaskID": 4024003,
+    "AchievementGroupStep": 3,
+    "AchievementGroupID": 4024000,
+    "RewardGroupID": 54024030,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 4024003,
+    "AchievementType": "Dungeon",
+    "AchievementGrade": "Gold"
+  },
+  {
     "SortOrder": 1,
     "AchievementDisplay": true,
     "ID": 6001001,
@@ -36311,6 +36356,21 @@
     "AchievementAutoClear": true,
     "CollabID": 0,
     "ClearCheckID": 7000091,
+    "AchievementType": "Dungeon",
+    "AchievementGrade": "Bronze"
+  },
+  {
+    "SortOrder": 710,
+    "AchievementDisplay": true,
+    "ID": 7000101,
+    "AchievementAvailable": true,
+    "QuestTaskID": 99800101,
+    "AchievementGroupStep": 1,
+    "AchievementGroupID": 700010,
+    "RewardGroupID": 921000018,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 7000101,
     "AchievementType": "Dungeon",
     "AchievementGrade": "Bronze"
   }

@@ -2182,7 +2182,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 28500,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1143,
@@ -2273,5 +2273,37 @@
     "SpawnSpot": "BGMEncyclopedia_Spawn",
     "IdleMotion": [],
     "NpcType": "Menu"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 86,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 29000,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1145,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 581,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-04-02T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [],
+    "PickSpawnEnd": "",
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_ElenaRenaud_Stand_01"
+    ],
+    "NpcType": "Dialog"
   }
 ]

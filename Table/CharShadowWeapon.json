@@ -1934,5 +1934,153 @@
     ],
     "SubStatType2": "Precision",
     "SubStatType1": "AddAtt"
+  },
+  {
+    "WeaponID": 101000,
+    "SubStatValue1": 400,
+    "SubStatValue2": 500,
+    "ID": 10100001,
+    "GoldValue": 20000,
+    "AddBattlePower": 0,
+    "Evolve": 0,
+    "AddBattlePowerR": 0.009999999776482582,
+    "Name": "ShadowWeaponName.101000",
+    "PassiveBuffId": [
+      1000733701
+    ],
+    "MaterialID": [
+      10080008
+    ],
+    "ResourceName": "GSWeapon_OrcGreatSword",
+    "MaterialCount": [
+      20
+    ],
+    "SubStatType2": "Precision",
+    "SubStatType1": "AddAtt"
+  },
+  {
+    "WeaponID": 101000,
+    "SubStatValue1": 800,
+    "SubStatValue2": 1000,
+    "ID": 10100002,
+    "GoldValue": 25000,
+    "AddBattlePower": 0,
+    "Evolve": 1,
+    "AddBattlePowerR": 0.019999999552965164,
+    "Name": "",
+    "PassiveBuffId": [
+      1000733702
+    ],
+    "MaterialID": [
+      10080009,
+      10080008
+    ],
+    "ResourceName": "",
+    "MaterialCount": [
+      5,
+      5
+    ],
+    "SubStatType2": "Precision",
+    "SubStatType1": "AddAtt"
+  },
+  {
+    "WeaponID": 101000,
+    "SubStatValue1": 1200,
+    "SubStatValue2": 1500,
+    "ID": 10100003,
+    "GoldValue": 30000,
+    "AddBattlePower": 0,
+    "Evolve": 2,
+    "AddBattlePowerR": 0.029999999329447746,
+    "Name": "",
+    "PassiveBuffId": [
+      1000733703
+    ],
+    "MaterialID": [
+      10080009,
+      10080008
+    ],
+    "ResourceName": "",
+    "MaterialCount": [
+      10,
+      5
+    ],
+    "SubStatType2": "Precision",
+    "SubStatType1": "AddAtt"
+  },
+  {
+    "WeaponID": 101000,
+    "SubStatValue1": 1600,
+    "SubStatValue2": 2000,
+    "ID": 10100004,
+    "GoldValue": 45000,
+    "AddBattlePower": 0,
+    "Evolve": 3,
+    "AddBattlePowerR": 0.03999999910593033,
+    "Name": "",
+    "PassiveBuffId": [
+      1000733704
+    ],
+    "MaterialID": [
+      10080009,
+      10080008
+    ],
+    "ResourceName": "",
+    "MaterialCount": [
+      20,
+      10
+    ],
+    "SubStatType2": "Precision",
+    "SubStatType1": "AddAtt"
+  },
+  {
+    "WeaponID": 101000,
+    "SubStatValue1": 2000,
+    "SubStatValue2": 2500,
+    "ID": 10100005,
+    "GoldValue": 70000,
+    "AddBattlePower": 0,
+    "Evolve": 4,
+    "AddBattlePowerR": 0.05000000074505806,
+    "Name": "",
+    "PassiveBuffId": [
+      1000733705
+    ],
+    "MaterialID": [
+      10080009,
+      10080008
+    ],
+    "ResourceName": "",
+    "MaterialCount": [
+      25,
+      10
+    ],
+    "SubStatType2": "Precision",
+    "SubStatType1": "AddAtt"
+  },
+  {
+    "WeaponID": 101000,
+    "SubStatValue1": 2400,
+    "SubStatValue2": 3000,
+    "ID": 10100006,
+    "GoldValue": 100000,
+    "AddBattlePower": 0,
+    "Evolve": 5,
+    "AddBattlePowerR": 0.05999999865889549,
+    "Name": "",
+    "PassiveBuffId": [
+      1000733706
+    ],
+    "MaterialID": [
+      10080009,
+      10080008
+    ],
+    "ResourceName": "",
+    "MaterialCount": [
+      35,
+      20
+    ],
+    "SubStatType2": "Precision",
+    "SubStatType1": "AddAtt"
   }
 ]

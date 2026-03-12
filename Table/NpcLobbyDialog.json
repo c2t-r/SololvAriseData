@@ -41123,11 +41123,11 @@
   {
     "SortOrder": 1,
     "ID": 3453,
-    "DialogGroupID": 4500,
+    "DialogGroupID": 4501,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char571.Dialog001",
+    "DialogTag": "LobbyNPC.Char571.Dialog007",
     "DialogFacial": "",
     "DialogSound": [
       "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
@@ -41137,47 +41137,33 @@
   {
     "SortOrder": 2,
     "ID": 3454,
-    "DialogGroupID": 4500,
-    "ReactionDialog": "",
+    "DialogGroupID": 4501,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction001",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char571.Dialog002",
+    "DialogTag": "LobbyNPC.Char571.Dialog008",
     "DialogFacial": "",
     "DialogSound": []
   },
   {
-    "SortOrder": 1,
+    "SortOrder": 3,
     "ID": 3455,
-    "DialogGroupID": 4598,
-    "ReactionDialog": "",
+    "DialogGroupID": 4501,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction002",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char571.Dialog003",
-    "DialogFacial": "",
-    "DialogSound": [
-      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
-      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
-    ]
-  },
-  {
-    "SortOrder": 2,
-    "ID": 3456,
-    "DialogGroupID": 4598,
-    "ReactionDialog": "",
-    "DialogEmoticon": "",
-    "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char571.Dialog004",
+    "DialogTag": "LobbyNPC.Char571.Dialog009",
     "DialogFacial": "",
     "DialogSound": []
   },
   {
     "SortOrder": 1,
-    "ID": 3457,
-    "DialogGroupID": 4599,
+    "ID": 3456,
+    "DialogGroupID": 4502,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char571.Dialog005",
+    "DialogTag": "LobbyNPC.Char571.Dialog010",
     "DialogFacial": "",
     "DialogSound": [
       "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
@@ -41186,12 +41172,964 @@
   },
   {
     "SortOrder": 2,
-    "ID": 3458,
-    "DialogGroupID": 4599,
+    "ID": 3457,
+    "DialogGroupID": 4502,
     "ReactionDialog": "",
     "DialogEmoticon": "",
     "DialogMotion": "",
-    "DialogTag": "LobbyNPC.Char571.Dialog006",
+    "DialogTag": "LobbyNPC.Char571.Dialog011",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3458,
+    "DialogGroupID": 4503,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction003",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog012",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3459,
+    "DialogGroupID": 4503,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction004",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog013",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3460,
+    "DialogGroupID": 4504,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction005",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog014",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3461,
+    "DialogGroupID": 4504,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog015",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3462,
+    "DialogGroupID": 4505,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction006",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog016",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3463,
+    "DialogGroupID": 4505,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog017",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3464,
+    "DialogGroupID": 4505,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog018",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3465,
+    "DialogGroupID": 4506,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction007",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog019",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3466,
+    "DialogGroupID": 4506,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction008",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog020",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3467,
+    "DialogGroupID": 4506,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction009",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog021",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3468,
+    "DialogGroupID": 4507,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog022",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3469,
+    "DialogGroupID": 4507,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction010",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog023",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3470,
+    "DialogGroupID": 4507,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog024",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3471,
+    "DialogGroupID": 4508,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction011",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog025",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3472,
+    "DialogGroupID": 4508,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog026",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3473,
+    "DialogGroupID": 4508,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog027",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3474,
+    "DialogGroupID": 4509,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction012",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog028",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3475,
+    "DialogGroupID": 4509,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog029",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3476,
+    "DialogGroupID": 4509,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog030",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3477,
+    "DialogGroupID": 4510,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog031",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3478,
+    "DialogGroupID": 4510,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction013",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog032",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3479,
+    "DialogGroupID": 4511,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction014",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog033",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3480,
+    "DialogGroupID": 4511,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog034",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3481,
+    "DialogGroupID": 4511,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction015",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog035",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3482,
+    "DialogGroupID": 4511,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog036",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3483,
+    "DialogGroupID": 4512,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction016",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog037",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3484,
+    "DialogGroupID": 4512,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog038",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3485,
+    "DialogGroupID": 4512,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog039",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3486,
+    "DialogGroupID": 4512,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction017",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog040",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3487,
+    "DialogGroupID": 4513,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction018",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog041",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3488,
+    "DialogGroupID": 4513,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog042",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3489,
+    "DialogGroupID": 4513,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog043",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3490,
+    "DialogGroupID": 4513,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction019",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog044",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3491,
+    "DialogGroupID": 4514,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog045",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3492,
+    "DialogGroupID": 4514,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction020",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog046",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3493,
+    "DialogGroupID": 4514,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog047",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3494,
+    "DialogGroupID": 4514,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction021",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog048",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3495,
+    "DialogGroupID": 4515,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction022",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog049",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3496,
+    "DialogGroupID": 4515,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction023",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog050",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3497,
+    "DialogGroupID": 4515,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction024",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog051",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3498,
+    "DialogGroupID": 4515,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog052",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3499,
+    "DialogGroupID": 4516,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction025",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog053",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3500,
+    "DialogGroupID": 4516,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog054",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3501,
+    "DialogGroupID": 4516,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction026",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog055",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3502,
+    "DialogGroupID": 4516,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction027",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog056",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3503,
+    "DialogGroupID": 4517,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog057",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3504,
+    "DialogGroupID": 4517,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog058",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3505,
+    "DialogGroupID": 4517,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction028",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog059",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3506,
+    "DialogGroupID": 4517,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog060",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3507,
+    "DialogGroupID": 4518,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction029",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog061",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3508,
+    "DialogGroupID": 4518,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog062",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3509,
+    "DialogGroupID": 4518,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction030",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog063",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3510,
+    "DialogGroupID": 4518,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction031",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog064",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3511,
+    "DialogGroupID": 4519,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog065",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3512,
+    "DialogGroupID": 4520,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog066",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3513,
+    "DialogGroupID": 4521,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction032",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog067",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3514,
+    "DialogGroupID": 4521,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction033",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog068",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3515,
+    "DialogGroupID": 4521,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog069",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3516,
+    "DialogGroupID": 4521,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog070",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3517,
+    "DialogGroupID": 4521,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction034",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog071",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3518,
+    "DialogGroupID": 4521,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog072",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3519,
+    "DialogGroupID": 4522,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction035",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog073",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3520,
+    "DialogGroupID": 4522,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog074",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3521,
+    "DialogGroupID": 4522,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog075",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3522,
+    "DialogGroupID": 4522,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog076",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3523,
+    "DialogGroupID": 4522,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog077",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3524,
+    "DialogGroupID": 4522,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction036",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog078",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3525,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction037",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog079",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_1",
+      "OutGame_Dia_SugimotoReiji_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3526,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog080",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 3,
+    "ID": 3527,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction039",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog081",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 4,
+    "ID": 3528,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog082",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 5,
+    "ID": 3529,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "LobbyNPC.Char571.Reaction040",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog083",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 6,
+    "ID": 3530,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog084",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 7,
+    "ID": 3531,
+    "DialogGroupID": 4523,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char571.Dialog085",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3532,
+    "DialogGroupID": 4600,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char581.Dialog001",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_ElenaRenault_Lobby_Interection_1_1",
+      "OutGame_Dia_ElenaRenault_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3533,
+    "DialogGroupID": 4600,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char581.Dialog002",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3534,
+    "DialogGroupID": 4698,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char581.Dialog003",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_ElenaRenault_Lobby_Interection_1_1",
+      "OutGame_Dia_ElenaRenault_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3535,
+    "DialogGroupID": 4698,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char581.Dialog004",
+    "DialogFacial": "",
+    "DialogSound": []
+  },
+  {
+    "SortOrder": 1,
+    "ID": 3536,
+    "DialogGroupID": 4699,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char581.Dialog005",
+    "DialogFacial": "",
+    "DialogSound": [
+      "OutGame_Dia_ElenaRenault_Lobby_Interection_1_1",
+      "OutGame_Dia_ElenaRenault_Lobby_Interection_1_2"
+    ]
+  },
+  {
+    "SortOrder": 2,
+    "ID": 3537,
+    "DialogGroupID": 4699,
+    "ReactionDialog": "",
+    "DialogEmoticon": "",
+    "DialogMotion": "",
+    "DialogTag": "LobbyNPC.Char581.Dialog006",
     "DialogFacial": "",
     "DialogSound": []
   }

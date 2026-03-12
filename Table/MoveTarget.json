@@ -80,11 +80,11 @@
   {
     "ID": 9,
     "Value1": 0,
-    "Title": "MoveTarget.InstantDungeon_Title",
-    "ContentsType": "InstantDungeon",
+    "Title": "MoveTarget.ArtifactDungeon_Title",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
-    "Desc": "SysConstStr.Glossary.InstantDungeon"
+    "Desc": "SysConstStr.Glossary.ArtifactDungeon"
   },
   {
     "ID": 10,
@@ -341,8 +341,8 @@
   {
     "ID": 40,
     "Value1": 0,
-    "Title": "MoveTarget.Advent_Title",
-    "ContentsType": "Advent",
+    "Title": "MoveTarget.ArtifactDungeon_Title",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
     "Desc": ""
@@ -12476,6 +12476,17 @@
     "Desc": "MoveTarget.Shop_Short"
   },
   {
+    "ID": 30080,
+    "Value1": 30094,
+    "Title": "MoveTarget.Shap_Tap",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      30094
+    ],
+    "ShortCutType": "Shop_Tab",
+    "Desc": ""
+  },
+  {
     "ID": 31001,
     "Value1": 1010205,
     "Title": "MoveTarget.Shop_Goods",
@@ -13085,6 +13096,18 @@
     "Desc": ""
   },
   {
+    "ID": 31052,
+    "Value1": 410002423,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      410002423
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -13575,6 +13598,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3058
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40048,
+    "Value1": 3061,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3061
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -14906,6 +14940,28 @@
     "ContentsType": "Event",
     "ShortCutIndexes": [
       8000002
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50123,
+    "Value1": 631,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      631
+    ],
+    "ShortCutType": "Event_Notice",
+    "Desc": ""
+  },
+  {
+    "ID": 50124,
+    "Value1": 632,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      632
     ],
     "ShortCutType": "Event_Tab",
     "Desc": ""
@@ -16405,6 +16461,81 @@
     "Desc": ""
   },
   {
+    "ID": 55140,
+    "Value1": 2590,
+    "Title": "Event.26Spring.Main.Title.Move",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55141,
+    "Value1": 2590,
+    "Title": "Event.26Spring.Title.Mission",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      1
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55142,
+    "Value1": 2590,
+    "Title": "Event.Trust.Main.Title_26Spring",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      2
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55143,
+    "Value1": 2590,
+    "Title": "",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55144,
+    "Value1": 2590,
+    "Title": "Event.BossChallengeTitle_2603Spring",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      4
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55145,
+    "Value1": 2590,
+    "Title": "Event.26Spring.Title.MiniGameA",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      5
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55146,
+    "Value1": 2590,
+    "Title": "",
+    "ContentsType": "Attendance",
+    "ShortCutIndexes": [
+      6
+    ],
+    "ShortCutType": "",
+    "Desc": ""
+  },
+  {
     "ID": 60001,
     "Value1": 301010,
     "Title": "MoveTarget.Craft_Detail",
@@ -17196,7 +17327,7 @@
     "ID": 110201,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60202",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       1,
       -1
@@ -17208,7 +17339,7 @@
     "ID": 110202,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60208",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       2,
       -1
@@ -17220,7 +17351,7 @@
     "ID": 110203,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60206",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       3,
       -1
@@ -17232,7 +17363,7 @@
     "ID": 110204,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60205",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       4,
       -1
@@ -17244,7 +17375,7 @@
     "ID": 110205,
     "Value1": 0,
     "Title": "DunStage.StageMainText.30123",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       7,
       -1
@@ -17256,7 +17387,7 @@
     "ID": 110206,
     "Value1": 0,
     "Title": "DunStage.StageMainText.40108",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       8,
       -1
@@ -17268,7 +17399,7 @@
     "ID": 110207,
     "Value1": 0,
     "Title": "DunStage.StageMainText.13001",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       9,
       -1
@@ -17280,7 +17411,7 @@
     "ID": 110208,
     "Value1": 0,
     "Title": "SysConstStr.ChName.SoldierUnarmedLuxisBoss",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       10,
       -1
@@ -17292,7 +17423,7 @@
     "ID": 110209,
     "Value1": 0,
     "Title": "DunStage.StageMainText.40101",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       11,
       -1
@@ -17304,7 +17435,7 @@
     "ID": 110210,
     "Value1": 0,
     "Title": "DunStage.StageMainText.12407",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       12,
       -1
@@ -17316,7 +17447,7 @@
     "ID": 110211,
     "Value1": 0,
     "Title": "DunStage.StageMainText.60217",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       13,
       -1
@@ -17328,7 +17459,7 @@
     "ID": 110212,
     "Value1": 0,
     "Title": "SysConstStr.ChName.Quirke_Boss",
-    "ContentsType": "Advent",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
       14,
       -1
@@ -17340,9 +17471,9 @@
     "ID": 110301,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60101",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      1,
+      101,
       -1
     ],
     "ShortCutType": "Main",
@@ -17352,9 +17483,9 @@
     "ID": 110302,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60103",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      2,
+      102,
       -1
     ],
     "ShortCutType": "Main",
@@ -17364,9 +17495,9 @@
     "ID": 110303,
     "Value1": 0,
     "Title": "DunStage.StageSubText.60104",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      4,
+      104,
       -1
     ],
     "ShortCutType": "Main",
@@ -17376,9 +17507,9 @@
     "ID": 110304,
     "Value1": 0,
     "Title": "SysConstStr.ChName.CursedGiantBoss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      5,
+      105,
       -1
     ],
     "ShortCutType": "Main",
@@ -17388,9 +17519,9 @@
     "ID": 110305,
     "Value1": 0,
     "Title": "SysConstStr.ChName.IceWitchBesteBoss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      6,
+      106,
       -1
     ],
     "ShortCutType": "Main",
@@ -17400,9 +17531,9 @@
     "ID": 110306,
     "Value1": 0,
     "Title": "SysConstStr.ChName.TwinHeadsOgre_Boss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      7,
+      107,
       -1
     ],
     "ShortCutType": "Main",
@@ -17412,9 +17543,9 @@
     "ID": 110307,
     "Value1": 0,
     "Title": "SysConstStr.ChName.HobGoblinChiefBoss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      8,
+      108,
       -1
     ],
     "ShortCutType": "Main",
@@ -17424,9 +17555,9 @@
     "ID": 110308,
     "Value1": 0,
     "Title": "SysConstStr.ChName.KingAntMonsterBoss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      9,
+      109,
       -1
     ],
     "ShortCutType": "Main",
@@ -17436,9 +17567,9 @@
     "ID": 110309,
     "Value1": 0,
     "Title": "SysConstStr.ChName.GrimReaperScytheBoss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      10,
+      110,
       -1
     ],
     "ShortCutType": "Main",
@@ -17448,9 +17579,9 @@
     "ID": 110310,
     "Value1": 0,
     "Title": "SysConstStr.ChName.WerewolfNadanBoss",
-    "ContentsType": "InstantDungeon",
+    "ContentsType": "ArtifactDungeon",
     "ShortCutIndexes": [
-      11,
+      111,
       -1
     ],
     "ShortCutType": "Main",

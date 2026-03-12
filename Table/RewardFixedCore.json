@@ -186,5 +186,83 @@
       -1,
       -1
     ]
+  },
+  {
+    "Level": 10,
+    "ID": 100007,
+    "Option": [
+      "AddAtt",
+      "Critical"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100008,
+    "Option": [
+      "AddArm",
+      "CriDam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100009,
+    "Option": [
+      "AddMHP",
+      "Dam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 0,
+    "ID": 100010,
+    "Option": [
+      "AttR",
+      "Dam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 0,
+    "ID": 100011,
+    "Option": [
+      "ArmR",
+      "Dam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 0,
+    "ID": 100012,
+    "Option": [
+      "MHPR",
+      "Dam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
   }
 ]

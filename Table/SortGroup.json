@@ -1326,5 +1326,37 @@
     "SortCategory": "Name",
     "ContentsType": "Gacha",
     "CategoryString": "SysConstStr.PickUpList.Name"
+  },
+  {
+    "Order": 1,
+    "ID": 186,
+    "GroupID": 1,
+    "SortCategory": "Power",
+    "ContentsType": "ArtifactDungeon",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 2,
+    "ID": 187,
+    "GroupID": 1,
+    "SortCategory": "Level",
+    "ContentsType": "ArtifactDungeon",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 188,
+    "GroupID": 1,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "ArtifactDungeon",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 7,
+    "ID": 189,
+    "GroupID": 1,
+    "SortCategory": "Acquisition",
+    "ContentsType": "ArtifactDungeon",
+    "CategoryString": "ESortCategory.Obtain"
   }
 ]

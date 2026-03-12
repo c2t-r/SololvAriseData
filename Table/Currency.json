@@ -42,8 +42,7 @@
       22,
       8,
       12,
-      30013,
-      30016
+      30013
     ],
     "TooltipDisplay": "Currency",
     "ItemRarity": "Common",
@@ -160,15 +159,14 @@
     ],
     "TooltipDisplay": "Daily",
     "ItemRarity": "Common",
-    "ShopIconResourceName": "Currency_IndunAdventEnterPoint",
+    "ShopIconResourceName": "Currency_AdvantEnterPoint",
     "ContentsType": [
-      "InstantDungeon",
-      "Advent"
+      "ArtifactDungeon"
     ],
-    "IconResourceName": "Currency_IndunAdventEnterPoint",
-    "StringDesc": "Currency.IndunAdventEnterPointDesc",
+    "IconResourceName": "Currency_AdvantEnterPoint",
+    "StringDesc": "CurrencyArtifactDungeonEnterPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
-    "StringName": "Currency.IndunAdventEnterPointName"
+    "StringName": "Currency.ArtifactDungeonEnterPointName"
   },
   {
     "InvenHide": true,
@@ -242,15 +240,14 @@
     ],
     "TooltipDisplay": "",
     "ItemRarity": "Common",
-    "ShopIconResourceName": "Currency_IndunAdventEnterPoint",
+    "ShopIconResourceName": "Currency_AdvantEnterPoint",
     "ContentsType": [
-      "InstantDungeon",
-      "Advent"
+      "ArtifactDungeon"
     ],
-    "IconResourceName": "Currency_IndunAdventEnterPoint",
-    "StringDesc": "Currency.IndunAdventEnterPointDesc",
+    "IconResourceName": "Currency_AdvantEnterPoint",
+    "StringDesc": "CurrencyArtifactDungeonEnterPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
-    "StringName": "Currency.IndunAdventEnterPointName"
+    "StringName": "Currency.ArtifactDungeonEnterPointName"
   },
   {
     "InvenHide": true,

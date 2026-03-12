@@ -5,7 +5,7 @@
     "Pvp.DefenseSquadSavePoint": 10,
     "OtherWorld.RankCount": 100,
     "Gacha.Normal_PickUpTicket": 10100001,
-    "DimensionGate.MaxLv": 40,
+    "DimensionGate.MaxLv": 50,
     "SJWSkillRune.RuneCraftMaterialItem": 10090001,
     "Limit.GAME_ITEM_EQUIP_DECOMPOSITION_REQ": 100,
     "Subscribe.NoneSubscribe_MissionPointReward_Value": 15,
@@ -20,6 +20,7 @@
     "WebCoupon.ItemActive": 900101,
     "HunterEnhance.DecompositionItemValueB": 1,
     "Shadow.ShadowWeaponUnlockGrade": 4,
+    "BattleDeck.PlayerTeamFightTutorial": 200001,
     "Reference.ItemID.GuildCoin": 10220001,
     "Pvp.AllianceHeadMarkBuff": 9999999995,
     "HunterEnhance.DecompositionItemValueC": 1,
@@ -35,7 +36,7 @@
     "BattleCamConfig.ZoomSensitivityMul_IOS": 0.699999988079071,
     "ShowRewardRate.Raid": true,
     "MonthlyPackage.Default_DimensionGateMultiplay": 2,
-    "ArtifactDungeonChallengeUnlockLevel": 30,
+    "ArtifactDungeonChallengeUnlockLevel": 35,
     "Story.AutoPlay.DungeonWaitTime": 3,
     "BattleDeck.TutoFix": 424,
     "HunterOrigin.BtnDisplayLocation.SecretFile": true,
@@ -50,7 +51,7 @@
     "Profile.DuplicatedBG_Gold": 500,
     "SJWAPRecover.Term": 300,
     "HPSynchBoss.BattlePowerBan": 60,
-    "Common.ShadowMaxLevel": 170,
+    "Common.ShadowMaxLevel": 185,
     "BattleDeck.EmptySlotNoti_Shadow": 3,
     "ModeControl.AdventDungeon.ModeDisplay": 2,
     "MaxLevelProcessing.Account_MaxLevel_ExchangeRate_Excess": 1,
@@ -285,11 +286,13 @@
     "BattleDeck.MinCount": 1,
     "GamePadCursor.MaxSpeed": 50.0,
     "Core.MaterialSlotMax": 20,
+    "BattleDeck.PlayerSupportTutorial": 200001,
     "BattleMission.RankingCount": 100,
     "Pvp.Option.ForceContentQualityLevel": 1,
     "BoxInBox.TouchDelay": 0.30000001192092896,
     "Tutorial.CraftTutorialID": 709,
     "BattleConfig.HunterVoicePlayEndTimeRate": 1.2999999523162842,
+    "BattleDeck.HunterTeamFightTutorial": 200002,
     "DimensionGate.CodeBuffOverlap_Rarity1": 100,
     "Subscribe.Package_Main": 1,
     "SmartPopup.EntryPopupGroup": 9000,
@@ -381,7 +384,7 @@
     "Gate.RedGatePricePoint": 5,
     "BattleConfig.PlayerRunCheckDist": 15.0,
     "BeginSetting.BaseStatSense": 10,
-    "ArtifactDungeonUnlockClearLevel2": 30,
+    "ArtifactDungeonUnlockClearLevel2": 35,
     "Limit.GAME_ITEM_MIX_REQ": 30,
     "Guild.JoinLevelMaxLimit": 90,
     "Pvp.AttackFail.LosePoint": 1,
@@ -542,6 +545,7 @@
     "TeamMining.MineList_ExpireHour": 168,
     "Guild.MaxInvite": 3,
     "Inventory.BulkSellingCount": 50,
+    "Limit.GAME_ARTIFACT_DECOM_REQ": 500,
     "Sweep.SJWSweep_Count_E": 30,
     "Relic.DecompositionCautionGrade": 3,
     "APRecover.APChargeItemID": 20500001,
@@ -553,6 +557,7 @@
     "Common.EquipmentGainExpRate": 8000,
     "BattleConfig.AutoQTESkillUsePriorityLimit": 5,
     "Pvp.DefenseTeam.WinningStreak": 3,
+    "BattleDeck.HunterSupportTutorial": 200002,
     "MonthlyPackage.Package_Main_1": 310030,
     "Limit.GAME_ITEM_MIX_COUNT_REQ": 20,
     "EventSkinGacha.Direction_CoolTime": 300,
@@ -817,6 +822,7 @@
     "Shop.HunterPass_Main": 100,
     "BattleConfig.DotTick": 3.0,
     "SJWSkillRune.RuneMixGoldValue01": 10000,
+    "BattleDeck.GuildBossTeamFightTutorial": 200009,
     "Subscribe.Subscribe_ShopTab01": 2000001,
     "Pvp.EnemyBodyMarkBuff": 9999999997,
     "Pvp.SaveHistoryCount": 10,
@@ -871,7 +877,7 @@
     "WeaponArmory.MeritPower_SSR": 1000,
     "Common.RecoverAPAmmount": 1,
     "BattleConfig.AutoModeUSKillDelayMin": 2.0,
-    "ShowRewardRate.ArtifactDungeon.PageDungeonCount": 2,
+    "ShowRewardRate.ArtifactDungeon.PageDungeonCount": 6,
     "BattleConfig.BattlePowerCorretValue02": 100,
     "GachaDeferRecruit.PopUpCloseTime": 3600,
     "Guild.GuildExpLimit": 350000,
@@ -1005,6 +1011,7 @@
     "IdleReward.InstantReward_MaxCount": 1,
     "Pvp.FXForceQualityLv": 1,
     "Artifact.MaxEnhanceLegendary": 40,
+    "CostumeEncyclopedia.SJW_CostumePartsMainID": 1,
     "Pvp.CameraEffectOnOff": true,
     "Pvp.Formula.B": 500,
     "Common.PCStatResetCost": 100,
@@ -1189,6 +1196,11 @@
       47,
       121
     ],
+    "ArtifactDungeon.UnlockLevel": [
+      10,
+      20,
+      30
+    ],
     "Common.ReqSkillGrowthChaLevel": [
       0,
       0,
@@ -1317,6 +1329,9 @@
     "Gate.RedGateResetPoint": [
       1,
       2
+    ],
+    "BattleConfig.HunterTeamFightHunterBuff": [
+      1200131015
     ],
     "Dialog.DialogSpeedKorean": [
       0.03999999910593033
@@ -1601,6 +1616,9 @@
     "CommonPopup.GameClose.Resource": [
       "Img_GameOver_Deco"
     ],
+    "BattleConfig.HunterTeamFightHunterBuffHitDamageReduce": [
+      1200131017
+    ],
     "BeginSetting.ItemRelicList": [
       301010032
     ],
@@ -1753,7 +1771,8 @@
       2100000006
     ],
     "ArtifactReforge.ReforgeStoneLegendID": [
-      10240001
+      10240001,
+      10240003
     ],
     "Core.MaterialFilterRarityMax": "Legendary",
     "ReplayTutorialTab.Tab1_Icon": "Icon_Tab_Craft_All",
@@ -1803,6 +1822,9 @@
       0
     ],
     "TimeAttack.RankingPointIcon": "Item_SeasonScore",
+    "BattleConfig.HunterTeamFightHunterTagSkillCoolTimeReduce": [
+      1200131016
+    ],
     "BattleConfig.DesertDragonBossPassiveSkill": [
       15701010
     ],
@@ -1975,6 +1997,13 @@
     ],
     "DefaultResource.SoundPageOpen": "UI_Fx_Slide_Default_1_1",
     "UIEffect.CharLVUpEff": "_Fx_Bank_LevelUp01",
+    "FunnelLog.Tutorial.ClearFunnelType": [
+      "460:711",
+      "462:712",
+      "464:713",
+      "465:714",
+      "467:715"
+    ],
     "TrainingRoom.Spawn.Position.Player1": [
       250.0,
       0.0,
@@ -2018,8 +2047,7 @@
     "Shop.Recommand_PackageRank03": "SysConstStr.Recommand_PackageRank03",
     "BattleCharConfig.Dialogcontroller": "DialogChar_Controller",
     "Gacha.TutorialDisplay.ID": [
-      1000,
-      2000
+      1000
     ],
     "AdventEnterPoint.Substitution.Type": [
       "AdventEnterPoint",

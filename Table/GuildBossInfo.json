@@ -46,5 +46,21 @@
     "GuildBossObjectName": "Fx_GuildLobby_Boss_HugeStatue",
     "Narrative": "GuildBoss_Narrative_3",
     "LobbyVideoClip": "HugeStatue_Boss_Page_2"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "IngameStatLevel": 80,
+    "StageMonsterLevel": 90,
+    "ID": 4,
+    "BattleSquadID": 500002,
+    "DungeonStageID": 140104,
+    "RecommendedPower": 50000,
+    "RageBuff": [
+      16001010
+    ],
+    "ContentsBTNChange": "Img_Contents2_Btn_11_GuildBoss_4",
+    "GuildBossObjectName": "Fx_GuildLobby_Boss_Manticore",
+    "Narrative": "GuildBoss_Narrative_4",
+    "LobbyVideoClip": "Manticore_Boss_Page_2"
   }
 ]

@@ -2631,36 +2631,6 @@
   },
   {
     "ID": 265,
-    "GroupID": 571,
-    "Index": 0,
-    "AwakeActive": true,
-    "KeepEffect": true,
-    "AttachParentName": "Bone_Skin_Weapon_katana",
-    "CharPartsType": "Weapon",
-    "PartsPrefName": "SugimotoReiji_Weapon0_PFV"
-  },
-  {
-    "ID": 266,
-    "GroupID": 571,
-    "Index": 1,
-    "AwakeActive": true,
-    "KeepEffect": true,
-    "AttachParentName": "Bone_Skin_Weapon_Scabbard",
-    "CharPartsType": "Weapon",
-    "PartsPrefName": "SugimotoReiji_Weapon1_PFV"
-  },
-  {
-    "ID": 267,
-    "GroupID": 571,
-    "Index": 2,
-    "AwakeActive": true,
-    "KeepEffect": true,
-    "AttachParentName": "Pt_Back_Weapon",
-    "CharPartsType": "Weapon",
-    "PartsPrefName": "SugimotoReiji_Weapon2_PFV"
-  },
-  {
-    "ID": 268,
     "GroupID": 162,
     "Index": 0,
     "AwakeActive": true,
@@ -2670,7 +2640,7 @@
     "PartsPrefName": "MinByungGu_Weapon01_PFV"
   },
   {
-    "ID": 269,
+    "ID": 266,
     "GroupID": 162,
     "Index": 1,
     "AwakeActive": true,
@@ -2680,7 +2650,7 @@
     "PartsPrefName": "MinByungGuSkinRare_Weapon1_PFV"
   },
   {
-    "ID": 270,
+    "ID": 267,
     "GroupID": 162,
     "Index": 2,
     "AwakeActive": true,
@@ -2690,7 +2660,7 @@
     "PartsPrefName": "MinByungGuSkinRare_Weapon2_PFV"
   },
   {
-    "ID": 271,
+    "ID": 268,
     "GroupID": 162,
     "Index": 3,
     "AwakeActive": true,
@@ -2700,7 +2670,7 @@
     "PartsPrefName": "MinByungGu_Weapon02_PFV"
   },
   {
-    "ID": 272,
+    "ID": 269,
     "GroupID": 162,
     "Index": 4,
     "AwakeActive": true,
@@ -2708,5 +2678,115 @@
     "AttachParentName": "Point_MinByungGu_Book_B",
     "CharPartsType": "Weapon",
     "PartsPrefName": "MinByungGuSkinRare_Weapon0_PFV"
+  },
+  {
+    "ID": 270,
+    "GroupID": 860,
+    "Index": 66,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_StormbringerRare_01_PFV"
+  },
+  {
+    "ID": 271,
+    "GroupID": 861,
+    "Index": 77,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Prop_Weapon_Dualwield_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_WinchesterLockEpic_01_02_PFV"
+  },
+  {
+    "ID": 272,
+    "GroupID": 571,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Skin_Weapon_katana",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "SugimotoReiji_Weapon0_PFV"
+  },
+  {
+    "ID": 273,
+    "GroupID": 571,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Skin_Weapon_Scabbard",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "SugimotoReiji_Weapon1_PFV"
+  },
+  {
+    "ID": 274,
+    "GroupID": 571,
+    "Index": 2,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Pt_Back_Weapon",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "SugimotoReiji_Weapon2_PFV"
+  },
+  {
+    "ID": 275,
+    "GroupID": 386,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "PointArmor_01",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "TawataKanae_Skin_Epic_CroppedJacket_Weapon0_PFV"
+  },
+  {
+    "ID": 276,
+    "GroupID": 386,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "PointKatana_R01",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "TawataKanae_Skin_Epic_CroppedJacket_Weapon1_PFV"
+  },
+  {
+    "ID": 277,
+    "GroupID": 386,
+    "Index": 2,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "PointKatana_L01",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "TawataKanae_Skin_Epic_CroppedJacket_Weapon2_PFV"
+  },
+  {
+    "ID": 278,
+    "GroupID": 386,
+    "Index": 3,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Equip_Weapon3",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "TawataKanae_Skin_Epic_CroppedJacket_Weapon3_PFV"
+  },
+  {
+    "ID": 279,
+    "GroupID": 581,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bip001 Prop1",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "ElenaRenaud_Weapon0_PFV"
+  },
+  {
+    "ID": 280,
+    "GroupID": 581,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bip001 Prop1",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "ElenaRenaud_Weapon1_PFV"
   }
 ]

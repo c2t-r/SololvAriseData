@@ -366,6 +366,19 @@
   },
   {
     "IsGuild": true,
+    "ID": 122,
+    "TopMenuPage": "StageReady",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "ArtifactDungeon",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000010
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 11,
     "TopMenuPage": "GatePotal",
     "TopMenuSubPage": "",
@@ -1213,6 +1226,22 @@
   },
   {
     "IsGuild": true,
+    "ID": 80,
+    "TopMenuPage": "ArtifactDungeon",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      6,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000010,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 81,
     "TopMenuPage": "BGMEncyclopedia",
     "TopMenuSubPage": "",
@@ -1225,6 +1254,15 @@
       1000016,
       1000003
     ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 82,
+    "TopMenuPage": "CostumePartsSJW",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
     "IsGuild": true,
@@ -1711,6 +1749,36 @@
   },
   {
     "IsGuild": true,
+    "ID": 1034,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_26Spring",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      30002209,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1035,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2590",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      30002209,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 2001,
     "TopMenuPage": "EventCoop",
     "TopMenuSubPage": "",
@@ -1840,7 +1908,7 @@
       3
     ],
     "TopMenuDisplayGroup": [
-      30010015
+      30010035
     ]
   }
 ]
