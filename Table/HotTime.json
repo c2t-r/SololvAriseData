@@ -2138,5 +2138,67 @@
     "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
     "HotTimeEffectFocus": [],
     "HotTimeStringName": "HotTimeName.RaidMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000027,
+    "HotTimeGroupID": 500019,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_DungeonMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "ArtifactDungeon",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.DungeonMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.DungeonMileageCount"
+  },
+  {
+    "HotTimeEffectValue": 3,
+    "DuplicationType": true,
+    "PackageGroup": true,
+    "HotTimeRootGroup": 0,
+    "ID": 5000028,
+    "HotTimeGroupID": 500020,
+    "Unused": true,
+    "CommonBuffID": 0,
+    "HotTimeTargetGroup": 0,
+    "StringOverlap": true,
+    "DisplayOrder": 0,
+    "HotTimeIcon": "HotTime_RaidMileageBuff",
+    "HotTimeEffect": "AddMileageRate",
+    "HotTimeContents": "Raid",
+    "Class4": [],
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "HotTimeType": "SeasonPass",
+    "ContentsMoveTarget": [
+      0
+    ],
+    "HotTimeDescString": "HotTimeDesc.RaidMileageCount",
+    "HotTimeEffectFocus": [],
+    "HotTimeStringName": "HotTimeName.RaidMileageCount"
   }
 ]

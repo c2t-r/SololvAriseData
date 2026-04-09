@@ -66,5 +66,39 @@
     "RapidGrowthType": "HunterUpgrade",
     "RapidGrowthName": "SystemStr.HunterUpgradeLevelUP",
     "$TargetGroupDesc": ""
+  },
+  {
+    "UnlockValue1": 1,
+    "ExchangeReward": 0,
+    "ID": 100005,
+    "IsPriceDifferenceRefund": true,
+    "Target": 0,
+    "TargetGroup": 100005,
+    "Value2": 0,
+    "Value1": 7,
+    "ContentsUnlock": 2023,
+    "RapidGrowthDesc": "SysConstStr.SuccessGrowthContentsLevelUP",
+    "$TypeDesc": "",
+    "ContentsIcon": "Item_Icon_HunterSkillLevel",
+    "RapidGrowthType": "HunterSkillLevel",
+    "RapidGrowthName": "SystemStr.HunterSKillLevelUP",
+    "$TargetGroupDesc": ""
+  },
+  {
+    "UnlockValue1": 0,
+    "ExchangeReward": 0,
+    "ID": 100006,
+    "IsPriceDifferenceRefund": true,
+    "Target": 0,
+    "TargetGroup": 100006,
+    "Value2": 0,
+    "Value1": 9,
+    "ContentsUnlock": 2021,
+    "RapidGrowthDesc": "SysConstStr.SuccessGrowthContentsLevelUP",
+    "$TypeDesc": "",
+    "ContentsIcon": "Item_Icon_HunterUpgrade",
+    "RapidGrowthType": "HunterUpgrade",
+    "RapidGrowthName": "SystemStr.HunterUpgradeLevelUP",
+    "$TargetGroupDesc": ""
   }
 ]

@@ -8609,7 +8609,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_SocialMotion",
+    "TimeLinePrefab": "ElenaRenaud_SocialMotion",
     "Type": "SocialMotion"
   },
   {
@@ -8618,7 +8618,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_Win",
+    "TimeLinePrefab": "ElenaRenaud_Win",
     "Type": "Win"
   },
   {
@@ -8627,7 +8627,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_Fail",
+    "TimeLinePrefab": "ElenaRenaud_Fail",
     "Type": "Fail"
   },
   {
@@ -8636,7 +8636,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_LobbyIdle",
+    "TimeLinePrefab": "ElenaRenaud_LobbyIdle",
     "Type": "LobbySpawn"
   },
   {
@@ -8645,7 +8645,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_TagOut",
+    "TimeLinePrefab": "ElenaRenaud_TagOut",
     "Type": "TagOut"
   },
   {
@@ -8654,7 +8654,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_LobbyIdle",
+    "TimeLinePrefab": "ElenaRenaud_LobbyIdle",
     "Type": "LobbyIdle"
   },
   {
@@ -8663,7 +8663,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_StartAction",
+    "TimeLinePrefab": "ElenaRenaud_StartAction",
     "Type": "Intro"
   },
   {
@@ -8672,7 +8672,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_Win_Endloop",
+    "TimeLinePrefab": "ElenaRenaud_Win_Endloop",
     "Type": "WinIdle"
   },
   {
@@ -8681,7 +8681,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_Fail_Endloop",
+    "TimeLinePrefab": "ElenaRenaud_Fail_Endloop",
     "Type": "FailIdle"
   },
   {
@@ -8690,7 +8690,7 @@
     "GroupID": 581,
     "Index": 0,
     "UseSkipFadeOut": true,
-    "TimeLinePrefab": "MeriLaine_Evolve",
+    "TimeLinePrefab": "ElenaRenaud_Evolve",
     "Type": "Evolve"
   },
   {
@@ -8764,5 +8764,113 @@
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "Shadow_Hearth_Boss_LobbyIdle",
     "Type": "LobbySpawn"
+  },
+  {
+    "ID": 975,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 976,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 977,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 978,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 979,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 980,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 981,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 982,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 983,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 984,
+    "UseSkip": true,
+    "GroupID": 591,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AntoineMartinez_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 985,
+    "UseSkip": true,
+    "GroupID": 272101,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungIlHwan_PC_Boss_Intro",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1003,
+    "UseSkip": true,
+    "GroupID": 272001,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "TawataKanae_Boss_Intro",
+    "Type": "Intro"
   }
 ]

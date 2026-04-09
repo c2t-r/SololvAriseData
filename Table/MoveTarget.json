@@ -714,6 +714,17 @@
     "Desc": ""
   },
   {
+    "ID": 128,
+    "Value1": 0,
+    "Title": "",
+    "ContentsType": "Option",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 301,
     "Value1": 11,
     "Title": "MoveTarget.HunterSecret_Title_12",
@@ -12487,6 +12498,28 @@
     "Desc": ""
   },
   {
+    "ID": 30081,
+    "Value1": 2103,
+    "Title": "MoveTarget.Shap_Tap",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      2103
+    ],
+    "ShortCutType": "Shop_Tab",
+    "Desc": "MoveTarget.Shop_Short"
+  },
+  {
+    "ID": 30082,
+    "Value1": 30096,
+    "Title": "MoveTarget.Shap_Tap",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      30096
+    ],
+    "ShortCutType": "Shop_Tab",
+    "Desc": ""
+  },
+  {
     "ID": 31001,
     "Value1": 1010205,
     "Title": "MoveTarget.Shop_Goods",
@@ -13108,6 +13141,18 @@
     "Desc": ""
   },
   {
+    "ID": 31053,
+    "Value1": 500000009,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      500000009
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -13609,6 +13654,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3061
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40049,
+    "Value1": 3064,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3064
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -14962,6 +15018,50 @@
     "ContentsType": "Event",
     "ShortCutIndexes": [
       632
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50125,
+    "Value1": 634,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      634
+    ],
+    "ShortCutType": "Event_Notice",
+    "Desc": ""
+  },
+  {
+    "ID": 50126,
+    "Value1": 635,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      635
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50127,
+    "Value1": 636,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      636
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50128,
+    "Value1": 637,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      637
     ],
     "ShortCutType": "Event_Tab",
     "Desc": ""
@@ -16589,7 +16689,7 @@
     "ContentsType": "Craft",
     "ShortCutIndexes": [
       1,
-      10190002
+      403038
     ],
     "ShortCutType": "Craft_Detail",
     "Desc": ""

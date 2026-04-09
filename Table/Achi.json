@@ -9825,6 +9825,36 @@
     "AchievementGrade": "Gold"
   },
   {
+    "SortOrder": 105,
+    "AchievementDisplay": true,
+    "ID": 5066001,
+    "AchievementAvailable": true,
+    "QuestTaskID": 5066001,
+    "AchievementGroupStep": 1,
+    "AchievementGroupID": 5066000,
+    "RewardGroupID": 52081010,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 5066001,
+    "AchievementType": "Collect",
+    "AchievementGrade": "Gold"
+  },
+  {
+    "SortOrder": 105,
+    "AchievementDisplay": true,
+    "ID": 5066002,
+    "AchievementAvailable": true,
+    "QuestTaskID": 5066002,
+    "AchievementGroupStep": 2,
+    "AchievementGroupID": 5066000,
+    "RewardGroupID": 52081020,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 5066002,
+    "AchievementType": "Collect",
+    "AchievementGrade": "Gold"
+  },
+  {
     "SortOrder": 1,
     "AchievementDisplay": true,
     "ID": 3001001,
@@ -27401,6 +27431,21 @@
     "AchievementAutoClear": true,
     "CollabID": 0,
     "ClearCheckID": 90921006,
+    "AchievementType": "Dungeon",
+    "AchievementGrade": "Gold"
+  },
+  {
+    "SortOrder": 83,
+    "AchievementDisplay": true,
+    "ID": 90921007,
+    "AchievementAvailable": true,
+    "QuestTaskID": 10930007,
+    "AchievementGroupStep": 1,
+    "AchievementGroupID": 90921006,
+    "RewardGroupID": 240007,
+    "AchievementAutoClear": true,
+    "CollabID": 0,
+    "ClearCheckID": 90921007,
     "AchievementType": "Dungeon",
     "AchievementGrade": "Gold"
   },

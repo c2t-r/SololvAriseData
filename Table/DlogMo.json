@@ -9758,5 +9758,75 @@
     "MotionType": "CrossArmed",
     "Loop": "Dialog_TawataKanae_CrossArmed_01_Loop",
     "End": "Dialog_TawataKanae_CrossArmed_01_End"
+  },
+  {
+    "ID": 986,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910693,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_ElenaRenaud_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 987,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910693,
+    "Start": "Dialog_ElenaRenaud_CrossArmed_01_Start",
+    "MotionType": "CrossArmed",
+    "Loop": "Dialog_ElenaRenaud_CrossArmed_01_Loop",
+    "End": "Dialog_ElenaRenaud_CrossArmed_01_End"
+  },
+  {
+    "ID": 988,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910693,
+    "Start": "Dialog_ElenaRenaud_Worries_01_Start",
+    "MotionType": "Worries",
+    "Loop": "Dialog_ElenaRenaud_Worries_01_Loop",
+    "End": "Dialog_ElenaRenaud_Worries_01_End"
+  },
+  {
+    "ID": 989,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910693,
+    "Start": "Dialog_ElenaRenaud_Talk_01_Start",
+    "MotionType": "Talk",
+    "Loop": "Dialog_ElenaRenaud_Talk_01_Loop",
+    "End": "Dialog_ElenaRenaud_Talk_01_End"
+  },
+  {
+    "ID": 990,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910693,
+    "Start": "Dialog_ElenaRenaud_ChestHand_01_Start",
+    "MotionType": "ChestHand",
+    "Loop": "Dialog_ElenaRenaud_ChestHand_01_Loop",
+    "End": "Dialog_ElenaRenaud_ChestHand_01_End"
+  },
+  {
+    "ID": 991,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910693,
+    "Start": "Dialog_ElenaRenaud_Ridiculous_01_Start",
+    "MotionType": "Ridiculous",
+    "Loop": "Dialog_ElenaRenaud_Ridiculous_01_Loop",
+    "End": "Dialog_ElenaRenaud_Ridiculous_01_End"
+  },
+  {
+    "ID": 992,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910694,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_HwangDongSuk_Member_Fighter_Idle_01",
+    "End": ""
   }
 ]

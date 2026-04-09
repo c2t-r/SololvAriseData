@@ -504,5 +504,22 @@
     "StringDesc": "Currency.CoopDungeonEnterPointDesc",
     "CurrencyPurchhaseUI": "",
     "StringName": "Currency.CoopDungeonEnterPointName"
+  },
+  {
+    "InvenHide": true,
+    "ID": 1000032,
+    "ChargeGroup": 0,
+    "ItemSubType": "WorldBossSeasonPoint",
+    "MoveTarget": [
+      10
+    ],
+    "TooltipDisplay": "",
+    "ItemRarity": "Common",
+    "ShopIconResourceName": "Currency.WorldBossSeasonPointName",
+    "ContentsType": [],
+    "IconResourceName": "Currency_WorldBoss_SeasonPoint",
+    "StringDesc": "Currency.WorldBossSeasonPointDesc",
+    "CurrencyPurchhaseUI": "",
+    "StringName": "Currency.WorldBossSeasonPointName"
   }
 ]

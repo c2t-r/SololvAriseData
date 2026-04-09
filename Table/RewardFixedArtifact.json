@@ -1770,5 +1770,189 @@
       "Dam",
       "AddMMP"
     ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10117,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "MHPR",
+    "SubOption": [
+      "AddArm",
+      "ArmR",
+      "CriDam",
+      "MPCostRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10118,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "ElementDamWaterP",
+    "SubOption": [
+      "ArmR",
+      "AddArm",
+      "CriDam",
+      "AddMMP"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10119,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "ArmR",
+    "SubOption": [
+      "AddArm",
+      "CriDam",
+      "Dam",
+      "DamRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10120,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AddMMP",
+    "SubOption": [
+      "ArmR",
+      "AddArm",
+      "Dam",
+      "AddMHP"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10121,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "ArmR",
+    "SubOption": [
+      "AddArm",
+      "Critical",
+      "Dam",
+      "MPCostRedu"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10122,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "ArmR",
+    "SubOption": [
+      "AddArm",
+      "Critical",
+      "ArmPen",
+      "AddMMP"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10123,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "AttR",
+    "SubOption": [
+      "ArmR",
+      "AddArm",
+      "Dam",
+      "AddMHP"
+    ]
+  },
+  {
+    "EnhanceLevel": 20,
+    "ID": 10124,
+    "EnhanceStat": [
+      3,
+      0,
+      0,
+      1
+    ],
+    "StatRate": [
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "MainOption": "CriDam",
+    "SubOption": [
+      "ArmR",
+      "AddArm",
+      "ArmPen",
+      "DamRedu"
+    ]
   }
 ]

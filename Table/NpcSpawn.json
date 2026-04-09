@@ -2216,7 +2216,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 28500,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1144,
@@ -2306,6 +2306,41 @@
     "SpawnSpot": "",
     "IdleMotion": [
       "Lobby_ElenaRenaud_Stand_01"
+    ],
+    "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 87,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 29500,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1146,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 591,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-04-23T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [
+      0,
+      1
+    ],
+    "PickSpawnEnd": "",
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_AntoineMartinez_Stand_01"
     ],
     "NpcType": "Dialog"
   }

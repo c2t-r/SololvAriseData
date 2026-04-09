@@ -6,6 +6,7 @@
     "CharObjcetID": 500174,
     "RedDotType": "IdleSystemMax",
     "AlertString": "SystemConst.LobbyAlert.IdelFull",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_IdleSystem",
     "TopAlertString": "SystemConst.LobbyAlert.IdelFullTop"
   },
@@ -16,6 +17,7 @@
     "CharObjcetID": 500178,
     "RedDotType": "MineTeam_Finish",
     "AlertString": "SystemConst.LobbyAlert.MineFinish",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Mine",
     "TopAlertString": "SystemConst.LobbyAlert.MineFinishTop"
   },
@@ -26,6 +28,7 @@
     "CharObjcetID": 500177,
     "RedDotType": "Attendance",
     "AlertString": "SystemConst.LobbyAlert.AttendanceReward",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Attendance",
     "TopAlertString": ""
   },
@@ -36,6 +39,7 @@
     "CharObjcetID": 500177,
     "RedDotType": "Event",
     "AlertString": "SystemConst.LobbyAlert.EventNotice",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Notice",
     "TopAlertString": ""
   },
@@ -46,6 +50,7 @@
     "CharObjcetID": 500178,
     "RedDotType": "GateResearch",
     "AlertString": "SystemConst.LobbyAlert.GateResearch",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Gate",
     "TopAlertString": ""
   },
@@ -56,6 +61,7 @@
     "CharObjcetID": 500174,
     "RedDotType": "IdleSystemFree",
     "AlertString": "SystemConst.LobbyAlert.IdelFree",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_IdleSystem",
     "TopAlertString": ""
   },
@@ -66,6 +72,7 @@
     "CharObjcetID": 500117,
     "RedDotType": "TimeAttack_RankReward",
     "AlertString": "SystemConst.LobbyAlert.TimeAttack_RankReward",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Contents",
     "TopAlertString": ""
   },
@@ -76,6 +83,7 @@
     "CharObjcetID": 500150,
     "RedDotType": "Monthly",
     "AlertString": "SysConst.LobbyAlert.MonthlyAlert",
+    "LobbyAlertType": "Sub",
     "IconRecource": "Icon_QuickMenu_MonthlyAlert",
     "TopAlertString": ""
   },
@@ -86,6 +94,7 @@
     "CharObjcetID": 0,
     "RedDotType": "Subscription",
     "AlertString": "SysConst.LobbyAlert.SubscriptionAlert",
+    "LobbyAlertType": "Sub",
     "IconRecource": "Icon_QuickMenu_SubscribeAlert",
     "TopAlertString": ""
   },
@@ -96,6 +105,7 @@
     "CharObjcetID": 0,
     "RedDotType": "SubscriptionReward",
     "AlertString": "SysConst.LobbyAlert.SubscriptionDailyReward",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_SubscribeAlert",
     "TopAlertString": ""
   },
@@ -106,6 +116,7 @@
     "CharObjcetID": 0,
     "RedDotType": "TimeAttack_RankReward",
     "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Notice",
     "TopAlertString": ""
   },
@@ -116,6 +127,7 @@
     "CharObjcetID": 0,
     "RedDotType": "TimeAttack_BossOpen",
     "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Notice",
     "TopAlertString": ""
   },
@@ -126,6 +138,7 @@
     "CharObjcetID": 0,
     "RedDotType": "TimeAttack_Reward_Any",
     "AlertString": "SysConst.LobbyAlert.TimeAttack_RankReward",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_Notice",
     "TopAlertString": ""
   },
@@ -136,6 +149,7 @@
     "CharObjcetID": 0,
     "RedDotType": "TimeAttack_BossOpen_Any",
     "AlertString": "SysConst.LobbyAlert.TimeAttack_BossOpen",
+    "LobbyAlertType": "Sub",
     "IconRecource": "Icon_QuickMenu_Notice",
     "TopAlertString": ""
   },
@@ -146,7 +160,41 @@
     "CharObjcetID": 0,
     "RedDotType": "ShadowGuard_TaskComplete",
     "AlertString": "SysConst.LobbyAlert.ShadowGuard",
+    "LobbyAlertType": "Main",
     "IconRecource": "Icon_QuickMenu_ShadowGuard",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 63,
+    "UseTopAlert": true,
+    "ID": 16,
+    "CharObjcetID": 0,
+    "RedDotType": "ArchitectTrialSeasonStart",
+    "AlertString": "SysConst.LobbyAlert.ArchitectTrial_SeasonStart",
+    "LobbyAlertType": "Sub",
+    "IconRecource": "Icon_QuickMenu_ArchitectTrial",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 65,
+    "UseTopAlert": true,
+    "ID": 17,
+    "CharObjcetID": 0,
+    "RedDotType": "LibraryDungeonSeasonStart",
+    "AlertString": "SysConst.LobbyAlert.LibraryDungeon_SeasonStart",
+    "LobbyAlertType": "Sub",
+    "IconRecource": "Icon_QuickMenu_LibraryDungeon",
+    "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 69,
+    "UseTopAlert": true,
+    "ID": 18,
+    "CharObjcetID": 0,
+    "RedDotType": "CoopDungeonSeasonStart",
+    "AlertString": "SysConst.LobbyAlert.CoopDungeon_SeasonStart",
+    "LobbyAlertType": "Sub",
+    "IconRecource": "Icon_QuickMenu_CoopDungeon",
     "TopAlertString": ""
   }
 ]

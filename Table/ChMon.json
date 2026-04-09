@@ -4730,7 +4730,7 @@
       11600110800,
       11600110900,
       11600111000,
-      11600111100,
+      11600112900,
       11600111200
     ],
     "MonsterGrade": "Boss",
@@ -9410,6 +9410,40 @@
       13500110800,
       13500110900,
       13500111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 13508,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "BT_WerewolfLock_Boss_100184",
+    "SkillGroupSet": [
+      13500110100,
+      13500110200,
+      13500110300,
+      13500110400,
+      13500111800,
+      13500111900,
+      13500110700,
+      13500110800,
+      13500110900,
+      13500111000,
+      13500111100,
+      13500112000,
+      13500112100,
+      13500111600,
+      13500111700,
+      13500111800
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -15546,6 +15580,32 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 18704,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      18700110800,
+      18700110900,
+      18700111000,
+      18700111100,
+      18700111200,
+      18700111300
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 1,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -16583,6 +16643,64 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 19109,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      100184006
+    ],
+    "BTName": "BT_Vampire_Female_Elite_100184",
+    "SkillGroupSet": [
+      19100111700,
+      19100112200
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 19110,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      194200001,
+      194200005,
+      194200011
+    ],
+    "BTName": "BT_Vampire_Female_Elite_19110",
+    "SkillGroupSet": [
+      19110110100,
+      19110110200,
+      19110110300,
+      19110110400,
+      19110110500,
+      19110110600,
+      19110110700,
+      19110110800,
+      19110110900,
+      19110111100,
+      19100111800,
+      19100111900,
+      19100112000,
+      19100112100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 19201,
     "FloatReplace": 2,
     "PassiveBuffID": [],
@@ -17059,6 +17177,47 @@
       19400112000,
       19400112100,
       19400112200
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 19408,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      194200002,
+      194200003,
+      194200011
+    ],
+    "BTName": "BT_Davorka_Boss_19408",
+    "SkillGroupSet": [
+      19410110100,
+      19410110200,
+      19410110300,
+      19410110400,
+      19410110500,
+      19410110600,
+      19410110700,
+      19410110800,
+      19410110900,
+      19410111900,
+      19410112000,
+      19400112400,
+      19400112500,
+      19400112600,
+      19400112700,
+      19400112800,
+      19400112900,
+      19400113000,
+      19400113100
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -18712,8 +18871,7 @@
       20300110900,
       20300111000,
       20300111200,
-      20300111500,
-      20300111600
+      20300111500
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -19345,6 +19503,32 @@
       20800110600
     ],
     "MonsterGrade": "Elite",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 20802,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      20800110100,
+      20800110200,
+      20800110300,
+      20800110400,
+      20800110700,
+      20800110600
+    ],
+    "MonsterGrade": "Boss",
     "PartList": [],
     "SummonMonsterList": [],
     "MonarchType": "None",
@@ -21358,6 +21542,33 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 22401,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      614060003
+    ],
+    "BTName": "BT_Emma_22401",
+    "SkillGroupSet": [
+      16200110100,
+      16200110200,
+      16200110300,
+      16200110400,
+      16200110700,
+      16200111000,
+      16200111500
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 1,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -22271,6 +22482,29 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 30139,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      30100110700,
+      30100110800,
+      30100110900,
+      30100111000,
+      30100111100
+    ],
+    "MonsterGrade": "Elite",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 0,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -22735,6 +22969,56 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 30221,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      30200110100,
+      30200110200,
+      30200110300,
+      30200110400,
+      30200110500,
+      30200110600,
+      30200110700
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 30222,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      30200110100,
+      30200110200,
+      30200110300,
+      30200110400,
+      30200110500,
+      30200110600,
+      30200110700
+    ],
+    "MonsterGrade": "Elite",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 30301,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -23108,6 +23392,60 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 30319,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      30300110100,
+      30300110300,
+      30300110400,
+      30300110500,
+      30300110600,
+      30300110700,
+      30300110800,
+      30300110900,
+      30300111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 30320,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      30300110100,
+      30300110300,
+      30300110400,
+      30300110500,
+      30300110600,
+      30300110700,
+      30300110800,
+      30300110900,
+      30300111000
+    ],
+    "MonsterGrade": "Elite",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 1,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -23400,6 +23738,56 @@
       30400110800,
       30400110900,
       30400111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 30412,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      30400110100,
+      30400110200,
+      30400110300,
+      30400110400,
+      30400110500,
+      30400110600,
+      30400110700,
+      30400110800,
+      30400110900,
+      30400111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 30413,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      162301013,
+      162401012
+    ],
+    "BTName": "BT_IceBear_Elite_A_30413",
+    "SkillGroupSet": [
+      30400111400
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -29506,6 +29894,32 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 32125,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      32100110100,
+      32100110200,
+      32100110300,
+      32100110400,
+      32100110500,
+      32100110600,
+      32100110700,
+      32100110800
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 32201,
     "FloatReplace": 2,
     "PassiveBuffID": [],
@@ -34555,6 +34969,33 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 33619,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "Undead_Elite_BT",
+    "SkillGroupSet": [
+      33600110100,
+      33600110200,
+      33600110300,
+      33600110400,
+      33600110500,
+      33600110600,
+      33600110700,
+      33600110800,
+      33600119900
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 0,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -36686,6 +37127,34 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 34018,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      34000110100,
+      34000110200,
+      34000110300,
+      34000110400,
+      34000110500,
+      34000110600,
+      34000110700,
+      34000110800,
+      34000110900,
+      34000111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 34101,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -38468,6 +38937,30 @@
       34600110900
     ],
     "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 34622,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      34600110100,
+      34600110200,
+      34600110400,
+      34600110500,
+      34600110800,
+      34600110900
+    ],
+    "MonsterGrade": "Elite",
     "PartList": [],
     "SummonMonsterList": [],
     "MonarchType": "None",
@@ -40874,6 +41367,34 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 35412,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "BT_Orc_LongSword_Elite_100182",
+    "SkillGroupSet": [
+      35400110100,
+      35400110200,
+      35400110300,
+      35400110400,
+      35400110500,
+      35400110800,
+      35400110900,
+      35400111000,
+      35400111100,
+      35400111200
+    ],
+    "MonsterGrade": "Elite",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 35501,
     "FloatReplace": 2,
     "PassiveBuffID": [],
@@ -41783,6 +42304,35 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 35808,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_DarkElf_Bow_Elite_35801",
+    "SkillGroupSet": [
+      35800110100,
+      35800110200,
+      35800110300,
+      35800110400,
+      35800110500,
+      35800110600,
+      35800110700,
+      35800110800,
+      35800110900,
+      35800111000,
+      35800111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 1,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -42289,6 +42839,62 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 36106,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "BT_Troll_Elite_36106",
+    "SkillGroupSet": [
+      36100110100,
+      36100110200,
+      36100110300,
+      36100110400,
+      36100110500,
+      36100110600,
+      36100110700,
+      36100110800,
+      36100110900,
+      36100111500
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 36107,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "BT_Troll_Elite_36107",
+    "SkillGroupSet": [
+      36100110100,
+      36100110200,
+      36100110300,
+      36100110400,
+      36100110500,
+      36100110600,
+      36100110700,
+      36100110800,
+      36100110900,
+      36100111500
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 36401,
     "FloatReplace": 2,
     "PassiveBuffID": [],
@@ -42444,6 +43050,34 @@
       36400111000
     ],
     "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 36407,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "BT_Giant_Elite",
+    "SkillGroupSet": [
+      36400110100,
+      36400110200,
+      36400110300,
+      36400110400,
+      36400110500,
+      36400110600,
+      36400110700,
+      36400110800,
+      36400110900,
+      36400111000
+    ],
+    "MonsterGrade": "Boss",
     "PartList": [],
     "SummonMonsterList": [],
     "MonarchType": "None",
@@ -43950,6 +44584,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 50436,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      50400110100,
+      50400110200,
+      50400110300,
+      50400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 50501,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -44561,6 +45217,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 50825,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      50800110100,
+      50800110200,
+      50800110300,
+      50800110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 50901,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -45070,6 +45748,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 51221,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51200110100,
+      51200110200,
+      51200110300,
+      51200110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 51301,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -45322,6 +46022,50 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 51313,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51300110100,
+      51300110200,
+      51300110300,
+      51300110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51315,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51300110100,
+      51300110200,
+      51300110300,
+      51300110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51316,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -45601,6 +46345,50 @@
       51400110300,
       51400110400,
       51400110600
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51414,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51400110100,
+      51400110200,
+      51400110300,
+      51400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51415,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51400110100,
+      51400110200,
+      51400110300,
+      51400110400
     ],
     "MonsterGrade": "Normal",
     "PartList": [],
@@ -45965,6 +46753,50 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 51518,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51500110100,
+      51500110200,
+      51500110300,
+      51500110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51519,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51500110100,
+      51500110200,
+      51500110300,
+      51500110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 51601,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -46239,6 +47071,50 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 51613,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51600110100,
+      51600110200,
+      51600110300,
+      51600110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51615,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51600110100,
+      51600110200,
+      51600110300,
+      51600110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51616,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -46629,6 +47505,50 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 51807,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51800110100,
+      51800110200,
+      51800110400,
+      51800110500
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51808,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51800110100,
+      51800110200,
+      51800110400,
+      51800110500
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 51901,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -46792,6 +47712,50 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 51908,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51800110100,
+      51800110200,
+      51800110300,
+      51800110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 51909,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51800110100,
+      51800110200,
+      51800110300,
+      51800110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 52001,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -46931,6 +47895,50 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 52007,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51800110100,
+      51800110200,
+      51800110300,
+      51800110500
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 52008,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      51800110100,
+      51800110200,
+      51800110300,
+      51800110500
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 52009,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -56818,6 +57826,48 @@
     "SkillGroupSet": [
       54700110100,
       54900110200
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 54903,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      100182006
+    ],
+    "BTName": "BT_TowerOfTrials_YellowStone_100184",
+    "SkillGroupSet": [
+      54900110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 54904,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      100182006
+    ],
+    "BTName": "BT_TowerOfTrials_YellowStone_100184_01",
+    "SkillGroupSet": [
+      54900110400
     ],
     "MonsterGrade": "Normal",
     "PartList": [],
@@ -71621,6 +72671,48 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 58827,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_Undead_Elena_Common",
+    "SkillGroupSet": [
+      58800110100,
+      58800110200,
+      58800110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 58828,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      58800110100,
+      58800110200,
+      58800110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 58901,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -72191,6 +73283,48 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 58927,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_Undead_Elena_Common",
+    "SkillGroupSet": [
+      58800110100,
+      58800110200,
+      58800110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 58928,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      58800110100,
+      58800110200,
+      58800110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 59001,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -72677,6 +73811,48 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 59025,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      58800110100,
+      58800110200,
+      58800110600
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 59027,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_Undead_Elena_Common",
+    "SkillGroupSet": [
+      58800110100,
+      58800110200,
+      58800110600
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 59028,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -78485,6 +79661,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 60225,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      60200110100,
+      60200110200,
+      60200110300,
+      60200110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 60301,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -78911,6 +80109,28 @@
       60300110300,
       60300110400,
       153100110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 60321,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      60300110100,
+      60300110200,
+      60300110300,
+      60300110400
     ],
     "MonsterGrade": "Normal",
     "PartList": [],
@@ -79473,6 +80693,47 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 60426,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_DemonSoldier_CrossBow_100185",
+    "SkillGroupSet": [
+      60400110600
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 60427,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      60400110100,
+      60400110200,
+      60400110300,
+      60400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 60501,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -79760,6 +81021,47 @@
       60500110100,
       60500110200,
       60500110300
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 60516,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_DemonSoldier_Staff_100185",
+    "SkillGroupSet": [
+      60500110500
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 60517,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      60500110100,
+      60500110200,
+      60500110300,
+      60500110400
     ],
     "MonsterGrade": "Normal",
     "PartList": [],
@@ -90200,6 +91502,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 65719,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      65700110100,
+      65700110200,
+      65700110300,
+      65700110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 65801,
     "FloatReplace": 0,
     "PassiveBuffID": [
@@ -90439,6 +91763,28 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 65812,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      65800110100,
+      65800110200,
+      65800110300,
+      65800110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 65813,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -90728,6 +92074,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 65913,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "SkillGroupSet": [
+      65900110100,
+      65900110200,
+      65900110300,
+      65900110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 66001,
     "FloatReplace": 0,
     "PassiveBuffID": [
@@ -90952,6 +92320,28 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 66011,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      66000110100,
+      66000110200,
+      66000110300,
+      66000110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 66012,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -92302,6 +93692,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 67008,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      67000110100,
+      67000110200,
+      67000110300,
+      67000110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 67101,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -92438,6 +93850,28 @@
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
     "ID": 67107,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      67100110100,
+      67100110200,
+      67100110300,
+      67100110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 67108,
     "FloatReplace": 0,
     "PassiveBuffID": [],
     "BTName": "",
@@ -92611,6 +94045,28 @@
     "MonsterCategory": "None"
   },
   {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 67208,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      67200110100,
+      67200110200,
+      67200110300,
+      67200110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
     "KnockDownReplace": 1,
     "AttachWeaponGroupID": 0,
     "UnUsedEncountNotice": true,
@@ -92744,6 +94200,28 @@
       67300110300,
       67300110400,
       153100110600
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 67307,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      67300110100,
+      67300110200,
+      67300110300,
+      67300110400
     ],
     "MonsterGrade": "Normal",
     "PartList": [],
@@ -92917,6 +94395,28 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 67408,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      67400110100,
+      67400110200,
+      67400110300,
+      67400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 67501,
     "FloatReplace": 2,
     "PassiveBuffID": [],
@@ -93045,6 +94545,28 @@
       67500110300,
       67500110400,
       153100111700
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 67507,
+    "FloatReplace": 2,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      67500110100,
+      67500110200,
+      67500110300,
+      67500110400
     ],
     "MonsterGrade": "Normal",
     "PartList": [],
@@ -99020,6 +100542,26 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 160402,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      100182001,
+      100182015
+    ],
+    "BTName": "BT_BaltairTotem_160402",
+    "SkillGroupSet": [],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 160501,
     "FloatReplace": 0,
     "PassiveBuffID": [],
@@ -99466,6 +101008,88 @@
       162200110200
     ],
     "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 162301,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      162301013
+    ],
+    "BTName": "BT_YooSooHyunDrone_162301",
+    "SkillGroupSet": [
+      162300110100,
+      162300110200
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 162302,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      162301013
+    ],
+    "BTName": "BT_YooSooHyunDrone_162302",
+    "SkillGroupSet": [
+      162300110300,
+      162300110400
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 162401,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "",
+    "SkillGroupSet": [
+      162400110100
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 162501,
+    "FloatReplace": 0,
+    "PassiveBuffID": [],
+    "BTName": "BT_HobgoblinChief_Blank_162501",
+    "SkillGroupSet": [
+      162500110100
+    ],
+    "MonsterGrade": "Normal",
     "PartList": [],
     "SummonMonsterList": [],
     "MonarchType": "None",
@@ -100457,6 +102081,80 @@
       16000111500,
       16000111600,
       16000111700
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 213201,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "KingAnt_Boss_Story_BT",
+    "SkillGroupSet": [
+      18400110100,
+      18400110200,
+      18400110300,
+      18400110400,
+      18400110500,
+      18400110600,
+      18400110700,
+      18400110800,
+      18400110900,
+      18400111000,
+      18400111100,
+      18400111200,
+      18400111300,
+      18400111400,
+      18400111500,
+      18400111600
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 213601,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_Higos_Boss_19601",
+    "SkillGroupSet": [
+      19600110100,
+      19600110200,
+      19600110300,
+      19600110500,
+      19600110600,
+      19600110700,
+      19600110800,
+      19600110900,
+      19600111000,
+      19600111100,
+      19600111200,
+      19600111300,
+      19600111400,
+      19600111500,
+      19600111600,
+      19600111700,
+      19600111800,
+      19600111900
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -101528,6 +103226,373 @@
       34900110600,
       34900110700,
       34900110800
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 233801,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "Centauros_Spear_Elite_BT",
+    "SkillGroupSet": [
+      35200110100,
+      35200110200,
+      35200110300,
+      35200110400,
+      35200110500,
+      35200110600,
+      35200110700,
+      35200110800,
+      35200110900,
+      35200111000,
+      35200111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 233901,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "Naga_Elite_BT",
+    "SkillGroupSet": [
+      35300110100,
+      35300110200,
+      35300110300,
+      35300110400,
+      35300110500,
+      35300110600,
+      35300110700,
+      35300110800,
+      35300110900,
+      35300111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234001,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      35400110100,
+      35400110200,
+      35400110300,
+      35400110400,
+      35400110500,
+      35400110800,
+      35400110900,
+      35400111000,
+      35400111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234101,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      35500110100,
+      35500110200,
+      35500110300,
+      35500110400,
+      35500110500,
+      35500110600,
+      35500110700,
+      35500110800,
+      35500110900,
+      35500111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234201,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      35600110100,
+      35600110200,
+      35600110300,
+      35600110400,
+      35600110500,
+      35600110600,
+      35600110700,
+      35600110800,
+      35600110900,
+      35600111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234301,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_DarkElf_LongSword_Elite_35701",
+    "SkillGroupSet": [
+      35700110100,
+      35700110200,
+      35700110300,
+      35700110400,
+      35700110500,
+      35700110600,
+      35700110700,
+      35700110800,
+      35700110900,
+      35700111000,
+      35700111100,
+      35700111200
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234401,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_DarkElf_Bow_Elite_35801",
+    "SkillGroupSet": [
+      35800110100,
+      35800110200,
+      35800110300,
+      35800110400,
+      35800110500,
+      35800110600,
+      35800110700,
+      35800110800,
+      35800110900,
+      35800111000,
+      35800111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234501,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "Boss_Ogre_Elite_35901",
+    "SkillGroupSet": [
+      35900110100,
+      35900110200,
+      35900110300,
+      35900110400,
+      35900110500,
+      35900110600,
+      35900110700,
+      35900110800,
+      35900110900,
+      35900111000,
+      35900111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234601,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_Troll_Elite_36101",
+    "SkillGroupSet": [
+      36100110100,
+      36100110200,
+      36100110300,
+      36100110400,
+      36100110500,
+      36100110600,
+      36100110700,
+      36100110800,
+      36100110900,
+      36100111000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234701,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_ArmedLizard_Elite",
+    "SkillGroupSet": [
+      36000110100,
+      36000110200,
+      36000110300,
+      36000110400,
+      36000110500,
+      36000110600,
+      36000110700,
+      36000110800,
+      36000110900,
+      36000111000,
+      36000111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234801,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "RedAnt_3rd_Fly_Elite_BT",
+    "SkillGroupSet": [
+      34200110100,
+      34200110200,
+      34200110300,
+      34200110400,
+      34200110500,
+      34200110600,
+      34200110700,
+      34200110800,
+      34200110900,
+      34200111000,
+      34200111100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 1,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 234901,
+    "FloatReplace": 2,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      34220110100,
+      34220110200,
+      34220110300,
+      34220110400,
+      34220110500,
+      34220110600,
+      34220110700,
+      34220110800,
+      34220110900,
+      34220111000,
+      34220111100
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -102970,6 +105035,702 @@
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
     "MultiColliderTarget": true,
+    "ID": 256101,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      63700110100,
+      63700110200,
+      63700110300,
+      63700110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256201,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      63800110100,
+      63800110200,
+      63800110300,
+      63800110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256301,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65400110100,
+      65400110200,
+      65400110300,
+      65400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256401,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65500110100,
+      65500110200,
+      65500110300,
+      65500110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256501,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65100110100,
+      65100110200,
+      65100110300,
+      65100110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256601,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65200110100,
+      65200110200,
+      65200110300,
+      65200110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256701,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65300110100,
+      65300110200,
+      65300110300,
+      65300110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256801,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65700110100,
+      65700110200,
+      65700110300,
+      65700110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 256901,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      65800110100,
+      65800110200,
+      65800110300,
+      65800110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257001,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "Boss_PlayerTarget_Story_BT",
+    "SkillGroupSet": [
+      65900110100,
+      65900110200,
+      65900110300,
+      65900110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257101,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66000110100,
+      66000110200,
+      66000110300,
+      66000110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257201,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66100110100,
+      66100110200,
+      66100110300,
+      66100110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257301,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66200110100,
+      66200110200,
+      66200110300,
+      66200110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257401,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66300110100,
+      66300110200,
+      66300110300,
+      66300110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257501,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      60900110100,
+      60900110200,
+      60900110300,
+      60900110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257601,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      60910110100,
+      60910110200,
+      60910110300,
+      60910110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257701,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      61000110100,
+      61000110200,
+      61000110300,
+      61000110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257801,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      61010110100,
+      61010110200,
+      61010110300,
+      61010110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 257901,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      61100110100,
+      61100110200,
+      61100110300,
+      61100110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258001,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      61110110100,
+      61110110200,
+      61110110300,
+      61110110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258101,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66400110100,
+      66400110200,
+      66400110300,
+      66400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258201,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66500110100,
+      66500110200,
+      66500110300,
+      66500110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258301,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      66600110100,
+      66600110200,
+      66600110300,
+      66600110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258401,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      67000110100,
+      67000110200,
+      67000110300,
+      67000110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258501,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      67100110100,
+      67100110200,
+      67100110300,
+      67100110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258601,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      67200110100,
+      67200110200,
+      67200110300,
+      67200110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258701,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      63400110100,
+      63400110200,
+      63400110300,
+      63400110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258801,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      63500110100,
+      63500110200,
+      63500110300,
+      63500110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 258901,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "",
+    "SkillGroupSet": [
+      63600110100,
+      63600110200,
+      63600110300,
+      63600110400
+    ],
+    "MonsterGrade": "Normal",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
     "ID": 259001,
     "FloatReplace": 0,
     "PassiveBuffID": [
@@ -103180,6 +105941,141 @@
       16301121800,
       16301121900,
       16301122000
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 270104,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_Sungjinwoo_Dimension_4",
+    "SkillGroupSet": [
+      16301110100,
+      16301110300,
+      16301110400,
+      16301110500,
+      16301110600,
+      16301110700,
+      16301110800,
+      16301110900,
+      16301111000,
+      16301122700,
+      16301122800,
+      16301122900,
+      16301123000,
+      16301123100,
+      16301123200,
+      16301123300,
+      16301123400,
+      16301123500,
+      16301123600,
+      16301123700,
+      16301123800,
+      16301123900,
+      16301124000,
+      16301124100,
+      16301124200,
+      16301124300,
+      16301124400,
+      16301124500,
+      16301124600,
+      16301126500,
+      16301126600,
+      16301126700,
+      16301126800,
+      16301126900,
+      16301127000,
+      16301127800,
+      16301128100,
+      16301128300,
+      16301128400,
+      16301128500,
+      16301128600,
+      16301129300,
+      16301129400,
+      16301129500,
+      16301129600,
+      16301129700,
+      16301129800
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 0,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 270105,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_Sungjinwoo_Dimension_5",
+    "SkillGroupSet": [
+      16301110100,
+      16301110300,
+      16301110400,
+      16301110500,
+      16301110600,
+      16301110700,
+      16301110800,
+      16301110900,
+      16301111000,
+      16301122700,
+      16301122800,
+      16301124700,
+      16301124800,
+      16301124900,
+      16301125000,
+      16301125100,
+      16301125200,
+      16301125300,
+      16301125400,
+      16301125500,
+      16301125600,
+      16301125700,
+      16301125800,
+      16301125900,
+      16301126000,
+      16301126100,
+      16301126200,
+      16301126300,
+      16301126400,
+      16301127100,
+      16301127200,
+      16301127300,
+      16301127400,
+      16301127500,
+      16301127600,
+      16301127700,
+      16301128700,
+      16301128800,
+      16301128900,
+      16301129000,
+      16301129100,
+      16301129200,
+      16301129900,
+      16301130000,
+      16301130100,
+      16301130200,
+      16301130300,
+      16301130400
     ],
     "MonsterGrade": "Boss",
     "PartList": [],
@@ -103827,6 +106723,30 @@
   },
   {
     "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 351,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 271802,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      142020006,
+      1200209000
+    ],
+    "BTName": "BT_SimGate_Supporter",
+    "SkillGroupSet": [
+      271800119900
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [
+      271901
+    ],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
     "AttachWeaponGroupID": 361,
     "UnUsedEncountNotice": true,
     "BaseInteractionID": 0,
@@ -103839,6 +106759,101 @@
     "BTName": "BT_ShimizuAkari_Boss_Supporter",
     "SkillGroupSet": [
       27190110100
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 381,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 272001,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_TawataKanae_Boss",
+    "SkillGroupSet": [
+      272000110100,
+      272000110200,
+      272000110300,
+      272000110400,
+      272000110500,
+      272000110600,
+      272000110700,
+      272000110800,
+      272000110900,
+      272000111000,
+      272000111100,
+      272000111200
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [
+      271802
+    ],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 481,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 272101,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      2000000001
+    ],
+    "BTName": "BT_SungIlHwan_Boss",
+    "SkillGroupSet": [
+      272100110100,
+      272100110200,
+      272100110300,
+      272100110400,
+      272100110500,
+      272100110600,
+      272100110700,
+      272100110800,
+      272100110900,
+      272100111000,
+      272100111100,
+      272100111200,
+      272100111300,
+      272100111400,
+      272100111500
+    ],
+    "MonsterGrade": "Boss",
+    "PartList": [],
+    "SummonMonsterList": [
+      272201
+    ],
+    "MonarchType": "None",
+    "MonsterCategory": "None"
+  },
+  {
+    "KnockDownReplace": 0,
+    "AttachWeaponGroupID": 441,
+    "UnUsedEncountNotice": true,
+    "BaseInteractionID": 0,
+    "MultiColliderTarget": true,
+    "ID": 272201,
+    "FloatReplace": 0,
+    "PassiveBuffID": [
+      142020006
+    ],
+    "BTName": "BT_SungJinAh_Boss_Supporter",
+    "SkillGroupSet": [
+      272200110100,
+      272200110200,
+      272200110300,
+      272200110400
     ],
     "MonsterGrade": "Boss",
     "PartList": [],

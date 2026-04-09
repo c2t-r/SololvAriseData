@@ -1358,5 +1358,229 @@
     "SortCategory": "Acquisition",
     "ContentsType": "ArtifactDungeon",
     "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 190,
+    "GroupID": 1,
+    "SortCategory": "WBMileageBonus",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.WorldBoss.WBMileageBonus"
+  },
+  {
+    "Order": 2,
+    "ID": 191,
+    "GroupID": 1,
+    "SortCategory": "Power",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 3,
+    "ID": 192,
+    "GroupID": 1,
+    "SortCategory": "Level",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 4,
+    "ID": 193,
+    "GroupID": 1,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 5,
+    "ID": 194,
+    "GroupID": 1,
+    "SortCategory": "Att",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "ESortCategory.Att"
+  },
+  {
+    "Order": 6,
+    "ID": 195,
+    "GroupID": 1,
+    "SortCategory": "HP",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.GlossaryCombat.StatMHP"
+  },
+  {
+    "Order": 7,
+    "ID": 196,
+    "GroupID": 1,
+    "SortCategory": "Arm",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "EStatType.Arm"
+  },
+  {
+    "Order": 8,
+    "ID": 197,
+    "GroupID": 1,
+    "SortCategory": "Acquisition",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 198,
+    "GroupID": 2,
+    "SortCategory": "WBMileageBonus",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.WorldBoss.WBMileageBonus"
+  },
+  {
+    "Order": 2,
+    "ID": 199,
+    "GroupID": 2,
+    "SortCategory": "Level",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 200,
+    "GroupID": 2,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 4,
+    "ID": 201,
+    "GroupID": 2,
+    "SortCategory": "ID",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.SortTypeID"
+  },
+  {
+    "Order": 5,
+    "ID": 202,
+    "GroupID": 2,
+    "SortCategory": "Power",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 6,
+    "ID": 203,
+    "GroupID": 2,
+    "SortCategory": "SkillLevel",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.SJWPage.PassiveSkillRuneSkillLevel"
+  },
+  {
+    "Order": 7,
+    "ID": 204,
+    "GroupID": 2,
+    "SortCategory": "Evolve",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Ascend"
+  },
+  {
+    "Order": 8,
+    "ID": 205,
+    "GroupID": 2,
+    "SortCategory": "Acquisition",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 206,
+    "GroupID": 2,
+    "SortCategory": "WBMileageBonus",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.WorldBoss.WBMileageBonus"
+  },
+  {
+    "Order": 2,
+    "ID": 207,
+    "GroupID": 3,
+    "SortCategory": "Level",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Level"
+  },
+  {
+    "Order": 3,
+    "ID": 208,
+    "GroupID": 3,
+    "SortCategory": "BaseGradeType",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 4,
+    "ID": 209,
+    "GroupID": 3,
+    "SortCategory": "ID",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.SortTypeID"
+  },
+  {
+    "Order": 5,
+    "ID": 210,
+    "GroupID": 3,
+    "SortCategory": "Power",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Power"
+  },
+  {
+    "Order": 6,
+    "ID": 211,
+    "GroupID": 3,
+    "SortCategory": "Evolve",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "SysConstStr.Glossary.Ascend"
+  },
+  {
+    "Order": 7,
+    "ID": 212,
+    "GroupID": 3,
+    "SortCategory": "Acquisition",
+    "ContentsType": "WorldBoss",
+    "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 213,
+    "GroupID": 4,
+    "SortCategory": "Grade",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.Glossary.ArtifactGrade"
+  },
+  {
+    "Order": 2,
+    "ID": 214,
+    "GroupID": 4,
+    "SortCategory": "Rarity",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.InventoryFilter.ArtiRarity"
+  },
+  {
+    "Order": 3,
+    "ID": 215,
+    "GroupID": 4,
+    "SortCategory": "Enhance",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.Glossary.EnhanceStep"
+  },
+  {
+    "Order": 4,
+    "ID": 216,
+    "GroupID": 4,
+    "SortCategory": "EquipmentType",
+    "ContentsType": "Artifact",
+    "CategoryString": "SysConstStr.Glossary.ArtifactEquipmentType"
+  },
+  {
+    "Order": 5,
+    "ID": 217,
+    "GroupID": 4,
+    "SortCategory": "Acquisition",
+    "ContentsType": "Artifact",
+    "CategoryString": "ESortCategory.Obtain"
   }
 ]

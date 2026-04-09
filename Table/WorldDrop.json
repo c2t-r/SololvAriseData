@@ -1961,5 +1961,89 @@
     "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
     "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2603",
     "DisplayItemName": "WorldDropDesc.EventItemName_6"
+  },
+  {
+    "ShopMoveTarget": 50128,
+    "DropRate": 3300,
+    "WorldDropGroupID": 23,
+    "DisplayRewardGroupID": 2061002,
+    "IsPrivateData": true,
+    "ID": 2301,
+    "Unused": true,
+    "RewardGroupID": 2061001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2604",
+    "DisplayItemName": "WorldDropDesc.EventItemName_7"
+  },
+  {
+    "ShopMoveTarget": 50128,
+    "DropRate": 3300,
+    "WorldDropGroupID": 23,
+    "DisplayRewardGroupID": 2061002,
+    "IsPrivateData": true,
+    "ID": 2302,
+    "Unused": true,
+    "RewardGroupID": 2061001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ArtifactDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2604",
+    "DisplayItemName": "WorldDropDesc.EventItemName_7"
+  },
+  {
+    "ShopMoveTarget": 50128,
+    "DropRate": 3300,
+    "WorldDropGroupID": 23,
+    "DisplayRewardGroupID": 2061002,
+    "IsPrivateData": true,
+    "ID": 2303,
+    "Unused": true,
+    "RewardGroupID": 2061001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2604",
+    "DisplayItemName": "WorldDropDesc.EventItemName_7"
   }
 ]
