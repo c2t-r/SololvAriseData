@@ -138,6 +138,29 @@
     "Tab": "Common"
   },
   {
+    "ID": 500108,
+    "Sort": 108,
+    "CosDupRewardGroup": 1002002,
+    "CodexDisplay": true,
+    "EventLobbyGroup": 0,
+    "CodexDisplayTime": "",
+    "BGMKey": "BGM_Jukebox_Evolution",
+    "BGMImgOffsetX": [
+      0
+    ],
+    "BGMThumnail": "Item_BGM_Common_Title_01",
+    "BGMImg": [
+      "BG_BGM_Common_Title_01",
+      "BG_BGM_Common_Title_02"
+    ],
+    "ItemRarity": "Rare",
+    "MusicDesc": "Bgm_Desc_BGM_Evolution",
+    "LinkMoveTarget": [],
+    "Artist": "Bgm_Artist_Netmarble",
+    "MusicTitle": "Bgm_Title_BGM_Evolution",
+    "Tab": "Common"
+  },
+  {
     "ID": 500201,
     "Sort": 204,
     "CosDupRewardGroup": 1002002,
@@ -527,6 +550,30 @@
     ],
     "Artist": "Bgm_Artist_SoundTeam",
     "MusicTitle": "Bgm_Title_Monarch_of_Iron_Body",
+    "Tab": "Dungeon"
+  },
+  {
+    "ID": 500318,
+    "Sort": 300,
+    "CosDupRewardGroup": 1002002,
+    "CodexDisplay": true,
+    "EventLobbyGroup": 95025,
+    "CodexDisplayTime": "",
+    "BGMKey": "BGM_Jukebox_Crystal_Myro",
+    "BGMImgOffsetX": [
+      0
+    ],
+    "BGMThumnail": "Item_BGM_Battle_Successor_Myro_01",
+    "BGMImg": [
+      "BG_BGM_Battle_Successor_Myro_01"
+    ],
+    "ItemRarity": "Epic",
+    "MusicDesc": "Bgm_Desc_Battle_Successor_Myro_01",
+    "LinkMoveTarget": [
+      50132
+    ],
+    "Artist": "Bgm_Artist_KangHanGyeol",
+    "MusicTitle": "Bgm_Title_Battle_Successor_Myro_01",
     "Tab": "Dungeon"
   }
 ]

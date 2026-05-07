@@ -2,6 +2,7 @@
   {
     "DelayTime": 0,
     "ID": 101,
+    "PushValue2": 0,
     "PushValue": 2160,
     "Unused": true,
     "LocalPushGroupID": 1,
@@ -12,6 +13,7 @@
   {
     "DelayTime": 0,
     "ID": 102,
+    "PushValue2": 0,
     "PushValue": 4320,
     "Unused": true,
     "LocalPushGroupID": 1,
@@ -22,6 +24,7 @@
   {
     "DelayTime": 0,
     "ID": 103,
+    "PushValue2": 0,
     "PushValue": 6480,
     "Unused": true,
     "LocalPushGroupID": 1,
@@ -32,6 +35,7 @@
   {
     "DelayTime": 0,
     "ID": 104,
+    "PushValue2": 0,
     "PushValue": 8640,
     "Unused": true,
     "LocalPushGroupID": 1,
@@ -42,6 +46,7 @@
   {
     "DelayTime": 0,
     "ID": 201,
+    "PushValue2": 0,
     "PushValue": 1,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -52,6 +57,7 @@
   {
     "DelayTime": 0,
     "ID": 202,
+    "PushValue2": 0,
     "PushValue": 2,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -62,6 +68,7 @@
   {
     "DelayTime": 0,
     "ID": 203,
+    "PushValue2": 0,
     "PushValue": 3,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -72,6 +79,7 @@
   {
     "DelayTime": 0,
     "ID": 204,
+    "PushValue2": 0,
     "PushValue": 4,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -82,6 +90,7 @@
   {
     "DelayTime": 0,
     "ID": 205,
+    "PushValue2": 0,
     "PushValue": 0,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -92,6 +101,7 @@
   {
     "DelayTime": 120,
     "ID": 206,
+    "PushValue2": 0,
     "PushValue": 0,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -102,6 +112,7 @@
   {
     "DelayTime": 180,
     "ID": 207,
+    "PushValue2": 0,
     "PushValue": 0,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -112,6 +123,7 @@
   {
     "DelayTime": 240,
     "ID": 208,
+    "PushValue2": 0,
     "PushValue": 0,
     "Unused": true,
     "LocalPushGroupID": 2,
@@ -122,11 +134,45 @@
   {
     "DelayTime": 300,
     "ID": 209,
+    "PushValue2": 0,
     "PushValue": 0,
     "Unused": true,
     "LocalPushGroupID": 2,
     "PushMassageTextString": "SysConstStr.LocalPush.OtherWorldOpen_Text",
     "PushMassageTitleString": "SysConstStr.LocalPush.OtherWorldOpen_Title",
     "LocalPushType": "OtherWorld"
+  },
+  {
+    "DelayTime": 0,
+    "ID": 301,
+    "PushValue2": 70049,
+    "PushValue": 4320,
+    "Unused": true,
+    "LocalPushGroupID": 3,
+    "PushMassageTextString": "SysConstStr.LocalPush.Attendance2Year_Text_3",
+    "PushMassageTitleString": "SysConstStr.LocalPush.Attendance2Year_Title",
+    "LocalPushType": "AttendanceNotLoginTime"
+  },
+  {
+    "DelayTime": 0,
+    "ID": 302,
+    "PushValue2": 70049,
+    "PushValue": 10080,
+    "Unused": true,
+    "LocalPushGroupID": 3,
+    "PushMassageTextString": "SysConstStr.LocalPush.Attendance2Year_Text_7",
+    "PushMassageTitleString": "SysConstStr.LocalPush.Attendance2Year_Title",
+    "LocalPushType": "AttendanceNotLoginTime"
+  },
+  {
+    "DelayTime": 0,
+    "ID": 303,
+    "PushValue2": 70049,
+    "PushValue": 14400,
+    "Unused": true,
+    "LocalPushGroupID": 3,
+    "PushMassageTextString": "SysConstStr.LocalPush.Attendance2Year_Text_7",
+    "PushMassageTitleString": "SysConstStr.LocalPush.Attendance2Year_Title",
+    "LocalPushType": "AttendanceNotLoginTime"
   }
 ]

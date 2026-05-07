@@ -11,7 +11,7 @@
     "ID": 100,
     "AddBattlePower": 0,
     "MainPcGrade": 0,
-    "SweepPoint": 30,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 2002101000000,
     "BattleSquadDataID": 0,
@@ -52,7 +52,7 @@
     "ID": 101,
     "AddBattlePower": 0,
     "MainPcGrade": 1,
-    "SweepPoint": 40,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001901000100,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
@@ -130,7 +130,7 @@
     "ID": 102,
     "AddBattlePower": 0,
     "MainPcGrade": 2,
-    "SweepPoint": 55,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001201000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
@@ -166,8 +166,7 @@
     "ConditionString": "SysConstStr.ConditionString.SJW_B",
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowAssassin",
     "JobStageConID": [
-      213,
-      214
+      213
     ],
     "JobName": "SysConstStr.JobName.SJW_B"
   },
@@ -183,7 +182,7 @@
     "ID": 103,
     "AddBattlePower": 0,
     "MainPcGrade": 3,
-    "SweepPoint": 70,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001901000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
@@ -231,7 +230,7 @@
     "ID": 104,
     "AddBattlePower": 0,
     "MainPcGrade": 4,
-    "SweepPoint": 85,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001306000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
@@ -286,7 +285,7 @@
     "ID": 105,
     "AddBattlePower": 0,
     "MainPcGrade": 5,
-    "SweepPoint": 100,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001302000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
@@ -320,7 +319,6 @@
     "ConditionString": "SysConstStr.ConditionString.SJW_S_02",
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_2",
     "JobStageConID": [
-      1020,
       1021
     ],
     "JobName": "SysConstStr.JobName.SJW_S_02"
@@ -337,11 +335,11 @@
     "ID": 106,
     "AddBattlePower": 0,
     "MainPcGrade": 6,
-    "SweepPoint": 115,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001303000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.25,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201012,
     "MainPcID": 1,
@@ -372,14 +370,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_3",
     "JobStageConID": [
       1120,
-      1121,
       1122
     ],
     "JobName": "SysConstStr.JobName.SJW_S_03"
   },
   {
     "StageMonsterSkillLevel": 1,
-    "BaseStatPoint": 0,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9018,
     "StageMonsterLevel": 1,
@@ -389,7 +386,7 @@
     "ID": 107,
     "AddBattlePower": 3000,
     "MainPcGrade": 7,
-    "SweepPoint": 130,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001304000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 2,
@@ -424,14 +421,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_4",
     "JobStageConID": [
       1220,
-      1221,
       1222
     ],
     "JobName": "SysConstStr.JobName.SJW_S_04"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 0,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9020,
     "StageMonsterLevel": 0,
@@ -441,11 +437,11 @@
     "ID": 108,
     "AddBattlePower": 7000,
     "MainPcGrade": 8,
-    "SweepPoint": 145,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001901000200,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.30000001192092896,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201016,
     "MainPcID": 1,
@@ -476,14 +472,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_5",
     "JobStageConID": [
       1320,
-      1321,
       1322
     ],
     "JobName": "SysConstStr.JobName.SJW_S_05"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 0,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9022,
     "StageMonsterLevel": 0,
@@ -493,11 +488,11 @@
     "ID": 109,
     "AddBattlePower": 11000,
     "MainPcGrade": 9,
-    "SweepPoint": 160,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.32499998807907104,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201018,
     "MainPcID": 1,
@@ -526,14 +521,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_6",
     "JobStageConID": [
       1420,
-      1421,
       1422
     ],
     "JobName": "SysConstStr.JobName.SJW_S_06"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 0,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9024,
     "StageMonsterLevel": 0,
@@ -543,11 +537,11 @@
     "ID": 110,
     "AddBattlePower": 15000,
     "MainPcGrade": 10,
-    "SweepPoint": 175,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.3499999940395355,
     "JobConVal": 3001005,
     "GainSkinDisplay": 0,
     "MainPcID": 1,
@@ -576,14 +570,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_7",
     "JobStageConID": [
       1520,
-      1521,
       1522
     ],
     "JobName": "SysConstStr.JobName.SJW_S_07"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 10,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9025,
     "StageMonsterLevel": 0,
@@ -593,11 +586,11 @@
     "ID": 111,
     "AddBattlePower": 19000,
     "MainPcGrade": 11,
-    "SweepPoint": 190,
+    "SweepPoint": 0,
     "GainSkillDisplay": 1001305000000,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.375,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201023,
     "MainPcID": 1,
@@ -628,14 +621,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_8",
     "JobStageConID": [
       1620,
-      1621,
       1622
     ],
     "JobName": "SysConstStr.JobName.SJW_S_08"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 10,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9027,
     "StageMonsterLevel": 0,
@@ -645,11 +637,11 @@
     "ID": 112,
     "AddBattlePower": 23000,
     "MainPcGrade": 12,
-    "SweepPoint": 205,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.4000000059604645,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201024,
     "MainPcID": 1,
@@ -676,14 +668,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_9",
     "JobStageConID": [
       1720,
-      1721,
       1722
     ],
     "JobName": "SysConstStr.JobName.SJW_S_09"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 10,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9029,
     "StageMonsterLevel": 0,
@@ -693,11 +684,11 @@
     "ID": 113,
     "AddBattlePower": 27000,
     "MainPcGrade": 13,
-    "SweepPoint": 220,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.42500001192092896,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201027,
     "MainPcID": 1,
@@ -726,14 +717,13 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_10",
     "JobStageConID": [
       1820,
-      1821,
       1822
     ],
     "JobName": "SysConstStr.JobName.SJW_S_10"
   },
   {
     "StageMonsterSkillLevel": 0,
-    "BaseStatPoint": 10,
+    "BaseStatPoint": 30,
     "GainEmblemSlot": true,
     "GainReward": 9030,
     "StageMonsterLevel": 0,
@@ -743,11 +733,11 @@
     "ID": 114,
     "AddBattlePower": 31000,
     "MainPcGrade": 14,
-    "SweepPoint": 235,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 1001106000000,
     "BattleSquadDataID": 0,
-    "AddBattlePowerR": 0.2750000059604645,
+    "AddBattlePowerR": 0.44999998807907104,
     "JobConVal": 3001005,
     "GainSkinDisplay": 201031,
     "MainPcID": 1,
@@ -774,10 +764,56 @@
     "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_11",
     "JobStageConID": [
       1920,
-      1921,
       1922
     ],
     "JobName": "SysConstStr.JobName.SJW_S_11"
+  },
+  {
+    "StageMonsterSkillLevel": 0,
+    "BaseStatPoint": 30,
+    "GainEmblemSlot": true,
+    "GainReward": 9041,
+    "StageMonsterLevel": 0,
+    "StageRecommendedPower": 0,
+    "JobCostumeID": 201035,
+    "JobStageID": 1015,
+    "ID": 115,
+    "AddBattlePower": 35000,
+    "MainPcGrade": 15,
+    "SweepPoint": 0,
+    "GainSkillDisplay": 0,
+    "JobCoreAtkSkill": 1001106000000,
+    "BattleSquadDataID": 0,
+    "AddBattlePowerR": 0.4749999940395355,
+    "JobConVal": 3001005,
+    "GainSkinDisplay": 201035,
+    "MainPcID": 1,
+    "ResourceID": 6,
+    "AutoSetSkill": true,
+    "JobBaseAtkSkill": [
+      1001001000000,
+      1001002000000,
+      1001003000000
+    ],
+    "GainSkillGroupID": [],
+    "JobIconName": "Icon_JobClass_ShadowLord_12",
+    "ExceptSkillGroupID": [],
+    "JobProducionMovieScene": "Levelup_Dungeon_ChangeJob_SJW_ThroneRoom",
+    "JobGrade": "S",
+    "GainRewardDisplay": [],
+    "JobOpenConID": [
+      2010,
+      2011
+    ],
+    "JobConType": "Achieve",
+    "JobProducionMovie": "Sjw_JobMovie_14",
+    "ConditionString": "SysConstStr.ConditionString.SJW_S_12",
+    "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_12",
+    "JobStageConID": [
+      2020,
+      2022
+    ],
+    "JobName": "SysConstStr.JobName.SJW_S_12"
   },
   {
     "StageMonsterSkillLevel": 0,
@@ -791,7 +827,7 @@
     "ID": 1000001,
     "AddBattlePower": 0,
     "MainPcGrade": 0,
-    "SweepPoint": 30,
+    "SweepPoint": 0,
     "GainSkillDisplay": 0,
     "JobCoreAtkSkill": 2002101000000,
     "BattleSquadDataID": 0,

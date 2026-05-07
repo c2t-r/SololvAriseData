@@ -373,7 +373,7 @@
     "DailyMileage": 0,
     "SortOrder": 1,
     "ID": 1000601,
-    "ReqRewardMileage": 30,
+    "ReqRewardMileage": 10,
     "AttendanceMissionGroup": 10006,
     "MissionImage": "SeasonBuff_Gate"
   },
@@ -382,7 +382,7 @@
     "DailyMileage": 0,
     "SortOrder": 2,
     "ID": 1000602,
-    "ReqRewardMileage": 24,
+    "ReqRewardMileage": 10,
     "AttendanceMissionGroup": 10006,
     "MissionImage": "Img_AttendanceMission_Mining"
   },
@@ -391,7 +391,7 @@
     "DailyMileage": 0,
     "SortOrder": 3,
     "ID": 1000603,
-    "ReqRewardMileage": 60,
+    "ReqRewardMileage": 50,
     "AttendanceMissionGroup": 10006,
     "MissionImage": "SeasonBuff_Advent"
   },
@@ -400,18 +400,27 @@
     "DailyMileage": 0,
     "SortOrder": 5,
     "ID": 1000605,
-    "ReqRewardMileage": 100,
+    "ReqRewardMileage": 50,
     "AttendanceMissionGroup": 10006,
     "MissionImage": "SeasonBuff_ChaosBattleField"
   },
   {
     "MissionTaskID": 778,
     "DailyMileage": 0,
-    "SortOrder": 6,
+    "SortOrder": 7,
     "ID": 1000606,
     "ReqRewardMileage": 30,
     "AttendanceMissionGroup": 10006,
     "MissionImage": "Img_AttendanceMission_DailyMission"
+  },
+  {
+    "MissionTaskID": 782,
+    "DailyMileage": 0,
+    "SortOrder": 6,
+    "ID": 1000607,
+    "ReqRewardMileage": 50,
+    "AttendanceMissionGroup": 10006,
+    "MissionImage": "SeasonBuff_CoopDungeon"
   },
   {
     "MissionTaskID": 756,
@@ -472,7 +481,7 @@
     "DailyMileage": 0,
     "SortOrder": 1,
     "ID": 1000708,
-    "ReqRewardMileage": 30,
+    "ReqRewardMileage": 10,
     "AttendanceMissionGroup": 10008,
     "MissionImage": "SeasonBuff_Gate"
   },
@@ -481,7 +490,7 @@
     "DailyMileage": 0,
     "SortOrder": 2,
     "ID": 1000709,
-    "ReqRewardMileage": 24,
+    "ReqRewardMileage": 10,
     "AttendanceMissionGroup": 10008,
     "MissionImage": "Img_AttendanceMission_Mining"
   },
@@ -490,7 +499,7 @@
     "DailyMileage": 0,
     "SortOrder": 3,
     "ID": 1000710,
-    "ReqRewardMileage": 60,
+    "ReqRewardMileage": 50,
     "AttendanceMissionGroup": 10008,
     "MissionImage": "SeasonBuff_Advent"
   },
@@ -499,14 +508,14 @@
     "DailyMileage": 0,
     "SortOrder": 5,
     "ID": 1000711,
-    "ReqRewardMileage": 100,
+    "ReqRewardMileage": 50,
     "AttendanceMissionGroup": 10008,
     "MissionImage": "SeasonBuff_ChaosBattleField"
   },
   {
     "MissionTaskID": 776,
     "DailyMileage": 0,
-    "SortOrder": 6,
+    "SortOrder": 7,
     "ID": 1000712,
     "ReqRewardMileage": 100,
     "AttendanceMissionGroup": 10008,
@@ -515,10 +524,19 @@
   {
     "MissionTaskID": 774,
     "DailyMileage": 0,
-    "SortOrder": 7,
+    "SortOrder": 8,
     "ID": 1000713,
     "ReqRewardMileage": 100,
     "AttendanceMissionGroup": 10008,
     "MissionImage": "Img_AttendanceMission_Emblem"
+  },
+  {
+    "MissionTaskID": 782,
+    "DailyMileage": 0,
+    "SortOrder": 6,
+    "ID": 1000714,
+    "ReqRewardMileage": 50,
+    "AttendanceMissionGroup": 10008,
+    "MissionImage": "SeasonBuff_CoopDungeon"
   }
 ]

@@ -70,5 +70,29 @@
       "SysConstStr.CoopDungeon.ArchitectBattleInfo",
       "SysConstStr.CoopDungeon.ArchitectGuideInfo"
     ]
+  },
+  {
+    "GoalClearPoint": 2500000,
+    "ID": 1004,
+    "StageGroupID": 1001,
+    "TCPMatchID": 2,
+    "CoopRewardID": 1004,
+    "TutorialID": 832,
+    "CoopPointPeriod": 1,
+    "StoryOmnibusGroupID": 56001,
+    "ClearPointMax": 3500,
+    "ClearPointMin": 375,
+    "BossName": "SysConstStr.CoopDungeon.KamishName",
+    "BossResourceName": "Kamish_Boss",
+    "ContentsMenuResource": "Img_Contents2_Btn_14_Kamish",
+    "BossSpineName": "Boss_spine_Kamish_Prefab",
+    "BossDesc": "SysConstStr.CoopDungeon.KamishDesc",
+    "BossSubName": "SysConstStr.CoopDungeon.KamishSubName",
+    "Narrative": "Nightmare_Narrative",
+    "ContentsSubMenuResource": "Img_ContentsMenuSub_CoopDungeon_Kamish",
+    "BossInfo": [
+      "SysConstStr.CoopDungeon.KamishBattleInfo",
+      "SysConstStr.CoopDungeon.KamishGuideInfo"
+    ]
   }
 ]

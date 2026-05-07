@@ -418,6 +418,19 @@
   {
     "Stackable": true,
     "MaxStack": 1,
+    "MaxAmount": 99999999,
+    "SortOrder": 614,
+    "ID": 1033,
+    "Lockable": true,
+    "Sellable": true,
+    "ItemSubType": "EnterPointDaily",
+    "ItemMainType": "Currency",
+    "GetShortCut": "",
+    "UseShortCut": ""
+  },
+  {
+    "Stackable": true,
+    "MaxStack": 1,
     "MaxAmount": 0,
     "SortOrder": 101,
     "ID": 2001,
@@ -658,6 +671,19 @@
     "Lockable": true,
     "Sellable": true,
     "ItemSubType": "BGM",
+    "ItemMainType": "NormalItem",
+    "GetShortCut": "",
+    "UseShortCut": ""
+  },
+  {
+    "Stackable": true,
+    "MaxStack": 999999999,
+    "MaxAmount": 0,
+    "SortOrder": 0,
+    "ID": 4014,
+    "Lockable": true,
+    "Sellable": true,
+    "ItemSubType": "BattleMissionTrophy",
     "ItemMainType": "NormalItem",
     "GetShortCut": "",
     "UseShortCut": ""

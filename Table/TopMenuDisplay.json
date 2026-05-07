@@ -164,10 +164,10 @@
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "NormalGate",
     "TopMenuDisplayType": [
-      6
+      4
     ],
     "TopMenuDisplayGroup": [
-      1000009
+      1000033
     ]
   },
   {
@@ -177,10 +177,10 @@
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "RedGate",
     "TopMenuDisplayType": [
-      6
+      4
     ],
     "TopMenuDisplayGroup": [
-      1000009
+      1000033
     ]
   },
   {
@@ -190,10 +190,10 @@
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "DungeonBreak",
     "TopMenuDisplayType": [
-      6
+      4
     ],
     "TopMenuDisplayGroup": [
-      1000009
+      1000033
     ]
   },
   {
@@ -215,7 +215,7 @@
       4
     ],
     "TopMenuDisplayGroup": [
-      1000010
+      1000033
     ]
   },
   {
@@ -273,7 +273,7 @@
       4
     ],
     "TopMenuDisplayGroup": [
-      1000010
+      1000033
     ]
   },
   {
@@ -292,10 +292,10 @@
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "SpecialGate",
     "TopMenuDisplayType": [
-      6
+      4
     ],
     "TopMenuDisplayGroup": [
-      1000009
+      1000033
     ]
   },
   {
@@ -304,12 +304,8 @@
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "HunterStory",
-    "TopMenuDisplayType": [
-      6
-    ],
-    "TopMenuDisplayGroup": [
-      1000022
-    ]
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
     "IsGuild": true,
@@ -326,8 +322,12 @@
     "TopMenuPage": "StageReady",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "ChaosBattleField",
-    "TopMenuDisplayType": [],
-    "TopMenuDisplayGroup": []
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000033
+    ]
   },
   {
     "IsGuild": true,
@@ -374,7 +374,7 @@
       4
     ],
     "TopMenuDisplayGroup": [
-      1000010
+      1000033
     ]
   },
   {
@@ -385,6 +385,19 @@
     "TopMenuSubDisplay": "",
     "TopMenuDisplayType": [],
     "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 124,
+    "TopMenuPage": "StageReady",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "CoreDungeon",
+    "TopMenuDisplayType": [
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      1000033
+    ]
   },
   {
     "IsGuild": true,
@@ -399,7 +412,7 @@
       10
     ],
     "TopMenuDisplayGroup": [
-      1000009,
+      1000033,
       1000016,
       1000003
     ]
@@ -447,7 +460,7 @@
       10
     ],
     "TopMenuDisplayGroup": [
-      1000010,
+      1000033,
       1000016
     ]
   },
@@ -678,7 +691,7 @@
       10
     ],
     "TopMenuDisplayGroup": [
-      1000010,
+      1000033,
       1000016
     ]
   },
@@ -752,15 +765,8 @@
     "TopMenuPage": "HunterStory",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
-    "TopMenuDisplayType": [
-      6,
-      4,
-      10
-    ],
-    "TopMenuDisplayGroup": [
-      1000022,
-      1000016
-    ]
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
   },
   {
     "IsGuild": true,
@@ -955,7 +961,7 @@
       10
     ],
     "TopMenuDisplayGroup": [
-      1000025,
+      1000033,
       1000016
     ]
   },
@@ -1245,7 +1251,7 @@
       10
     ],
     "TopMenuDisplayGroup": [
-      1000010,
+      1000033,
       1000016
     ]
   },
@@ -1272,6 +1278,93 @@
     "TopMenuSubDisplay": "",
     "TopMenuDisplayType": [],
     "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 83,
+    "TopMenuPage": "InventorySuccessor",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 84,
+    "TopMenuPage": "CoreDungeon",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      6,
+      4,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000033,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 85,
+    "TopMenuPage": "SuccessorStory",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3,
+      10
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 86,
+    "TopMenuPage": "SuccessorGacha",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [],
+    "TopMenuDisplayGroup": []
+  },
+  {
+    "IsGuild": true,
+    "ID": 87,
+    "TopMenuPage": "StoryCodex",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 88,
+    "TopMenuPage": "GuideMission",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
   },
   {
     "IsGuild": true,
@@ -1788,6 +1881,62 @@
   },
   {
     "IsGuild": true,
+    "ID": 1036,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_2ndAnniversary_A",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002234
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1037,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2600",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002234,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1038,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "StoryOmnibus_2ndAnniversary_B",
+    "TopMenuDisplayType": [
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002235
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 1039,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2610",
+    "TopMenuDisplayType": [
+      3,
+      4
+    ],
+    "TopMenuDisplayGroup": [
+      30002235,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 2001,
     "TopMenuPage": "EventCoop",
     "TopMenuSubPage": "",
@@ -1904,7 +2053,7 @@
       3
     ],
     "TopMenuDisplayGroup": [
-      30003002
+      30003003
     ]
   },
   {
@@ -1917,7 +2066,7 @@
       3
     ],
     "TopMenuDisplayGroup": [
-      30010068
+      30010096
     ]
   }
 ]

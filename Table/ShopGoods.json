@@ -1140,6 +1140,26 @@
     "GoodsType": "Except"
   },
   {
+    "ID": 60010027,
+    "ShopGoodsGroup": 601024,
+    "GoodsValue": 100,
+    "ItemIndex": 30010101,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 60010028,
+    "ShopGoodsGroup": 601025,
+    "GoodsValue": 100,
+    "ItemIndex": 30010111,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Except"
+  },
+  {
     "ID": 70000101,
     "ShopGoodsGroup": 700001,
     "GoodsValue": 1,
@@ -2682,12 +2702,12 @@
   {
     "ID": 241018009,
     "ShopGoodsGroup": 241018009,
-    "GoodsValue": 4,
-    "ItemIndex": 1000010,
+    "GoodsValue": 20,
+    "ItemIndex": 1000033,
     "Unused": true,
     "GoodsLabel": true,
     "DisplayOrder": 1,
-    "GoodsType": "IndunEnterPoint"
+    "GoodsType": "EnterPointDaily"
   },
   {
     "ID": 241018011,
@@ -5898,6 +5918,146 @@
     "GoodsLabel": true,
     "DisplayOrder": 1,
     "GoodsType": "UseItem"
+  },
+  {
+    "ID": 241125017,
+    "ShopGoodsGroup": 241125017,
+    "GoodsValue": 1,
+    "ItemIndex": 10210010,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 241125018,
+    "ShopGoodsGroup": 241125018,
+    "GoodsValue": 1,
+    "ItemIndex": 10210005,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 241125019,
+    "ShopGoodsGroup": 241125019,
+    "GoodsValue": 1,
+    "ItemIndex": 10160027,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125020,
+    "ShopGoodsGroup": 241125020,
+    "GoodsValue": 1,
+    "ItemIndex": 20001003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125021,
+    "ShopGoodsGroup": 241125021,
+    "GoodsValue": 1,
+    "ItemIndex": 10053001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125022,
+    "ShopGoodsGroup": 241125022,
+    "GoodsValue": 1,
+    "ItemIndex": 10053002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125023,
+    "ShopGoodsGroup": 241125023,
+    "GoodsValue": 1,
+    "ItemIndex": 20701200,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125024,
+    "ShopGoodsGroup": 241125024,
+    "GoodsValue": 1,
+    "ItemIndex": 10270001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125025,
+    "ShopGoodsGroup": 241125025,
+    "GoodsValue": 1,
+    "ItemIndex": 10270003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125026,
+    "ShopGoodsGroup": 241125026,
+    "GoodsValue": 1,
+    "ItemIndex": 10270002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125027,
+    "ShopGoodsGroup": 241125027,
+    "GoodsValue": 1,
+    "ItemIndex": 10170011,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125028,
+    "ShopGoodsGroup": 241125028,
+    "GoodsValue": 1,
+    "ItemIndex": 10080009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125029,
+    "ShopGoodsGroup": 241125029,
+    "GoodsValue": 1,
+    "ItemIndex": 10190002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 241125030,
+    "ShopGoodsGroup": 241125030,
+    "GoodsValue": 1,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
   },
   {
     "ID": 250102001,
@@ -30873,11 +31033,11 @@
     "ID": 330672001,
     "ShopGoodsGroup": 3306720,
     "GoodsValue": 1,
-    "ItemIndex": 1000009,
+    "ItemIndex": 1000033,
     "Unused": true,
     "GoodsLabel": true,
     "DisplayOrder": 1,
-    "GoodsType": "GateEnterPoint"
+    "GoodsType": "EnterPointDaily"
   },
   {
     "ID": 330673001,
@@ -38324,6 +38484,36 @@
     "ShopGoodsGroup": 331454,
     "GoodsValue": 1,
     "ItemIndex": 7910013,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "CostumeChroma"
+  },
+  {
+    "ID": 33145501,
+    "ShopGoodsGroup": 331455,
+    "GoodsValue": 1,
+    "ItemIndex": 8010011,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "CostumeChroma"
+  },
+  {
+    "ID": 33145601,
+    "ShopGoodsGroup": 331456,
+    "GoodsValue": 1,
+    "ItemIndex": 8010012,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "CostumeChroma"
+  },
+  {
+    "ID": 33145701,
+    "ShopGoodsGroup": 331457,
+    "GoodsValue": 1,
+    "ItemIndex": 8010013,
     "Unused": true,
     "GoodsLabel": true,
     "DisplayOrder": 1,
@@ -68100,6 +68290,166 @@
     "GoodsType": "Gold"
   },
   {
+    "ID": 301010101,
+    "ShopGoodsGroup": 3010101,
+    "GoodsValue": 10,
+    "ItemIndex": 40000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010102,
+    "ShopGoodsGroup": 3010101,
+    "GoodsValue": 1,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010103,
+    "ShopGoodsGroup": 3010101,
+    "GoodsValue": 60,
+    "ItemIndex": 10130002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010104,
+    "ShopGoodsGroup": 3010101,
+    "GoodsValue": 300000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 301010201,
+    "ShopGoodsGroup": 3010102,
+    "GoodsValue": 20,
+    "ItemIndex": 40000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010202,
+    "ShopGoodsGroup": 3010102,
+    "GoodsValue": 3,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010203,
+    "ShopGoodsGroup": 3010102,
+    "GoodsValue": 120,
+    "ItemIndex": 10130002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010204,
+    "ShopGoodsGroup": 3010102,
+    "GoodsValue": 600000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 301010301,
+    "ShopGoodsGroup": 3010103,
+    "GoodsValue": 40,
+    "ItemIndex": 40000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010302,
+    "ShopGoodsGroup": 3010103,
+    "GoodsValue": 6,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010303,
+    "ShopGoodsGroup": 3010103,
+    "GoodsValue": 240,
+    "ItemIndex": 10130002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010304,
+    "ShopGoodsGroup": 3010103,
+    "GoodsValue": 1200000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 301010401,
+    "ShopGoodsGroup": 3010104,
+    "GoodsValue": 60,
+    "ItemIndex": 40000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010402,
+    "ShopGoodsGroup": 3010104,
+    "GoodsValue": 10,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010403,
+    "ShopGoodsGroup": 3010104,
+    "GoodsValue": 360,
+    "ItemIndex": 10130002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 301010404,
+    "ShopGoodsGroup": 3010104,
+    "GoodsValue": 1800000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
     "ID": 500000001,
     "ShopGoodsGroup": 500000001,
     "GoodsValue": 2450,
@@ -69698,5 +70048,2015 @@
     "GoodsLabel": true,
     "DisplayOrder": 2,
     "GoodsType": "Material"
+  },
+  {
+    "ID": 2000016168,
+    "ShopGoodsGroup": 500000053,
+    "GoodsValue": 730,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000016268,
+    "ShopGoodsGroup": 500000053,
+    "GoodsValue": 10,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000016368,
+    "ShopGoodsGroup": 500000053,
+    "GoodsValue": 30,
+    "ItemIndex": 10020001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000016568,
+    "ShopGoodsGroup": 500000054,
+    "GoodsValue": 1850,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000016668,
+    "ShopGoodsGroup": 500000054,
+    "GoodsValue": 30,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000016768,
+    "ShopGoodsGroup": 500000054,
+    "GoodsValue": 15,
+    "ItemIndex": 10150106,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000016868,
+    "ShopGoodsGroup": 500000054,
+    "GoodsValue": 200000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000017068,
+    "ShopGoodsGroup": 500000055,
+    "GoodsValue": 3300,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000017168,
+    "ShopGoodsGroup": 500000055,
+    "GoodsValue": 55,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000017268,
+    "ShopGoodsGroup": 500000055,
+    "GoodsValue": 30,
+    "ItemIndex": 10150106,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000017368,
+    "ShopGoodsGroup": 500000055,
+    "GoodsValue": 350000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000017568,
+    "ShopGoodsGroup": 500000056,
+    "GoodsValue": 7250,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000017668,
+    "ShopGoodsGroup": 500000056,
+    "GoodsValue": 125,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000017768,
+    "ShopGoodsGroup": 500000056,
+    "GoodsValue": 100,
+    "ItemIndex": 10150106,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000017868,
+    "ShopGoodsGroup": 500000056,
+    "GoodsValue": 1,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000017968,
+    "ShopGoodsGroup": 500000056,
+    "GoodsValue": 1000000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 5,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000018168,
+    "ShopGoodsGroup": 500000057,
+    "GoodsValue": 70,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000018268,
+    "ShopGoodsGroup": 500000057,
+    "GoodsValue": 500000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000018278,
+    "ShopGoodsGroup": 500000067,
+    "GoodsValue": 1,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000018478,
+    "ShopGoodsGroup": 500000068,
+    "GoodsValue": 2,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000018578,
+    "ShopGoodsGroup": 500000068,
+    "GoodsValue": 50,
+    "ItemIndex": 10050002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000018678,
+    "ShopGoodsGroup": 500000068,
+    "GoodsValue": 10,
+    "ItemIndex": 10160003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000018778,
+    "ShopGoodsGroup": 500000068,
+    "GoodsValue": 3,
+    "ItemIndex": 30002232,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 2000018978,
+    "ShopGoodsGroup": 500000069,
+    "GoodsValue": 4,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019078,
+    "ShopGoodsGroup": 500000069,
+    "GoodsValue": 50,
+    "ItemIndex": 10020002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019178,
+    "ShopGoodsGroup": 500000069,
+    "GoodsValue": 10,
+    "ItemIndex": 10020003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019278,
+    "ShopGoodsGroup": 500000069,
+    "GoodsValue": 6,
+    "ItemIndex": 30002232,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 2000019478,
+    "ShopGoodsGroup": 500000070,
+    "GoodsValue": 20,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019578,
+    "ShopGoodsGroup": 500000070,
+    "GoodsValue": 5,
+    "ItemIndex": 20701014,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000019678,
+    "ShopGoodsGroup": 500000070,
+    "GoodsValue": 3,
+    "ItemIndex": 20701006,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000019778,
+    "ShopGoodsGroup": 500000070,
+    "GoodsValue": 30,
+    "ItemIndex": 30002232,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 2000019788,
+    "ShopGoodsGroup": 500000080,
+    "GoodsValue": 1,
+    "ItemIndex": 801001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000019789,
+    "ShopGoodsGroup": 500000080,
+    "GoodsValue": 1000,
+    "ItemIndex": 10100008,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019790,
+    "ShopGoodsGroup": 500000080,
+    "GoodsValue": 1,
+    "ItemIndex": 11022070,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Icon"
+  },
+  {
+    "ID": 2000019791,
+    "ShopGoodsGroup": 500000080,
+    "GoodsValue": 1,
+    "ItemIndex": 11032070,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Border"
+  },
+  {
+    "ID": 2000019797,
+    "ShopGoodsGroup": 500000081,
+    "GoodsValue": 1,
+    "ItemIndex": 30010104,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000019798,
+    "ShopGoodsGroup": 500000081,
+    "GoodsValue": 100,
+    "ItemIndex": 10130002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019799,
+    "ShopGoodsGroup": 500000081,
+    "GoodsValue": 3000000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000019805,
+    "ShopGoodsGroup": 500000082,
+    "GoodsValue": 1,
+    "ItemIndex": 302030050,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Relic"
+  },
+  {
+    "ID": 2000019806,
+    "ShopGoodsGroup": 500000082,
+    "GoodsValue": 250,
+    "ItemIndex": 10160002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019807,
+    "ShopGoodsGroup": 500000082,
+    "GoodsValue": 50,
+    "ItemIndex": 10160003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019878,
+    "ShopGoodsGroup": 500000099,
+    "GoodsValue": 100,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019879,
+    "ShopGoodsGroup": 500000099,
+    "GoodsValue": 100,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019880,
+    "ShopGoodsGroup": 500000099,
+    "GoodsValue": 100,
+    "ItemIndex": 10100009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019881,
+    "ShopGoodsGroup": 500000099,
+    "GoodsValue": 2000000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000019882,
+    "ShopGoodsGroup": 500000100,
+    "GoodsValue": 5,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019883,
+    "ShopGoodsGroup": 500000100,
+    "GoodsValue": 5,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019884,
+    "ShopGoodsGroup": 500000100,
+    "GoodsValue": 5,
+    "ItemIndex": 10100009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019885,
+    "ShopGoodsGroup": 500000101,
+    "GoodsValue": 222,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019886,
+    "ShopGoodsGroup": 500000101,
+    "GoodsValue": 2,
+    "ItemIndex": 10160027,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019887,
+    "ShopGoodsGroup": 500000101,
+    "GoodsValue": 22,
+    "ItemIndex": 10020003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019888,
+    "ShopGoodsGroup": 500000101,
+    "GoodsValue": 22,
+    "ItemIndex": 10031009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019889,
+    "ShopGoodsGroup": 500000101,
+    "GoodsValue": 2,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 5,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019890,
+    "ShopGoodsGroup": 500000101,
+    "GoodsValue": 2222222,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 6,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000019891,
+    "ShopGoodsGroup": 500000102,
+    "GoodsValue": 222,
+    "ItemIndex": 10100009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019892,
+    "ShopGoodsGroup": 500000102,
+    "GoodsValue": 2,
+    "ItemIndex": 10040010,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019893,
+    "ShopGoodsGroup": 500000102,
+    "GoodsValue": 222,
+    "ItemIndex": 10160003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019894,
+    "ShopGoodsGroup": 500000102,
+    "GoodsValue": 22,
+    "ItemIndex": 20600008,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000019895,
+    "ShopGoodsGroup": 500000102,
+    "GoodsValue": 2,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 5,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000019896,
+    "ShopGoodsGroup": 500000102,
+    "GoodsValue": 2222222,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 6,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000019897,
+    "ShopGoodsGroup": 500000103,
+    "GoodsValue": 100000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020017,
+    "ShopGoodsGroup": 500000143,
+    "GoodsValue": 220,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020018,
+    "ShopGoodsGroup": 500000143,
+    "GoodsValue": 1,
+    "ItemIndex": 30010105,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020019,
+    "ShopGoodsGroup": 500000143,
+    "GoodsValue": 150,
+    "ItemIndex": 10160002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020020,
+    "ShopGoodsGroup": 500000143,
+    "GoodsValue": 10,
+    "ItemIndex": 40000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020025,
+    "ShopGoodsGroup": 500000144,
+    "GoodsValue": 730,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020026,
+    "ShopGoodsGroup": 500000144,
+    "GoodsValue": 1,
+    "ItemIndex": 30010105,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020027,
+    "ShopGoodsGroup": 500000144,
+    "GoodsValue": 100,
+    "ItemIndex": 10160003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020028,
+    "ShopGoodsGroup": 500000144,
+    "GoodsValue": 30,
+    "ItemIndex": 20200012,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020033,
+    "ShopGoodsGroup": 500000145,
+    "GoodsValue": 730,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020034,
+    "ShopGoodsGroup": 500000145,
+    "GoodsValue": 1,
+    "ItemIndex": 30010106,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020035,
+    "ShopGoodsGroup": 500000145,
+    "GoodsValue": 1,
+    "ItemIndex": 30010107,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020036,
+    "ShopGoodsGroup": 500000145,
+    "GoodsValue": 15,
+    "ItemIndex": 10020003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020037,
+    "ShopGoodsGroup": 500000145,
+    "GoodsValue": 12,
+    "ItemIndex": 10031009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 5,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020038,
+    "ShopGoodsGroup": 500000145,
+    "GoodsValue": 1,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 6,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020043,
+    "ShopGoodsGroup": 500000146,
+    "GoodsValue": 1400,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020044,
+    "ShopGoodsGroup": 500000146,
+    "GoodsValue": 1,
+    "ItemIndex": 30010108,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020045,
+    "ShopGoodsGroup": 500000146,
+    "GoodsValue": 1,
+    "ItemIndex": 30010109,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020046,
+    "ShopGoodsGroup": 500000146,
+    "GoodsValue": 30,
+    "ItemIndex": 10020003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020047,
+    "ShopGoodsGroup": 500000146,
+    "GoodsValue": 24,
+    "ItemIndex": 10031009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 5,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020048,
+    "ShopGoodsGroup": 500000146,
+    "GoodsValue": 3,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 6,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020053,
+    "ShopGoodsGroup": 500000147,
+    "GoodsValue": 2420,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020054,
+    "ShopGoodsGroup": 500000147,
+    "GoodsValue": 20,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020055,
+    "ShopGoodsGroup": 500000147,
+    "GoodsValue": 20,
+    "ItemIndex": 10100009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020056,
+    "ShopGoodsGroup": 500000147,
+    "GoodsValue": 1,
+    "ItemIndex": 21000004,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020057,
+    "ShopGoodsGroup": 500000147,
+    "GoodsValue": 1,
+    "ItemIndex": 21001003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 5,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020062,
+    "ShopGoodsGroup": 500000148,
+    "GoodsValue": 100000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020072,
+    "ShopGoodsGroup": 500000158,
+    "GoodsValue": 15,
+    "ItemIndex": 30010110,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 2000020077,
+    "ShopGoodsGroup": 500000159,
+    "GoodsValue": 15,
+    "ItemIndex": 30010110,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 2000020082,
+    "ShopGoodsGroup": 500000160,
+    "GoodsValue": 15,
+    "ItemIndex": 30010110,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Except"
+  },
+  {
+    "ID": 2000020087,
+    "ShopGoodsGroup": 500000161,
+    "GoodsValue": 1,
+    "ItemIndex": 211001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020092,
+    "ShopGoodsGroup": 500000162,
+    "GoodsValue": 1,
+    "ItemIndex": 391001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020097,
+    "ShopGoodsGroup": 500000163,
+    "GoodsValue": 1,
+    "ItemIndex": 471001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020102,
+    "ShopGoodsGroup": 500000164,
+    "GoodsValue": 1,
+    "ItemIndex": 281002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020107,
+    "ShopGoodsGroup": 500000165,
+    "GoodsValue": 1,
+    "ItemIndex": 201011,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020112,
+    "ShopGoodsGroup": 500000166,
+    "GoodsValue": 1,
+    "ItemIndex": 461001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020117,
+    "ShopGoodsGroup": 500000167,
+    "GoodsValue": 1,
+    "ItemIndex": 381001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020122,
+    "ShopGoodsGroup": 500000168,
+    "GoodsValue": 1,
+    "ItemIndex": 451001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020127,
+    "ShopGoodsGroup": 500000169,
+    "GoodsValue": 1,
+    "ItemIndex": 381002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020132,
+    "ShopGoodsGroup": 500000170,
+    "GoodsValue": 1,
+    "ItemIndex": 211003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020137,
+    "ShopGoodsGroup": 500000171,
+    "GoodsValue": 1,
+    "ItemIndex": 491001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020142,
+    "ShopGoodsGroup": 500000172,
+    "GoodsValue": 1,
+    "ItemIndex": 501001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020147,
+    "ShopGoodsGroup": 500000173,
+    "GoodsValue": 1,
+    "ItemIndex": 501002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020152,
+    "ShopGoodsGroup": 500000174,
+    "GoodsValue": 1,
+    "ItemIndex": 201013,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020157,
+    "ShopGoodsGroup": 500000175,
+    "GoodsValue": 1,
+    "ItemIndex": 511001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020162,
+    "ShopGoodsGroup": 500000176,
+    "GoodsValue": 1,
+    "ItemIndex": 521001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020167,
+    "ShopGoodsGroup": 500000177,
+    "GoodsValue": 1,
+    "ItemIndex": 441001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020172,
+    "ShopGoodsGroup": 500000178,
+    "GoodsValue": 1,
+    "ItemIndex": 201015,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020177,
+    "ShopGoodsGroup": 500000179,
+    "GoodsValue": 1,
+    "ItemIndex": 461004,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020182,
+    "ShopGoodsGroup": 500000180,
+    "GoodsValue": 1,
+    "ItemIndex": 361001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020187,
+    "ShopGoodsGroup": 500000181,
+    "GoodsValue": 1,
+    "ItemIndex": 491003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020192,
+    "ShopGoodsGroup": 500000182,
+    "GoodsValue": 1,
+    "ItemIndex": 541001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020197,
+    "ShopGoodsGroup": 500000183,
+    "GoodsValue": 1,
+    "ItemIndex": 561001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020202,
+    "ShopGoodsGroup": 500000184,
+    "GoodsValue": 1,
+    "ItemIndex": 201017,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020207,
+    "ShopGoodsGroup": 500000185,
+    "GoodsValue": 1,
+    "ItemIndex": 531001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020212,
+    "ShopGoodsGroup": 500000186,
+    "GoodsValue": 1,
+    "ItemIndex": 571001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020217,
+    "ShopGoodsGroup": 500000187,
+    "GoodsValue": 1,
+    "ItemIndex": 581001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020222,
+    "ShopGoodsGroup": 500000188,
+    "GoodsValue": 1,
+    "ItemIndex": 601002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020227,
+    "ShopGoodsGroup": 500000189,
+    "GoodsValue": 1,
+    "ItemIndex": 611001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020232,
+    "ShopGoodsGroup": 500000190,
+    "GoodsValue": 1,
+    "ItemIndex": 641001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020237,
+    "ShopGoodsGroup": 500000191,
+    "GoodsValue": 1,
+    "ItemIndex": 551002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020242,
+    "ShopGoodsGroup": 500000192,
+    "GoodsValue": 1,
+    "ItemIndex": 721001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Costume"
+  },
+  {
+    "ID": 2000020252,
+    "ShopGoodsGroup": 500000202,
+    "GoodsValue": 1,
+    "ItemIndex": 20701220,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020262,
+    "ShopGoodsGroup": 500000212,
+    "GoodsValue": 250,
+    "ItemIndex": 1000016,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "MagicEssence"
+  },
+  {
+    "ID": 2000020267,
+    "ShopGoodsGroup": 500000213,
+    "GoodsValue": 250,
+    "ItemIndex": 1000016,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "MagicEssence"
+  },
+  {
+    "ID": 2000020272,
+    "ShopGoodsGroup": 500000214,
+    "GoodsValue": 1150,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020273,
+    "ShopGoodsGroup": 500000214,
+    "GoodsValue": 1150,
+    "ItemIndex": 1000002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "FreeCash"
+  },
+  {
+    "ID": 2000020274,
+    "ShopGoodsGroup": 500000214,
+    "GoodsValue": 1150,
+    "ItemIndex": 1000016,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "MagicEssence"
+  },
+  {
+    "ID": 2000020279,
+    "ShopGoodsGroup": 500000215,
+    "GoodsValue": 2600,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020280,
+    "ShopGoodsGroup": 500000215,
+    "GoodsValue": 2600,
+    "ItemIndex": 1000002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "FreeCash"
+  },
+  {
+    "ID": 2000020281,
+    "ShopGoodsGroup": 500000215,
+    "GoodsValue": 2600,
+    "ItemIndex": 1000016,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "MagicEssence"
+  },
+  {
+    "ID": 2000020286,
+    "ShopGoodsGroup": 500000216,
+    "GoodsValue": 4750,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020287,
+    "ShopGoodsGroup": 500000216,
+    "GoodsValue": 4750,
+    "ItemIndex": 1000002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "FreeCash"
+  },
+  {
+    "ID": 2000020288,
+    "ShopGoodsGroup": 500000216,
+    "GoodsValue": 4750,
+    "ItemIndex": 1000016,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "MagicEssence"
+  },
+  {
+    "ID": 2000020293,
+    "ShopGoodsGroup": 500000217,
+    "GoodsValue": 8700,
+    "ItemIndex": 1000001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "PaidCash"
+  },
+  {
+    "ID": 2000020294,
+    "ShopGoodsGroup": 500000217,
+    "GoodsValue": 8700,
+    "ItemIndex": 1000002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "FreeCash"
+  },
+  {
+    "ID": 2000020295,
+    "ShopGoodsGroup": 500000217,
+    "GoodsValue": 8700,
+    "ItemIndex": 1000016,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "MagicEssence"
+  },
+  {
+    "ID": 2000020305,
+    "ShopGoodsGroup": 500000227,
+    "GoodsValue": 5,
+    "ItemIndex": 30010112,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020310,
+    "ShopGoodsGroup": 500000228,
+    "GoodsValue": 5,
+    "ItemIndex": 30010112,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020311,
+    "ShopGoodsGroup": 500000228,
+    "GoodsValue": 100,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020312,
+    "ShopGoodsGroup": 500000228,
+    "GoodsValue": 500000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020317,
+    "ShopGoodsGroup": 500000229,
+    "GoodsValue": 5,
+    "ItemIndex": 30010112,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020318,
+    "ShopGoodsGroup": 500000229,
+    "GoodsValue": 100,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020319,
+    "ShopGoodsGroup": 500000229,
+    "GoodsValue": 500000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020324,
+    "ShopGoodsGroup": 500000230,
+    "GoodsValue": 10,
+    "ItemIndex": 21001005,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020325,
+    "ShopGoodsGroup": 500000230,
+    "GoodsValue": 100,
+    "ItemIndex": 20701030,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020326,
+    "ShopGoodsGroup": 500000230,
+    "GoodsValue": 10,
+    "ItemIndex": 20701014,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020331,
+    "ShopGoodsGroup": 500000231,
+    "GoodsValue": 10,
+    "ItemIndex": 21001002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020332,
+    "ShopGoodsGroup": 500000231,
+    "GoodsValue": 100,
+    "ItemIndex": 20701031,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020333,
+    "ShopGoodsGroup": 500000231,
+    "GoodsValue": 10,
+    "ItemIndex": 20701006,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "UseItem"
+  },
+  {
+    "ID": 2000020338,
+    "ShopGoodsGroup": 500000232,
+    "GoodsValue": 1000,
+    "ItemIndex": 10092001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020339,
+    "ShopGoodsGroup": 500000232,
+    "GoodsValue": 100,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020340,
+    "ShopGoodsGroup": 500000232,
+    "GoodsValue": 1000000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020345,
+    "ShopGoodsGroup": 500000233,
+    "GoodsValue": 10,
+    "ItemIndex": 10080009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020346,
+    "ShopGoodsGroup": 500000233,
+    "GoodsValue": 150,
+    "ItemIndex": 10080006,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020347,
+    "ShopGoodsGroup": 500000233,
+    "GoodsValue": 20,
+    "ItemIndex": 10190002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020348,
+    "ShopGoodsGroup": 500000233,
+    "GoodsValue": 1500,
+    "ItemIndex": 10190001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020353,
+    "ShopGoodsGroup": 500000234,
+    "GoodsValue": 10,
+    "ItemIndex": 10080009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020354,
+    "ShopGoodsGroup": 500000234,
+    "GoodsValue": 50,
+    "ItemIndex": 10080008,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020355,
+    "ShopGoodsGroup": 500000234,
+    "GoodsValue": 30,
+    "ItemIndex": 10110003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020356,
+    "ShopGoodsGroup": 500000234,
+    "GoodsValue": 1500,
+    "ItemIndex": 10190001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020361,
+    "ShopGoodsGroup": 500000235,
+    "GoodsValue": 10,
+    "ItemIndex": 10080009,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020362,
+    "ShopGoodsGroup": 500000235,
+    "GoodsValue": 12,
+    "ItemIndex": 10033002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020363,
+    "ShopGoodsGroup": 500000235,
+    "GoodsValue": 9,
+    "ItemIndex": 10033003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020364,
+    "ShopGoodsGroup": 500000235,
+    "GoodsValue": 3,
+    "ItemIndex": 10034001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020369,
+    "ShopGoodsGroup": 500000236,
+    "GoodsValue": 7,
+    "ItemIndex": 10170011,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020370,
+    "ShopGoodsGroup": 500000236,
+    "GoodsValue": 50,
+    "ItemIndex": 10170001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020371,
+    "ShopGoodsGroup": 500000236,
+    "GoodsValue": 100,
+    "ItemIndex": 10170002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020372,
+    "ShopGoodsGroup": 500000236,
+    "GoodsValue": 50,
+    "ItemIndex": 10170003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020377,
+    "ShopGoodsGroup": 500000237,
+    "GoodsValue": 12,
+    "ItemIndex": 10053002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020378,
+    "ShopGoodsGroup": 500000237,
+    "GoodsValue": 4,
+    "ItemIndex": 10053001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020379,
+    "ShopGoodsGroup": 500000237,
+    "GoodsValue": 4,
+    "ItemIndex": 10052003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020380,
+    "ShopGoodsGroup": 500000237,
+    "GoodsValue": 600,
+    "ItemIndex": 10052001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020385,
+    "ShopGoodsGroup": 500000238,
+    "GoodsValue": 12,
+    "ItemIndex": 20701200,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020386,
+    "ShopGoodsGroup": 500000238,
+    "GoodsValue": 300,
+    "ItemIndex": 10050001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020387,
+    "ShopGoodsGroup": 500000238,
+    "GoodsValue": 150,
+    "ItemIndex": 10050002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020392,
+    "ShopGoodsGroup": 500000239,
+    "GoodsValue": 20,
+    "ItemIndex": 10240003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020393,
+    "ShopGoodsGroup": 500000239,
+    "GoodsValue": 50,
+    "ItemIndex": 10130002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020394,
+    "ShopGoodsGroup": 500000239,
+    "GoodsValue": 500000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020399,
+    "ShopGoodsGroup": 500000240,
+    "GoodsValue": 500,
+    "ItemIndex": 10170004,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020400,
+    "ShopGoodsGroup": 500000240,
+    "GoodsValue": 100,
+    "ItemIndex": 10170005,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020401,
+    "ShopGoodsGroup": 500000240,
+    "GoodsValue": 500,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020406,
+    "ShopGoodsGroup": 500000241,
+    "GoodsValue": 60,
+    "ItemIndex": 10170007,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020407,
+    "ShopGoodsGroup": 500000241,
+    "GoodsValue": 20,
+    "ItemIndex": 10170012,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020408,
+    "ShopGoodsGroup": 500000241,
+    "GoodsValue": 500,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020409,
+    "ShopGoodsGroup": 500000242,
+    "GoodsValue": 2,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020410,
+    "ShopGoodsGroup": 500000242,
+    "GoodsValue": 2,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020411,
+    "ShopGoodsGroup": 500000242,
+    "GoodsValue": 1,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020412,
+    "ShopGoodsGroup": 500000242,
+    "GoodsValue": 10000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020413,
+    "ShopGoodsGroup": 500000243,
+    "GoodsValue": 10,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020414,
+    "ShopGoodsGroup": 500000243,
+    "GoodsValue": 20,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020415,
+    "ShopGoodsGroup": 500000243,
+    "GoodsValue": 20,
+    "ItemIndex": 10100001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020416,
+    "ShopGoodsGroup": 500000243,
+    "GoodsValue": 100000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020417,
+    "ShopGoodsGroup": 500000244,
+    "GoodsValue": 2,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020418,
+    "ShopGoodsGroup": 500000244,
+    "GoodsValue": 2,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020419,
+    "ShopGoodsGroup": 500000244,
+    "GoodsValue": 1,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020420,
+    "ShopGoodsGroup": 500000244,
+    "GoodsValue": 10000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
+  },
+  {
+    "ID": 2000020421,
+    "ShopGoodsGroup": 500000245,
+    "GoodsValue": 10,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 1,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020422,
+    "ShopGoodsGroup": 500000245,
+    "GoodsValue": 20,
+    "ItemIndex": 10130001,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 2,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020423,
+    "ShopGoodsGroup": 500000245,
+    "GoodsValue": 20,
+    "ItemIndex": 10100002,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 3,
+    "GoodsType": "Material"
+  },
+  {
+    "ID": 2000020424,
+    "ShopGoodsGroup": 500000245,
+    "GoodsValue": 100000,
+    "ItemIndex": 1000003,
+    "Unused": true,
+    "GoodsLabel": true,
+    "DisplayOrder": 4,
+    "GoodsType": "Gold"
   }
 ]

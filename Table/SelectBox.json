@@ -3323,31 +3323,31 @@
     "SubGroupID": 210004,
     "NonOwnedSelectAble": true,
     "ID": 10019,
-    "RewardID": 1000009,
+    "RewardID": 100033,
     "RewardCount": 3,
     "FixedInfo": 0,
     "OpenTime": "",
-    "RewardType": "GateEnterPoint"
+    "RewardType": "EnterPointDaily"
   },
   {
     "SubGroupID": 210004,
     "NonOwnedSelectAble": true,
     "ID": 10020,
-    "RewardID": 1000015,
-    "RewardCount": 2,
+    "RewardID": 100033,
+    "RewardCount": 4,
     "FixedInfo": 0,
     "OpenTime": "",
-    "RewardType": "AdventEnterPoint"
+    "RewardType": "EnterPointDaily"
   },
   {
     "SubGroupID": 210004,
     "NonOwnedSelectAble": true,
     "ID": 10021,
-    "RewardID": 1000010,
-    "RewardCount": 2,
+    "RewardID": 100033,
+    "RewardCount": 4,
     "FixedInfo": 0,
     "OpenTime": "",
-    "RewardType": "IndunEnterPoint"
+    "RewardType": "EnterPointDaily"
   },
   {
     "SubGroupID": 210004,
@@ -3383,31 +3383,31 @@
     "SubGroupID": 210005,
     "NonOwnedSelectAble": true,
     "ID": 10025,
-    "RewardID": 1000009,
+    "RewardID": 100033,
     "RewardCount": 6,
     "FixedInfo": 0,
     "OpenTime": "",
-    "RewardType": "GateEnterPoint"
+    "RewardType": "EnterPointDaily"
   },
   {
     "SubGroupID": 210005,
     "NonOwnedSelectAble": true,
     "ID": 10026,
-    "RewardID": 1000015,
-    "RewardCount": 4,
+    "RewardID": 100033,
+    "RewardCount": 8,
     "FixedInfo": 0,
     "OpenTime": "",
-    "RewardType": "AdventEnterPoint"
+    "RewardType": "EnterPointDaily"
   },
   {
     "SubGroupID": 210005,
     "NonOwnedSelectAble": true,
     "ID": 10027,
-    "RewardID": 1000010,
-    "RewardCount": 4,
+    "RewardID": 100033,
+    "RewardCount": 8,
     "FixedInfo": 0,
     "OpenTime": "",
-    "RewardType": "IndunEnterPoint"
+    "RewardType": "EnterPointDaily"
   },
   {
     "SubGroupID": 210005,
@@ -24500,6 +24500,966 @@
     "RewardType": "Material"
   },
   {
+    "SubGroupID": 20700163,
+    "NonOwnedSelectAble": true,
+    "ID": 12289,
+    "RewardID": 10150106,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Material"
+  },
+  {
+    "SubGroupID": 20700163,
+    "NonOwnedSelectAble": true,
+    "ID": 12290,
+    "RewardID": 10150109,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Material"
+  },
+  {
+    "SubGroupID": 20700163,
+    "NonOwnedSelectAble": true,
+    "ID": 12291,
+    "RewardID": 10150110,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Material"
+  },
+  {
+    "SubGroupID": 20700164,
+    "NonOwnedSelectAble": true,
+    "ID": 12292,
+    "RewardID": 302030050,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700164,
+    "NonOwnedSelectAble": true,
+    "ID": 12293,
+    "RewardID": 302030004,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700164,
+    "NonOwnedSelectAble": true,
+    "ID": 12294,
+    "RewardID": 302030043,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12295,
+    "RewardID": 200030026,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12296,
+    "RewardID": 200030020,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12297,
+    "RewardID": 200030025,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12298,
+    "RewardID": 200030007,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12299,
+    "RewardID": 200030024,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12300,
+    "RewardID": 200030002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12301,
+    "RewardID": 200030023,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12302,
+    "RewardID": 200030009,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12303,
+    "RewardID": 200030019,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12304,
+    "RewardID": 200030004,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12305,
+    "RewardID": 200030018,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12306,
+    "RewardID": 200030010,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12307,
+    "RewardID": 200030030,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12308,
+    "RewardID": 200030005,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12309,
+    "RewardID": 200030029,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12310,
+    "RewardID": 200030006,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12311,
+    "RewardID": 200030001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12312,
+    "RewardID": 200030022,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12313,
+    "RewardID": 200030016,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700165,
+    "NonOwnedSelectAble": true,
+    "ID": 12314,
+    "RewardID": 200030021,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "GS"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12315,
+    "RewardID": 281,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12316,
+    "RewardID": 11,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12317,
+    "RewardID": 71,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12318,
+    "RewardID": 481,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12319,
+    "RewardID": 331,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12320,
+    "RewardID": 191,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12321,
+    "RewardID": 391,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12322,
+    "RewardID": 241,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12323,
+    "RewardID": 381,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12324,
+    "RewardID": 371,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12325,
+    "RewardID": 351,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700166,
+    "NonOwnedSelectAble": true,
+    "ID": 12326,
+    "RewardID": 291,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12327,
+    "RewardID": 302030019,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12328,
+    "RewardID": 302030004,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12329,
+    "RewardID": 302030002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12330,
+    "RewardID": 302030039,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12331,
+    "RewardID": 302030024,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12332,
+    "RewardID": 302030009,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12333,
+    "RewardID": 302030029,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12334,
+    "RewardID": 302030023,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12335,
+    "RewardID": 302030028,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12336,
+    "RewardID": 302030027,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12337,
+    "RewardID": 302030030,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700167,
+    "NonOwnedSelectAble": true,
+    "ID": 12338,
+    "RewardID": 302030018,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12339,
+    "RewardID": 531,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12340,
+    "RewardID": 561,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12341,
+    "RewardID": 541,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12342,
+    "RewardID": 571,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12343,
+    "RewardID": 401,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12344,
+    "RewardID": 551,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12345,
+    "RewardID": 481,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12346,
+    "RewardID": 61,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12347,
+    "RewardID": 341,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12348,
+    "RewardID": 521,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12349,
+    "RewardID": 411,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12350,
+    "RewardID": 441,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12351,
+    "RewardID": 281,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12352,
+    "RewardID": 11,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12353,
+    "RewardID": 71,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12354,
+    "RewardID": 331,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12355,
+    "RewardID": 191,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12356,
+    "RewardID": 391,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12357,
+    "RewardID": 241,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12358,
+    "RewardID": 381,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12359,
+    "RewardID": 371,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12360,
+    "RewardID": 351,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700168,
+    "NonOwnedSelectAble": true,
+    "ID": 12361,
+    "RewardID": 291,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12362,
+    "RewardID": 302030044,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12363,
+    "RewardID": 302030047,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12364,
+    "RewardID": 302030045,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12365,
+    "RewardID": 302030048,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12366,
+    "RewardID": 302030031,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12367,
+    "RewardID": 302030046,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12368,
+    "RewardID": 302030039,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12369,
+    "RewardID": 302030001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12370,
+    "RewardID": 302030025,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12371,
+    "RewardID": 302030043,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12372,
+    "RewardID": 302030032,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12373,
+    "RewardID": 302030035,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12374,
+    "RewardID": 302030019,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12375,
+    "RewardID": 302030004,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12376,
+    "RewardID": 302030002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12377,
+    "RewardID": 302030024,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12378,
+    "RewardID": 302030009,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12379,
+    "RewardID": 302030029,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12380,
+    "RewardID": 302030023,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12381,
+    "RewardID": 302030028,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12382,
+    "RewardID": 302030027,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12383,
+    "RewardID": 302030030,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
+    "SubGroupID": 20700169,
+    "NonOwnedSelectAble": true,
+    "ID": 12384,
+    "RewardID": 302030018,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Relic"
+  },
+  {
     "SubGroupID": 70001,
     "NonOwnedSelectAble": true,
     "ID": 70001001,
@@ -42700,6 +43660,346 @@
     "RewardType": "PartsCostume"
   },
   {
+    "SubGroupID": 81032,
+    "NonOwnedSelectAble": true,
+    "ID": 70104721,
+    "RewardID": 30010108,
+    "RewardCount": 3,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "UseItem"
+  },
+  {
+    "SubGroupID": 81032,
+    "NonOwnedSelectAble": true,
+    "ID": 70104722,
+    "RewardID": 30010120,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "UseItem"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104723,
+    "RewardID": 721001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104724,
+    "RewardID": 551002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104725,
+    "RewardID": 611001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104726,
+    "RewardID": 471001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104727,
+    "RewardID": 491001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104728,
+    "RewardID": 491003,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104729,
+    "RewardID": 361001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104730,
+    "RewardID": 521001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104731,
+    "RewardID": 451001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104732,
+    "RewardID": 641001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104733,
+    "RewardID": 201013,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104734,
+    "RewardID": 201017,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104735,
+    "RewardID": 201015,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104736,
+    "RewardID": 201011,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104737,
+    "RewardID": 601002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104738,
+    "RewardID": 561001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104739,
+    "RewardID": 391001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104740,
+    "RewardID": 571001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104741,
+    "RewardID": 461001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104742,
+    "RewardID": 461004,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104743,
+    "RewardID": 381001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104744,
+    "RewardID": 381002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104745,
+    "RewardID": 531001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104746,
+    "RewardID": 281002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104747,
+    "RewardID": 441001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104748,
+    "RewardID": 211003,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104749,
+    "RewardID": 211001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104750,
+    "RewardID": 581001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104751,
+    "RewardID": 541001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104752,
+    "RewardID": 511001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104753,
+    "RewardID": 501002,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
+    "SubGroupID": 81033,
+    "NonOwnedSelectAble": true,
+    "ID": 70104754,
+    "RewardID": 501001,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "",
+    "RewardType": "Costume"
+  },
+  {
     "SubGroupID": 80000,
     "NonOwnedSelectAble": true,
     "ID": 8000001,
@@ -43137,6 +44437,16 @@
     "RewardCount": 1,
     "FixedInfo": 0,
     "OpenTime": "2026-05-01T09:00:00+09:00",
+    "RewardType": "Hunter"
+  },
+  {
+    "SubGroupID": 80000,
+    "NonOwnedSelectAble": true,
+    "ID": 8000045,
+    "RewardID": 571,
+    "RewardCount": 1,
+    "FixedInfo": 0,
+    "OpenTime": "2026-05-06T09:00:00+09:00",
     "RewardType": "Hunter"
   },
   {

@@ -13544,5 +13544,98 @@
     "RoamingRadius": [
       0.0
     ]
+  },
+  {
+    "KeymobID": 4,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 69,
+    "ID": 426,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 100.0,
+    "SpawnFlagID": 0,
+    "TriggerGroupID": 4,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 5,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "SpawnZone1",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 4,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 69,
+    "ID": 427,
+    "SpawnEliteMonsterCount": 5,
+    "DetectingRange": 100.0,
+    "SpawnFlagID": 0,
+    "TriggerGroupID": 4,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.20000000298023224
+    ],
+    "SpawnZone": "SpawnZone1",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 4,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 69,
+    "ID": 428,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 100.0,
+    "SpawnFlagID": 0,
+    "TriggerGroupID": 4,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 5,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.4000000059604645
+    ],
+    "SpawnZone": "SpawnZone1",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "",
+    "RoamingRadius": [
+      0.0
+    ]
   }
 ]

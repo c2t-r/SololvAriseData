@@ -90,7 +90,7 @@
     "ContentsType": "Ranking"
   },
   {
-    "RankValue": 100,
+    "RankValue": 10,
     "ID": 30004,
     "TitleID": 11068017,
     "SubType": "World",
@@ -99,7 +99,7 @@
     "ContentsType": "WorldBoss"
   },
   {
-    "RankValue": 500,
+    "RankValue": 50,
     "ID": 30005,
     "TitleID": 11068018,
     "SubType": "World",
@@ -108,7 +108,7 @@
     "ContentsType": "WorldBoss"
   },
   {
-    "RankValue": 1000,
+    "RankValue": 100,
     "ID": 30006,
     "TitleID": 11068019,
     "SubType": "World",
@@ -139,6 +139,33 @@
     "ID": 30016,
     "TitleID": 11068022,
     "SubType": "Server",
+    "RankType": "Normal",
+    "DecoPrefab": "3rd",
+    "ContentsType": "WorldBoss"
+  },
+  {
+    "RankValue": 3,
+    "ID": 30024,
+    "TitleID": 11068023,
+    "SubType": "Season",
+    "RankType": "Normal",
+    "DecoPrefab": "1st",
+    "ContentsType": "WorldBoss"
+  },
+  {
+    "RankValue": 10,
+    "ID": 30025,
+    "TitleID": 11068024,
+    "SubType": "Season",
+    "RankType": "Normal",
+    "DecoPrefab": "2nd",
+    "ContentsType": "WorldBoss"
+  },
+  {
+    "RankValue": 30,
+    "ID": 30026,
+    "TitleID": 11068025,
+    "SubType": "Season",
     "RankType": "Normal",
     "DecoPrefab": "3rd",
     "ContentsType": "WorldBoss"

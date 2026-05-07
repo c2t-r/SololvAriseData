@@ -1490,7 +1490,7 @@
   {
     "Order": 1,
     "ID": 206,
-    "GroupID": 2,
+    "GroupID": 3,
     "SortCategory": "WBMileageBonus",
     "ContentsType": "WorldBoss",
     "CategoryString": "SysConstStr.WorldBoss.WBMileageBonus"
@@ -1582,5 +1582,13 @@
     "SortCategory": "Acquisition",
     "ContentsType": "Artifact",
     "CategoryString": "ESortCategory.Obtain"
+  },
+  {
+    "Order": 1,
+    "ID": 218,
+    "GroupID": 10,
+    "SortCategory": "ID",
+    "ContentsType": "Collection",
+    "CategoryString": "SysConstStr.Glossary.SortTypeID"
   }
 ]

@@ -61,7 +61,7 @@
     "OptionHidden": true,
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
-    "ContentsType": "TimeAttack"
+    "ContentsType": "CoreDungeon"
   },
   {
     "ID": 9,
@@ -69,7 +69,7 @@
     "OptionHidden": true,
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
-    "ContentsType": "WorldBoss"
+    "ContentsType": "TimeAttack"
   },
   {
     "ID": 10,
@@ -77,7 +77,7 @@
     "OptionHidden": true,
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
-    "ContentsType": "Tower"
+    "ContentsType": "WorldBoss"
   },
   {
     "ID": 11,
@@ -85,7 +85,7 @@
     "OptionHidden": true,
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
-    "ContentsType": "OtherWorld"
+    "ContentsType": "Tower"
   },
   {
     "ID": 12,
@@ -93,7 +93,7 @@
     "OptionHidden": true,
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
-    "ContentsType": "Raid"
+    "ContentsType": "OtherWorld"
   },
   {
     "ID": 13,
@@ -101,7 +101,7 @@
     "OptionHidden": true,
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
-    "ContentsType": "Advent"
+    "ContentsType": "Raid"
   },
   {
     "ID": 14,
@@ -155,7 +155,7 @@
     "ID": 20,
     "AutoUnlockType": 2,
     "OptionHidden": true,
-    "SemiAutoUnlockValue": 102,
+    "SemiAutoUnlockValue": 107,
     "FullAutoUnlockValue": 503,
     "ContentsType": "JobChange"
   },
@@ -278,5 +278,13 @@
     "SemiAutoUnlockValue": 1,
     "FullAutoUnlockValue": 1,
     "ContentsType": "InstantDungeon"
+  },
+  {
+    "ID": 36,
+    "AutoUnlockType": 0,
+    "OptionHidden": true,
+    "SemiAutoUnlockValue": 1,
+    "FullAutoUnlockValue": 1,
+    "ContentsType": "Advent"
   }
 ]

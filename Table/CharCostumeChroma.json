@@ -2922,9 +2922,7 @@
     "AnimationSet": "AnimationSet_Minnie",
     "AudioSet": "ActorAudioData_Minnie",
     "SkinEffIndex": [],
-    "ChromaLinkMoveTarget": [
-      21
-    ],
+    "ChromaLinkMoveTarget": [],
     "ChromaResource": "Skin_MinnieSkinRare",
     "ChromaIcon": "MinnieSkinRare",
     "ChromaItemRarity": "Rare"
@@ -3064,9 +3062,7 @@
     "AnimationSet": "AnimationSet_Soyeon",
     "AudioSet": "ActorAudioData_Soyeon",
     "SkinEffIndex": [],
-    "ChromaLinkMoveTarget": [
-      21
-    ],
+    "ChromaLinkMoveTarget": [],
     "ChromaResource": "Skin_SoyeonSkinRare",
     "ChromaIcon": "SoyeonSkinRare",
     "ChromaItemRarity": "Rare"
@@ -3206,9 +3202,7 @@
     "AnimationSet": "AnimationSet_Yuqi",
     "AudioSet": "ActorAudioData_Yuqi",
     "SkinEffIndex": [],
-    "ChromaLinkMoveTarget": [
-      21
-    ],
+    "ChromaLinkMoveTarget": [],
     "ChromaResource": "Skin_YuqiSkinRare",
     "ChromaIcon": "YuqiSkinRare",
     "ChromaItemRarity": "Rare"
@@ -4010,5 +4004,87 @@
     "ChromaResource": "Skin_ElenaRenaudEpicGoth_3",
     "ChromaIcon": "ElenaRenaudEpicGoth_3",
     "ChromaItemRarity": "Epic"
+  },
+  {
+    "CharEventActionVoiceGroupID": 591,
+    "ReactionTimeLineID": 591,
+    "AttachWeaponGroupID": 591,
+    "ChromaSkinNoMsgBox": true,
+    "ID": 8010001,
+    "CostumeID": 801000,
+    "ChromaShopGoodsSlotID": 0,
+    "ProductionTimeLineGroupID": 591,
+    "ChromaIndex": 1,
+    "HiddenChromaSkin": true,
+    "ChromaDupRewardGroup": 705136,
+    "AnimationSet": "AnimationSet_AntoineMartinez",
+    "AudioSet": "ActorAudioData_AntoineMartinez",
+    "SkinEffIndex": [],
+    "ChromaLinkMoveTarget": [
+      46
+    ],
+    "ChromaResource": "Skin_AntoineMartinezSkinRare",
+    "ChromaIcon": "AntoineMartinezSkinRare",
+    "ChromaItemRarity": "Rare"
+  },
+  {
+    "CharEventActionVoiceGroupID": 591,
+    "ReactionTimeLineID": 592,
+    "AttachWeaponGroupID": 591,
+    "ChromaSkinNoMsgBox": true,
+    "ID": 8010011,
+    "CostumeID": 801001,
+    "ChromaShopGoodsSlotID": 331455,
+    "ProductionTimeLineGroupID": 592,
+    "ChromaIndex": 1,
+    "HiddenChromaSkin": true,
+    "ChromaDupRewardGroup": 705136,
+    "AnimationSet": "AnimationSet_AntoineMartinez",
+    "AudioSet": "ActorAudioData_AntoineMartinez",
+    "SkinEffIndex": [],
+    "ChromaLinkMoveTarget": [],
+    "ChromaResource": "Skin_AntoineMartinezEpicMustang_1",
+    "ChromaIcon": "AntoineMartinezEpicMustang_1",
+    "ChromaItemRarity": "Rare"
+  },
+  {
+    "CharEventActionVoiceGroupID": 591,
+    "ReactionTimeLineID": 592,
+    "AttachWeaponGroupID": 591,
+    "ChromaSkinNoMsgBox": true,
+    "ID": 8010012,
+    "CostumeID": 801001,
+    "ChromaShopGoodsSlotID": 331456,
+    "ProductionTimeLineGroupID": 592,
+    "ChromaIndex": 2,
+    "HiddenChromaSkin": true,
+    "ChromaDupRewardGroup": 705136,
+    "AnimationSet": "AnimationSet_AntoineMartinez",
+    "AudioSet": "ActorAudioData_AntoineMartinez",
+    "SkinEffIndex": [],
+    "ChromaLinkMoveTarget": [],
+    "ChromaResource": "Skin_AntoineMartinezEpicMustang_2",
+    "ChromaIcon": "AntoineMartinezEpicMustang_2",
+    "ChromaItemRarity": "Rare"
+  },
+  {
+    "CharEventActionVoiceGroupID": 591,
+    "ReactionTimeLineID": 592,
+    "AttachWeaponGroupID": 591,
+    "ChromaSkinNoMsgBox": true,
+    "ID": 8010013,
+    "CostumeID": 801001,
+    "ChromaShopGoodsSlotID": 331457,
+    "ProductionTimeLineGroupID": 592,
+    "ChromaIndex": 3,
+    "HiddenChromaSkin": true,
+    "ChromaDupRewardGroup": 705136,
+    "AnimationSet": "AnimationSet_AntoineMartinez",
+    "AudioSet": "ActorAudioData_AntoineMartinez",
+    "SkinEffIndex": [],
+    "ChromaLinkMoveTarget": [],
+    "ChromaResource": "Skin_AntoineMartinezEpicMustang_3",
+    "ChromaIcon": "AntoineMartinezEpicMustang_3",
+    "ChromaItemRarity": "Rare"
   }
 ]

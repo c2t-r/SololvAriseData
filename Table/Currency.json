@@ -138,12 +138,10 @@
     "MoveTarget": [
       100003
     ],
-    "TooltipDisplay": "Daily",
+    "TooltipDisplay": "",
     "ItemRarity": "Common",
     "ShopIconResourceName": "Currency_GateEnterPoint",
-    "ContentsType": [
-      "Gate"
-    ],
+    "ContentsType": [],
     "IconResourceName": "Currency_GateEnterPoint",
     "StringDesc": "Currency.GateEnterPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
@@ -157,12 +155,10 @@
     "MoveTarget": [
       30017
     ],
-    "TooltipDisplay": "Daily",
+    "TooltipDisplay": "",
     "ItemRarity": "Common",
     "ShopIconResourceName": "Currency_AdvantEnterPoint",
-    "ContentsType": [
-      "ArtifactDungeon"
-    ],
+    "ContentsType": [],
     "IconResourceName": "Currency_AdvantEnterPoint",
     "StringDesc": "CurrencyArtifactDungeonEnterPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
@@ -241,9 +237,7 @@
     "TooltipDisplay": "",
     "ItemRarity": "Common",
     "ShopIconResourceName": "Currency_AdvantEnterPoint",
-    "ContentsType": [
-      "ArtifactDungeon"
-    ],
+    "ContentsType": [],
     "IconResourceName": "Currency_AdvantEnterPoint",
     "StringDesc": "CurrencyArtifactDungeonEnterPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
@@ -351,7 +345,7 @@
     "ChargeGroup": 50000,
     "ItemSubType": "HunterStoryKey",
     "MoveTarget": [],
-    "TooltipDisplay": "Daily",
+    "TooltipDisplay": "",
     "ItemRarity": "Common",
     "ShopIconResourceName": "Item_HunterStoryKey",
     "ContentsType": [],
@@ -398,12 +392,10 @@
     "MoveTarget": [
       30017
     ],
-    "TooltipDisplay": "Daily",
+    "TooltipDisplay": "",
     "ItemRarity": "Common",
     "ShopIconResourceName": "Currency_ChaosEnterPoint",
-    "ContentsType": [
-      "ChaosBattleField"
-    ],
+    "ContentsType": [],
     "IconResourceName": "Currency_ChaosEnterPoint",
     "StringDesc": "Currency_ChaosEnterPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
@@ -494,7 +486,7 @@
     "ChargeGroup": 0,
     "ItemSubType": "CoopDungeonEnterPoint",
     "MoveTarget": [],
-    "TooltipDisplay": "Daily",
+    "TooltipDisplay": "Weekly",
     "ItemRarity": "Rare",
     "ShopIconResourceName": "Currency_PlayerTowerEnterPoint",
     "ContentsType": [
@@ -521,5 +513,28 @@
     "StringDesc": "Currency.WorldBossSeasonPointDesc",
     "CurrencyPurchhaseUI": "",
     "StringName": "Currency.WorldBossSeasonPointName"
+  },
+  {
+    "InvenHide": true,
+    "ID": 1000033,
+    "ChargeGroup": 12000,
+    "ItemSubType": "EnterPointDaily",
+    "MoveTarget": [
+      30017,
+      30034
+    ],
+    "TooltipDisplay": "Daily",
+    "ItemRarity": "Common",
+    "ShopIconResourceName": "Currency_EnterPointDaily",
+    "ContentsType": [
+      "Gate",
+      "ArtifactDungeon",
+      "ChaosBattleField",
+      "CoreDungeon"
+    ],
+    "IconResourceName": "Currency_EnterPointDaily",
+    "StringDesc": "Currency.EnterPointDailyDesc",
+    "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
+    "StringName": "Currency.EnterPointDailyName"
   }
 ]

@@ -1,1 +1,1285 @@
-[]
+[
+  {
+    "ID": 20101,
+    "ContentsGrowthGroup": 201,
+    "Sort": 1,
+    "Category": 20101,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45101000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [],
+    "GrowthConditionType": "",
+    "CategoryTitle": "ContentsGrowth.Journey1"
+  },
+  {
+    "ID": 20102,
+    "ContentsGrowthGroup": 201,
+    "Sort": 2,
+    "Category": 20102,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45102000,
+    "PreCategory": 20101,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20101
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey2"
+  },
+  {
+    "ID": 20103,
+    "ContentsGrowthGroup": 201,
+    "Sort": 3,
+    "Category": 20103,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45103000,
+    "PreCategory": 20102,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20102
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey3"
+  },
+  {
+    "ID": 20104,
+    "ContentsGrowthGroup": 201,
+    "Sort": 4,
+    "Category": 20104,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45104000,
+    "PreCategory": 20103,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20103
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey4"
+  },
+  {
+    "ID": 20105,
+    "ContentsGrowthGroup": 201,
+    "Sort": 5,
+    "Category": 20105,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45105000,
+    "PreCategory": 20104,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20104
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey5"
+  },
+  {
+    "ID": 20106,
+    "ContentsGrowthGroup": 201,
+    "Sort": 6,
+    "Category": 20106,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45106000,
+    "PreCategory": 20105,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20105
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey6"
+  },
+  {
+    "ID": 20107,
+    "ContentsGrowthGroup": 201,
+    "Sort": 7,
+    "Category": 20107,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45107000,
+    "PreCategory": 20106,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20106
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey7"
+  },
+  {
+    "ID": 20108,
+    "ContentsGrowthGroup": 201,
+    "Sort": 8,
+    "Category": 20108,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45108000,
+    "PreCategory": 20107,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20107
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey8"
+  },
+  {
+    "ID": 20109,
+    "ContentsGrowthGroup": 201,
+    "Sort": 9,
+    "Category": 20109,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45109000,
+    "PreCategory": 20108,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20108
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey9"
+  },
+  {
+    "ID": 20110,
+    "ContentsGrowthGroup": 201,
+    "Sort": 10,
+    "Category": 20110,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45110000,
+    "PreCategory": 20109,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20109
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey10"
+  },
+  {
+    "ID": 20111,
+    "ContentsGrowthGroup": 201,
+    "Sort": 11,
+    "Category": 20111,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45111000,
+    "PreCategory": 20110,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20110
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey11"
+  },
+  {
+    "ID": 20112,
+    "ContentsGrowthGroup": 201,
+    "Sort": 12,
+    "Category": 20112,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45112000,
+    "PreCategory": 20111,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20111
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey12"
+  },
+  {
+    "ID": 20113,
+    "ContentsGrowthGroup": 201,
+    "Sort": 13,
+    "Category": 20113,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45113000,
+    "PreCategory": 20112,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20112
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey13"
+  },
+  {
+    "ID": 20114,
+    "ContentsGrowthGroup": 201,
+    "Sort": 14,
+    "Category": 20114,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45114000,
+    "PreCategory": 20113,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20113
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey14"
+  },
+  {
+    "ID": 20115,
+    "ContentsGrowthGroup": 201,
+    "Sort": 15,
+    "Category": 20115,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45115000,
+    "PreCategory": 20114,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20114
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey15"
+  },
+  {
+    "ID": 20116,
+    "ContentsGrowthGroup": 201,
+    "Sort": 16,
+    "Category": 20116,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45116000,
+    "PreCategory": 20115,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20115
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey16"
+  },
+  {
+    "ID": 20117,
+    "ContentsGrowthGroup": 201,
+    "Sort": 17,
+    "Category": 20117,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45117000,
+    "PreCategory": 20116,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20116
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey17"
+  },
+  {
+    "ID": 20118,
+    "ContentsGrowthGroup": 201,
+    "Sort": 18,
+    "Category": 20118,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45118000,
+    "PreCategory": 20117,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20117
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey18"
+  },
+  {
+    "ID": 20119,
+    "ContentsGrowthGroup": 201,
+    "Sort": 19,
+    "Category": 20119,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45119000,
+    "PreCategory": 20118,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20118
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey19"
+  },
+  {
+    "ID": 20120,
+    "ContentsGrowthGroup": 201,
+    "Sort": 20,
+    "Category": 20120,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45120000,
+    "PreCategory": 20119,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20119
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey20"
+  },
+  {
+    "ID": 20121,
+    "ContentsGrowthGroup": 201,
+    "Sort": 21,
+    "Category": 20121,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45121000,
+    "PreCategory": 20120,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20120
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey21"
+  },
+  {
+    "ID": 20122,
+    "ContentsGrowthGroup": 201,
+    "Sort": 22,
+    "Category": 20122,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45122000,
+    "PreCategory": 20121,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20121
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey22"
+  },
+  {
+    "ID": 20123,
+    "ContentsGrowthGroup": 201,
+    "Sort": 23,
+    "Category": 20123,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45123000,
+    "PreCategory": 20122,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20122
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey23"
+  },
+  {
+    "ID": 20124,
+    "ContentsGrowthGroup": 201,
+    "Sort": 24,
+    "Category": 20124,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45124000,
+    "PreCategory": 20123,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20123
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey24"
+  },
+  {
+    "ID": 20125,
+    "ContentsGrowthGroup": 201,
+    "Sort": 25,
+    "Category": 20125,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45125000,
+    "PreCategory": 20124,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20124
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey25"
+  },
+  {
+    "ID": 20126,
+    "ContentsGrowthGroup": 201,
+    "Sort": 26,
+    "Category": 20126,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45126000,
+    "PreCategory": 20125,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20125
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey26"
+  },
+  {
+    "ID": 20127,
+    "ContentsGrowthGroup": 201,
+    "Sort": 27,
+    "Category": 20127,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45127000,
+    "PreCategory": 20126,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20126
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey27"
+  },
+  {
+    "ID": 20128,
+    "ContentsGrowthGroup": 201,
+    "Sort": 28,
+    "Category": 20128,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45128000,
+    "PreCategory": 20127,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20127
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey28"
+  },
+  {
+    "ID": 20129,
+    "ContentsGrowthGroup": 201,
+    "Sort": 29,
+    "Category": 20129,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45129000,
+    "PreCategory": 20128,
+    "Resource": "GuideMission_Category_Icon_Story",
+    "ShowRewardType": "Weapon",
+    "GrowthCondition": [
+      20128
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Journey29"
+  },
+  {
+    "ID": 20201,
+    "ContentsGrowthGroup": 202,
+    "Sort": 1,
+    "Category": 20201,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45201000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Gate",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20104
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth1"
+  },
+  {
+    "ID": 20202,
+    "ContentsGrowthGroup": 202,
+    "Sort": 2,
+    "Category": 20202,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45202000,
+    "PreCategory": 20201,
+    "Resource": "GuideMission_Category_Icon_Weapon",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20201
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth2"
+  },
+  {
+    "ID": 20203,
+    "ContentsGrowthGroup": 202,
+    "Sort": 3,
+    "Category": 20203,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45203000,
+    "PreCategory": 20202,
+    "Resource": "GuideMission_Category_Icon_Gate",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20202
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth3"
+  },
+  {
+    "ID": 20204,
+    "ContentsGrowthGroup": 202,
+    "Sort": 4,
+    "Category": 20204,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45204000,
+    "PreCategory": 20203,
+    "Resource": "GuideMission_Category_Icon_Weapon",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20203
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth4"
+  },
+  {
+    "ID": 20205,
+    "ContentsGrowthGroup": 202,
+    "Sort": 5,
+    "Category": 20205,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45205000,
+    "PreCategory": 20204,
+    "Resource": "GuideMission_Category_Icon_Gate",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20204
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth5"
+  },
+  {
+    "ID": 20206,
+    "ContentsGrowthGroup": 202,
+    "Sort": 6,
+    "Category": 20206,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45206000,
+    "PreCategory": 20205,
+    "Resource": "GuideMission_Category_Icon_Artifact",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20205
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth6"
+  },
+  {
+    "ID": 20207,
+    "ContentsGrowthGroup": 202,
+    "Sort": 7,
+    "Category": 20207,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45207000,
+    "PreCategory": 20206,
+    "Resource": "GuideMission_Category_Icon_Gate",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20206
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth7"
+  },
+  {
+    "ID": 20208,
+    "ContentsGrowthGroup": 202,
+    "Sort": 8,
+    "Category": 20208,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45208000,
+    "PreCategory": 20207,
+    "Resource": "GuideMission_Category_Icon_Artifact",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20207
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth8"
+  },
+  {
+    "ID": 20209,
+    "ContentsGrowthGroup": 202,
+    "Sort": 9,
+    "Category": 20209,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45209000,
+    "PreCategory": 20208,
+    "Resource": "GuideMission_Category_Icon_Gem",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20208
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth9"
+  },
+  {
+    "ID": 20210,
+    "ContentsGrowthGroup": 202,
+    "Sort": 10,
+    "Category": 20210,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45210000,
+    "PreCategory": 20209,
+    "Resource": "GuideMission_Category_Icon_Artifact",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20209
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth10"
+  },
+  {
+    "ID": 20211,
+    "ContentsGrowthGroup": 202,
+    "Sort": 11,
+    "Category": 20211,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45211000,
+    "PreCategory": 20210,
+    "Resource": "GuideMission_Category_Icon_Core",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20210
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth11"
+  },
+  {
+    "ID": 20212,
+    "ContentsGrowthGroup": 202,
+    "Sort": 12,
+    "Category": 20212,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45212000,
+    "PreCategory": 20211,
+    "Resource": "GuideMission_Category_Icon_Artifact",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20211
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth12"
+  },
+  {
+    "ID": 20213,
+    "ContentsGrowthGroup": 202,
+    "Sort": 13,
+    "Category": 20213,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45213000,
+    "PreCategory": 20212,
+    "Resource": "GuideMission_Category_Icon_DimensionGate",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20212
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth13"
+  },
+  {
+    "ID": 20214,
+    "ContentsGrowthGroup": 202,
+    "Sort": 14,
+    "Category": 20214,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45214000,
+    "PreCategory": 20213,
+    "Resource": "GuideMission_Category_Icon_Core",
+    "ShowRewardType": "HunterWeapon",
+    "GrowthCondition": [
+      20213
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth14"
+  },
+  {
+    "ID": 20215,
+    "ContentsGrowthGroup": 202,
+    "Sort": 15,
+    "Category": 20215,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45215000,
+    "PreCategory": 20214,
+    "Resource": "GuideMission_Category_Icon_HunterTraining",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20214
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth15"
+  },
+  {
+    "ID": 20216,
+    "ContentsGrowthGroup": 202,
+    "Sort": 16,
+    "Category": 20216,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45216000,
+    "PreCategory": 20215,
+    "Resource": "GuideMission_Category_Icon_Core",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20215
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth16"
+  },
+  {
+    "ID": 20217,
+    "ContentsGrowthGroup": 202,
+    "Sort": 17,
+    "Category": 20217,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45217000,
+    "PreCategory": 20216,
+    "Resource": "GuideMission_Category_Icon_Artifact",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20216
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth17"
+  },
+  {
+    "ID": 20218,
+    "ContentsGrowthGroup": 202,
+    "Sort": 18,
+    "Category": 20218,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45218000,
+    "PreCategory": 20217,
+    "Resource": "GuideMission_Category_Icon_Enchant",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20217
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth18"
+  },
+  {
+    "ID": 20219,
+    "ContentsGrowthGroup": 202,
+    "Sort": 19,
+    "Category": 20219,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45219000,
+    "PreCategory": 20218,
+    "Resource": "GuideMission_Category_Icon_Core",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20218
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth19"
+  },
+  {
+    "ID": 20220,
+    "ContentsGrowthGroup": 202,
+    "Sort": 20,
+    "Category": 20220,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45220000,
+    "PreCategory": 20219,
+    "Resource": "GuideMission_Category_Icon_Weapon",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20219
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth20"
+  },
+  {
+    "ID": 20221,
+    "ContentsGrowthGroup": 202,
+    "Sort": 21,
+    "Category": 20221,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45221000,
+    "PreCategory": 20220,
+    "Resource": "GuideMission_Category_Icon_Weapon",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20220
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth21"
+  },
+  {
+    "ID": 20222,
+    "ContentsGrowthGroup": 202,
+    "Sort": 22,
+    "Category": 20222,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45222000,
+    "PreCategory": 20221,
+    "Resource": "GuideMission_Category_Icon_Weapon",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20221
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Growth22"
+  },
+  {
+    "ID": 20223,
+    "ContentsGrowthGroup": 202,
+    "Sort": 23,
+    "Category": 20223,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45223000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_WeaponArmory",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20202
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.WeaponArmory1"
+  },
+  {
+    "ID": 20224,
+    "ContentsGrowthGroup": 202,
+    "Sort": 24,
+    "Category": 20224,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45224000,
+    "PreCategory": 20223,
+    "Resource": "GuideMission_Category_Icon_WeaponArmory",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20223
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.WeaponArmory2"
+  },
+  {
+    "ID": 20225,
+    "ContentsGrowthGroup": 202,
+    "Sort": 25,
+    "Category": 20225,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45225000,
+    "PreCategory": 20224,
+    "Resource": "GuideMission_Category_Icon_WeaponArmory",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20224
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.WeaponArmory3"
+  },
+  {
+    "ID": 20226,
+    "ContentsGrowthGroup": 202,
+    "Sort": 26,
+    "Category": 20226,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45226000,
+    "PreCategory": 20225,
+    "Resource": "GuideMission_Category_Icon_WeaponArmory",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20225
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.WeaponArmory4"
+  },
+  {
+    "ID": 20227,
+    "ContentsGrowthGroup": 202,
+    "Sort": 27,
+    "Category": 20227,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45227000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20205
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion1"
+  },
+  {
+    "ID": 20228,
+    "ContentsGrowthGroup": 202,
+    "Sort": 28,
+    "Category": 20228,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45228000,
+    "PreCategory": 20227,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20227,
+      20108
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion6"
+  },
+  {
+    "ID": 20229,
+    "ContentsGrowthGroup": 202,
+    "Sort": 29,
+    "Category": 20229,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45229000,
+    "PreCategory": 20228,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20228,
+      20109
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion2"
+  },
+  {
+    "ID": 20230,
+    "ContentsGrowthGroup": 202,
+    "Sort": 30,
+    "Category": 20230,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45230000,
+    "PreCategory": 20229,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20229,
+      20110
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion3"
+  },
+  {
+    "ID": 20231,
+    "ContentsGrowthGroup": 202,
+    "Sort": 31,
+    "Category": 20231,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45231000,
+    "PreCategory": 20230,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20230
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion4"
+  },
+  {
+    "ID": 20232,
+    "ContentsGrowthGroup": 202,
+    "Sort": 32,
+    "Category": 20232,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45232000,
+    "PreCategory": 20231,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20231,
+      20112
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion8"
+  },
+  {
+    "ID": 20233,
+    "ContentsGrowthGroup": 202,
+    "Sort": 33,
+    "Category": 20233,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45233000,
+    "PreCategory": 20232,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20232,
+      20114
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion5"
+  },
+  {
+    "ID": 20234,
+    "ContentsGrowthGroup": 202,
+    "Sort": 34,
+    "Category": 20234,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45234000,
+    "PreCategory": 20233,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20233,
+      20118
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion7"
+  },
+  {
+    "ID": 20235,
+    "ContentsGrowthGroup": 202,
+    "Sort": 35,
+    "Category": 20235,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45235000,
+    "PreCategory": 20234,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20234,
+      20121
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion9"
+  },
+  {
+    "ID": 20236,
+    "ContentsGrowthGroup": 202,
+    "Sort": 36,
+    "Category": 20236,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45236000,
+    "PreCategory": 20235,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20235,
+      20122
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion10"
+  },
+  {
+    "ID": 20237,
+    "ContentsGrowthGroup": 202,
+    "Sort": 37,
+    "Category": 20237,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45237000,
+    "PreCategory": 20236,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20236,
+      20124
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion12"
+  },
+  {
+    "ID": 20238,
+    "ContentsGrowthGroup": 202,
+    "Sort": 38,
+    "Category": 20238,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45238000,
+    "PreCategory": 20237,
+    "Resource": "GuideMission_Category_Icon_Shadow",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20237,
+      20127
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.ShadowPromotion13"
+  },
+  {
+    "ID": 20239,
+    "ContentsGrowthGroup": 202,
+    "Sort": 39,
+    "Category": 20239,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45239000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Gem",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20209
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Gem"
+  },
+  {
+    "ID": 20240,
+    "ContentsGrowthGroup": 202,
+    "Sort": 40,
+    "Category": 20240,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45240000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Core",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20210
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Core1"
+  },
+  {
+    "ID": 20241,
+    "ContentsGrowthGroup": 202,
+    "Sort": 41,
+    "Category": 20241,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45241000,
+    "PreCategory": 20240,
+    "Resource": "GuideMission_Category_Icon_Core",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20240
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Core2"
+  },
+  {
+    "ID": 20301,
+    "ContentsGrowthGroup": 203,
+    "Sort": 42,
+    "Category": 20301,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45301000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Artifact",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20102
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Adventure"
+  },
+  {
+    "ID": 20302,
+    "ContentsGrowthGroup": 203,
+    "Sort": 43,
+    "Category": 20302,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45302000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_WorldBoss",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20112
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.WorldBoss"
+  },
+  {
+    "ID": 20303,
+    "ContentsGrowthGroup": 203,
+    "Sort": 44,
+    "Category": 20303,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45303000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Raid",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20124
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Raid1"
+  },
+  {
+    "ID": 20304,
+    "ContentsGrowthGroup": 203,
+    "Sort": 45,
+    "Category": 20304,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45304000,
+    "PreCategory": 20303,
+    "Resource": "GuideMission_Category_Icon_Raid",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20303
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.Raid2"
+  },
+  {
+    "ID": 20305,
+    "ContentsGrowthGroup": 203,
+    "Sort": 46,
+    "Category": 20305,
+    "IsHiddenWhenLocked": true,
+    "SubCategory": true,
+    "RewardGroupID": 45305000,
+    "PreCategory": 0,
+    "Resource": "GuideMission_Category_Icon_Season",
+    "ShowRewardType": "Normal",
+    "GrowthCondition": [
+      20108
+    ],
+    "GrowthConditionType": "CategoryComplete",
+    "CategoryTitle": "ContentsGrowth.SeasonContents"
+  }
+]

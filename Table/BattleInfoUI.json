@@ -102,5 +102,18 @@
     "Tab2Text": "",
     "Tab1Prefab": "StageDetailModule_BossAttribute",
     "eBattleEnterType": "NewbieProtocol"
+  },
+  {
+    "PausePage": true,
+    "ID": 10,
+    "Tab4Text": "",
+    "Tab3Text": "SystemConstStr.Glossary.StageDetailPenaltyBtn",
+    "Tab4Prefab": "",
+    "Tab2Prefab": "StageDetailModule_BattleMission_TypeB",
+    "Tab1Text": "SystemConstStr.Glossary.StageDetailBossAttribute",
+    "Tab3Prefab": "StageDetailModule_Penalty_TypeB",
+    "Tab2Text": "SysConstStr.Common.BattleMission",
+    "Tab1Prefab": "StageDetailModule_BossAttribute",
+    "eBattleEnterType": "CoreDungeon"
   }
 ]

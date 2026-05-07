@@ -52,9 +52,35 @@
     "ResetCostType": "MagicEssence"
   },
   {
+    "ResetCostValue": 600,
+    "ChangeItemValue": 6,
+    "ID": 5,
+    "ChangeCount": 5,
+    "Grade": 50,
+    "ChangeGold": 7000,
+    "ResetCostID": 1000002,
+    "ChangeItemID": 10060001,
+    "ChangeItemType": "Material",
+    "ItemRarity": "Epic",
+    "ResetCostType": "MagicEssence"
+  },
+  {
+    "ResetCostValue": 600,
+    "ChangeItemValue": 8,
+    "ID": 6,
+    "ChangeCount": 5,
+    "Grade": 55,
+    "ChangeGold": 10000,
+    "ResetCostID": 1000002,
+    "ChangeItemID": 10060001,
+    "ChangeItemType": "Material",
+    "ItemRarity": "Legendary",
+    "ResetCostType": "MagicEssence"
+  },
+  {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 5,
+    "ID": 7,
     "ChangeCount": 10,
     "Grade": 40,
     "ChangeGold": 2000,
@@ -67,7 +93,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 6,
+    "ID": 8,
     "ChangeCount": 10,
     "Grade": 45,
     "ChangeGold": 2000,
@@ -80,7 +106,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 7,
+    "ID": 9,
     "ChangeCount": 10,
     "Grade": 50,
     "ChangeGold": 3500,
@@ -93,7 +119,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 8,
+    "ID": 10,
     "ChangeCount": 10,
     "Grade": 55,
     "ChangeGold": 5000,
@@ -106,7 +132,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 6,
-    "ID": 9,
+    "ID": 11,
     "ChangeCount": 5,
     "Grade": 73,
     "ChangeGold": 7000,
@@ -119,7 +145,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 8,
-    "ID": 10,
+    "ID": 12,
     "ChangeCount": 5,
     "Grade": 78,
     "ChangeGold": 10000,
@@ -132,7 +158,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 11,
+    "ID": 13,
     "ChangeCount": 10,
     "Grade": 60,
     "ChangeGold": 2000,
@@ -145,7 +171,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 12,
+    "ID": 14,
     "ChangeCount": 10,
     "Grade": 65,
     "ChangeGold": 2000,
@@ -158,7 +184,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 13,
+    "ID": 15,
     "ChangeCount": 10,
     "Grade": 70,
     "ChangeGold": 3500,
@@ -171,7 +197,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 14,
+    "ID": 16,
     "ChangeCount": 10,
     "Grade": 75,
     "ChangeGold": 5000,
@@ -184,7 +210,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 6,
-    "ID": 15,
+    "ID": 17,
     "ChangeCount": 5,
     "Grade": 93,
     "ChangeGold": 7000,
@@ -197,7 +223,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 8,
-    "ID": 16,
+    "ID": 18,
     "ChangeCount": 5,
     "Grade": 98,
     "ChangeGold": 10000,
@@ -210,7 +236,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 17,
+    "ID": 19,
     "ChangeCount": 10,
     "Grade": 80,
     "ChangeGold": 2000,
@@ -223,7 +249,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 18,
+    "ID": 20,
     "ChangeCount": 10,
     "Grade": 85,
     "ChangeGold": 2000,
@@ -236,7 +262,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 19,
+    "ID": 21,
     "ChangeCount": 10,
     "Grade": 90,
     "ChangeGold": 3500,
@@ -249,7 +275,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 20,
+    "ID": 22,
     "ChangeCount": 10,
     "Grade": 95,
     "ChangeGold": 5000,
@@ -262,7 +288,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 6,
-    "ID": 21,
+    "ID": 23,
     "ChangeCount": 5,
     "Grade": 115,
     "ChangeGold": 7000,
@@ -275,7 +301,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 8,
-    "ID": 22,
+    "ID": 24,
     "ChangeCount": 5,
     "Grade": 120,
     "ChangeGold": 10000,
@@ -288,7 +314,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 23,
+    "ID": 25,
     "ChangeCount": 10,
     "Grade": 100,
     "ChangeGold": 2000,
@@ -301,7 +327,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 24,
+    "ID": 26,
     "ChangeCount": 10,
     "Grade": 105,
     "ChangeGold": 2000,
@@ -314,7 +340,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 25,
+    "ID": 27,
     "ChangeCount": 10,
     "Grade": 110,
     "ChangeGold": 3500,
@@ -327,7 +353,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 26,
+    "ID": 28,
     "ChangeCount": 10,
     "Grade": 115,
     "ChangeGold": 5000,
@@ -340,7 +366,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 6,
-    "ID": 27,
+    "ID": 29,
     "ChangeCount": 5,
     "Grade": 133,
     "ChangeGold": 7000,
@@ -353,7 +379,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 8,
-    "ID": 28,
+    "ID": 30,
     "ChangeCount": 5,
     "Grade": 138,
     "ChangeGold": 10000,
@@ -366,7 +392,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 29,
+    "ID": 31,
     "ChangeCount": 10,
     "Grade": 120,
     "ChangeGold": 2000,
@@ -379,7 +405,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 30,
+    "ID": 32,
     "ChangeCount": 10,
     "Grade": 125,
     "ChangeGold": 2000,
@@ -392,7 +418,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 31,
+    "ID": 33,
     "ChangeCount": 10,
     "Grade": 130,
     "ChangeGold": 3500,
@@ -405,7 +431,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 32,
+    "ID": 34,
     "ChangeCount": 10,
     "Grade": 135,
     "ChangeGold": 5000,
@@ -418,7 +444,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 6,
-    "ID": 33,
+    "ID": 35,
     "ChangeCount": 5,
     "Grade": 153,
     "ChangeGold": 7000,
@@ -431,7 +457,7 @@
   {
     "ResetCostValue": 600,
     "ChangeItemValue": 8,
-    "ID": 34,
+    "ID": 36,
     "ChangeCount": 5,
     "Grade": 158,
     "ChangeGold": 10000,
@@ -444,7 +470,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 35,
+    "ID": 37,
     "ChangeCount": 10,
     "Grade": 140,
     "ChangeGold": 2000,
@@ -457,7 +483,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 36,
+    "ID": 38,
     "ChangeCount": 10,
     "Grade": 145,
     "ChangeGold": 2000,
@@ -470,7 +496,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 37,
+    "ID": 39,
     "ChangeCount": 10,
     "Grade": 150,
     "ChangeGold": 3500,
@@ -483,7 +509,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 38,
+    "ID": 40,
     "ChangeCount": 10,
     "Grade": 155,
     "ChangeGold": 5000,
@@ -496,7 +522,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 39,
+    "ID": 41,
     "ChangeCount": 10,
     "Grade": 30,
     "ChangeGold": 5000,
@@ -509,7 +535,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 40,
+    "ID": 42,
     "ChangeCount": 10,
     "Grade": 65,
     "ChangeGold": 5000,
@@ -522,7 +548,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 41,
+    "ID": 43,
     "ChangeCount": 10,
     "Grade": 85,
     "ChangeGold": 2000,
@@ -535,7 +561,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 1,
-    "ID": 42,
+    "ID": 44,
     "ChangeCount": 10,
     "Grade": 90,
     "ChangeGold": 2000,
@@ -548,7 +574,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 3,
-    "ID": 43,
+    "ID": 45,
     "ChangeCount": 10,
     "Grade": 95,
     "ChangeGold": 3500,
@@ -561,7 +587,7 @@
   {
     "ResetCostValue": 300,
     "ChangeItemValue": 4,
-    "ID": 44,
+    "ID": 46,
     "ChangeCount": 10,
     "Grade": 100,
     "ChangeGold": 5000,

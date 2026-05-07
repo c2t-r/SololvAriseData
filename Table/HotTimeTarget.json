@@ -178,29 +178,21 @@
   {
     "ID": 3000001,
     "Unused": true,
-    "RewardID": 1000003,
+    "RewardID": 36052,
     "HotTimeTargetGroup": 30001,
     "DisplayGroupID": 0,
-    "RewardType": "Gold"
+    "RewardType": "None"
   },
   {
     "ID": 3000002,
     "Unused": true,
-    "RewardID": 1000007,
+    "RewardID": 36053,
     "HotTimeTargetGroup": 30002,
     "DisplayGroupID": 0,
-    "RewardType": "PlayerExp"
+    "RewardType": "None"
   },
   {
     "ID": 3000003,
-    "Unused": true,
-    "RewardID": 1000007,
-    "HotTimeTargetGroup": 30001,
-    "DisplayGroupID": 0,
-    "RewardType": "PlayerExp"
-  },
-  {
-    "ID": 3000004,
     "Unused": true,
     "RewardID": 91000008,
     "HotTimeTargetGroup": 30003,
@@ -208,10 +200,18 @@
     "RewardType": "None"
   },
   {
+    "ID": 3000004,
+    "Unused": true,
+    "RewardID": 36054,
+    "HotTimeTargetGroup": 30004,
+    "DisplayGroupID": 0,
+    "RewardType": "None"
+  },
+  {
     "ID": 3000005,
     "Unused": true,
     "RewardID": 36051,
-    "HotTimeTargetGroup": 30004,
+    "HotTimeTargetGroup": 30005,
     "DisplayGroupID": 0,
     "RewardType": "None"
   },
@@ -219,7 +219,7 @@
     "ID": 3000006,
     "Unused": true,
     "RewardID": 36051,
-    "HotTimeTargetGroup": 30005,
+    "HotTimeTargetGroup": 30006,
     "DisplayGroupID": 0,
     "RewardType": "None"
   },

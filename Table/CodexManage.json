@@ -1,6 +1,6 @@
 [
   {
-    "CodexOrder": 3,
+    "CodexOrder": 1,
     "UnUsed": true,
     "ID": 1,
     "IconResource": "Icon_CodexTap_Hunter",
@@ -10,7 +10,7 @@
     "CodexGroupType": "Normal"
   },
   {
-    "CodexOrder": 2,
+    "CodexOrder": 3,
     "UnUsed": true,
     "ID": 2,
     "IconResource": "Icon_CodexTap_Shadow",
@@ -20,7 +20,7 @@
     "CodexGroupType": "Normal"
   },
   {
-    "CodexOrder": 1,
+    "CodexOrder": 4,
     "UnUsed": true,
     "ID": 3,
     "IconResource": "Icon_CodexTap_Weapon",
@@ -30,7 +30,7 @@
     "CodexGroupType": "Normal"
   },
   {
-    "CodexOrder": 4,
+    "CodexOrder": 7,
     "UnUsed": true,
     "ID": 5,
     "IconResource": "Icon_CodexTap_Artifact",
@@ -50,7 +50,7 @@
     "CodexGroupType": "Normal"
   },
   {
-    "CodexOrder": 7,
+    "CodexOrder": 9,
     "UnUsed": true,
     "ID": 7,
     "IconResource": "Icon_CodexTap_Memory",
@@ -77,6 +77,16 @@
     "BannerResource": "Collection_Core",
     "NameTag": "SysConstStr.Glossary.Core",
     "CodexType": "Core",
+    "CodexGroupType": "Normal"
+  },
+  {
+    "CodexOrder": 2,
+    "UnUsed": true,
+    "ID": 10,
+    "IconResource": "Icon_CodexTap_Successor",
+    "BannerResource": "Collection_Successor",
+    "NameTag": "EContentsType.Successor",
+    "CodexType": "Successor",
     "CodexGroupType": "Normal"
   },
   {

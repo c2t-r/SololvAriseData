@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "ID": 201,
+    "ContentsGrowthGroup": 201,
+    "IsHiddenWhenLocked": true,
+    "AccountType": "Total",
+    "OpenTime": "2025-11-26T10:00:00+09:00",
+    "ContentsGrowthGroupIcon": "Icon_GuideMission_Group_Journey",
+    "EndTime": "2027-12-05T10:00:00+09:00",
+    "ContentsGrowthGroupName": "GuideMission.ContentsGrowth.Name.Journey",
+    "GrowthCondition": [],
+    "ContentsType": "GuideMission",
+    "GrowthConditionType": ""
+  },
+  {
+    "ID": 202,
+    "ContentsGrowthGroup": 202,
+    "IsHiddenWhenLocked": true,
+    "AccountType": "Total",
+    "OpenTime": "2025-11-26T10:00:00+09:00",
+    "ContentsGrowthGroupIcon": "Icon_GuideMission_Group_Growth",
+    "EndTime": "2027-12-05T10:00:00+09:00",
+    "ContentsGrowthGroupName": "GuideMission.ContentsGrowth.Name.Growth",
+    "GrowthCondition": [
+      20104
+    ],
+    "ContentsType": "GuideMission",
+    "GrowthConditionType": "CategoryComplete"
+  },
+  {
+    "ID": 203,
+    "ContentsGrowthGroup": 203,
+    "IsHiddenWhenLocked": true,
+    "AccountType": "Total",
+    "OpenTime": "2025-11-26T10:00:00+09:00",
+    "ContentsGrowthGroupIcon": "Icon_GuideMission_Group_Challenge",
+    "EndTime": "2027-12-05T10:00:00+09:00",
+    "ContentsGrowthGroupName": "GuideMission.ContentsGrowth.Name.Challenge",
+    "GrowthCondition": [
+      20109
+    ],
+    "ContentsType": "GuideMission",
+    "GrowthConditionType": "CategoryComplete"
+  }
+]

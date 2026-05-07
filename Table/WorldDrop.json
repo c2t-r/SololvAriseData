@@ -2045,5 +2045,33 @@
     "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
     "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2604",
     "DisplayItemName": "WorldDropDesc.EventItemName_7"
+  },
+  {
+    "ShopMoveTarget": 50128,
+    "DropRate": 3300,
+    "WorldDropGroupID": 23,
+    "DisplayRewardGroupID": 2061002,
+    "IsPrivateData": true,
+    "ID": 2304,
+    "Unused": true,
+    "RewardGroupID": 2061001,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "CoreDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      76
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_2604",
+    "DisplayItemName": "WorldDropDesc.EventItemName_7"
   }
 ]

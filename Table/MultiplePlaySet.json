@@ -3,7 +3,7 @@
     "Step": 1,
     "ID": 1001,
     "MultipleMaxCount": 20,
-    "UnlockValue": 5,
+    "UnlockValue": 1,
     "TargetContents": "InstantDungeon ",
     "UnlockType": "LevelSJW"
   },
@@ -11,23 +11,39 @@
     "Step": 1,
     "ID": 1002,
     "MultipleMaxCount": 20,
-    "UnlockValue": 2,
+    "UnlockValue": 1,
     "TargetContents": "ArtifactDungeon",
+    "UnlockType": "LevelSJW"
+  },
+  {
+    "Step": 1,
+    "ID": 1003,
+    "MultipleMaxCount": 20,
+    "UnlockValue": 1,
+    "TargetContents": "CoreDungeon",
+    "UnlockType": "LevelSJW"
+  },
+  {
+    "Step": 1,
+    "ID": 2001,
+    "MultipleMaxCount": 50,
+    "UnlockValue": 1,
+    "TargetContents": "Gate",
     "UnlockType": "LevelSJW"
   },
   {
     "Step": 1,
     "ID": 4901,
     "MultipleMaxCount": 20,
-    "UnlockValue": 5,
+    "UnlockValue": 1,
     "TargetContents": "Advent",
     "UnlockType": "LevelSJW"
   },
   {
     "Step": 1,
     "ID": 5001,
-    "MultipleMaxCount": 10,
-    "UnlockValue": 2,
+    "MultipleMaxCount": 20,
+    "UnlockValue": 1,
     "TargetContents": "ChaosBattleField",
     "UnlockType": "LevelSJW"
   },
@@ -35,7 +51,7 @@
     "Step": 1,
     "ID": 6001,
     "MultipleMaxCount": 10,
-    "UnlockValue": 2,
+    "UnlockValue": 1,
     "TargetContents": "HunterStory",
     "UnlockType": "LevelSJW"
   },
@@ -43,7 +59,7 @@
     "Step": 1,
     "ID": 7001,
     "MultipleMaxCount": 10,
-    "UnlockValue": 0,
+    "UnlockValue": 1,
     "TargetContents": "BossChallenge",
     "UnlockType": "LevelSJW"
   },
@@ -51,7 +67,7 @@
     "Step": 1,
     "ID": 8001,
     "MultipleMaxCount": 10,
-    "UnlockValue": 0,
+    "UnlockValue": 1,
     "TargetContents": "Raid",
     "UnlockType": "LevelSJW"
   },
@@ -59,7 +75,7 @@
     "Step": 1,
     "ID": 13601,
     "MultipleMaxCount": 4,
-    "UnlockValue": 0,
+    "UnlockValue": 1,
     "TargetContents": "DimensionGate",
     "UnlockType": "LevelSJW"
   }

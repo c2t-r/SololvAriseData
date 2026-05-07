@@ -1,18 +1,112 @@
 [
   {
+    "GachaOrder": 0,
     "ID": 1001,
     "SkinGachaRewardGroup": 1001,
+    "EventSkinGachaGroup": 1001,
     "PriceGroup": 2001,
     "CoreSkinGachaReward": 1000,
-    "CoreSkinGachaRewardImg": "GSWeapon_RoarOfEnnioLegend01_PortraitBig",
-    "RewardDirection": "GSWeapon_RoarOfEnnioLegend01_Gacha_2"
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "",
+    "EventSkinGachaDesc": "",
+    "GachaPolicy": "EventHighestGacha_Policy_00",
+    "GachaDirection": "EventSkinGachaSpinePrefab",
+    "GachaDirectionCore": "EventSkinGachaSpinePrefab_01",
+    "TopMenuDisplayItemIndex": [
+      40000001
+    ],
+    "RewardDirection": "GSWeapon_RoarOfEnnioLegend01_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "GSWeapon_RoarOfEnnioLegend01_Gacha_2"
   },
   {
+    "GachaOrder": 0,
     "ID": 1002,
     "SkinGachaRewardGroup": 3001,
+    "EventSkinGachaGroup": 1002,
     "PriceGroup": 3001,
     "CoreSkinGachaReward": 3000,
-    "CoreSkinGachaRewardImg": "SJW_SkinLegend01_PortraitBig",
-    "RewardDirection": "Skin_SungJinWooLegendDragonForm_Gacha_2"
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "",
+    "EventSkinGachaDesc": "",
+    "GachaPolicy": "EventHighestGacha_Policy_00",
+    "GachaDirection": "EventSkinGachaSpinePrefab",
+    "GachaDirectionCore": "EventSkinGachaSpinePrefab_01",
+    "TopMenuDisplayItemIndex": [
+      40000002
+    ],
+    "RewardDirection": "Skin_SungJinWooLegendDragonForm_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Skin_SungJinWooLegendDragonForm_Gacha_2"
+  },
+  {
+    "GachaOrder": 1,
+    "ID": 5000,
+    "SkinGachaRewardGroup": 5010,
+    "EventSkinGachaGroup": 5000,
+    "PriceGroup": 5001,
+    "CoreSkinGachaReward": 5000,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "Special_Myro_PortraitBig",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha_Policy_00",
+    "GachaDirection": "Myro_SuccessorGacha_Direction",
+    "GachaDirectionCore": "Myro_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000003
+    ],
+    "RewardDirection": "Special_Myro_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Myro_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 2,
+    "ID": 5001,
+    "SkinGachaRewardGroup": 5011,
+    "EventSkinGachaGroup": 5000,
+    "PriceGroup": 5001,
+    "CoreSkinGachaReward": 5001,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "Special_Myro_PortraitBig",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha_Policy_01",
+    "GachaDirection": "Myro_SuccessorGacha_Direction",
+    "GachaDirectionCore": "Myro_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000003
+    ],
+    "RewardDirection": "Special_Myro_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Myro_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 3,
+    "ID": 5002,
+    "SkinGachaRewardGroup": 5012,
+    "EventSkinGachaGroup": 5000,
+    "PriceGroup": 5001,
+    "CoreSkinGachaReward": 5002,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "Special_Myro_PortraitBig",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha_Policy_02",
+    "GachaDirection": "Myro_SuccessorGacha_Direction",
+    "GachaDirectionCore": "Myro_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000003
+    ],
+    "RewardDirection": "Special_Myro_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Myro_SuccessorGacha"
   }
 ]

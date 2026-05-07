@@ -745,10 +745,82 @@
   },
   {
     "StoragePeriodMin": 20160,
+    "ID": 102,
+    "Name": "SysPost.Name.WBSeasonRankCongratsReward",
+    "PostID": "WorldBossRankWorldSeasonCongratsReward",
+    "Type": "General",
+    "Desc": "SysPost.Desc.WBSeasonRankCongratsReward"
+  },
+  {
+    "StoragePeriodMin": 20160,
     "ID": 103,
     "Name": "SysPost.Name.EventTrust",
     "PostID": "TrustEventReward",
     "Type": "General",
     "Desc": "SysPost.Desc.ID23"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 104,
+    "Name": "SysPost.Name.ChallengeMissionEnd",
+    "PostID": "ChallengeMissionEnd",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ChallengeMissionEnd"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 105,
+    "Name": "SysPost.Name.StepMissionEnd",
+    "PostID": "StepMissionEnd",
+    "Type": "General",
+    "Desc": "SysPost.Desc.StepMissionEnd"
+  },
+  {
+    "StoragePeriodMin": 43200,
+    "ID": 106,
+    "Name": "SysPost.Name.ID11",
+    "PostID": "AttendanceAccumulateOffline",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ID11"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 107,
+    "Name": "SysPost.Name.MineTeamRenew",
+    "PostID": "MineTeamRenew",
+    "Type": "General",
+    "Desc": "SysPost.Desc.MineTeamRenew"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 108,
+    "Name": "SysPost.Name.EnterPointDaily",
+    "PostID": "EnterPointDaily",
+    "Type": "General",
+    "Desc": "SysPost.Desc.EnterPointDaily"
+  },
+  {
+    "StoragePeriodMin": 0,
+    "ID": 109,
+    "Name": "SysPost.Name.ID109",
+    "PostID": "SecretArchive",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ID109"
+  },
+  {
+    "StoragePeriodMin": 0,
+    "ID": 110,
+    "Name": "SysPost.Name.ID110",
+    "PostID": "NewbieProtocolStageGroup",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ID110"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 111,
+    "Name": "SysPost.Name.HunterStoryKeyEnd",
+    "PostID": "HunterStoryKeyEnd",
+    "Type": "General",
+    "Desc": "SysPost.Desc.HunterStoryKeyEnd"
   }
 ]

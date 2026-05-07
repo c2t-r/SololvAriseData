@@ -62,6 +62,42 @@
   {
     "RateupCondition": 0,
     "RateValue": 90000,
+    "ID": 20011,
+    "RateGrade": 3,
+    "PickupNeedCount": 0,
+    "RateupType": true,
+    "RateupValue": 0,
+    "PickupMiliege": 0,
+    "GachaRateGroup": 2001,
+    "RateName": "R"
+  },
+  {
+    "RateupCondition": 0,
+    "RateValue": 8800,
+    "ID": 20012,
+    "RateGrade": 4,
+    "PickupNeedCount": 0,
+    "RateupType": true,
+    "RateupValue": 0,
+    "PickupMiliege": 0,
+    "GachaRateGroup": 2001,
+    "RateName": "SR"
+  },
+  {
+    "RateupCondition": 60,
+    "RateValue": 1200,
+    "ID": 20013,
+    "RateGrade": 5,
+    "PickupNeedCount": 1,
+    "RateupType": true,
+    "RateupValue": 5800,
+    "PickupMiliege": 70,
+    "GachaRateGroup": 2001,
+    "RateName": "SSR"
+  },
+  {
+    "RateupCondition": 0,
+    "RateValue": 90000,
     "ID": 30001,
     "RateGrade": 3,
     "PickupNeedCount": 0,

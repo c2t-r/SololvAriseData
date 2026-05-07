@@ -7,7 +7,18 @@
     "EnterPointValue": 1,
     "EnterPointID": 30003002,
     "StageID": 9001,
-    "EnterPoint": 1,
+    "WinRewardGroupID": 301010,
+    "EnterPointType": "Except",
+    "TitleStringID": "PvpDungeon.Name_1"
+  },
+  {
+    "DefenseBattleSquadID": 0,
+    "LoseRewardGroupID": 301010,
+    "ID": 2,
+    "BattleSquadID": 800000,
+    "EnterPointValue": 1,
+    "EnterPointID": 30003003,
+    "StageID": 9001,
     "WinRewardGroupID": 301010,
     "EnterPointType": "Except",
     "TitleStringID": "PvpDungeon.Name_1"

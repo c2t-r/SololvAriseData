@@ -438,5 +438,53 @@
     "ScoreBaseValue": 80,
     "DungeonID": 231,
     "ScoreBaseType": "Time"
+  },
+  {
+    "ID": 251000,
+    "ScoreBaseTypeID": 0,
+    "ScoreValue": 0,
+    "ScoreBaseValue": 0,
+    "DungeonID": 251,
+    "ScoreBaseType": "Clear"
+  },
+  {
+    "ID": 251001,
+    "ScoreBaseTypeID": 1627010001,
+    "ScoreValue": 100,
+    "ScoreBaseValue": 60,
+    "DungeonID": 251,
+    "ScoreBaseType": "BuffCount_PC"
+  },
+  {
+    "ID": 251002,
+    "ScoreBaseTypeID": 1627010001,
+    "ScoreValue": 150,
+    "ScoreBaseValue": 90,
+    "DungeonID": 251,
+    "ScoreBaseType": "BuffCount_PC"
+  },
+  {
+    "ID": 251003,
+    "ScoreBaseTypeID": 1627010001,
+    "ScoreValue": 200,
+    "ScoreBaseValue": 120,
+    "DungeonID": 251,
+    "ScoreBaseType": "BuffCount_PC"
+  },
+  {
+    "ID": 251004,
+    "ScoreBaseTypeID": 1627010001,
+    "ScoreValue": 250,
+    "ScoreBaseValue": 150,
+    "DungeonID": 251,
+    "ScoreBaseType": "BuffCount_PC"
+  },
+  {
+    "ID": 251005,
+    "ScoreBaseTypeID": 1627010001,
+    "ScoreValue": 300,
+    "ScoreBaseValue": 165,
+    "DungeonID": 251,
+    "ScoreBaseType": "BuffCount_PC"
   }
 ]

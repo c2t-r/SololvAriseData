@@ -17,5 +17,24 @@
     "RecordRewardReset": "Daily",
     "ItemPrefab": "Flappy_Item_Halloween",
     "ResultPopupImg": "Img_Event_Result_Flappy"
+  },
+  {
+    "RiseHeight": 2,
+    "RiseVerticalSpeed": 10,
+    "FallAcceleration": 40,
+    "BGUseType": 1,
+    "HorizontalSpeed": 20,
+    "ID": 10004,
+    "RecordReward": 432,
+    "GroupID": 20040,
+    "TutorialID": 2037,
+    "RankingGroupMain": 500,
+    "RankingGroupSub": 0,
+    "Title": "Event.Minigame.FlappyTitle_ChaHaeIn",
+    "BGPrefab": "Flappy_BGController_Anniversary",
+    "PCPrefab": "Flappy_Player_Anniversary",
+    "RecordRewardReset": "Weekly",
+    "ItemPrefab": "Flappy_Item_Anniversary",
+    "ResultPopupImg": "Img_Event_Result_Flappy_Anniversary"
   }
 ]

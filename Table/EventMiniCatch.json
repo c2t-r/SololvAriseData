@@ -28,5 +28,35 @@
       "BG_Img_MiniGame_Catch_Switch_03"
     ],
     "ResultPopupImg": "Img_Event_Result_Catch_IDLE_01"
+  },
+  {
+    "PCFriction": 550,
+    "GameTime": 50000,
+    "HPMax": 3,
+    "ID": 60001,
+    "PCAcceleration": 1300,
+    "RecordReward": 433,
+    "ItemSpeedMin": 300.0,
+    "ItemSpeedMax": 400.0,
+    "CatchRange": 200,
+    "TutorialID": 2036,
+    "RankingGroupMain": 502,
+    "PCSpeed": 700,
+    "RankingGroupSub": 0,
+    "Title": "Event.Minigame.Catch.Title_Myro",
+    "PCPrefab": "Minigame_Catch_Char_PC_02",
+    "ModuleName": "MiniGameCatch_Module_Anniversary",
+    "RecordRewardReset": "Weekly",
+    "BGImg": [
+      "BG_Img_MiniGame_Catch_Anniversary_01",
+      "BG_Img_MiniGame_Catch_Anniversary_02",
+      "BG_Img_MiniGame_Catch_Anniversary_03"
+    ],
+    "BGImgSwitch": [
+      "BG_Img_MiniGame_Catch_Anniversary_Switch_01",
+      "BG_Img_MiniGame_Catch_Anniversary_Switch_02",
+      "BG_Img_MiniGame_Catch_Anniversary_Switch_03"
+    ],
+    "ResultPopupImg": "Img_Event_Result_Catch_Anniversary"
   }
 ]

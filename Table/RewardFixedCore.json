@@ -61,6 +61,279 @@
   },
   {
     "Level": 10,
+    "ID": 9001,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "MainPlayer",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9002,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "MainPlayer",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9003,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "MainPlayer",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9004,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9005,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9006,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9007,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9008,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9009,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9010,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9011,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9012,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9013,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9014,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9015,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9016,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9017,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9018,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9019,
+    "Option": [
+      "AddAtt",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9020,
+    "Option": [
+      "ArmR",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 9021,
+    "Option": [
+      "MHPR",
+      ""
+    ],
+    "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
     "ID": 10001,
     "Option": [],
     "BuffCondition": "Fire",
@@ -299,6 +572,45 @@
       "Dam"
     ],
     "BuffCondition": "Water",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100016,
+    "Option": [
+      "AddAtt",
+      "Critical"
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100017,
+    "Option": [
+      "AddArm",
+      "CriDam"
+    ],
+    "BuffCondition": "Light",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100018,
+    "Option": [
+      "AddMHP",
+      "Dam"
+    ],
+    "BuffCondition": "Light",
     "StatRate": [
       -1,
       -1
