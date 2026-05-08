@@ -423,7 +423,7 @@
     "GoodsBuyLimitResetValue": 5,
     "Unused": true,
     "GoodsListGroupID": 200001,
-    "DisplayOrder": 1,
+    "DisplayOrder": 2,
     "GoodsListType": "Fix",
     "GoodsBuyLimitResetType": "SpecificDayOfWeek",
     "RefreshTime": "2026-04-09T09:00:00+09:00"
@@ -472,12 +472,12 @@
     "SubscribeType": true,
     "GoodsListCount": 0,
     "ID": 200005,
-    "GoodsBuyLimitResetValue": 1,
+    "GoodsBuyLimitResetValue": 0,
     "Unused": true,
     "GoodsListGroupID": 200005,
     "DisplayOrder": 1,
     "GoodsListType": "Fix",
-    "GoodsBuyLimitResetType": "SpecificDay",
+    "GoodsBuyLimitResetType": "None",
     "RefreshTime": "2026-04-09T09:00:00+09:00"
   },
   {
@@ -504,6 +504,19 @@
     "DisplayOrder": 1,
     "GoodsListType": "Fix",
     "GoodsBuyLimitResetType": "SpecificDayOfWeek",
+    "RefreshTime": "2026-04-09T09:00:00+09:00"
+  },
+  {
+    "RandomShopGroupID": 2000000,
+    "SubscribeType": true,
+    "GoodsListCount": 0,
+    "ID": 200009,
+    "GoodsBuyLimitResetValue": 0,
+    "Unused": true,
+    "GoodsListGroupID": 200009,
+    "DisplayOrder": 1,
+    "GoodsListType": "Fix",
+    "GoodsBuyLimitResetType": "None",
     "RefreshTime": "2026-04-09T09:00:00+09:00"
   },
   {
@@ -592,7 +605,7 @@
     "GoodsBuyLimitResetValue": 5,
     "Unused": true,
     "GoodsListGroupID": 2000008,
-    "DisplayOrder": 2,
+    "DisplayOrder": 3,
     "GoodsListType": "Fix",
     "GoodsBuyLimitResetType": "SpecificDayOfWeek",
     "RefreshTime": "2026-04-09T09:00:00+09:00"
