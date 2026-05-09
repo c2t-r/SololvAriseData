@@ -1575,13 +1575,6 @@
     "EventID": 643
   },
   {
-    "Step": 0,
-    "ID": 8140000,
-    "Count": 1000,
-    "RewardGroupID": 2062000,
-    "EventID": 202304
-  },
-  {
     "Step": 1,
     "ID": 8140001,
     "Count": 100,
@@ -1674,10 +1667,10 @@
   },
   {
     "Step": 0,
-    "ID": 8150000,
+    "ID": 8140014,
     "Count": 1000,
-    "RewardGroupID": 2062100,
-    "EventID": 202401
+    "RewardGroupID": 2062000,
+    "EventID": 202304
   },
   {
     "Step": 1,
@@ -1761,6 +1754,13 @@
     "ID": 8150012,
     "Count": 4500,
     "RewardGroupID": 2062112,
+    "EventID": 202401
+  },
+  {
+    "Step": 0,
+    "ID": 8150013,
+    "Count": 1000,
+    "RewardGroupID": 2062100,
     "EventID": 202401
   },
   {
