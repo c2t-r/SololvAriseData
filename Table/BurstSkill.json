@@ -1,0 +1,38 @@
+[
+  {
+    "Attribute_Match_Required": true,
+    "ID": 1,
+    "BurstSkill_Accumulate_Required": true,
+    "BurstSkill_Input_Required": true,
+    "SkillID": 2611602000000,
+    "HunterID": 611,
+    "BurstSkill_Input_Time": 0,
+    "BurstDamModifier": 2000,
+    "BurstSkill_Accumulate_Duration": 0,
+    "BurstSkill_Button_UI": "BurstSkill_Button_UI",
+    "BurstDam_UI": "ElementBurstDamageStateHud",
+    "BurstSkill_Signal_UI_StringID": "Signal.BurstSkill_Start_LiuZhigang",
+    "Min_Grade_Level": [
+      1,
+      2
+    ]
+  },
+  {
+    "Attribute_Match_Required": true,
+    "ID": 2,
+    "BurstSkill_Accumulate_Required": true,
+    "BurstSkill_Input_Required": true,
+    "SkillID": 2611602000000,
+    "HunterID": 1004611,
+    "BurstSkill_Input_Time": 0,
+    "BurstDamModifier": 2000,
+    "BurstSkill_Accumulate_Duration": 0,
+    "BurstSkill_Button_UI": "BurstSkill_Button_UI",
+    "BurstDam_UI": "ElementBurstDamageStateHud",
+    "BurstSkill_Signal_UI_StringID": "Signal.BurstSkill_Start_LiuZhigang",
+    "Min_Grade_Level": [
+      1,
+      2
+    ]
+  }
+]

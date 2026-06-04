@@ -1,0 +1,128 @@
+[
+  {
+    "ID": 1,
+    "Value2": 0,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 1,
+    "ConditionKey": "MagazineEmpty",
+    "StringValue": ""
+  },
+  {
+    "ID": 2,
+    "Value2": 0,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 2,
+    "ConditionKey": "IsInvincible",
+    "StringValue": ""
+  },
+  {
+    "ID": 3,
+    "Value2": 0,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 2,
+    "ConditionKey": "IsUndying",
+    "StringValue": ""
+  },
+  {
+    "ID": 4,
+    "Value2": 0,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 2,
+    "ConditionKey": "HasExtremeMarker",
+    "StringValue": ""
+  },
+  {
+    "ID": 5,
+    "Value2": 0,
+    "Value1": 60,
+    "Type": true,
+    "Priority": 3,
+    "ConditionKey": "IsHpAndSuperArmor",
+    "StringValue": ""
+  },
+  {
+    "ID": 6,
+    "Value2": 15,
+    "Value1": 1,
+    "Type": true,
+    "Priority": 3,
+    "ConditionKey": "CheckShield",
+    "StringValue": ""
+  },
+  {
+    "ID": 7,
+    "Value2": 85,
+    "Value1": 1,
+    "Type": true,
+    "Priority": 3,
+    "ConditionKey": "CheckHP",
+    "StringValue": ""
+  },
+  {
+    "ID": 8,
+    "Value2": 30,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 4,
+    "ConditionKey": "CheckHP",
+    "StringValue": ""
+  },
+  {
+    "ID": 9,
+    "Value2": 0,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 5,
+    "ConditionKey": "InWarningRange",
+    "StringValue": ""
+  },
+  {
+    "ID": 10,
+    "Value2": 0,
+    "Value1": 0,
+    "Type": true,
+    "Priority": 5,
+    "ConditionKey": "AttackWarningFX",
+    "StringValue": "_Fx_Bank_Flash"
+  },
+  {
+    "ID": 11,
+    "Value2": 15,
+    "Value1": 35,
+    "Type": true,
+    "Priority": 6,
+    "ConditionKey": "IsHpAndShieldRatio",
+    "StringValue": ""
+  },
+  {
+    "ID": 12,
+    "Value2": 10,
+    "Value1": 50,
+    "Type": true,
+    "Priority": 6,
+    "ConditionKey": "IsHpAndShieldRatio",
+    "StringValue": ""
+  },
+  {
+    "ID": 13,
+    "Value2": 5,
+    "Value1": 75,
+    "Type": true,
+    "Priority": 6,
+    "ConditionKey": "IsHpAndShieldRatio",
+    "StringValue": ""
+  },
+  {
+    "ID": 14,
+    "Value2": 0,
+    "Value1": 2,
+    "Type": true,
+    "Priority": 7,
+    "ConditionKey": "HasSpareMagazine",
+    "StringValue": ""
+  }
+]

@@ -9234,7 +9234,7 @@
     "Type": "LobbySocialMotion"
   },
   {
-    "ID": 1031,
+    "ID": 1027,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9243,7 +9243,7 @@
     "Type": "SocialMotion"
   },
   {
-    "ID": 1032,
+    "ID": 1028,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9252,7 +9252,7 @@
     "Type": "Win"
   },
   {
-    "ID": 1033,
+    "ID": 1029,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9261,7 +9261,7 @@
     "Type": "Fail"
   },
   {
-    "ID": 1034,
+    "ID": 1030,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9270,7 +9270,7 @@
     "Type": "LobbySpawn"
   },
   {
-    "ID": 1035,
+    "ID": 1031,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9279,7 +9279,7 @@
     "Type": "TagOut"
   },
   {
-    "ID": 1036,
+    "ID": 1032,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9288,7 +9288,7 @@
     "Type": "LobbyIdle"
   },
   {
-    "ID": 1037,
+    "ID": 1033,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9297,7 +9297,7 @@
     "Type": "Intro"
   },
   {
-    "ID": 1038,
+    "ID": 1034,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9306,7 +9306,7 @@
     "Type": "WinIdle"
   },
   {
-    "ID": 1039,
+    "ID": 1035,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
@@ -9315,12 +9315,129 @@
     "Type": "FailIdle"
   },
   {
-    "ID": 1040,
+    "ID": 1036,
     "UseSkip": true,
     "GroupID": 592,
     "Index": 0,
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "AntoineMartinez_Evolve",
     "Type": "Evolve"
+  },
+  {
+    "ID": 1037,
+    "UseSkip": true,
+    "GroupID": 22501,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Surtur_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1038,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 1039,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 1040,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 1041,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 1042,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 1043,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 1044,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1045,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 1046,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 1047,
+    "UseSkip": true,
+    "GroupID": 621,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "AgnesRivera_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 1048,
+    "UseSkip": true,
+    "GroupID": 21002,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "HugeGiant_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1049,
+    "UseSkip": true,
+    "GroupID": 22103,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "HugeGiant_Boss_2_Intro_B",
+    "Type": "Intro"
   }
 ]

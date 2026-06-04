@@ -1054,5 +1054,63 @@
     "Name": "SysConstStr.ChName.ThomasAndre.CoreMonster",
     "Resource": "ThomasAndre_Core_Dungeon_Boss_Portrait",
     "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 5361,
+    "MonsterID": 22103,
+    "MonsterResourceID": 22110,
+    "ID": 117,
+    "Name": "SysConstStr.ChName.HugeGiant_Boss",
+    "Resource": "HugeGiant_Boss_Portrait",
+    "TransformMonsterResourceID": [
+      21010
+    ]
+  },
+  {
+    "MoveTargetID": 5361,
+    "MonsterID": 22502,
+    "MonsterResourceID": 22500,
+    "ID": 118,
+    "Name": "SysConstStr.ChName.Surtur_Boss",
+    "Resource": "Surtur_Boss_Portrait",
+    "TransformMonsterResourceID": [
+      22511
+    ]
+  },
+  {
+    "MoveTargetID": 5361,
+    "MonsterID": 22602,
+    "MonsterResourceID": 22600,
+    "ID": 119,
+    "Name": "SysConstStr.ChName.LegiaBoss",
+    "Resource": "Legia_Boss_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 76,
+    "MonsterID": 300801,
+    "MonsterResourceID": 17310,
+    "ID": 120,
+    "Name": "SysConstStr.ChName.GoGunHee.CoreMonster",
+    "Resource": "GoGunHee_Core_Dungeon_Boss_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 76,
+    "MonsterID": 300401,
+    "MonsterResourceID": 16320,
+    "ID": 121,
+    "Name": "SysConstStr.ChName.ChaHaeIn.CoreMonster",
+    "Resource": "ChaHaeIn_Core_Dungeon_Boss_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 76,
+    "MonsterID": 300101,
+    "MonsterResourceID": 15320,
+    "ID": 122,
+    "Name": "SysConstStr.ChName.ChoiJongIn.CoreMonster",
+    "Resource": "ChoiJongIn_Core_Dungeon_Boss_Portrait",
+    "TransformMonsterResourceID": []
   }
 ]

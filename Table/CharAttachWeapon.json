@@ -2865,7 +2865,7 @@
     "Index": 0,
     "AwakeActive": true,
     "KeepEffect": true,
-    "AttachParentName": "Bip001 Prop2",
+    "AttachParentName": "Translate",
     "CharPartsType": "Weapon",
     "PartsPrefName": "LiuZhigang_Weapon0_PFV"
   },
@@ -2875,7 +2875,7 @@
     "Index": 1,
     "AwakeActive": true,
     "KeepEffect": true,
-    "AttachParentName": "Bip001 Prop1",
+    "AttachParentName": "Translate",
     "CharPartsType": "Weapon",
     "PartsPrefName": "LiuZhigang_Weapon1_PFV"
   },
@@ -2921,6 +2921,26 @@
   },
   {
     "ID": 294,
+    "GroupID": 611,
+    "Index": 6,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Translate",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "LiuZhigang_Weapon6_PFV"
+  },
+  {
+    "ID": 295,
+    "GroupID": 611,
+    "Index": 7,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Translate",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "LiuZhigang_Weapon7_PFV"
+  },
+  {
+    "ID": 296,
     "GroupID": 601,
     "Index": 0,
     "AwakeActive": true,
@@ -2930,7 +2950,7 @@
     "PartsPrefName": "MyroSword_Weapon0_PFV"
   },
   {
-    "ID": 295,
+    "ID": 297,
     "GroupID": 601,
     "Index": 1,
     "AwakeActive": true,
@@ -2938,5 +2958,65 @@
     "AttachParentName": "Bone_Weapon",
     "CharPartsType": "Weapon",
     "PartsPrefName": "MyroSword_Weapon1_PFV"
+  },
+  {
+    "ID": 298,
+    "GroupID": 864,
+    "Index": 32,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_KillWolfRare_01_Hand_PFV"
+  },
+  {
+    "ID": 299,
+    "GroupID": 864,
+    "Index": 33,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Weapon_Sub_01_L",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_KillWolfRare_01_Hand_PFV"
+  },
+  {
+    "ID": 300,
+    "GroupID": 864,
+    "Index": 4,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_KillWolfRare_01_Hand_PFV"
+  },
+  {
+    "ID": 301,
+    "GroupID": 862,
+    "Index": 78,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_AzureGale_PFV"
+  },
+  {
+    "ID": 302,
+    "GroupID": 621,
+    "Index": 0,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Point_Weapon_L_Skin",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "AgnesRivera_Weapon0_PFV"
+  },
+  {
+    "ID": 303,
+    "GroupID": 621,
+    "Index": 1,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Point_Weapon_R_Skin",
+    "CharPartsType": "Weapon",
+    "PartsPrefName": "AgnesRivera_Weapon1_PFV"
   }
 ]

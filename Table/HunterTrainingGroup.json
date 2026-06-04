@@ -435,7 +435,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -462,7 +462,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -491,7 +491,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -514,7 +514,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -1267,7 +1267,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -1294,7 +1294,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -1323,7 +1323,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -1346,7 +1346,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -1787,7 +1787,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": []
   },
   {
@@ -1814,7 +1814,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -1843,7 +1843,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -1866,7 +1866,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -2075,6 +2075,422 @@
     "Material": [],
     "MaterialCount": [],
     "TrainingIcon": "Icon_HunterTraining_DamP_Attribute",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 151,
+    "ID": 15100,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000021,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 151,
+    "ID": 15101,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000501,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 151,
+    "ID": 15102,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000503,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 151,
+    "ID": 15103,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000505,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 152,
+    "ID": 15200,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000022,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 152,
+    "ID": 15201,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000511,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 152,
+    "ID": 15202,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000512,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 152,
+    "ID": 15203,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000513,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 153,
+    "ID": 15300,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000023,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 153,
+    "ID": 15301,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000521,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 153,
+    "ID": 15302,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000523,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 153,
+    "ID": 15303,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000525,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 154,
+    "ID": 15400,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000024,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 154,
+    "ID": 15401,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000531,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 154,
+    "ID": 15402,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000532,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 154,
+    "ID": 15403,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000533,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -2515,7 +2931,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -2542,7 +2958,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -2571,7 +2987,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -2594,7 +3010,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -3347,7 +3763,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -3374,7 +3790,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -3403,7 +3819,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -3426,7 +3842,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -3867,7 +4283,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": []
   },
   {
@@ -3894,7 +4310,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -3923,7 +4339,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -3946,7 +4362,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -4155,6 +4571,422 @@
     "Material": [],
     "MaterialCount": [],
     "TrainingIcon": "Icon_HunterTraining_DamP_Attribute",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 251,
+    "ID": 25100,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000021,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 251,
+    "ID": 25101,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000501,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 251,
+    "ID": 25102,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000503,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 251,
+    "ID": 25103,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000505,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 252,
+    "ID": 25200,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000022,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 252,
+    "ID": 25201,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000511,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 252,
+    "ID": 25202,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000512,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 252,
+    "ID": 25203,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000513,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 253,
+    "ID": 25300,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000023,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 253,
+    "ID": 25301,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000521,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 253,
+    "ID": 25302,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000523,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 253,
+    "ID": 25303,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000525,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 254,
+    "ID": 25400,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000024,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 254,
+    "ID": 25401,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000531,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 254,
+    "ID": 25402,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000532,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 254,
+    "ID": 25403,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000533,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -4595,7 +5427,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -4622,7 +5454,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -4651,7 +5483,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -4674,7 +5506,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -5427,7 +6259,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -5454,7 +6286,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -5483,7 +6315,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -5506,7 +6338,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -5947,7 +6779,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": []
   },
   {
@@ -5974,7 +6806,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -6003,7 +6835,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -6026,7 +6858,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -6235,6 +7067,422 @@
     "Material": [],
     "MaterialCount": [],
     "TrainingIcon": "Icon_HunterTraining_DamP_Attribute",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 351,
+    "ID": 35100,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000021,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 351,
+    "ID": 35101,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000501,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 351,
+    "ID": 35102,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000503,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 351,
+    "ID": 35103,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000505,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 352,
+    "ID": 35200,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000022,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 352,
+    "ID": 35201,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000511,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 352,
+    "ID": 35202,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000512,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 352,
+    "ID": 35203,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000513,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 353,
+    "ID": 35300,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000023,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 353,
+    "ID": 35301,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000521,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 353,
+    "ID": 35302,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000523,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 353,
+    "ID": 35303,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000525,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 354,
+    "ID": 35400,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000024,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 354,
+    "ID": 35401,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000531,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 354,
+    "ID": 35402,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000532,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 354,
+    "ID": 35403,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000533,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -6675,7 +7923,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -6702,7 +7950,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -6731,7 +7979,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -6754,7 +8002,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -7507,7 +8755,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -7534,7 +8782,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -7563,7 +8811,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -7586,7 +8834,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8027,7 +9275,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": []
   },
   {
@@ -8054,7 +9302,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8083,7 +9331,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8106,7 +9354,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8315,6 +9563,422 @@
     "Material": [],
     "MaterialCount": [],
     "TrainingIcon": "Icon_HunterTraining_DamP_Attribute",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 451,
+    "ID": 45100,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000021,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 451,
+    "ID": 45101,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000501,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 451,
+    "ID": 45102,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000503,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 451,
+    "ID": 45103,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000505,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 452,
+    "ID": 45200,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000022,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 452,
+    "ID": 45201,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000511,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 452,
+    "ID": 45202,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000512,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 452,
+    "ID": 45203,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000513,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 453,
+    "ID": 45300,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000023,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 453,
+    "ID": 45301,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000521,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 453,
+    "ID": 45302,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000523,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 453,
+    "ID": 45303,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000525,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 454,
+    "ID": 45400,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000024,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 454,
+    "ID": 45401,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000531,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 454,
+    "ID": 45402,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000532,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 454,
+    "ID": 45403,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000533,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8755,7 +10419,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -8782,7 +10446,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8811,7 +10475,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -8834,7 +10498,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Skill",
+    "TrainingIcon": "Icon_HunterTraining_CriDamPStriker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -9587,7 +11251,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": []
   },
   {
@@ -9614,7 +11278,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -9643,7 +11307,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -9666,7 +11330,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_DamP_Overload",
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPTeamStacker",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -10107,7 +11771,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": []
   },
   {
@@ -10134,7 +11798,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -10163,7 +11827,7 @@
     "MaterialCount": [
       50
     ],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -10186,7 +11850,7 @@
     ],
     "Material": [],
     "MaterialCount": [],
-    "TrainingIcon": "Icon_HunterTraining_MP_RecoveryCore",
+    "TrainingIcon": "Icon_HunterTraining_AddMMPSupporter",
     "ResetCollectMaterialCount": [
       50
     ]
@@ -10395,6 +12059,422 @@
     "Material": [],
     "MaterialCount": [],
     "TrainingIcon": "Icon_HunterTraining_DamP_Attribute",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 551,
+    "ID": 55100,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000021,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 551,
+    "ID": 55101,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000501,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 551,
+    "ID": 55102,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000503,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 551,
+    "ID": 55103,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000505,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadCriDamPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 552,
+    "ID": 55200,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000022,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 552,
+    "ID": 55201,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000511,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 552,
+    "ID": 55202,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000512,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 552,
+    "ID": 55203,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000513,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_MPCostReduPBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 553,
+    "ID": 55300,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000023,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 553,
+    "ID": 55301,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000521,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 553,
+    "ID": 55302,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000523,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 553,
+    "ID": 55303,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000525,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadAttribueDamageBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 554,
+    "ID": 55401,
+    "Grade": 0,
+    "AddBattlePower": 0,
+    "BuffID": 8200000024,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [],
+    "ResetCollectMaterialType": [],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": []
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 554,
+    "ID": 55402,
+    "Grade": 1,
+    "AddBattlePower": 1559,
+    "BuffID": 8200000531,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 554,
+    "ID": 55403,
+    "Grade": 2,
+    "AddBattlePower": 3117,
+    "BuffID": 8200000532,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [
+      "Material"
+    ],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [
+      10035001
+    ],
+    "MaterialCount": [
+      50
+    ],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
+    "ResetCollectMaterialCount": [
+      50
+    ]
+  },
+  {
+    "StatValue": 0,
+    "TrainingGroupID": 554,
+    "ID": 55404,
+    "Grade": 3,
+    "AddBattlePower": 4676,
+    "BuffID": 8200000533,
+    "AddBattlePowerR": 0.0,
+    "StatType": "",
+    "MaterialType": [],
+    "ResetCollectMaterial": [
+      10035001
+    ],
+    "ResetCollectMaterialType": [
+      "Material"
+    ],
+    "Material": [],
+    "MaterialCount": [],
+    "TrainingIcon": "Icon_HunterTraining_OverloadDamRBuster",
     "ResetCollectMaterialCount": [
       50
     ]

@@ -3889,5 +3889,420 @@
       "None"
     ],
     "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 123,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 4900000,
+    "ID": 70101,
+    "Difficulty": 1,
+    "MonsterLevel": 125,
+    "BattleSquadID": 111801,
+    "StageSortType": 1,
+    "Idx": 1,
+    "RewardGroupID": 9007110,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111801,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 4900000,
+    "MonsterBuffID": [],
+    "RepresentReward": "Item_RaidRewardDisplay_01",
+    "ElementType": [
+      "Fire",
+      "Wind",
+      "Darkness"
+    ],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "",
+    "UIStageLink": [],
+    "StageTypeResource": "",
+    "StageType": "Common",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": [
+      70102,
+      70103
+    ]
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 0,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 122,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 4800000,
+    "ID": 70102,
+    "Difficulty": 1,
+    "MonsterLevel": 124,
+    "BattleSquadID": 111802,
+    "StageSortType": 3,
+    "Idx": 2,
+    "RewardGroupID": 0,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111802,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 4800000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [
+      70103,
+      70104,
+      70105
+    ],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      70101
+    ],
+    "StageTypeResource": "Icon_raid_Bless",
+    "StageType": "Bless",
+    "UIStageSetPosition": [
+      "Left"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 124,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 5000000,
+    "ID": 70103,
+    "Difficulty": 1,
+    "MonsterLevel": 126,
+    "BattleSquadID": 111803,
+    "StageSortType": 1,
+    "Idx": 3,
+    "RewardGroupID": 9007120,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111803,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 5000000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      70101
+    ],
+    "StageTypeResource": "",
+    "StageType": "Common",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": [
+      70104,
+      70105
+    ]
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 0,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 123,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 4900000,
+    "ID": 70104,
+    "Difficulty": 1,
+    "MonsterLevel": 125,
+    "BattleSquadID": 111804,
+    "StageSortType": 3,
+    "Idx": 4,
+    "RewardGroupID": 0,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111804,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 4900000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [
+      70102,
+      70105
+    ],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      70103
+    ],
+    "StageTypeResource": "Icon_raid_Bless",
+    "StageType": "Bless",
+    "UIStageSetPosition": [
+      "Right"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 125,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 5100000,
+    "ID": 70105,
+    "Difficulty": 1,
+    "MonsterLevel": 127,
+    "BattleSquadID": 111805,
+    "StageSortType": 2,
+    "Idx": 5,
+    "RewardGroupID": 9007130,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111805,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 5100000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "Img_Raid_Boss_7",
+    "UIStageLink": [
+      70103
+    ],
+    "StageTypeResource": "",
+    "StageType": "Boss",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 138,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 6000000,
+    "ID": 70201,
+    "Difficulty": 2,
+    "MonsterLevel": 138,
+    "BattleSquadID": 111801,
+    "StageSortType": 1,
+    "Idx": 1,
+    "RewardGroupID": 9007210,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111901,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 6000000,
+    "MonsterBuffID": [],
+    "RepresentReward": "Item_RaidRewardDisplay_01",
+    "ElementType": [
+      "Fire",
+      "Wind",
+      "Darkness"
+    ],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "",
+    "UIStageLink": [],
+    "StageTypeResource": "",
+    "StageType": "Common",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": [
+      70202,
+      70203
+    ]
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 0,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 137,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 5900000,
+    "ID": 70202,
+    "Difficulty": 2,
+    "MonsterLevel": 137,
+    "BattleSquadID": 111802,
+    "StageSortType": 3,
+    "Idx": 2,
+    "RewardGroupID": 0,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111902,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 5900000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [
+      70203,
+      70204,
+      70205,
+      70206
+    ],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      70201
+    ],
+    "StageTypeResource": "Icon_raid_Bless",
+    "StageType": "Bless",
+    "UIStageSetPosition": [
+      "Left"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 139,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 6100000,
+    "ID": 70203,
+    "Difficulty": 2,
+    "MonsterLevel": 139,
+    "BattleSquadID": 111803,
+    "StageSortType": 1,
+    "Idx": 3,
+    "RewardGroupID": 9007220,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111903,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 6100000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      70201
+    ],
+    "StageTypeResource": "",
+    "StageType": "Common",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": [
+      70204,
+      70205
+    ]
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 0,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 138,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 6000000,
+    "ID": 70204,
+    "Difficulty": 2,
+    "MonsterLevel": 138,
+    "BattleSquadID": 111804,
+    "StageSortType": 3,
+    "Idx": 4,
+    "RewardGroupID": 0,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111904,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 6000000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [
+      70202,
+      70205,
+      70206
+    ],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      70203
+    ],
+    "StageTypeResource": "Icon_raid_Bless",
+    "StageType": "Bless",
+    "UIStageSetPosition": [
+      "Right"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 140,
+    "ReverseLink": 70206,
+    "UseMultiplePlay": true,
+    "BattlePower": 6200000,
+    "ID": 70205,
+    "Difficulty": 2,
+    "MonsterLevel": 140,
+    "BattleSquadID": 111805,
+    "StageSortType": 2,
+    "Idx": 5,
+    "RewardGroupID": 9007230,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111905,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 6200000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "Img_Raid_Boss_7",
+    "UIStageLink": [
+      70203
+    ],
+    "StageTypeResource": "",
+    "StageType": "Boss",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 7,
+    "MaxPlayCount": 1,
+    "StageMonsterSkillLevel": 1,
+    "IsAndCondition": true,
+    "IngameStatLevel": 140,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "BattlePower": 6200000,
+    "ID": 70206,
+    "Difficulty": 2,
+    "MonsterLevel": 140,
+    "BattleSquadID": 111806,
+    "StageSortType": 3,
+    "Idx": 6,
+    "RewardGroupID": 9007240,
+    "CursePenaltyGroup": 0,
+    "DungeonStageID": 111906,
+    "OverPowerCount": 0,
+    "DisplayBattlePower": 6200000,
+    "MonsterBuffID": [],
+    "RepresentReward": "",
+    "ElementType": [],
+    "BuffAbleStageID": [],
+    "StageBossBanner": "Img_Raid_Boss_7",
+    "UIStageLink": [],
+    "StageTypeResource": "",
+    "StageType": "Boss",
+    "UIStageSetPosition": [
+      "None"
+    ],
+    "NextStage": []
   }
 ]

@@ -10158,5 +10158,35 @@
     "MotionType": "Idle",
     "Loop": "Dialog_Sillad_Boss_Idle_01",
     "End": ""
+  },
+  {
+    "ID": 1026,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910457,
+    "Start": "Dialog_LiuZhigang_CrossArmed_01_Start",
+    "MotionType": "CrossArmed",
+    "Loop": "Dialog_LiuZhigang_CrossArmed_01_Loop",
+    "End": "Dialog_LiuZhigang_CrossArmed_01_End"
+  },
+  {
+    "ID": 1027,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910457,
+    "Start": "Dialog_LiuZhigang_WaistHand_01_Start",
+    "MotionType": "WaistHand",
+    "Loop": "Dialog_LiuZhigang_WaistHand_01_Loop",
+    "End": "Dialog_LiuZhigang_WaistHand_01_End"
+  },
+  {
+    "ID": 1028,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910729,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_Male_Adult1_Idle_01",
+    "End": ""
   }
 ]

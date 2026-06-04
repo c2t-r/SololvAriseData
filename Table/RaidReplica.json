@@ -11,6 +11,7 @@
     "ImgBG": "Levelup_Dungeon_DemonCastle_Topfloor_Big",
     "TransRate": [
       1,
+      1,
       1
     ],
     "BossName": "SysConstStr.RaidReplica.BossName01",
@@ -21,11 +22,13 @@
     ],
     "IsTransLock": [
       true,
+      true,
       true
     ],
     "TransItem": [
       10171002,
-      10171003
+      10171003,
+      10171004
     ],
     "ImgBoss": "Baran_Boss"
   },
@@ -41,6 +44,7 @@
     "ImgBG": "Levelup_Dungeon_SpaceFantasy_Big",
     "TransRate": [
       10,
+      1,
       1
     ],
     "BossName": "SysConstStr.RaidReplica.BossName02",
@@ -51,11 +55,13 @@
     ],
     "IsTransLock": [
       true,
+      true,
       true
     ],
     "TransItem": [
       10171001,
-      10171003
+      10171003,
+      10171004
     ],
     "ImgBoss": "Yogumunt_Boss"
   },
@@ -70,8 +76,9 @@
     "ReplicaID": 3000003,
     "ImgBG": "DG_UpperProvingArena_Big",
     "TransRate": [
+      100,
       10,
-      100
+      1
     ],
     "BossName": "SysConstStr.RaidReplica.BossName03",
     "ResourcePrefab": "Replica_Rakpasha_Boss",
@@ -81,11 +88,13 @@
     ],
     "IsTransLock": [
       true,
+      true,
       true
     ],
     "TransItem": [
+      10171001,
       10171002,
-      10171001
+      10171004
     ],
     "ImgBoss": "Rakpasha_Human_Boss"
   },
@@ -94,19 +103,33 @@
     "TransUnlock": 0,
     "ID": 4,
     "ContentMoveTarget": 23,
-    "LevelGroup": 0,
-    "TraitGroup": 0,
-    "ContentsUnlockID": 0,
-    "ReplicaID": 0,
-    "ImgBG": "",
-    "TransRate": [],
-    "BossName": "",
-    "ResourcePrefab": "",
-    "SubName": "",
-    "ExpItem": [],
-    "IsTransLock": [],
-    "TransItem": [],
-    "ImgBoss": ""
+    "LevelGroup": 4,
+    "TraitGroup": 4,
+    "ContentsUnlockID": 6018,
+    "ReplicaID": 3000004,
+    "ImgBG": "DG_Legia_Boss_Big",
+    "TransRate": [
+      1000,
+      100,
+      10
+    ],
+    "BossName": "SysConstStr.RaidReplica.BossName04",
+    "ResourcePrefab": "Replica_Legia_Boss",
+    "SubName": "SysConstStr.RaidReplica.SubName04",
+    "ExpItem": [
+      10171004
+    ],
+    "IsTransLock": [
+      true,
+      true,
+      true
+    ],
+    "TransItem": [
+      10171001,
+      10171002,
+      10171003
+    ],
+    "ImgBoss": "Legia_Boss"
   },
   {
     "UIShow": true,

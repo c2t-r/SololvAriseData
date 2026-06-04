@@ -13637,5 +13637,67 @@
     "RoamingRadius": [
       0.0
     ]
+  },
+  {
+    "KeymobID": 1,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 70,
+    "ID": 451,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 100.0,
+    "SpawnFlagID": 0,
+    "TriggerGroupID": 1,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "B_Mob_Spawn_1",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 2,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 70,
+    "ID": 452,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 100.0,
+    "SpawnFlagID": 2,
+    "TriggerGroupID": 2,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      1
+    ],
+    "SpawnSpot": "B_Mob_Spawn_1",
+    "RoamingRadius": [
+      0.0
+    ]
   }
 ]

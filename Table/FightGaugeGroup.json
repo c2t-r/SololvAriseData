@@ -44,6 +44,7 @@
       21101142,
       21101144
     ],
+    "BattleGaugeResource": "BattleGaugeSubview_Rakpasha_Spirit_Boss",
     "MonGaugeBuffMax_Target": [],
     "PCGaugeBuffMax": [
       21101141,
@@ -95,10 +96,113 @@
       21101142,
       21101144
     ],
+    "BattleGaugeResource": "BattleGaugeSubview_Rakpasha_Spirit_Boss",
     "MonGaugeBuffMax_Target": [],
     "PCGaugeBuffMax": [
       21101141,
       21101143
+    ]
+  },
+  {
+    "MonGaugeValue1": 1000,
+    "MonGaugeValue3": 3000,
+    "MonGaugeValue2": 2000,
+    "ID": 3,
+    "StartValue": 0,
+    "PCGaugeValue1": 1000,
+    "PCGaugeValue2": 2000,
+    "PCGaugeValue3": 3000,
+    "WaitTime": 5000,
+    "MaxPoint": 4000,
+    "MonGaugeBuffMax": [
+      221010241
+    ],
+    "FightGauge": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "MonGaugeBuff1": [
+      221010211
+    ],
+    "MonGaugeBuff3": [
+      221010231
+    ],
+    "MonGaugeBuff2": [
+      221010221
+    ],
+    "PCGaugeBuff2": [
+      221010121
+    ],
+    "PCGaugeBuff3": [
+      221010131
+    ],
+    "PCGaugeBuff1": [
+      221010111
+    ],
+    "PCGaugeBuffMax_Target": [
+      221010142,
+      221010144
+    ],
+    "BattleGaugeResource": "BattleGaugeSubview_HugeGiant_Boss",
+    "MonGaugeBuffMax_Target": [],
+    "PCGaugeBuffMax": [
+      221010141
+    ]
+  },
+  {
+    "MonGaugeValue1": 1000,
+    "MonGaugeValue3": 3000,
+    "MonGaugeValue2": 2000,
+    "ID": 4,
+    "StartValue": 0,
+    "PCGaugeValue1": 1000,
+    "PCGaugeValue2": 2000,
+    "PCGaugeValue3": 3000,
+    "WaitTime": 10000,
+    "MaxPoint": 4000,
+    "MonGaugeBuffMax": [
+      221010241
+    ],
+    "FightGauge": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "MonGaugeBuff1": [
+      221010211
+    ],
+    "MonGaugeBuff3": [
+      221010231
+    ],
+    "MonGaugeBuff2": [
+      221010221
+    ],
+    "PCGaugeBuff2": [
+      221010121
+    ],
+    "PCGaugeBuff3": [
+      221010131
+    ],
+    "PCGaugeBuff1": [
+      221010111
+    ],
+    "PCGaugeBuffMax_Target": [
+      221010142,
+      221010144
+    ],
+    "BattleGaugeResource": "BattleGaugeSubview_HugeGiant_Boss",
+    "MonGaugeBuffMax_Target": [],
+    "PCGaugeBuffMax": [
+      221010141
     ]
   }
 ]

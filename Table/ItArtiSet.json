@@ -1798,7 +1798,8 @@
     "PassiveBuff": [
       64003205,
       64003208,
-      64003209
+      64003209,
+      64003265
     ],
     "SetBannerResource": "Img_Artifact_Set_Architect",
     "SetIcon": "Artifact_Equipments_Armor_Architect",
@@ -1834,7 +1835,8 @@
       64003218,
       64003219,
       64003258,
-      64003259
+      64003259,
+      64003267
     ],
     "SetBannerResource": "Img_Artifact_Set_Valtair",
     "SetIcon": "Artifact_Equipments_Armor_Valtair",
@@ -1881,7 +1883,8 @@
       64003252,
       64003253,
       64003254,
-      64003257
+      64003257,
+      64003269
     ],
     "SetBannerResource": "Img_Artifact_Set_Rockpasa",
     "SetIcon": "Artifact_Equipments_Armor_Rockpasa",
@@ -1915,10 +1918,43 @@
       64003224,
       64003226,
       64003227,
-      64003228
+      64003228,
+      64003271
     ],
     "SetBannerResource": "Img_Artifact_Set_Kamish",
     "SetIcon": "Artifact_Equipments_Armor_Kamish",
     "SetBannerName": "ArtifactSet.Name.Equipments_Kamish"
+  },
+  {
+    "ArtifactSetID": 705,
+    "ID": 70501,
+    "AddBattlePower": 0,
+    "Sort": 4007,
+    "AddBattlePowerR": 0.13500000536441803,
+    "Condition": 4,
+    "Name": "ArtifactSet.Name.Equipments_Giant",
+    "PassiveBuff": [
+      64003260
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Giant",
+    "SetIcon": "Artifact_Equipments_Armor_Giant",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Giant"
+  },
+  {
+    "ArtifactSetID": 705,
+    "ID": 70502,
+    "AddBattlePower": 0,
+    "Sort": 4007,
+    "AddBattlePowerR": 0.20999999344348907,
+    "Condition": 8,
+    "Name": "ArtifactSet.Name.Equipments_Giant",
+    "PassiveBuff": [
+      64003262,
+      64003285,
+      64003273
+    ],
+    "SetBannerResource": "Img_Artifact_Set_Giant",
+    "SetIcon": "Artifact_Equipments_Armor_Giant",
+    "SetBannerName": "ArtifactSet.Name.Equipments_Giant"
   }
 ]
