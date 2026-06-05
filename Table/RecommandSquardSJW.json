@@ -26,7 +26,7 @@
     "ElementType": "Fire"
   },
   {
-    "Order": 1,
+    "Order": 3,
     "ID": 151005,
     "GS2": 200030008,
     "GS1": 200030002,
@@ -39,7 +39,7 @@
     "ElementType": "Water"
   },
   {
-    "Order": 2,
+    "Order": 4,
     "ID": 151006,
     "GS2": 200030023,
     "GS1": 200030024,
@@ -52,7 +52,7 @@
     "ElementType": "Water"
   },
   {
-    "Order": 1,
+    "Order": 5,
     "ID": 151008,
     "GS2": 200030032,
     "GS1": 200030031,
@@ -61,11 +61,11 @@
     "Skill2": 1001205400000,
     "Skill3": 1001901300000,
     "Skill1": 1001306300000,
-    "SJWComboGuide": 1005,
+    "SJWComboGuide": 1012,
     "ElementType": "Wind"
   },
   {
-    "Order": 2,
+    "Order": 6,
     "ID": 151009,
     "GS2": 200030032,
     "GS1": 200030031,
@@ -74,11 +74,24 @@
     "Skill2": 1001202200000,
     "Skill3": 1001901300000,
     "Skill1": 1001306300000,
-    "SJWComboGuide": 1006,
+    "SJWComboGuide": 1013,
     "ElementType": "Wind"
   },
   {
-    "Order": 1,
+    "Order": 7,
+    "ID": 151007,
+    "GS2": 200030016,
+    "GS1": 200030021,
+    "RecommandSJWID": 151000,
+    "PickRate": 0,
+    "Skill2": 1001303300000,
+    "Skill3": 1001901300000,
+    "Skill1": 1001302300000,
+    "SJWComboGuide": 1005,
+    "ElementType": "Wind"
+  },
+  {
+    "Order": 8,
     "ID": 151011,
     "GS2": 200030028,
     "GS1": 200030004,
@@ -91,7 +104,7 @@
     "ElementType": "Light"
   },
   {
-    "Order": 2,
+    "Order": 9,
     "ID": 151012,
     "GS2": 200030019,
     "GS1": 200030018,
@@ -104,7 +117,7 @@
     "ElementType": "Light"
   },
   {
-    "Order": 1,
+    "Order": 10,
     "ID": 151013,
     "GS2": 200030030,
     "GS1": 200030029,
@@ -117,7 +130,7 @@
     "ElementType": "Darkness"
   },
   {
-    "Order": 2,
+    "Order": 11,
     "ID": 151014,
     "GS2": 200030005,
     "GS1": 200030006,
@@ -130,7 +143,7 @@
     "ElementType": "Darkness"
   },
   {
-    "Order": 3,
+    "Order": 12,
     "ID": 151015,
     "GS2": 200030013,
     "GS1": 200030005,
