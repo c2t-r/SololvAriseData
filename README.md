@@ -1,7 +1,7 @@
 # Solo Leveling:ARISE
 
-ver: `1.4.16`  
-size: `337.38MB`  
-buildSeq: `69`  
+ver: `1.4.17`  
+size: `337.37MB`  
+buildSeq: `70`  
 
-https://sololv.gcdn.netmarble.com/pcclient/sololv/1.4.16/cldzpknrgwn4_1780390329866.zip
+https://sololv.gcdn.netmarble.com/pcclient/sololv/1.4.17/1xgvsjqivnem_1780983226697.zip
