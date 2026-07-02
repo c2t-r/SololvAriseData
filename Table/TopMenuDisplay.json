@@ -1946,6 +1946,21 @@
   },
   {
     "IsGuild": true,
+    "ID": 1041,
+    "TopMenuPage": "ThemeEventMain",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "2630",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002244,
+      1000016
+    ]
+  },
+  {
+    "IsGuild": true,
     "ID": 2001,
     "TopMenuPage": "EventCoop",
     "TopMenuSubPage": "",
@@ -2075,7 +2090,22 @@
       3
     ],
     "TopMenuDisplayGroup": [
-      10150116
+      10150140
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 2010,
+    "TopMenuPage": "Event",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "Roulette",
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002244,
+      1000016
     ]
   }
 ]

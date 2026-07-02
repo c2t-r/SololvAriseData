@@ -15136,5 +15136,145 @@
     ],
     "PenaltyDescString": "SysConstStr.PenaltyDesc.4000301",
     "AffixType": "None"
+  },
+  {
+    "BossGrade": true,
+    "UsePower": true,
+    "NormalGrade": true,
+    "ID": 4000901,
+    "TriggerGroupID": 0,
+    "Unused": true,
+    "Value2": 0,
+    "Value": 0,
+    "PenaltyStep": 1,
+    "PenaltyKind": 40009,
+    "EliteGrade": true,
+    "PenaltyExp": 1,
+    "PenaltyEffect": "Buff",
+    "AffixString": "0",
+    "Target": "Character",
+    "PenaltySkill": [
+      0
+    ],
+    "StringValue": "0",
+    "PenaltyIcon": "Penalty_01_Icon",
+    "PenaltyNameString": "SysConstStr.Penalty.4000101",
+    "PenaltyBuff": [
+      8100000108
+    ],
+    "PenaltyDescString": "SysConstStr.PenaltyDesc.4000901",
+    "AffixType": "None"
+  },
+  {
+    "BossGrade": true,
+    "UsePower": true,
+    "NormalGrade": true,
+    "ID": 4001001,
+    "TriggerGroupID": 0,
+    "Unused": true,
+    "Value2": 0,
+    "Value": 0,
+    "PenaltyStep": 2,
+    "PenaltyKind": 40010,
+    "EliteGrade": true,
+    "PenaltyExp": 1,
+    "PenaltyEffect": "Buff",
+    "AffixString": "0",
+    "Target": "Character",
+    "PenaltySkill": [
+      0
+    ],
+    "StringValue": "0",
+    "PenaltyIcon": "Penalty_01_Icon",
+    "PenaltyNameString": "SysConstStr.Penalty.4000101",
+    "PenaltyBuff": [
+      8100000111
+    ],
+    "PenaltyDescString": "SysConstStr.PenaltyDesc.4001001",
+    "AffixType": "None"
+  },
+  {
+    "BossGrade": true,
+    "UsePower": true,
+    "NormalGrade": true,
+    "ID": 4001101,
+    "TriggerGroupID": 0,
+    "Unused": true,
+    "Value2": 0,
+    "Value": 0,
+    "PenaltyStep": 3,
+    "PenaltyKind": 40011,
+    "EliteGrade": true,
+    "PenaltyExp": 1,
+    "PenaltyEffect": "Buff",
+    "AffixString": "0",
+    "Target": "Character",
+    "PenaltySkill": [
+      0
+    ],
+    "StringValue": "0",
+    "PenaltyIcon": "Penalty_01_Icon",
+    "PenaltyNameString": "SysConstStr.Penalty.4000101",
+    "PenaltyBuff": [
+      8100000114
+    ],
+    "PenaltyDescString": "SysConstStr.PenaltyDesc.4001101",
+    "AffixType": "None"
+  },
+  {
+    "BossGrade": true,
+    "UsePower": true,
+    "NormalGrade": true,
+    "ID": 4001201,
+    "TriggerGroupID": 0,
+    "Unused": true,
+    "Value2": 0,
+    "Value": 0,
+    "PenaltyStep": 4,
+    "PenaltyKind": 40012,
+    "EliteGrade": true,
+    "PenaltyExp": 1,
+    "PenaltyEffect": "Buff",
+    "AffixString": "0",
+    "Target": "Monster",
+    "PenaltySkill": [
+      0
+    ],
+    "StringValue": "0",
+    "PenaltyIcon": "Penalty_01_Icon",
+    "PenaltyNameString": "SysConstStr.Penalty.4000101",
+    "PenaltyBuff": [
+      8100000117
+    ],
+    "PenaltyDescString": "SysConstStr.PenaltyDesc.4001201",
+    "AffixType": "None"
+  },
+  {
+    "BossGrade": true,
+    "UsePower": true,
+    "NormalGrade": true,
+    "ID": 4001301,
+    "TriggerGroupID": 0,
+    "Unused": true,
+    "Value2": 0,
+    "Value": 0,
+    "PenaltyStep": 5,
+    "PenaltyKind": 40013,
+    "EliteGrade": true,
+    "PenaltyExp": 1,
+    "PenaltyEffect": "Buff",
+    "AffixString": "0",
+    "Target": "Character",
+    "PenaltySkill": [
+      0
+    ],
+    "StringValue": "0",
+    "PenaltyIcon": "Penalty_01_Icon",
+    "PenaltyNameString": "SysConstStr.Penalty.4000101",
+    "PenaltyBuff": [
+      8100000118
+    ],
+    "PenaltyDescString": "SysConstStr.PenaltyDesc.4001301",
+    "AffixType": "None"
   }
 ]

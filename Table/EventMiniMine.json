@@ -52,5 +52,32 @@
       3
     ],
     "ResultPopupImg": "Img_Event_Result_Mine_Party"
+  },
+  {
+    "LineBlockCount": 8,
+    "HPMax": 70,
+    "ID": 70002,
+    "RecordReward": 435,
+    "TutorialID": 2027,
+    "RankingGroupMain": 503,
+    "PCSpeed": 250,
+    "StartBlockLineCount": 4,
+    "RankingGroupSub": 0,
+    "BlockBreakScore": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Event.Minigame.Mine.Title.Sea",
+    "PCPrefab": "MiniGame_Mine_Char_PC_01",
+    "ModuleName": "MiniGameMine_Module_Sea",
+    "RecordRewardReset": "Weekly",
+    "BGImg": "BG_MiniGame_Mine_Sea",
+    "BlockBreakCount": [
+      1,
+      2,
+      3
+    ],
+    "ResultPopupImg": "Img_Event_Result_Mine_Sea"
   }
 ]

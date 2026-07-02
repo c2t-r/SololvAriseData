@@ -9,8 +9,10 @@
     "DimensionGate.MaxLv": 55,
     "SJWSkillRune.RuneCraftMaterialItem": 10090001,
     "Limit.GAME_ITEM_EQUIP_DECOMPOSITION_REQ": 100,
+    "SweepPoint.DailyPurchase_PriceIndex": 1000016,
     "Subscribe.NoneSubscribe_MissionPointReward_Value": 15,
     "Gacha.GachaSelect.PopularPickup_CountingPeriod": 20160,
+    "Limit.GAME_CORE_DECOM_REQ": 500,
     "HunterEnhance.DecompositionItemValueD": 1,
     "DimensionGate.EnhanceMaxCountDefault": 5,
     "Pvp.ReadyTime": 5000,
@@ -20,6 +22,7 @@
     "EventMini.RankListMax": 10,
     "WebCoupon.ItemActive": 900101,
     "HunterEnhance.DecompositionItemValueB": 1,
+    "Gem.Unequip.MagicEssence": 100,
     "Shadow.ShadowWeaponUnlockGrade": 4,
     "BattleDeck.PlayerTeamFightTutorial": 200024,
     "Reference.ItemID.GuildCoin": 10220001,
@@ -53,7 +56,7 @@
     "Profile.DuplicatedBG_Gold": 500,
     "SJWAPRecover.Term": 300,
     "HPSynchBoss.BattlePowerBan": 60,
-    "Common.ShadowMaxLevel": 185,
+    "Common.ShadowMaxLevel": 200,
     "BattleDeck.EmptySlotNoti_Shadow": 3,
     "ModeControl.AdventDungeon.ModeDisplay": 2,
     "MaxLevelProcessing.Account_MaxLevel_ExchangeRate_Excess": 1,
@@ -272,6 +275,7 @@
     "BattleConfig.RollCommonCoolTime": 5.0,
     "Profile.DuplicatedBorder_Gold": 500,
     "BattleConfig.TagOutDitherTime": 0.20000000298023224,
+    "SweepPoint.DailyPurchase_PriceValue": 100,
     "Artifact.SellCautionRarity": 4,
     "BattleConfig.BackAttackDamage": 1.0,
     "Pvp.ListRefreshTime": 300,
@@ -485,7 +489,7 @@
     "Guild.GuildMasterEscalationAttendance": 10,
     "HunterEnhance.EvolveMaterialHoldValue01": 9,
     "Subscribe.HotTime_Main_ItemID": 20700101,
-    "Common.MonCodexTypeLimit": 5,
+    "Common.MonCodexTypeLimit": 7,
     "GradeBRate_3": 82,
     "StepMission.ButtonAlarmDisplayTime": 3,
     "GachaDeferRecruit.SubScription.FreeFixCount": 1,
@@ -594,7 +598,7 @@
     "Tutorial.ItemMixTutorialID": 708,
     "Tutorial.GachaMainID": 1000,
     "Pvp.SquadInfo_Main": 5,
-    "MonthlyPackage.Package_Main_0": 310011,
+    "MonthlyPackage.Package_Main_0": 310012,
     "BeginSetting.SetAccountTitleID": 11060001,
     "Pvp.GameRule.DynamicHunterCost.EachAlive": 2,
     "BattleConfig.ElementImmuneP": 0.009999999776482582,
@@ -718,6 +722,7 @@
     "Common.StageReady_SJWGate": 1001,
     "Limit.GAME_ITEM_CRAFT_ARTIFACT_REQ": 10,
     "Shadow.SkillLevelUpUnlockGrade": 1,
+    "SweepPoint.DailyPurchaseCount": 1000,
     "Pvp.HunterBarrier": 9999999998,
     "Artifact.BasicOptionValueRare": 2,
     "Story.OpenKey": 1000022,
@@ -870,7 +875,7 @@
     "Subscribe.Subscribe_ShopTab00": 2000002,
     "GrowthGuide.GrowthGauge02": 7000,
     "BattleConfig.PrecisionLevelConstValue": 600,
-    "Common.GSMaxLevel": 120,
+    "Common.GSMaxLevel": 130,
     "Artifact.UnequipPriceGoldValueRare": 2000,
     "BeginSetting.MagicEssence": 1000,
     "HunterEnhance.DecompositionItemId": 10070001,
@@ -890,7 +895,7 @@
     "DimensionGate.GetCoinEffect.RemainTimeUnit": 0.15000000596046448,
     "Common.SungjinwooMaxLevel": 150,
     "BeginSetting.GateEnterPoint": 0,
-    "Core.NoticeLevel": 8,
+    "Core.NoticeLevel": 15,
     "Pvp.WinPoint": 3,
     "ShowRewardRate.AdventDungeon": true,
     "AP.Substitution.Currency": 1000033,
@@ -1123,6 +1128,7 @@
       0
     ],
     "MonthlyPackage.Package_Main_1_Free_Desc": "",
+    "Core.NoticeGrade": "Legendary",
     "EventLCPromotion.WebLink2": "https://www.xbox.com/games/store/solo-levelingarise-overdrive/9MVHCQ7CJX01",
     "EventLCPromotion.WebLink1": "https://store.steampowered.com/app/2373990/",
     "Raid.RaidMainPage.CoomingSoonResource": "RaidComingSoon",
@@ -1640,6 +1646,7 @@
     ],
     "BattleCharConfig.NetSyncObjectAI": "NetSyncObject AI",
     "Subscribe.Package_ShopBanner_Img": "SubscribeShopGoodsSlot_02",
+    "SweepPoint.DailyPurchase_PriceType": "MagicEssence",
     "Inventory.ArtifactFilterSubStat": [
       "\"Att\"",
       "\"AttR\"",
@@ -1864,6 +1871,10 @@
       10240001,
       10240003
     ],
+    "Gem.Unequip.Item": [
+      10270004,
+      1
+    ],
     "Core.MaterialFilterRarityMax": "Legendary",
     "ReplayTutorialTab.Tab1_Icon": "Icon_Tab_Craft_All",
     "Common.ItemGetEffectGrade": "SR",
@@ -2028,8 +2039,8 @@
     ],
     "LobbySpawnNpc.FinishRandomIcon": "Icon_Lobby_Random",
     "ArtifactEnhanceReset.TicketID": [
-      20701204,
-      20701200
+      20701200,
+      20701205
     ],
     "ShadowGradeBg.Elite": "ArtifactRarity_Rare",
     "TrainingRoom.SetTimer": [
@@ -2144,7 +2155,7 @@
     "TrainingRoom.Spawn.Position.Player3": [],
     "TrainingRoom.Spawn.Position.Player2": [],
     "ShadowGradeBg.Normal": "ArtifactRarity_Common",
-    "MonthlyPackage.Package_Main_0_Desc": "ShopGoodsSlot.launching_Special_A_Desc_Policy",
+    "MonthlyPackage.Package_Main_0_Desc": "ShopGoodsSlot.launching_Special_A_Desc_Policy2",
     "Tutorial.ForceTutorialFinishID": [
       467,
       7

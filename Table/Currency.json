@@ -535,5 +535,20 @@
     "StringDesc": "Currency.EnterPointDailyDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
     "StringName": "Currency.EnterPointDailyName"
+  },
+  {
+    "InvenHide": true,
+    "ID": 1000034,
+    "ChargeGroup": 13000,
+    "ItemSubType": "SweepPoint",
+    "MoveTarget": [],
+    "TooltipDisplay": "",
+    "ItemRarity": "Common",
+    "ShopIconResourceName": "Currency_SweepPoint",
+    "ContentsType": [],
+    "IconResourceName": "Currency_SweepPoint",
+    "StringDesc": "Currency.SweepPointDesc",
+    "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
+    "StringName": "Currency.SweepPoint"
   }
 ]

@@ -34,5 +34,41 @@
       1,
       2
     ]
+  },
+  {
+    "Attribute_Match_Required": true,
+    "ID": 3,
+    "BurstSkill_Accumulate_Required": true,
+    "BurstSkill_Input_Required": true,
+    "SkillID": 2621602000000,
+    "HunterID": 621,
+    "BurstSkill_Input_Time": 0,
+    "BurstDamModifier": 2000,
+    "BurstSkill_Accumulate_Duration": 0,
+    "BurstSkill_Button_UI": "BurstSkill_Button_UI",
+    "BurstDam_UI": "ElementBurstDamageStateHud",
+    "BurstSkill_Signal_UI_StringID": "Signal.BurstSkill_Start_AgnesRivera",
+    "Min_Grade_Level": [
+      1,
+      2
+    ]
+  },
+  {
+    "Attribute_Match_Required": true,
+    "ID": 4,
+    "BurstSkill_Accumulate_Required": true,
+    "BurstSkill_Input_Required": true,
+    "SkillID": 2621602000000,
+    "HunterID": 1004621,
+    "BurstSkill_Input_Time": 0,
+    "BurstDamModifier": 2000,
+    "BurstSkill_Accumulate_Duration": 0,
+    "BurstSkill_Button_UI": "BurstSkill_Button_UI",
+    "BurstDam_UI": "ElementBurstDamageStateHud",
+    "BurstSkill_Signal_UI_StringID": "Signal.BurstSkill_Start_AgnesRivera",
+    "Min_Grade_Level": [
+      1,
+      2
+    ]
   }
 ]

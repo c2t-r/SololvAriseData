@@ -431,6 +431,19 @@
   {
     "Stackable": true,
     "MaxStack": 1,
+    "MaxAmount": 99999999,
+    "SortOrder": 614,
+    "ID": 1034,
+    "Lockable": true,
+    "Sellable": true,
+    "ItemSubType": "SweepPoint",
+    "ItemMainType": "Currency",
+    "GetShortCut": "",
+    "UseShortCut": ""
+  },
+  {
+    "Stackable": true,
+    "MaxStack": 1,
     "MaxAmount": 0,
     "SortOrder": 101,
     "ID": 2001,

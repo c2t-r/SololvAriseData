@@ -1482,6 +1482,17 @@
     "Desc": ""
   },
   {
+    "ID": 1092,
+    "Value1": 0,
+    "Title": "MoveTarget.CoreDecomposition_Title",
+    "ContentsType": "Core",
+    "ShortCutIndexes": [
+      0
+    ],
+    "ShortCutType": "Core_Decomposition",
+    "Desc": "MoveTarget.CoreDecomposition_Short"
+  },
+  {
     "ID": 1101,
     "Value1": 0,
     "Title": "MoveTarget.CollectionHunter_Title",
@@ -6555,6 +6566,123 @@
       1014101,
       1014101,
       4111
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11241,
+    "Value1": 2704,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1012701,
+      1012701,
+      2704
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11242,
+    "Value1": 3408,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1013401,
+      1013401,
+      3408
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11243,
+    "Value1": 3507,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1013501,
+      1013501,
+      3507
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11244,
+    "Value1": 4303,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014301,
+      1014301,
+      4303
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11245,
+    "Value1": 4307,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014301,
+      1014301,
+      4307
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11246,
+    "Value1": 4404,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014401,
+      1014401,
+      4404
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11247,
+    "Value1": 4510,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014501,
+      1014501,
+      4510
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11248,
+    "Value1": 4606,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014601,
+      1014601,
+      4606
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11249,
+    "Value1": 4609,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014601,
+      1014601,
+      4609
     ],
     "ShortCutType": "Story_Mission",
     "Desc": ""
@@ -14788,6 +14916,18 @@
     "Desc": ""
   },
   {
+    "ID": 31056,
+    "Value1": 400011006,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      400011006
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -15322,6 +15462,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3070
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40052,
+    "Value1": 3073,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3073
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -16840,6 +16991,50 @@
     "ContentsType": "Event",
     "ShortCutIndexes": [
       654
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50140,
+    "Value1": 658,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      658
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50141,
+    "Value1": 657,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      657
+    ],
+    "ShortCutType": "Event_Notice",
+    "Desc": ""
+  },
+  {
+    "ID": 50142,
+    "Value1": 660,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      660
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50143,
+    "Value1": 13075,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      13075
     ],
     "ShortCutType": "Event_Tab",
     "Desc": ""
@@ -18594,6 +18789,59 @@
       655
     ],
     "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 55164,
+    "Value1": 2630,
+    "Title": "Event.26Summer.Main.Title_A.Move",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55165,
+    "Value1": 2630,
+    "Title": "Event.26Summer.Title.Mission_A",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      1
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55166,
+    "Value1": 2630,
+    "Title": "Event.Minigame.Summer.Title_Long",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      2
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55167,
+    "Value1": 2630,
+    "Title": "Event.Minigame.Mine.Title.Sea",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55168,
+    "Value1": 2630,
+    "Title": "",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      8
+    ],
+    "ShortCutType": "Main",
     "Desc": ""
   },
   {

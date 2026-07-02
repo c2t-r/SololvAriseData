@@ -9439,5 +9439,248 @@
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "HugeGiant_Boss_2_Intro_B",
     "Type": "Intro"
+  },
+  {
+    "ID": 1050,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_Spawn_Skill_Out",
+    "Type": "ShadowOut"
+  },
+  {
+    "ID": 1051,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 1052,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_Evolve_Start",
+    "Type": "EvolveStart"
+  },
+  {
+    "ID": 1053,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_Evolve_End",
+    "Type": "EvolveEnd"
+  },
+  {
+    "ID": 1054,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 1055,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 1056,
+    "UseSkip": true,
+    "GroupID": 101100,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Shadow_Greed_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 1057,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 1058,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 1059,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 1060,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 1061,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 1062,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 1063,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1064,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 1065,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 1066,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 1067,
+    "UseSkip": true,
+    "GroupID": 631,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "SungJinWoo_Ashborn_LobbyIdle_Touch",
+    "Type": "LobbySocialMotion"
+  },
+  {
+    "ID": 1068,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 1069,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 1070,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 1071,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 1072,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 1073,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 1074,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1075,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 1076,
+    "UseSkip": true,
+    "GroupID": 641,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "JungYerim_Fail_Endloop",
+    "Type": "FailIdle"
   }
 ]

@@ -704,20 +704,20 @@
   {
     "Upgrade": 12,
     "StatModeId": 401,
-    "SkillLevel": 7,
-    "Level": 100,
+    "SkillLevel": 8,
+    "Level": 120,
     "ID": 80001,
-    "Evolve": 5,
-    "CalibratedID": 100
+    "Evolve": 7,
+    "CalibratedID": 120
   },
   {
     "Upgrade": 15,
     "StatModeId": 401,
     "SkillLevel": 10,
-    "Level": 120,
+    "Level": 150,
     "ID": 80002,
     "Evolve": 10,
-    "CalibratedID": 120
+    "CalibratedID": 150
   },
   {
     "Upgrade": 9,
@@ -774,6 +774,33 @@
     "CalibratedID": 120
   },
   {
+    "Upgrade": 9,
+    "StatModeId": 401,
+    "SkillLevel": 4,
+    "Level": 60,
+    "ID": 80009,
+    "Evolve": 5,
+    "CalibratedID": 61
+  },
+  {
+    "Upgrade": 12,
+    "StatModeId": 401,
+    "SkillLevel": 8,
+    "Level": 120,
+    "ID": 80010,
+    "Evolve": 7,
+    "CalibratedID": 121
+  },
+  {
+    "Upgrade": 15,
+    "StatModeId": 401,
+    "SkillLevel": 10,
+    "Level": 150,
+    "ID": 80011,
+    "Evolve": 10,
+    "CalibratedID": 151
+  },
+  {
     "Upgrade": 15,
     "StatModeId": 502,
     "SkillLevel": 10,
@@ -806,6 +833,15 @@
     "SkillLevel": 10,
     "Level": 140,
     "ID": 90004,
+    "Evolve": 10,
+    "CalibratedID": 140
+  },
+  {
+    "Upgrade": 15,
+    "StatModeId": 602,
+    "SkillLevel": 10,
+    "Level": 140,
+    "ID": 90005,
     "Evolve": 10,
     "CalibratedID": 140
   }

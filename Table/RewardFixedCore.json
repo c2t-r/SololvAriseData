@@ -732,5 +732,44 @@
       -1,
       -1
     ]
+  },
+  {
+    "Level": 10,
+    "ID": 100028,
+    "Option": [
+      "AddAtt",
+      "Critical"
+    ],
+    "BuffCondition": "Darkness",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100029,
+    "Option": [
+      "AddArm",
+      "CriDam"
+    ],
+    "BuffCondition": "Darkness",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100030,
+    "Option": [
+      "AddMHP",
+      "Dam"
+    ],
+    "BuffCondition": "Darkness",
+    "StatRate": [
+      -1,
+      -1
+    ]
   }
 ]

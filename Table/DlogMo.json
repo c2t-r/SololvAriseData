@@ -10188,5 +10188,35 @@
     "MotionType": "Idle",
     "Loop": "Dialog_Male_Adult1_Idle_01",
     "End": ""
+  },
+  {
+    "ID": 1029,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910742,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_AgnesRivera_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 1030,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910742,
+    "Start": "Dialog_AgnesRivera_CrossArmed_01_Start",
+    "MotionType": "CrossArmed",
+    "Loop": "Dialog_AgnesRivera_CrossArmed_01_Loop",
+    "End": "Dialog_AgnesRivera_CrossArmed_01_End"
+  },
+  {
+    "ID": 1031,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910742,
+    "Start": "Dialog_AgnesRivera_WaistHand_01_Start",
+    "MotionType": "WaistHand",
+    "Loop": "Dialog_AgnesRivera_WaistHand_01_Loop",
+    "End": "Dialog_AgnesRivera_WaistHand_01_End"
   }
 ]

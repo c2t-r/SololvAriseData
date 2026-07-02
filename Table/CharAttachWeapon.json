@@ -3005,7 +3005,7 @@
     "Index": 0,
     "AwakeActive": true,
     "KeepEffect": true,
-    "AttachParentName": "Point_Weapon_L_Skin",
+    "AttachParentName": "Bip001 Prop_L",
     "CharPartsType": "Weapon",
     "PartsPrefName": "AgnesRivera_Weapon0_PFV"
   },
@@ -3015,8 +3015,18 @@
     "Index": 1,
     "AwakeActive": true,
     "KeepEffect": true,
-    "AttachParentName": "Point_Weapon_R_Skin",
+    "AttachParentName": "Bip001 Prop_R",
     "CharPartsType": "Weapon",
     "PartsPrefName": "AgnesRivera_Weapon1_PFV"
+  },
+  {
+    "ID": 304,
+    "GroupID": 865,
+    "Index": 5,
+    "AwakeActive": true,
+    "KeepEffect": true,
+    "AttachParentName": "Bone_Weapon_Sub_01_R",
+    "CharPartsType": "GSWeapon",
+    "PartsPrefName": "GSWeapon_VulcanRare_01_PFV"
   }
 ]

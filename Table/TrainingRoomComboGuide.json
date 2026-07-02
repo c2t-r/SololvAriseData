@@ -6900,9 +6900,7 @@
     "ReturnIndex": 4,
     "ChEvolveCheck": 0,
     "ExtraCombo": [
-      3,
-      4,
-      2
+      1
     ],
     "QTEUseType": [
       "Overload"
@@ -6921,9 +6919,7 @@
     "ReturnIndex": 5,
     "ChEvolveCheck": 1,
     "ExtraCombo": [
-      3,
-      4,
-      2
+      1
     ],
     "QTEUseType": [
       "Overload"
@@ -6931,8 +6927,8 @@
     "ChComboGuide": [
       3,
       4,
-      2,
       4,
+      2,
       5
     ]
   },
@@ -6943,9 +6939,7 @@
     "ReturnIndex": 5,
     "ChEvolveCheck": 2,
     "ExtraCombo": [
-      3,
-      4,
-      2
+      1
     ],
     "QTEUseType": [
       "Overload"
@@ -6953,8 +6947,8 @@
     "ChComboGuide": [
       3,
       4,
-      2,
       4,
+      2,
       5
     ]
   },
@@ -6965,9 +6959,7 @@
     "ReturnIndex": 5,
     "ChEvolveCheck": 3,
     "ExtraCombo": [
-      3,
-      4,
-      2
+      1
     ],
     "QTEUseType": [
       "Overload"
@@ -6975,8 +6967,8 @@
     "ChComboGuide": [
       3,
       4,
-      2,
       4,
+      2,
       5
     ]
   },
@@ -6987,9 +6979,7 @@
     "ReturnIndex": 5,
     "ChEvolveCheck": 4,
     "ExtraCombo": [
-      3,
-      4,
-      2
+      1
     ],
     "QTEUseType": [
       "Overload"
@@ -6997,8 +6987,8 @@
     "ChComboGuide": [
       3,
       4,
-      2,
       4,
+      2,
       5
     ]
   },
@@ -7009,9 +6999,7 @@
     "ReturnIndex": 6,
     "ChEvolveCheck": 5,
     "ExtraCombo": [
-      3,
-      4,
-      2
+      1
     ],
     "QTEUseType": [
       "Overload"
@@ -7019,10 +7007,8 @@
     "ChComboGuide": [
       3,
       4,
-      2,
       4,
       3,
-      2,
       5
     ]
   },
@@ -8023,6 +8009,157 @@
       4,
       2,
       3,
+      9
+    ]
+  },
+  {
+    "ID": 379,
+    "ChHuntID": 621,
+    "ChHuntGroup": 64,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      5,
+      3,
+      9
+    ]
+  },
+  {
+    "ID": 380,
+    "ChHuntID": 621,
+    "ChHuntGroup": 64,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 1,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      5,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "ID": 381,
+    "ChHuntID": 621,
+    "ChHuntGroup": 64,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 2,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      5,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "ID": 382,
+    "ChHuntID": 621,
+    "ChHuntGroup": 64,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 3,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      5,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "ID": 383,
+    "ChHuntID": 621,
+    "ChHuntGroup": 64,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 4,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      5,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "ID": 384,
+    "ChHuntID": 621,
+    "ChHuntGroup": 64,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 5,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      3,
+      3,
+      2,
+      3,
+      3,
+      3,
+      5,
+      2,
       9
     ]
   },

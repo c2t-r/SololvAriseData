@@ -299,8 +299,11 @@
     "SeasonReward": 6,
     "StageInfo": 11,
     "PenaltyFixID": [
-      4000501,
-      4000301
+      4000901,
+      4001001,
+      4001101,
+      4001201,
+      4001301
     ],
     "FixedDungeonStage": [
       240108,
@@ -318,8 +321,41 @@
       110006
     ],
     "SeasonElement": [
-      "Fire",
       "Darkness",
+      "Fire",
+      "Light"
+    ]
+  },
+  {
+    "DifficultyGroup": 3,
+    "ID": 12,
+    "SeasonReward": 6,
+    "StageInfo": 12,
+    "PenaltyFixID": [
+      4000901,
+      4001001,
+      4001101,
+      4001201,
+      4001301
+    ],
+    "FixedDungeonStage": [
+      240108,
+      240106,
+      240107
+    ],
+    "DemoHunter1": [
+      110001,
+      110002,
+      110003
+    ],
+    "DemoHunter2": [
+      110004,
+      110005,
+      110006
+    ],
+    "SeasonElement": [
+      "Darkness",
+      "Fire",
       "Light"
     ]
   }

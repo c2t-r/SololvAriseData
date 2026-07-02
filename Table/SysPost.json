@@ -830,5 +830,37 @@
     "PostID": "EventItemCollect",
     "Type": "General",
     "Desc": "SysPost.Desc.ID23"
+  },
+  {
+    "StoragePeriodMin": 0,
+    "ID": 113,
+    "Name": "SysPost.Title.GuildCreateFailNoti",
+    "PostID": "GuildCreateFailNoti",
+    "Type": "General",
+    "Desc": "SysPost.Desc.GuildCreateFailNoti"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 114,
+    "Name": "SysPost.Title.GuildJoinNotice",
+    "PostID": "GuildJoinNotice",
+    "Type": "General",
+    "Desc": "SysPost.Desc.GuildJoinNotice"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 115,
+    "Name": "SysPost.Title.GuildMasterTransferNotice",
+    "PostID": "GuildMasterTransferNotice",
+    "Type": "General",
+    "Desc": "SysPost.Desc.GuildMasterTransferNotice"
+  },
+  {
+    "StoragePeriodMin": 0,
+    "ID": 116,
+    "Name": "SysPost.Title.GuildNameChangeFailNoti",
+    "PostID": "GuildNameChangeFailNoti",
+    "Type": "General",
+    "Desc": "SysPost.Desc.GuildNameChangeFailNoti"
   }
 ]
