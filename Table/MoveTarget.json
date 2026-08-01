@@ -685,6 +685,15 @@
     "Desc": ""
   },
   {
+    "ID": 80,
+    "Value1": 0,
+    "Title": "",
+    "ContentsType": "MonarchCorridor",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 120,
     "Value1": 0,
     "Title": "",
@@ -801,6 +810,24 @@
     "Value1": 0,
     "Title": "",
     "ContentsType": "NMNotice",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 133,
+    "Value1": 0,
+    "Title": "MoveTarget.SeasonalCard",
+    "ContentsType": "SeasonalCard",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 134,
+    "Value1": 0,
+    "Title": "MoveTarget.SeasonalCardCollectBook",
+    "ContentsType": "SeasonalCardCollectBook",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
     "Desc": ""
@@ -1589,6 +1616,17 @@
       9
     ],
     "ShortCutType": "Collection_Core",
+    "Desc": ""
+  },
+  {
+    "ID": 1110,
+    "Value1": 0,
+    "Title": "MoveTarget.CollectionSuccessor_Title",
+    "ContentsType": "Collection",
+    "ShortCutIndexes": [
+      10
+    ],
+    "ShortCutType": "Collection_Successor",
     "Desc": ""
   },
   {
@@ -14928,6 +14966,30 @@
     "Desc": ""
   },
   {
+    "ID": 31057,
+    "Value1": 400011406,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      400011406
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
+    "ID": 31058,
+    "Value1": 400011412,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      400011412
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -15473,6 +15535,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3073
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40053,
+    "Value1": 3076,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3076
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -17037,6 +17110,61 @@
       13075
     ],
     "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50144,
+    "Value1": 663,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      663
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50145,
+    "Value1": 662,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      662
+    ],
+    "ShortCutType": "Event_Notice",
+    "Desc": ""
+  },
+  {
+    "ID": 50146,
+    "Value1": 664,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      664
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50147,
+    "Value1": 665,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      665
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50148,
+    "Value1": 8000102,
+    "Title": "MoveTarget.Event_SuccessorGacha_Ashborn",
+    "ContentsType": "SuccessorGacha",
+    "ShortCutIndexes": [
+      8000102
+    ],
+    "ShortCutType": "Main",
     "Desc": ""
   },
   {
@@ -18845,6 +18973,81 @@
     "Desc": ""
   },
   {
+    "ID": 55169,
+    "Value1": 2640,
+    "Title": "",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55170,
+    "Value1": 2640,
+    "Title": "Event.26Summer.Title.Mission_B",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      1
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55171,
+    "Value1": 2640,
+    "Title": "Event.24Holiday.MiniGameCard.Title_Short",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      2
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55172,
+    "Value1": 2640,
+    "Title": "DunStage.StageMainText.165074",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55173,
+    "Value1": 2640,
+    "Title": "Event.BossChallengeTitle",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      4
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55174,
+    "Value1": 2640,
+    "Title": "Event.StoryPageTitle",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      5
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 55175,
+    "Value1": 2640,
+    "Title": "EContentsType.Attendance",
+    "ContentsType": "ThemeEventMain",
+    "ShortCutIndexes": [
+      10
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 60001,
     "Value1": 301010,
     "Title": "MoveTarget.Craft_Detail",
@@ -19128,6 +19331,18 @@
     "ShortCutIndexes": [
       10,
       601
+    ],
+    "ShortCutType": "Collection_Successor",
+    "Desc": ""
+  },
+  {
+    "ID": 70020,
+    "Value1": 631,
+    "Title": "MoveTarget.Collection_Successor",
+    "ContentsType": "Collection",
+    "ShortCutIndexes": [
+      10,
+      631
     ],
     "ShortCutType": "Collection_Successor",
     "Desc": ""

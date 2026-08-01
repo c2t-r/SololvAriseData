@@ -465,7 +465,7 @@
     "TutorialActivateType2": "UIEnter",
     "TutorialActivateType3": "",
     "TutorialActivateType1": "ContentsUnlocked",
-    "TargetUI": "RaidGroup"
+    "TargetUI": "Raid"
   },
   {
     "NarrativeFirst": 0,
@@ -771,7 +771,7 @@
     "TutorialActivateType2": "UIEnter",
     "TutorialActivateType3": "",
     "TutorialActivateType1": "PreTutorialCompleted",
-    "TargetUI": "RaidGroup"
+    "TargetUI": "Raid"
   },
   {
     "NarrativeFirst": 0,
@@ -2602,7 +2602,7 @@
     "Value3": 0,
     "Value1": 4120,
     "TutorialType": "Optional",
-    "SubTargetUI": "MiniGameCardSubview_Alone",
+    "SubTargetUI": "MiniGameCardSubview",
     "StringName": "Event.MiniGame.PlayTutorial",
     "TutorialActivateType2": "UIEnter",
     "TutorialActivateType3": "",
@@ -3125,6 +3125,42 @@
     "Value1": 4120,
     "TutorialType": "Optional",
     "SubTargetUI": "MiniGameDungeonSubView_260702Summer",
+    "StringName": "Event.MiniGame.PlayTutorial",
+    "TutorialActivateType2": "UIEnter",
+    "TutorialActivateType3": "",
+    "TutorialActivateType1": "ContentsUnlocked",
+    "TargetUI": "FullEvent"
+  },
+  {
+    "NarrativeFirst": 0,
+    "SortOrder": 2040,
+    "ID": 2040,
+    "IsTargetUITop": 0,
+    "SkipTutorialID": 0,
+    "NextTutorialID": 0,
+    "Value2": 0,
+    "Value3": 0,
+    "Value1": 4120,
+    "TutorialType": "Optional",
+    "SubTargetUI": "MiniGameDungeonSubView_260730Summer",
+    "StringName": "Event.MiniGame.PlayTutorial",
+    "TutorialActivateType2": "UIEnter",
+    "TutorialActivateType3": "",
+    "TutorialActivateType1": "ContentsUnlocked",
+    "TargetUI": "FullEvent"
+  },
+  {
+    "NarrativeFirst": 0,
+    "SortOrder": 2041,
+    "ID": 2041,
+    "IsTargetUITop": 0,
+    "SkipTutorialID": 0,
+    "NextTutorialID": 0,
+    "Value2": 0,
+    "Value3": 0,
+    "Value1": 4120,
+    "TutorialType": "Optional",
+    "SubTargetUI": "MiniGameCardSubview_Summer",
     "StringName": "Event.MiniGame.PlayTutorial",
     "TutorialActivateType2": "UIEnter",
     "TutorialActivateType3": "",

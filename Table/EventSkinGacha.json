@@ -51,7 +51,7 @@
     "PriceGroup": 5001,
     "CoreSkinGachaReward": 5000,
     "CoreGetAllReward": true,
-    "CoreSkinGachaRewardImg": "Special_Myro_PortraitBig",
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Myro",
     "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
     "GachaPolicy": "EventHighestGacha_Policy_00",
     "GachaDirection": "Myro_SuccessorGacha_Direction",
@@ -73,7 +73,7 @@
     "PriceGroup": 5001,
     "CoreSkinGachaReward": 5001,
     "CoreGetAllReward": true,
-    "CoreSkinGachaRewardImg": "Special_Myro_PortraitBig",
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Myro",
     "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
     "GachaPolicy": "EventHighestGacha_Policy_01",
     "GachaDirection": "Myro_SuccessorGacha_Direction",
@@ -95,7 +95,7 @@
     "PriceGroup": 5001,
     "CoreSkinGachaReward": 5002,
     "CoreGetAllReward": true,
-    "CoreSkinGachaRewardImg": "Special_Myro_PortraitBig",
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Myro",
     "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
     "GachaPolicy": "EventHighestGacha_Policy_02",
     "GachaDirection": "Myro_SuccessorGacha_Direction",
@@ -108,5 +108,77 @@
       "Material"
     ],
     "EnterDirection": "Myro_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 1,
+    "ID": 5100,
+    "SkinGachaRewardGroup": 5110,
+    "EventSkinGachaGroup": 5100,
+    "PriceGroup": 5101,
+    "CoreSkinGachaReward": 5100,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Ashborn",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha0730_Policy_00",
+    "GachaDirection": "SungJinWoo_Ashborn_SuccessorGacha_Direction",
+    "GachaDirectionCore": "SungJinWoo_Ashborn_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000003,
+      40000004
+    ],
+    "RewardDirection": "Special_SungJinWoo_Ashborn_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material",
+      "Material"
+    ],
+    "EnterDirection": "SungJinWoo_Ashborn_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 2,
+    "ID": 5101,
+    "SkinGachaRewardGroup": 5111,
+    "EventSkinGachaGroup": 5100,
+    "PriceGroup": 5101,
+    "CoreSkinGachaReward": 5101,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Ashborn",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha0730_Policy_01",
+    "GachaDirection": "SungJinWoo_Ashborn_SuccessorGacha_Direction",
+    "GachaDirectionCore": "SungJinWoo_Ashborn_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000003,
+      40000004
+    ],
+    "RewardDirection": "Special_SungJinWoo_Ashborn_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material",
+      "Material"
+    ],
+    "EnterDirection": "SungJinWoo_Ashborn_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 3,
+    "ID": 5102,
+    "SkinGachaRewardGroup": 5112,
+    "EventSkinGachaGroup": 5100,
+    "PriceGroup": 5101,
+    "CoreSkinGachaReward": 5102,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Ashborn",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha0730_Policy_02",
+    "GachaDirection": "SungJinWoo_Ashborn_SuccessorGacha_Direction",
+    "GachaDirectionCore": "SungJinWoo_Ashborn_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000003,
+      40000004
+    ],
+    "RewardDirection": "Special_SungJinWoo_Ashborn_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material",
+      "Material"
+    ],
+    "EnterDirection": "SungJinWoo_Ashborn_SuccessorGacha"
   }
 ]

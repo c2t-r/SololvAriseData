@@ -228,13 +228,25 @@
     "BGImage": "BG_TimeAttackSeasonPage"
   },
   {
-    "NextGroup": 999998,
+    "NextGroup": 1021,
     "ID": 1020,
     "RankReward": 84001,
     "ShopID": 100102,
     "SeasonItem01": 20720001,
     "SeasonItem02": 0,
     "SeasonNum": 19,
+    "SeasonTitle": "TimeAttack.SeasonRegular_Title",
+    "FrameResource": "TimeAttackUI_SeasonList",
+    "BGImage": "BG_TimeAttackSeasonPage"
+  },
+  {
+    "NextGroup": 999998,
+    "ID": 1021,
+    "RankReward": 84001,
+    "ShopID": 100102,
+    "SeasonItem01": 20720001,
+    "SeasonItem02": 0,
+    "SeasonNum": 20,
     "SeasonTitle": "TimeAttack.SeasonRegular_Title",
     "FrameResource": "TimeAttackUI_SeasonList",
     "BGImage": "BG_TimeAttackSeasonPage"

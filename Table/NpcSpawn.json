@@ -2562,7 +2562,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 31500,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1149,
@@ -2691,5 +2691,39 @@
     "SpawnSpot": "StoryCodex_Spawn",
     "IdleMotion": [],
     "NpcType": "Menu"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 94,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 31500,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1152,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 651,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "SpecialCameraSetting": "",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-08-13T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [],
+    "PickSpawnEnd": "",
+    "LobbyEffBuffID": [],
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_LeeJooHee_MM_Stand_01"
+    ],
+    "NpcType": "Dialog"
   }
 ]

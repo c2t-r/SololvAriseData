@@ -2185,5 +2185,117 @@
     "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
     "DisplayItemImg": "Item_Material_EventTicket_Upgrade_RL_1",
     "DisplayItemName": "It.StringName.30002244"
+  },
+  {
+    "ShopMoveTarget": 50146,
+    "DropRate": 1000,
+    "WorldDropGroupID": 25,
+    "DisplayRewardGroupID": 2067603,
+    "IsPrivateData": true,
+    "ID": 2501,
+    "Unused": true,
+    "RewardGroupID": 2067601,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "Gate",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      8
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_0730",
+    "DisplayItemName": "WorldDropDesc.EventItemName_9"
+  },
+  {
+    "ShopMoveTarget": 50146,
+    "DropRate": 1000,
+    "WorldDropGroupID": 25,
+    "DisplayRewardGroupID": 2067603,
+    "IsPrivateData": true,
+    "ID": 2502,
+    "Unused": true,
+    "RewardGroupID": 2067602,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ArtifactDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      40
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_0730",
+    "DisplayItemName": "WorldDropDesc.EventItemName_9"
+  },
+  {
+    "ShopMoveTarget": 50146,
+    "DropRate": 1000,
+    "WorldDropGroupID": 25,
+    "DisplayRewardGroupID": 2067603,
+    "IsPrivateData": true,
+    "ID": 2503,
+    "Unused": true,
+    "RewardGroupID": 2067602,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "ChaosEnter",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      47
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_0730",
+    "DisplayItemName": "WorldDropDesc.EventItemName_9"
+  },
+  {
+    "ShopMoveTarget": 50146,
+    "DropRate": 1000,
+    "WorldDropGroupID": 25,
+    "DisplayRewardGroupID": 2067603,
+    "IsPrivateData": true,
+    "ID": 2504,
+    "Unused": true,
+    "RewardGroupID": 2067602,
+    "StringOverlap": true,
+    "WorldDropDescString": "WorldDropDesc.EventItemDesc_1",
+    "Class4": [],
+    "WorldDropTarget": "CoreDungeon",
+    "Class3": [],
+    "Class2": [
+      0
+    ],
+    "Class1": [
+      0
+    ],
+    "ContentMenuIcon": "Icon_ContentMenu_WorldDrop",
+    "ContentsMoveTarget": [
+      76
+    ],
+    "WorldDropIcon": "Icon_ContentMenu_WorldDrop",
+    "DisplayItemImg": "Img_Btn_Icon_WorldDrop_0730",
+    "DisplayItemName": "WorldDropDesc.EventItemName_9"
   }
 ]

@@ -3,6 +3,14 @@
     "ID": 601,
     "DuplicationRewardGroup": 1601,
     "GachaEventID": 8000101,
+    "GrowthBgResourceNames": [
+      "BG_SuccessorGrowthSubview_Myro00",
+      "BG_SuccessorGrowthSubview_Myro01",
+      "BG_SuccessorGrowthSubview_Myro02",
+      "BG_SuccessorGrowthSubview_Myro03",
+      "BG_SuccessorGrowthSubview_Myro04",
+      "BG_SuccessorGrowthSubview_Myro05"
+    ],
     "PortraitRotate": [
       0.0,
       0.0,
@@ -10,10 +18,37 @@
     ],
     "WeaponStory": "It.StringStory.302030051",
     "SuccessorTitleName": "SysConstStr.SuccessorName.Myro",
+    "GrowthSpineName": "Successor_Myro_Spine",
     "EmblemResourseName": "Icon_Successor_Baran",
     "WeaponName": "It.StringName.302030051",
     "WeaponResourceName": "Relic_Myro",
     "Type": "Monarch",
     "GrowthPrefab": "InventorySuccessorGrowthSubview_Myro"
+  },
+  {
+    "ID": 631,
+    "DuplicationRewardGroup": 1601,
+    "GachaEventID": 8000102,
+    "GrowthBgResourceNames": [
+      "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn00",
+      "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn01",
+      "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn02",
+      "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn03",
+      "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn04",
+      "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn05"
+    ],
+    "PortraitRotate": [
+      0.0,
+      0.0,
+      -50.0
+    ],
+    "WeaponStory": "It.StringStory.302030054",
+    "SuccessorTitleName": "",
+    "GrowthSpineName": "Successor_SungJinWoo_Ashborn_Spine",
+    "EmblemResourseName": "Icon_Successor_SungJinWoo_Ashborn",
+    "WeaponName": "It.StringName.302030054",
+    "WeaponResourceName": "Relic_SungJinWoo_Ashborn",
+    "Type": "Monarch",
+    "GrowthPrefab": "InventorySuccessorGrowthSubview_SungJinWoo_Ashborn"
   }
 ]

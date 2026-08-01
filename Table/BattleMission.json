@@ -7823,6 +7823,336 @@
   {
     "BattleMissionCategory": 101,
     "IsRanked": true,
+    "ID": 1470501,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 80}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470502,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 40}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470503,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 12}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470601,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470602,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 55}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470603,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 18}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470801,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 80}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470802,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 40}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470803,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 12}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470901,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470902,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 50}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1470903,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 17}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1471101,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 100}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1471102,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 35}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1471103,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 13}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480201,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 90}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480202,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 30}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480203,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 13}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480301,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 100}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480302,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 40}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480303,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 13}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480501,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 125}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480502,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 45}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1480503,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 17}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1481101,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 95}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1481102,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 65}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1481103,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 9}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1481201,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 90}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1481202,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 70}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 1481203,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "SJWTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 8}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
     "ID": 2010201,
     "SpecialValue": 0,
     "RewardGroupID": 99901101,
@@ -11283,6 +11613,39 @@
     "TitleStringID": "BattleMissionTitle.5",
     "BattleTeamType": "HunterTeam",
     "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 14}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 2480201,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 140}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 2480202,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 65}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 101,
+    "IsRanked": true,
+    "ID": 2480203,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901101,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 12}",
     "DisplayTime": "2025-03-01T00:00:00+09:00"
   },
   {
@@ -39168,6 +39531,336 @@
     "TitleStringID": "BattleMissionTitle.5",
     "BattleTeamType": "HunterTeam",
     "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 28}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470501,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 80}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470502,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 40}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470503,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 12}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470601,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470602,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 55}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470603,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 18}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470801,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 80}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470802,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 40}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470803,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 12}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470901,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470902,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 50}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101470903,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 17}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101471101,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 100}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101471102,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 35}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101471103,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 13}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480201,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 90}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480202,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 30}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480203,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 13}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480301,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 100}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480302,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 40}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480303,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 13}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480501,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 125}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480502,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 45}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101480503,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 17}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101481101,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 95}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101481102,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 65}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101481103,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 9}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101481201,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.2",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 90}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101481202,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.6",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitHPOnClear\",\"DescStringID\": \"BattleMissionDesc.LimitHPOnClear\",\"GoalValue\": 70}",
+    "DisplayTime": "2025-03-01T00:00:00+09:00"
+  },
+  {
+    "BattleMissionCategory": 103,
+    "IsRanked": true,
+    "ID": 101481203,
+    "SpecialValue": 0,
+    "RewardGroupID": 99901401,
+    "TitleStringID": "BattleMissionTitle.5",
+    "BattleTeamType": "HunterTeam",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitDamagedHit\",\"DescStringID\": \"BattleMissionDesc.LimitDamagedHit\",\"GoalValue\": 8}",
     "DisplayTime": "2025-03-01T00:00:00+09:00"
   },
   {
@@ -95608,7 +96301,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95641,7 +96334,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95674,7 +96367,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95707,7 +96400,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95740,7 +96433,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95773,7 +96466,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95806,7 +96499,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95839,7 +96532,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -95872,7 +96565,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 140}",
     "DisplayTime": ""
   },
   {
@@ -95905,7 +96598,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 140}",
     "DisplayTime": ""
   },
   {
@@ -95938,7 +96631,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 160}",
     "DisplayTime": ""
   },
   {
@@ -95971,7 +96664,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 150}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 160}",
     "DisplayTime": ""
   },
   {
@@ -96004,7 +96697,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96037,7 +96730,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96048,7 +96741,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 1}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 1}",
     "DisplayTime": ""
   },
   {
@@ -96059,7 +96752,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 2}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 2}",
     "DisplayTime": ""
   },
   {
@@ -96070,7 +96763,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96103,7 +96796,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96114,7 +96807,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 1}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 1}",
     "DisplayTime": ""
   },
   {
@@ -96125,7 +96818,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 2}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 2}",
     "DisplayTime": ""
   },
   {
@@ -96136,7 +96829,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96169,7 +96862,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96180,7 +96873,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 1}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 1}",
     "DisplayTime": ""
   },
   {
@@ -96191,7 +96884,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 2}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 2}",
     "DisplayTime": ""
   },
   {
@@ -96202,7 +96895,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96235,7 +96928,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 60}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
     "DisplayTime": ""
   },
   {
@@ -96246,7 +96939,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 1}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 1}",
     "DisplayTime": ""
   },
   {
@@ -96257,7 +96950,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 2}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 2}",
     "DisplayTime": ""
   },
   {
@@ -96268,7 +96961,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 140}",
     "DisplayTime": ""
   },
   {
@@ -96301,7 +96994,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 140}",
     "DisplayTime": ""
   },
   {
@@ -96312,7 +97005,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 1}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 1}",
     "DisplayTime": ""
   },
   {
@@ -96323,7 +97016,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 2}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 2}",
     "DisplayTime": ""
   },
   {
@@ -96334,7 +97027,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "HunterTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 120}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 160}",
     "DisplayTime": ""
   },
   {
@@ -96367,7 +97060,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.2",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 150}",
+    "Task": "{\"Type\": \"CountGoalBattleMissionTaskData\",\"TaskType\": \"LimitTime\",\"DescStringID\": \"BattleMissionDesc.LimitTime\",\"GoalValue\": 160}",
     "DisplayTime": ""
   },
   {
@@ -96378,7 +97071,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 1}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 1}",
     "DisplayTime": ""
   },
   {
@@ -96389,7 +97082,7 @@
     "RewardGroupID": 0,
     "TitleStringID": "BattleMissionTitle.8",
     "BattleTeamType": "SJWTeam",
-    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 3,\"GoalValue\": 2}",
+    "Task": "{\"Type\": \"ElementBattleMissionTaskData\",\"TaskType\": \"SupporterHunterElement\",\"DescStringID\": \"BattleMissionDesc.SupporterHunterElement\",\"ElementType\": 5,\"GoalValue\": 2}",
     "DisplayTime": ""
   },
   {

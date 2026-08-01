@@ -6,63 +6,39 @@
     "ContentMoveTarget": 23,
     "LevelGroup": 1,
     "TraitGroup": 1,
-    "ContentsUnlockID": 6006,
+    "ContentsUnlockID": 4370,
     "ReplicaID": 3000001,
     "ImgBG": "Levelup_Dungeon_DemonCastle_Topfloor_Big",
-    "TransRate": [
-      1,
-      1,
-      1
-    ],
+    "TransRate": [],
     "BossName": "SysConstStr.RaidReplica.BossName01",
     "ResourcePrefab": "Replica_Baran_Boss",
     "SubName": "SysConstStr.RaidReplica.SubName01",
     "ExpItem": [
-      10171001
+      10171005
     ],
-    "IsTransLock": [
-      true,
-      true,
-      true
-    ],
-    "TransItem": [
-      10171002,
-      10171003,
-      10171004
-    ],
+    "IsTransLock": [],
+    "TransItem": [],
     "ImgBoss": "Baran_Boss"
   },
   {
     "UIShow": true,
-    "TransUnlock": 6011,
+    "TransUnlock": 0,
     "ID": 2,
     "ContentMoveTarget": 23,
     "LevelGroup": 2,
     "TraitGroup": 2,
-    "ContentsUnlockID": 6010,
+    "ContentsUnlockID": 4370,
     "ReplicaID": 3000002,
     "ImgBG": "Levelup_Dungeon_SpaceFantasy_Big",
-    "TransRate": [
-      10,
-      1,
-      1
-    ],
+    "TransRate": [],
     "BossName": "SysConstStr.RaidReplica.BossName02",
     "ResourcePrefab": "Replica_Baran_Boss",
     "SubName": "SysConstStr.RaidReplica.SubName02",
     "ExpItem": [
-      10171002
+      10171005
     ],
-    "IsTransLock": [
-      true,
-      true,
-      true
-    ],
-    "TransItem": [
-      10171001,
-      10171003,
-      10171004
-    ],
+    "IsTransLock": [],
+    "TransItem": [],
     "ImgBoss": "Yogumunt_Boss"
   },
   {
@@ -72,30 +48,18 @@
     "ContentMoveTarget": 23,
     "LevelGroup": 3,
     "TraitGroup": 3,
-    "ContentsUnlockID": 6015,
+    "ContentsUnlockID": 4370,
     "ReplicaID": 3000003,
     "ImgBG": "DG_UpperProvingArena_Big",
-    "TransRate": [
-      100,
-      10,
-      1
-    ],
+    "TransRate": [],
     "BossName": "SysConstStr.RaidReplica.BossName03",
     "ResourcePrefab": "Replica_Rakpasha_Boss",
     "SubName": "SysConstStr.RaidReplica.SubName03",
     "ExpItem": [
-      10171003
+      10171005
     ],
-    "IsTransLock": [
-      true,
-      true,
-      true
-    ],
-    "TransItem": [
-      10171001,
-      10171002,
-      10171004
-    ],
+    "IsTransLock": [],
+    "TransItem": [],
     "ImgBoss": "Rakpasha_Human_Boss"
   },
   {
@@ -105,30 +69,18 @@
     "ContentMoveTarget": 23,
     "LevelGroup": 4,
     "TraitGroup": 4,
-    "ContentsUnlockID": 6018,
+    "ContentsUnlockID": 4370,
     "ReplicaID": 3000004,
     "ImgBG": "DG_Legia_Boss_Big",
-    "TransRate": [
-      1000,
-      100,
-      10
-    ],
+    "TransRate": [],
     "BossName": "SysConstStr.RaidReplica.BossName04",
     "ResourcePrefab": "Replica_Legia_Boss",
     "SubName": "SysConstStr.RaidReplica.SubName04",
     "ExpItem": [
-      10171004
+      10171005
     ],
-    "IsTransLock": [
-      true,
-      true,
-      true
-    ],
-    "TransItem": [
-      10171001,
-      10171002,
-      10171003
-    ],
+    "IsTransLock": [],
+    "TransItem": [],
     "ImgBoss": "Legia_Boss"
   },
   {

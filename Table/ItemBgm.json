@@ -290,7 +290,7 @@
   },
   {
     "ID": 500302,
-    "Sort": 302,
+    "Sort": 402,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
     "EventLobbyGroup": 0,
@@ -314,7 +314,7 @@
   },
   {
     "ID": 500303,
-    "Sort": 303,
+    "Sort": 403,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
     "EventLobbyGroup": 0,
@@ -338,7 +338,7 @@
   },
   {
     "ID": 500306,
-    "Sort": 306,
+    "Sort": 406,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
     "EventLobbyGroup": 0,
@@ -362,7 +362,7 @@
   },
   {
     "ID": 500308,
-    "Sort": 308,
+    "Sort": 408,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
     "EventLobbyGroup": 0,
@@ -386,7 +386,7 @@
   },
   {
     "ID": 500310,
-    "Sort": 310,
+    "Sort": 410,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
     "EventLobbyGroup": 0,
@@ -530,7 +530,7 @@
   },
   {
     "ID": 500317,
-    "Sort": 311,
+    "Sort": 411,
     "CosDupRewardGroup": 1002002,
     "CodexDisplay": true,
     "EventLobbyGroup": 0,
@@ -574,6 +574,54 @@
     ],
     "Artist": "Bgm_Artist_KangHanGyeol",
     "MusicTitle": "Bgm_Title_Battle_Successor_Myro_01",
+    "Tab": "Dungeon"
+  },
+  {
+    "ID": 500319,
+    "Sort": 413,
+    "CosDupRewardGroup": 1002002,
+    "CodexDisplay": true,
+    "EventLobbyGroup": 0,
+    "CodexDisplayTime": "",
+    "BGMKey": "BGM_Jukebox_Sadistic_Smile",
+    "BGMImgOffsetX": [
+      0
+    ],
+    "BGMThumnail": "Item_BGM_Battle_Architect_01",
+    "BGMImg": [
+      "BG_BGM_Battle_Architect_01"
+    ],
+    "ItemRarity": "Epic",
+    "MusicDesc": "Bgm_Desc_Sadistic_Smile",
+    "LinkMoveTarget": [
+      1084
+    ],
+    "Artist": "Bgm_Artist_SoundTeam",
+    "MusicTitle": "Bgm_Title_Sadistic_Smile",
+    "Tab": "Dungeon"
+  },
+  {
+    "ID": 500320,
+    "Sort": 301,
+    "CosDupRewardGroup": 1002002,
+    "CodexDisplay": true,
+    "EventLobbyGroup": 95026,
+    "CodexDisplayTime": "",
+    "BGMKey": "BGM_Battle_Successor_Ashborn_01",
+    "BGMImgOffsetX": [
+      0
+    ],
+    "BGMThumnail": "Item_BGM_Battle_Successor_Ashborn_01",
+    "BGMImg": [
+      "BG_BGM_Battle_Successor_Ashborn_01"
+    ],
+    "ItemRarity": "Epic",
+    "MusicDesc": "Bgm_Desc_Monarch_of_Shadows",
+    "LinkMoveTarget": [
+      50148
+    ],
+    "Artist": "Bgm_Artist_KangHanGyeol",
+    "MusicTitle": "Bgm_Title_Monarch_of_Shadows",
     "Tab": "Dungeon"
   }
 ]

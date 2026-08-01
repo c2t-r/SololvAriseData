@@ -110,5 +110,33 @@
     "ComboAliveEffect": "_Fx_UI_ComboAlive_2",
     "ResultPopupImg": "Img_Event_Result_Idle2",
     "ItemHitEffect": "_Fx_UI_ItemHit_2"
+  },
+  {
+    "ComboAddScore": 200,
+    "ID": 40003,
+    "ReduceTimeMin": 600,
+    "RecordReward": 436,
+    "StartLife": 5,
+    "ComboTime": 2500,
+    "TutorialID": 2041,
+    "BasicScorce": 100,
+    "ReduceTimeCombo": 5,
+    "RankingGroupMain": 500,
+    "StartTime": 60,
+    "ComboCount": 3,
+    "RankingGroupSub": 0,
+    "ReduceTimeValue": 100,
+    "Title": "Event.24Holiday.MiniGameCard.Title",
+    "UseCardSet": [
+      19,
+      27
+    ],
+    "ModuleName": "MiniGameCard_Module_3",
+    "GuideBGImg": "GuildLR_Img_File",
+    "RecordRewardReset": "Weekly",
+    "BGImg": "BG_EvLR_GuildMG",
+    "ComboAliveEffect": "_Fx_UI_ComboAlive_2",
+    "ResultPopupImg": "Img_Event_Result_Summer",
+    "ItemHitEffect": "_Fx_UI_ItemHit_2"
   }
 ]

@@ -862,5 +862,21 @@
     "PostID": "GuildNameChangeFailNoti",
     "Type": "General",
     "Desc": "SysPost.Desc.GuildNameChangeFailNoti"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 117,
+    "Name": "SysPost.Name.ID117",
+    "PostID": "MonarchCorridorReward",
+    "Type": "General",
+    "Desc": "SysPost.Desc.ID117"
+  },
+  {
+    "StoragePeriodMin": 20160,
+    "ID": 118,
+    "Name": "SysPost.Name.SeasonalCard",
+    "PostID": "SeasonalCardReward",
+    "Type": "General",
+    "Desc": "SysPost.Desc.SeasonalCard"
   }
 ]

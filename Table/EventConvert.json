@@ -7,6 +7,7 @@
     "MaxConvertCount": 3,
     "MaterialGroupID": 10001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "WeaponCostume"
   },
   {
@@ -17,6 +18,7 @@
     "MaxConvertCount": 1,
     "MaterialGroupID": 10001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "WeaponCostume"
   },
   {
@@ -27,6 +29,7 @@
     "MaxConvertCount": 2,
     "MaterialGroupID": 10002,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "Hunter"
   },
   {
@@ -37,6 +40,7 @@
     "MaxConvertCount": 1,
     "MaterialGroupID": 10002,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "Costume"
   },
   {
@@ -47,6 +51,7 @@
     "MaxConvertCount": 3,
     "MaterialGroupID": 10003,
     "ItemValue": 20,
+    "DisplayOrder": 0,
     "ItemType": "Except"
   },
   {
@@ -57,6 +62,7 @@
     "MaxConvertCount": 3,
     "MaterialGroupID": 10003,
     "ItemValue": 10000,
+    "DisplayOrder": 0,
     "ItemType": "Gold"
   },
   {
@@ -67,6 +73,7 @@
     "MaxConvertCount": 3,
     "MaterialGroupID": 10001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "UseItem"
   },
   {
@@ -77,6 +84,7 @@
     "MaxConvertCount": 2,
     "MaterialGroupID": 20001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "RaidEnterPoint"
   },
   {
@@ -87,6 +95,7 @@
     "MaxConvertCount": 2,
     "MaterialGroupID": 20001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "UseItem"
   },
   {
@@ -97,6 +106,7 @@
     "MaxConvertCount": 1,
     "MaterialGroupID": 30001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "WeaponCostume"
   },
   {
@@ -107,16 +117,62 @@
     "MaxConvertCount": 1,
     "MaterialGroupID": 40001,
     "ItemValue": 1,
+    "DisplayOrder": 0,
     "ItemType": "Hunter"
   },
   {
-    "ItemID": 230021010,
-    "EventMaxCount": 1,
+    "ItemID": 230001010,
+    "EventMaxCount": 4,
     "ID": 12,
     "EventSubID": 5000,
     "MaxConvertCount": 1,
     "MaterialGroupID": 50001,
     "ItemValue": 1,
+    "DisplayOrder": 1,
     "ItemType": "WeaponCostume"
+  },
+  {
+    "ItemID": 230021010,
+    "EventMaxCount": 4,
+    "ID": 13,
+    "EventSubID": 5000,
+    "MaxConvertCount": 1,
+    "MaterialGroupID": 50001,
+    "ItemValue": 1,
+    "DisplayOrder": 2,
+    "ItemType": "WeaponCostume"
+  },
+  {
+    "ItemID": 230023010,
+    "EventMaxCount": 4,
+    "ID": 14,
+    "EventSubID": 5000,
+    "MaxConvertCount": 1,
+    "MaterialGroupID": 50001,
+    "ItemValue": 1,
+    "DisplayOrder": 3,
+    "ItemType": "WeaponCostume"
+  },
+  {
+    "ItemID": 230026010,
+    "EventMaxCount": 4,
+    "ID": 15,
+    "EventSubID": 5000,
+    "MaxConvertCount": 1,
+    "MaterialGroupID": 50001,
+    "ItemValue": 1,
+    "DisplayOrder": 4,
+    "ItemType": "WeaponCostume"
+  },
+  {
+    "ItemID": 631,
+    "EventMaxCount": 1,
+    "ID": 16,
+    "EventSubID": 6000,
+    "MaxConvertCount": 1,
+    "MaterialGroupID": 60001,
+    "ItemValue": 1,
+    "DisplayOrder": 1,
+    "ItemType": "Hunter"
   }
 ]

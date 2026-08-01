@@ -771,5 +771,44 @@
       -1,
       -1
     ]
+  },
+  {
+    "Level": 10,
+    "ID": 100031,
+    "Option": [
+      "AddAtt",
+      "Critical"
+    ],
+    "BuffCondition": "Fire",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100032,
+    "Option": [
+      "AddArm",
+      "CriDam"
+    ],
+    "BuffCondition": "Fire",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100033,
+    "Option": [
+      "AddMHP",
+      "Dam"
+    ],
+    "BuffCondition": "Fire",
+    "StatRate": [
+      -1,
+      -1
+    ]
   }
 ]

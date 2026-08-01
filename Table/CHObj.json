@@ -4993,7 +4993,9 @@
     "NeutralTeamNumber": 0,
     "Lightweight": true,
     "PlayerSideTeamBuffOff": true,
-    "PassiveBuffID": [],
+    "PassiveBuffID": [
+      104000002
+    ],
     "BTName": "",
     "ObjectNameIcon": "",
     "FactionType": "PlayerSide",
@@ -6465,6 +6467,149 @@
     "ObjectNameIcon": "",
     "FactionType": "PlayerSide",
     "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 621,
+    "BaseInteractionID": 0,
+    "ID": 500485,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      104000002
+    ],
+    "BTName": "",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": [
+      50048501,
+      50048502,
+      50048503
+    ]
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500486,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      104000002
+    ],
+    "BTName": "",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": [
+      50048601,
+      50048602
+    ]
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500487,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      233110020,
+      233110021
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500488,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      233110020,
+      233110022
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500489,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      233110020,
+      233110023
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 621,
+    "BaseInteractionID": 0,
+    "ID": 500494,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      104000002
+    ],
+    "BTName": "BT_AgnesRivera_NPC_30112",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": [
+      50049401,
+      50049402,
+      50049403,
+      50049404,
+      50049405,
+      50049406,
+      50049407,
+      50049408
+    ]
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500495,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      104000002
+    ],
+    "BTName": "",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": [
+      50041101,
+      50041102,
+      50041103,
+      50041104
+    ]
   },
   {
     "DirectionOnly": true,

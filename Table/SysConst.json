@@ -126,6 +126,7 @@
     "ReplayTutorialTab.HideAllTab": 1,
     "SJWSkillRune.SkillLevelBonusMythical": 3,
     "Guild.RankCalculateTime": 30,
+    "MonarchCorridor.EndDelayTime": 5,
     "WorldBoss.TutorialReplay": 975,
     "Common.ShadowCollectCount": 3,
     "BattleConfig.SuccessorFailEffect": 258000000,
@@ -134,7 +135,7 @@
     "Guild.GuildBossBattle_Rank": 50003,
     "GradeSSRate_3": 106,
     "WorldBoss.TotalRankList": 100,
-    "Common.HunterMaxLevel": 150,
+    "Common.HunterMaxLevel": 160,
     "GradeARate_4": 97,
     "Shop.Hotdeal_Bundle": 3700,
     "UltimateChain.ChainBonus3": 10000,
@@ -253,7 +254,7 @@
     "BattleConfig.OverKillRatio": 0.30000001192092896,
     "Craft.ArtifactCraft_SubOptionSelectMax": 2,
     "DimensionGate.DifficultyJump": 5,
-    "Common.AccountMaxLevel": 150,
+    "Common.AccountMaxLevel": 200,
     "Common.dummyCheckSkillCasting": true,
     "DimensionGate.WeeklyPointMax": 1500,
     "StepMission.FuctionON": true,
@@ -308,6 +309,7 @@
     "Pvp.Option.ForceContentQualityLevel": 1,
     "BoxInBox.TouchDelay": 0.30000001192092896,
     "Tutorial.CraftTutorialID": 709,
+    "MonarchCorridor.ShopMoveTarget": 30046,
     "BattleConfig.HunterVoicePlayEndTimeRate": 1.2999999523162842,
     "BattleDeck.HunterTeamFightTutorial": 200026,
     "DimensionGate.CodeBuffOverlap_Rarity1": 100,
@@ -402,6 +404,7 @@
     "Artifact.MaxEnhanceCommon": 10,
     "BeginSetting.ShadowSoldier": 3000,
     "TeamMining.MineTime_B": 60,
+    "MonarchCorridor.PenaltyPointConst": 100,
     "Gate.RedGatePricePoint": 5,
     "BattleConfig.PlayerRunCheckDist": 15.0,
     "BeginSetting.BaseStatSense": 10,
@@ -435,6 +438,7 @@
     "AccountType.ComebackChange": 14,
     "Gate.RedGateStageBuffTimer2": 1667,
     "BattleDeck.OptionMoveTarget": 128,
+    "WorldBoss.ScoreSeasonPointUnit": 10000000000,
     "BattleConfig.RemoveWeaponWaitTime": 2.0,
     "EventArtifactDecomposition.MoveTarget_Shop": 30041,
     "BattleDeck.MaxCount": 10,
@@ -447,6 +451,7 @@
     "BattleConfig.SuccessorSJWTaginBuffID": 1200209997,
     "BattleConfig.DimensionGateFormationNavigator": 200076,
     "ContentsMenu.NeedContentInfoID": 103,
+    "MonarchCorridor.Tutorial": 962,
     "Artifact.SuccessionCardGoldBase01": 10000,
     "Gate.GateEnterPointChargeAmount": 5,
     "WorldBoss.TutorialReplay_UseBless": 962,
@@ -553,6 +558,7 @@
     "Coupon.SubscirbeDiaCouponMail": 900000013,
     "Sweep.SJWSweep_Count_A": 60,
     "HunterTraining.LevelDefault": 0,
+    "WorldBoss.ScoreSeasonPointPerUnit": 1,
     "BattleConfig.AutoQTEDelayTime_Min": 1.2000000476837158,
     "BattleConfig.AffinityAdvantageP": 1.0,
     "Tutorial.AllSkip_GachaMainID": 1000,
@@ -893,7 +899,7 @@
     "EventArtifactDecomposition.Enhance_max": 20,
     "LobbySpawnNpc.ShortRandomCount": 3,
     "DimensionGate.GetCoinEffect.RemainTimeUnit": 0.15000000596046448,
-    "Common.SungjinwooMaxLevel": 150,
+    "Common.SungjinwooMaxLevel": 160,
     "BeginSetting.GateEnterPoint": 0,
     "Core.NoticeLevel": 15,
     "Pvp.WinPoint": 3,
@@ -945,6 +951,7 @@
     "Guild.GuildBossBattle_Rank_GuildRank_Max": 100,
     "SJWSkillRune.RuneMixUpgradeProbCorrectionMax04": 7000,
     "BattleConfig.QTENoticeTime": 2,
+    "Limit.GAME_ITEM_EQUIP_LEVELUP_REQ": 100,
     "SJWSkillRune.RuneMixUpgradeProbCorrectionMax03": 8000,
     "Guild.MaxApplication": 3,
     "BattleConfig.BattlePowerCorretMaxValue": 2.0,
@@ -982,6 +989,7 @@
     "Pvp.LosePoint.Defense": 0,
     "BattleConfig.UpperHPGaugeDeadDisappearTime": 2.5,
     "Guild.WarningTextTime": 60,
+    "WorldBoss.ScoreSeasonPointMax": 2000,
     "Pvp.HandCard.Max": 4,
     "BattleConfig.BattlePowerCorretConditionLevel": 15,
     "ShowRewardRate.Gate": true,
@@ -1081,6 +1089,10 @@
     "Guild.HistoryReceiveCount": 20,
     "GrowthGuide.MajorCategory.RaidReplica": "Icon_BattleClass_RaidReplica",
     "Dialog.SummarySystemUIIcon": "SummaryImageIcon",
+    "BattleDeck.ArtifactPreset_HunterUnlockCostList": [
+      -1,
+      -1
+    ],
     "Tutorial.Craft_AllTabList": [
       401007,
       401013,
@@ -1407,6 +1419,11 @@
     "Dialog.DialogSpeedKorean": [
       0.03999999910593033
     ],
+    "MonarchCorridor.MainPageBG": [
+      "BG_MonarchCorridor_Main01",
+      "BG_MonarchCorridor_Main02",
+      "BG_MonarchCorridor_Main03"
+    ],
     "WeaponArmory.PageName": [
       "WeaponArmory.Page1_Title",
       "WeaponArmory.Page2_Title",
@@ -1644,6 +1661,12 @@
     "BattleConfig.TeamFightHunterBuff": [
       1200131011
     ],
+    "BattleDeck.ArtifactPreset_SJWUnlockCostList": [
+      -1,
+      -1,
+      1500,
+      3000
+    ],
     "BattleCharConfig.NetSyncObjectAI": "NetSyncObject AI",
     "Subscribe.Package_ShopBanner_Img": "SubscribeShopGoodsSlot_02",
     "SweepPoint.DailyPurchase_PriceType": "MagicEssence",
@@ -1664,6 +1687,7 @@
       "\"CoolReduP\""
     ],
     "DimensionGate.CoinNameString": "DimensionGate.CoinTitle",
+    "MonarchCorridor.HighestRankLabel": "ERankType.SS",
     "BeginSetting.SJWSkillRuneList": [],
     "BeginSetting.EventRPS_Img_Rock": "Img_RPS_Rock",
     "Artifact.UnequipPriceItemRarityUse": [
@@ -2039,8 +2063,8 @@
     ],
     "LobbySpawnNpc.FinishRandomIcon": "Icon_Lobby_Random",
     "ArtifactEnhanceReset.TicketID": [
-      20701200,
-      20701205
+      20701205,
+      20701200
     ],
     "ShadowGradeBg.Elite": "ArtifactRarity_Rare",
     "TrainingRoom.SetTimer": [

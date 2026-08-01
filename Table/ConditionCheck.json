@@ -908,5 +908,15 @@
     "Value1": 7,
     "ValueString": "",
     "ConditionType": "EquipGSWeaponCategoryCheck"
+  },
+  {
+    "TargetCheck": true,
+    "ID": 92,
+    "ChangeTarget": true,
+    "Value2": 1,
+    "Value3": 1,
+    "Value1": 0,
+    "ValueString": "",
+    "ConditionType": "ElementATKChoice"
   }
 ]

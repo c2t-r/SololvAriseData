@@ -598,5 +598,37 @@
     "MainPcID": 1,
     "JobConDesc": "SysConstStr.ConditionString.Condition2022",
     "JobConType": "BattlePower"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 2110,
+    "JobConVal": 15,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition2110",
+    "JobConType": "JobGrade"
+  },
+  {
+    "MoveTargetID": 8,
+    "ID": 2111,
+    "JobConVal": 150,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition2111",
+    "JobConType": "MainPcLv"
+  },
+  {
+    "MoveTargetID": 12,
+    "ID": 2120,
+    "JobConVal": 4608,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition2120",
+    "JobConType": "SMission"
+  },
+  {
+    "MoveTargetID": 2,
+    "ID": 2122,
+    "JobConVal": 1200000,
+    "MainPcID": 1,
+    "JobConDesc": "SysConstStr.ConditionString.Condition2122",
+    "JobConType": "BattlePower"
   }
 ]

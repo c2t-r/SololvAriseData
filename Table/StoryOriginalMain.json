@@ -1293,6 +1293,34 @@
     "HunterName": "SysConstStr.ChName.AgnesRivera"
   },
   {
+    "SPStageMileageLink": 6010001,
+    "RewardBoostGroupID": 60101,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 46,
+    "ID": 46,
+    "OpenLevel": 0,
+    "OpenKey": 0,
+    "EventGroupID": 46,
+    "BonusRewardCap": 8000,
+    "PoinIndex": 6010001,
+    "CollabID": 0,
+    "BGResource": "Levelup_City_HunterAssociation_Loading_Img",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.JungYeRim",
+    "HunterIDs": [
+      641
+    ],
+    "HunterResource": "JungYeRim_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "HunterStoryType": "Hunter",
+    "PointIcon": "Img_Profile_Icon_Hunter0641",
+    "HunterUnlockResource": "JungYeRim",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.JungYerim"
+  },
+  {
     "SPStageMileageLink": 0,
     "RewardBoostGroupID": 0,
     "IsNew": true,
@@ -1319,5 +1347,33 @@
     "HunterUnlockResource": "Myro",
     "ListBanner": "",
     "HunterName": "SysConstStr.ChName.Myro"
+  },
+  {
+    "SPStageMileageLink": 0,
+    "RewardBoostGroupID": 0,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 502,
+    "ID": 502,
+    "OpenLevel": 0,
+    "OpenKey": 0,
+    "EventGroupID": 502,
+    "BonusRewardCap": 0,
+    "PoinIndex": 0,
+    "CollabID": 0,
+    "BGResource": "SungJinWoo_Ashborn_Boss_Body",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.SungJinWoo_Ashborn",
+    "HunterIDs": [
+      631
+    ],
+    "HunterResource": "SungJinWoo_Ashborn_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "HunterStoryType": "Successor",
+    "PointIcon": "",
+    "HunterUnlockResource": "SungJinWoo_Ashborn",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.SungJinWoo_Ashborn"
   }
 ]

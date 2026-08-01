@@ -1590,5 +1590,37 @@
     "SortCategory": "ID",
     "ContentsType": "Collection",
     "CategoryString": "SysConstStr.Glossary.SortTypeID"
+  },
+  {
+    "Order": 1,
+    "ID": 219,
+    "GroupID": 1,
+    "SortCategory": "Grade",
+    "ContentsType": "SeasonalCard",
+    "CategoryString": "SysConstStr.Glossary.SeasonalCardGrade"
+  },
+  {
+    "Order": 2,
+    "ID": 220,
+    "GroupID": 1,
+    "SortCategory": "SeasonalCardCollectBookNum",
+    "ContentsType": "SeasonalCard",
+    "CategoryString": "ESortCategory.SeasonalCardCollectBookNum"
+  },
+  {
+    "Order": 1,
+    "ID": 221,
+    "GroupID": 2,
+    "SortCategory": "ID",
+    "ContentsType": "SeasonalCard",
+    "CategoryString": "SysConstStr.Sort.SetID"
+  },
+  {
+    "Order": 2,
+    "ID": 222,
+    "GroupID": 2,
+    "SortCategory": "SeasonalCardSetProgress",
+    "ContentsType": "SeasonalCard",
+    "CategoryString": "ESortCategory.SeasonalCardSetProgress"
   }
 ]
