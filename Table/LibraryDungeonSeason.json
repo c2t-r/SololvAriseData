@@ -339,23 +339,89 @@
       4001301
     ],
     "FixedDungeonStage": [
-      240108,
-      240106,
-      240107
+      240104,
+      240238,
+      240221
     ],
     "DemoHunter1": [
-      110001,
-      110002,
-      110003
+      120001,
+      120002,
+      120003
     ],
     "DemoHunter2": [
-      110004,
-      110005,
-      110006
+      120004,
+      120005,
+      120006
+    ],
+    "SeasonElement": [
+      "Light",
+      "Fire",
+      "Wind"
+    ]
+  },
+  {
+    "DifficultyGroup": 3,
+    "ID": 13,
+    "SeasonReward": 6,
+    "StageInfo": 13,
+    "PenaltyFixID": [
+      4000901,
+      4001001,
+      4001101,
+      4001201,
+      4001301
+    ],
+    "FixedDungeonStage": [
+      240104,
+      240238,
+      240221
+    ],
+    "DemoHunter1": [
+      130001,
+      130002,
+      130003
+    ],
+    "DemoHunter2": [
+      130004,
+      130005,
+      130006
+    ],
+    "SeasonElement": [
+      "Water",
+      "Wind",
+      "Darkness"
+    ]
+  },
+  {
+    "DifficultyGroup": 3,
+    "ID": 14,
+    "SeasonReward": 6,
+    "StageInfo": 14,
+    "PenaltyFixID": [
+      4000901,
+      4001001,
+      4001101,
+      4001201,
+      4001301
+    ],
+    "FixedDungeonStage": [
+      240104,
+      240238,
+      240221
+    ],
+    "DemoHunter1": [
+      140001,
+      140002,
+      140003
+    ],
+    "DemoHunter2": [
+      140004,
+      140005,
+      140006
     ],
     "SeasonElement": [
       "Darkness",
-      "Fire",
+      "Water",
       "Light"
     ]
   }

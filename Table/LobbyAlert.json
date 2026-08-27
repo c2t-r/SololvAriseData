@@ -196,5 +196,16 @@
     "LobbyAlertType": "Sub",
     "IconRecource": "Icon_QuickMenu_CoopDungeon",
     "TopAlertString": ""
+  },
+  {
+    "MoveTarget": 80,
+    "UseTopAlert": true,
+    "ID": 19,
+    "CharObjcetID": 0,
+    "RedDotType": "MonarchCorridorSeasonStart",
+    "AlertString": "SysConst.LobbyAlert.MonarchCorridor_SeasonStart",
+    "LobbyAlertType": "Sub",
+    "IconRecource": "Icon_QuickMenu_MonarchCorridor",
+    "TopAlertString": ""
   }
 ]

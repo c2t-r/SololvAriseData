@@ -1,0 +1,78 @@
+[
+  {
+    "StatPoolGroup": 1,
+    "ID": 1,
+    "UnlockConditionID": 6101,
+    "ResourceSize": 320,
+    "PassiveBattlePower": 10000,
+    "PassiveBuffID": [
+      1400017015
+    ],
+    "Name": "SysConstStr.StatueName01",
+    "ResourceNames": [
+      "Img_Statue_BlueGolem_01",
+      "Img_Statue_BlueGolem_02",
+      "Img_Statue_BlueGolem_03",
+      "Img_Statue_BlueGolem_04"
+    ],
+    "Target": "PC",
+    "PassiveTriggerRank": "Silver"
+  },
+  {
+    "StatPoolGroup": 1,
+    "ID": 2,
+    "UnlockConditionID": 6102,
+    "ResourceSize": 320,
+    "PassiveBattlePower": 10000,
+    "PassiveBuffID": [
+      1400113002
+    ],
+    "Name": "SysConstStr.StatueName02",
+    "ResourceNames": [
+      "Img_Statue_BlueGolem_01",
+      "Img_Statue_BlueGolem_02",
+      "Img_Statue_BlueGolem_03",
+      "Img_Statue_BlueGolem_04"
+    ],
+    "Target": "Hunter",
+    "PassiveTriggerRank": "Silver"
+  },
+  {
+    "StatPoolGroup": 1,
+    "ID": 3,
+    "UnlockConditionID": 6103,
+    "ResourceSize": 320,
+    "PassiveBattlePower": 10000,
+    "PassiveBuffID": [
+      1200131010
+    ],
+    "Name": "SysConstStr.StatueName03",
+    "ResourceNames": [
+      "Img_Statue_BlueGolem_01",
+      "Img_Statue_BlueGolem_02",
+      "Img_Statue_BlueGolem_03",
+      "Img_Statue_BlueGolem_04"
+    ],
+    "Target": "PC",
+    "PassiveTriggerRank": "Silver"
+  },
+  {
+    "StatPoolGroup": 1,
+    "ID": 4,
+    "UnlockConditionID": 6104,
+    "ResourceSize": 320,
+    "PassiveBattlePower": 10000,
+    "PassiveBuffID": [
+      1400031015
+    ],
+    "Name": "SysConstStr.StatueName04",
+    "ResourceNames": [
+      "Img_Statue_BlueGolem_01",
+      "Img_Statue_BlueGolem_02",
+      "Img_Statue_BlueGolem_03",
+      "Img_Statue_BlueGolem_04"
+    ],
+    "Target": "Hunter",
+    "PassiveTriggerRank": "Silver"
+  }
+]

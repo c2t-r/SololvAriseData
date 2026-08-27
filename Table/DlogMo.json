@@ -10778,5 +10778,85 @@
     "MotionType": "Idle",
     "Loop": "Dialog_HwangDongSuk_Member_Tanker_Idle_01",
     "End": ""
+  },
+  {
+    "ID": 1088,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910774,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_LeeJooHee_MM_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 1089,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910774,
+    "Start": "Dialog_LeeJooHee_MM_WaistHand_01_Start",
+    "MotionType": "WaistHand",
+    "Loop": "Dialog_LeeJooHee_MM_WaistHand_01_Loop",
+    "End": "Dialog_LeeJooHee_MM_WaistHand_01_End"
+  },
+  {
+    "ID": 1090,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910774,
+    "Start": "Dialog_LeeJooHee_MM_Worries_01_Start",
+    "MotionType": "Worries",
+    "Loop": "Dialog_LeeJooHee_MM_Worries_01_Loop",
+    "End": "Dialog_LeeJooHee_MM_Worries_01_End"
+  },
+  {
+    "ID": 1091,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910774,
+    "Start": "Dialog_LeeJooHee_MM_Special_01_Start",
+    "MotionType": "Special",
+    "Loop": "Dialog_LeeJooHee_MM_Special_01_Loop",
+    "End": "Dialog_LeeJooHee_MM_Special_01_End"
+  },
+  {
+    "ID": 1092,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910775,
+    "Start": "",
+    "MotionType": "Idle",
+    "Loop": "Dialog_LeeJuHee_Idle_01",
+    "End": ""
+  },
+  {
+    "ID": 1093,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910775,
+    "Start": "Dialog_LeeJuHee_GatheringHands_01_Start",
+    "MotionType": "GatheringHands",
+    "Loop": "Dialog_LeeJuHee_GatheringHands_01_Loop",
+    "End": "Dialog_LeeJuHee_GatheringHands_01_End"
+  },
+  {
+    "ID": 1094,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910775,
+    "Start": "Dialog_LeeJuHee_Surprised_01_Start",
+    "MotionType": "Surprised",
+    "Loop": "Dialog_LeeJuHee_Surprised_01_Loop",
+    "End": "Dialog_LeeJuHee_Surprised_01_End"
+  },
+  {
+    "ID": 1095,
+    "Index": 0,
+    "Facial": true,
+    "CharID": 910775,
+    "Start": "Dialog_LeeJuHee_LJHSkill_01_Start",
+    "MotionType": "Special",
+    "Loop": "Dialog_LeeJuHee_LJHSkill_01_Loop",
+    "End": "Dialog_LeeJuHee_LJHSkill_01_End"
   }
 ]

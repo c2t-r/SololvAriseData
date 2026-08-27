@@ -2428,5 +2428,95 @@
     ],
     "OptionDesc": "It.StringDesc.CoreEnergyOption01",
     "StringName": "It.StringName.700100221"
+  },
+  {
+    "ID": 700201001,
+    "GoldValue": 10000,
+    "CoreCategoryID": 106,
+    "RandomPassiveBuffID": 1001703,
+    "EquipCharID": 651,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100500,
+    "RandomOptionID2": 201112,
+    "RandomOptionID1": 200102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000002",
+    "CoreType": "Mind",
+    "IconResourceName": "Core_Mind_Bhaltair02",
+    "StringDesc": "It.StringDesc.700100501",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreMindOption01",
+    "StringName": "It.StringName.700100501"
+  },
+  {
+    "ID": 700201002,
+    "GoldValue": 10000,
+    "CoreCategoryID": 105,
+    "RandomPassiveBuffID": 1001803,
+    "EquipCharID": 651,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100410,
+    "RandomOptionID2": 202112,
+    "RandomOptionID1": 201102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.4700000003",
+    "CoreType": "Body",
+    "IconResourceName": "Core_Body_Bhaltair01",
+    "StringDesc": "It.StringDesc.700100411",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreBodyOption01",
+    "StringName": "It.StringName.700100411"
+  },
+  {
+    "ID": 700201003,
+    "GoldValue": 10000,
+    "CoreCategoryID": 103,
+    "RandomPassiveBuffID": 1001203,
+    "EquipCharID": 651,
+    "LimitBreakID": 3000,
+    "CodexDisplay": true,
+    "CoreGroupID": 700100220,
+    "RandomOptionID2": 200112,
+    "RandomOptionID1": 202102,
+    "MaterialItem": [
+      10170010
+    ],
+    "CodexDisplayTime": "2020-06-15T00:00:00+09:00",
+    "PassiveBuffID": [
+      231000001,
+      231000021
+    ],
+    "ItemRarity": "Legendary",
+    "BuffDesc": "It.StringDesc.CoreBuff.700100223.re",
+    "CoreType": "Energy",
+    "IconResourceName": "Core_Energy_Deimos01",
+    "StringDesc": "It.StringDesc.700100221",
+    "MaterialCount": [
+      3
+    ],
+    "OptionDesc": "It.StringDesc.CoreEnergyOption01",
+    "StringName": "It.StringName.700100221"
   }
 ]

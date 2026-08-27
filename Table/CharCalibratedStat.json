@@ -7644,6 +7644,202 @@
     "EStatType": "ElementDamDarkness"
   },
   {
+    "StatModeId": 402,
+    "StatValue": 38150,
+    "ID": 402150001,
+    "CalibratedID": 150,
+    "EStatType": "Att"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150002,
+    "CalibratedID": 150,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150003,
+    "CalibratedID": 150,
+    "EStatType": "AttR"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 92100,
+    "ID": 402150004,
+    "CalibratedID": 150,
+    "EStatType": "Arm"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150005,
+    "CalibratedID": 150,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150006,
+    "CalibratedID": 150,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 61570,
+    "ID": 402150007,
+    "CalibratedID": 150,
+    "EStatType": "MHP"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150008,
+    "CalibratedID": 150,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150009,
+    "CalibratedID": 150,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 25000,
+    "ID": 402150010,
+    "CalibratedID": 150,
+    "EStatType": "Critical"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 30000,
+    "ID": 402150011,
+    "CalibratedID": 150,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 3947985,
+    "ID": 402150012,
+    "CalibratedID": 150,
+    "EStatType": "Precision"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 3000,
+    "ID": 402150013,
+    "CalibratedID": 150,
+    "EStatType": "MMP"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 10,
+    "ID": 402150014,
+    "CalibratedID": 150,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 6500,
+    "ID": 402150015,
+    "CalibratedID": 150,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 390,
+    "ID": 402150016,
+    "CalibratedID": 150,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150017,
+    "CalibratedID": 150,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 50000,
+    "ID": 402150018,
+    "CalibratedID": 150,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 35000,
+    "ID": 402150019,
+    "CalibratedID": 150,
+    "EStatType": "Dam"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 3500,
+    "ID": 402150020,
+    "CalibratedID": 150,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150021,
+    "CalibratedID": 150,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150022,
+    "CalibratedID": 150,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 0,
+    "ID": 402150023,
+    "CalibratedID": 150,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 12000,
+    "ID": 402150024,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 12000,
+    "ID": 402150025,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 12000,
+    "ID": 402150026,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 12000,
+    "ID": 402150027,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatModeId": 402,
+    "StatValue": 12000,
+    "ID": 402150028,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
     "StatModeId": 403,
     "StatValue": 12486,
     "ID": 403060001,
@@ -8229,6 +8425,202 @@
     "StatValue": 1382,
     "ID": 403120028,
     "CalibratedID": 120,
+    "EStatType": "ElementDamDarkness"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 38150,
+    "ID": 403150001,
+    "CalibratedID": 150,
+    "EStatType": "Att"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150002,
+    "CalibratedID": 150,
+    "EStatType": "AddAtt"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150003,
+    "CalibratedID": 150,
+    "EStatType": "AttR"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 38150,
+    "ID": 403150004,
+    "CalibratedID": 150,
+    "EStatType": "Arm"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150005,
+    "CalibratedID": 150,
+    "EStatType": "ArmR"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150006,
+    "CalibratedID": 150,
+    "EStatType": "AddArm"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 184200,
+    "ID": 403150007,
+    "CalibratedID": 150,
+    "EStatType": "MHP"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150008,
+    "CalibratedID": 150,
+    "EStatType": "MHPR"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150009,
+    "CalibratedID": 150,
+    "EStatType": "AddMHP"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 25000,
+    "ID": 403150010,
+    "CalibratedID": 150,
+    "EStatType": "Critical"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 30000,
+    "ID": 403150011,
+    "CalibratedID": 150,
+    "EStatType": "CriDam"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 3818907,
+    "ID": 403150012,
+    "CalibratedID": 150,
+    "EStatType": "Precision"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 3000,
+    "ID": 403150013,
+    "CalibratedID": 150,
+    "EStatType": "MMP"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 10,
+    "ID": 403150014,
+    "CalibratedID": 150,
+    "EStatType": "MPRegen"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 6500,
+    "ID": 403150015,
+    "CalibratedID": 150,
+    "EStatType": "MoveSpd"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 390,
+    "ID": 403150016,
+    "CalibratedID": 150,
+    "EStatType": "AttSpd"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150017,
+    "CalibratedID": 150,
+    "EStatType": "CoolRedu"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 50000,
+    "ID": 403150018,
+    "CalibratedID": 150,
+    "EStatType": "ArmPen"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 35000,
+    "ID": 403150019,
+    "CalibratedID": 150,
+    "EStatType": "Dam"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 3500,
+    "ID": 403150020,
+    "CalibratedID": 150,
+    "EStatType": "DamRedu"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150021,
+    "CalibratedID": 150,
+    "EStatType": "ReceiveHealIncre"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150022,
+    "CalibratedID": 150,
+    "EStatType": "HealIncre"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 0,
+    "ID": 403150023,
+    "CalibratedID": 150,
+    "EStatType": "DebuffRecovery"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 12000,
+    "ID": 403150024,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamFire"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 12000,
+    "ID": 403150025,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamWater"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 12000,
+    "ID": 403150026,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamWind"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 12000,
+    "ID": 403150027,
+    "CalibratedID": 150,
+    "EStatType": "ElementDamLight"
+  },
+  {
+    "StatModeId": 403,
+    "StatValue": 12000,
+    "ID": 403150028,
+    "CalibratedID": 150,
     "EStatType": "ElementDamDarkness"
   },
   {

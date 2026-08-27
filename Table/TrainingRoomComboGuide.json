@@ -8437,7 +8437,7 @@
   },
   {
     "ID": 367,
-    "ChSuccessorEvolvePriority": 1,
+    "ChSuccessorEvolvePriority": 2,
     "ChHuntID": 601,
     "ChHuntGroup": 62,
     "ReturnIndex": 0,
@@ -8460,12 +8460,19 @@
       1,
       1,
       1,
-      1
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
     ]
   },
   {
     "ID": 368,
-    "ChSuccessorEvolvePriority": 2,
+    "ChSuccessorEvolvePriority": 3,
     "ChHuntID": 601,
     "ChHuntGroup": 62,
     "ReturnIndex": 0,
@@ -8490,12 +8497,19 @@
       1,
       1,
       1,
-      1
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
     ]
   },
   {
     "ID": 369,
-    "ChSuccessorEvolvePriority": 3,
+    "ChSuccessorEvolvePriority": 4,
     "ChHuntID": 601,
     "ChHuntGroup": 62,
     "ReturnIndex": 0,
@@ -8520,12 +8534,19 @@
       1,
       1,
       1,
-      1
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
     ]
   },
   {
     "ID": 370,
-    "ChSuccessorEvolvePriority": 4,
+    "ChSuccessorEvolvePriority": 5,
     "ChHuntID": 601,
     "ChHuntGroup": 62,
     "ReturnIndex": 0,
@@ -8550,12 +8571,19 @@
       1,
       1,
       1,
-      1
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
     ]
   },
   {
     "ID": 371,
-    "ChSuccessorEvolvePriority": 5,
+    "ChSuccessorEvolvePriority": 6,
     "ChHuntID": 601,
     "ChHuntGroup": 62,
     "ReturnIndex": 0,
@@ -8580,12 +8608,19 @@
       1,
       1,
       1,
-      1
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
     ]
   },
   {
     "ID": 372,
-    "ChSuccessorEvolvePriority": 6,
+    "ChSuccessorEvolvePriority": 7,
     "ChHuntID": 601,
     "ChHuntGroup": 62,
     "ReturnIndex": 0,
@@ -8610,11 +8645,57 @@
       1,
       1,
       1,
-      1
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
     ]
   },
   {
     "ID": 373,
+    "ChSuccessorEvolvePriority": 1,
+    "ChHuntID": 601,
+    "ChHuntGroup": 62,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 6,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [
+      2,
+      4
+    ],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5,
+      4,
+      8,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      5
+    ]
+  },
+  {
+    "ID": 374,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 611,
     "ChHuntGroup": 63,
@@ -8644,39 +8725,12 @@
     ]
   },
   {
-    "ID": 374,
-    "ChSuccessorEvolvePriority": 0,
-    "ChHuntID": 611,
-    "ChHuntGroup": 63,
-    "ReturnIndex": 0,
-    "ChEvolveCheck": 1,
-    "ExtraCombo": [
-      3,
-      4
-    ],
-    "ChSuccessorEvolveCheck": [],
-    "QTEUseType": [
-      "Complete"
-    ],
-    "ChComboGuide": [
-      5,
-      4,
-      2,
-      3,
-      5,
-      4,
-      2,
-      3,
-      9
-    ]
-  },
-  {
     "ID": 375,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 611,
     "ChHuntGroup": 63,
     "ReturnIndex": 0,
-    "ChEvolveCheck": 2,
+    "ChEvolveCheck": 1,
     "ExtraCombo": [
       3,
       4
@@ -8703,7 +8757,7 @@
     "ChHuntID": 611,
     "ChHuntGroup": 63,
     "ReturnIndex": 0,
-    "ChEvolveCheck": 3,
+    "ChEvolveCheck": 2,
     "ExtraCombo": [
       3,
       4
@@ -8730,7 +8784,7 @@
     "ChHuntID": 611,
     "ChHuntGroup": 63,
     "ReturnIndex": 0,
-    "ChEvolveCheck": 4,
+    "ChEvolveCheck": 3,
     "ExtraCombo": [
       3,
       4
@@ -8757,7 +8811,7 @@
     "ChHuntID": 611,
     "ChHuntGroup": 63,
     "ReturnIndex": 0,
-    "ChEvolveCheck": 5,
+    "ChEvolveCheck": 4,
     "ExtraCombo": [
       3,
       4
@@ -8780,6 +8834,33 @@
   },
   {
     "ID": 379,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 611,
+    "ChHuntGroup": 63,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 5,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      5,
+      4,
+      2,
+      3,
+      5,
+      4,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "ID": 380,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 621,
     "ChHuntGroup": 64,
@@ -8806,7 +8887,7 @@
     ]
   },
   {
-    "ID": 380,
+    "ID": 381,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 621,
     "ChHuntGroup": 64,
@@ -8833,7 +8914,7 @@
     ]
   },
   {
-    "ID": 381,
+    "ID": 382,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 621,
     "ChHuntGroup": 64,
@@ -8860,7 +8941,7 @@
     ]
   },
   {
-    "ID": 382,
+    "ID": 383,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 621,
     "ChHuntGroup": 64,
@@ -8887,7 +8968,7 @@
     ]
   },
   {
-    "ID": 383,
+    "ID": 384,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 621,
     "ChHuntGroup": 64,
@@ -8914,7 +8995,7 @@
     ]
   },
   {
-    "ID": 384,
+    "ID": 385,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 621,
     "ChHuntGroup": 64,
@@ -8942,7 +9023,7 @@
     ]
   },
   {
-    "ID": 385,
+    "ID": 386,
     "ChSuccessorEvolvePriority": 4,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -8977,11 +9058,12 @@
       2,
       2,
       2,
-      2
+      2,
+      5
     ]
   },
   {
-    "ID": 386,
+    "ID": 387,
     "ChSuccessorEvolvePriority": 5,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -9018,11 +9100,12 @@
       2,
       2,
       2,
-      2
+      2,
+      5
     ]
   },
   {
-    "ID": 387,
+    "ID": 388,
     "ChSuccessorEvolvePriority": 6,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -9059,11 +9142,12 @@
       2,
       2,
       2,
-      2
+      2,
+      5
     ]
   },
   {
-    "ID": 388,
+    "ID": 389,
     "ChSuccessorEvolvePriority": 3,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -9098,11 +9182,12 @@
       2,
       2,
       2,
-      2
+      2,
+      5
     ]
   },
   {
-    "ID": 389,
+    "ID": 390,
     "ChSuccessorEvolvePriority": 2,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -9130,11 +9215,15 @@
       2,
       2,
       2,
-      2
+      2,
+      8,
+      3,
+      4,
+      5
     ]
   },
   {
-    "ID": 390,
+    "ID": 391,
     "ChSuccessorEvolvePriority": 7,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -9171,11 +9260,12 @@
       2,
       2,
       2,
-      2
+      2,
+      5
     ]
   },
   {
-    "ID": 391,
+    "ID": 392,
     "ChSuccessorEvolvePriority": 1,
     "ChHuntID": 631,
     "ChHuntGroup": 65,
@@ -9202,11 +9292,15 @@
       2,
       2,
       2,
-      2
+      2,
+      8,
+      3,
+      4,
+      5
     ]
   },
   {
-    "ID": 392,
+    "ID": 393,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 641,
     "ChHuntGroup": 66,
@@ -9225,7 +9319,7 @@
     ]
   },
   {
-    "ID": 393,
+    "ID": 394,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 641,
     "ChHuntGroup": 66,
@@ -9244,7 +9338,7 @@
     ]
   },
   {
-    "ID": 394,
+    "ID": 395,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 641,
     "ChHuntGroup": 66,
@@ -9263,7 +9357,7 @@
     ]
   },
   {
-    "ID": 395,
+    "ID": 396,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 641,
     "ChHuntGroup": 66,
@@ -9282,7 +9376,7 @@
     ]
   },
   {
-    "ID": 396,
+    "ID": 397,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 641,
     "ChHuntGroup": 66,
@@ -9301,7 +9395,7 @@
     ]
   },
   {
-    "ID": 397,
+    "ID": 398,
     "ChSuccessorEvolvePriority": 0,
     "ChHuntID": 641,
     "ChHuntGroup": 66,
@@ -9317,6 +9411,167 @@
       4,
       3,
       2
+    ]
+  },
+  {
+    "ID": 399,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 651,
+    "ChHuntGroup": 67,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      2,
+      3,
+      2,
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "ID": 400,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 651,
+    "ChHuntGroup": 67,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 1,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      2,
+      3,
+      2,
+      4,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "ID": 401,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 651,
+    "ChHuntGroup": 67,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 2,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      2,
+      3,
+      2,
+      4,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "ID": 402,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 651,
+    "ChHuntGroup": 67,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 3,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      2,
+      3,
+      2,
+      4,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "ID": 403,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 651,
+    "ChHuntGroup": 67,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 4,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      2,
+      3,
+      2,
+      4,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "ID": 404,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 651,
+    "ChHuntGroup": 67,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 5,
+    "ExtraCombo": [
+      3,
+      4
+    ],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [
+      "Complete"
+    ],
+    "ChComboGuide": [
+      4,
+      2,
+      3,
+      2,
+      4,
+      2,
+      3,
+      4,
+      5
     ]
   },
   {
@@ -9575,6 +9830,170 @@
       7,
       7,
       7
+    ]
+  },
+  {
+    "ID": 101401,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1014,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      4
+    ]
+  },
+  {
+    "ID": 101501,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1015,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      4
+    ]
+  },
+  {
+    "ID": 101601,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1016,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      7,
+      7,
+      4
+    ]
+  },
+  {
+    "ID": 101701,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1017,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      7,
+      7,
+      4
+    ]
+  },
+  {
+    "ID": 101801,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1018,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      3,
+      6,
+      7,
+      7,
+      7,
+      4
+    ]
+  },
+  {
+    "ID": 101901,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1019,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      4,
+      4,
+      4,
+      7,
+      7
+    ]
+  },
+  {
+    "ID": 102001,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1020,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      2,
+      2,
+      4
+    ]
+  },
+  {
+    "ID": 102101,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1021,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      4
+    ]
+  },
+  {
+    "ID": 102201,
+    "ChSuccessorEvolvePriority": 0,
+    "ChHuntID": 1,
+    "ChHuntGroup": 1022,
+    "ReturnIndex": 0,
+    "ChEvolveCheck": 0,
+    "ExtraCombo": [],
+    "ChSuccessorEvolveCheck": [],
+    "QTEUseType": [],
+    "ChComboGuide": [
+      6,
+      3,
+      7,
+      4
     ]
   }
 ]

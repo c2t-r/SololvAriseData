@@ -9862,5 +9862,95 @@
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "EsilRadiru_Boss@Intro_A",
     "Type": "Intro"
+  },
+  {
+    "ID": 1097,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 1098,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 1099,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 1100,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 1101,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 1102,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 1103,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1104,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 1105,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 1106,
+    "UseSkip": true,
+    "GroupID": 661,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "DianaLopez_Evolve",
+    "Type": "Evolve"
   }
 ]

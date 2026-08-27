@@ -747,8 +747,14 @@
     "TopMenuPage": "Event",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "CapsuleDraw",
-    "TopMenuDisplayType": [],
-    "TopMenuDisplayGroup": []
+    "TopMenuDisplayType": [
+      3,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      30002236,
+      1000016
+    ]
   },
   {
     "IsGuild": true,
@@ -1394,6 +1400,21 @@
     "IsGuild": true,
     "ID": 90,
     "TopMenuPage": "SeasonalCard",
+    "TopMenuSubPage": "",
+    "TopMenuSubDisplay": "",
+    "TopMenuDisplayType": [
+      4,
+      3
+    ],
+    "TopMenuDisplayGroup": [
+      1000016,
+      1000003
+    ]
+  },
+  {
+    "IsGuild": true,
+    "ID": 91,
+    "TopMenuPage": "Statue",
     "TopMenuSubPage": "",
     "TopMenuSubDisplay": "",
     "TopMenuDisplayType": [
@@ -2157,7 +2178,7 @@
       3
     ],
     "TopMenuDisplayGroup": [
-      10150150
+      10150155
     ]
   },
   {

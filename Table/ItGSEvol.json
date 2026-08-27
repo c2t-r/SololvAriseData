@@ -5727,7 +5727,8 @@
     "MaterialValue": 1,
     "SubStatType": "Precision",
     "PassiveBuffIds": [
-      10863
+      10863,
+      10873
     ]
   },
   {
@@ -7929,7 +7930,8 @@
     "PassiveBuffIds": [
       20500,
       20520,
-      20522
+      20522,
+      20523
     ]
   },
   {
@@ -9396,7 +9398,8 @@
       24500,
       24501,
       24520,
-      24531
+      24531,
+      24540
     ]
   },
   {
@@ -9839,6 +9842,188 @@
     "ID": 660,
     "GoldValue": 12000,
     "ItemId": 200030032,
+    "SubStatValue": 4000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 10,
+    "AddBattlePowerR": 0.800000011920929,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      4100023005
+    ]
+  },
+  {
+    "DecompositionRate": 1,
+    "ID": 661,
+    "GoldValue": 0,
+    "ItemId": 200030033,
+    "SubStatValue": 0,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 0,
+    "AddBattlePowerR": 0.26499998569488525,
+    "MaterialValue": 0,
+    "SubStatType": "",
+    "PassiveBuffIds": [
+      18300,
+      18302,
+      18303
+    ]
+  },
+  {
+    "DecompositionRate": 2,
+    "ID": 662,
+    "GoldValue": 4000,
+    "ItemId": 200030033,
+    "SubStatValue": 2000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 1,
+    "AddBattlePowerR": 0.35499998927116394,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      18310,
+      18312
+    ]
+  },
+  {
+    "DecompositionRate": 3,
+    "ID": 663,
+    "GoldValue": 6000,
+    "ItemId": 200030033,
+    "SubStatValue": 2500,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 2,
+    "AddBattlePowerR": 0.42500001192092896,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      18320
+    ]
+  },
+  {
+    "DecompositionRate": 4,
+    "ID": 664,
+    "GoldValue": 8000,
+    "ItemId": 200030033,
+    "SubStatValue": 3000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 3,
+    "AddBattlePowerR": 0.47999998927116394,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      18330,
+      18332
+    ]
+  },
+  {
+    "DecompositionRate": 5,
+    "ID": 665,
+    "GoldValue": 10000,
+    "ItemId": 200030033,
+    "SubStatValue": 3500,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 4,
+    "AddBattlePowerR": 0.5149999856948853,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      18340
+    ]
+  },
+  {
+    "DecompositionRate": 6,
+    "ID": 666,
+    "GoldValue": 12000,
+    "ItemId": 200030033,
+    "SubStatValue": 4000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 5,
+    "AddBattlePowerR": 0.5350000262260437,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      18350,
+      18352,
+      18355
+    ]
+  },
+  {
+    "DecompositionRate": 7,
+    "ID": 667,
+    "GoldValue": 12000,
+    "ItemId": 200030033,
+    "SubStatValue": 4000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 6,
+    "AddBattlePowerR": 0.5849999785423279,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      4100023001
+    ]
+  },
+  {
+    "DecompositionRate": 8,
+    "ID": 668,
+    "GoldValue": 12000,
+    "ItemId": 200030033,
+    "SubStatValue": 4000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 7,
+    "AddBattlePowerR": 0.6399999856948853,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      4100023002
+    ]
+  },
+  {
+    "DecompositionRate": 9,
+    "ID": 669,
+    "GoldValue": 12000,
+    "ItemId": 200030033,
+    "SubStatValue": 4000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 8,
+    "AddBattlePowerR": 0.6949999928474426,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      4100023003
+    ]
+  },
+  {
+    "DecompositionRate": 10,
+    "ID": 670,
+    "GoldValue": 12000,
+    "ItemId": 200030033,
+    "SubStatValue": 4000,
+    "UsePassiveBuffCharacterId": 0,
+    "AddBattlePower": 0,
+    "Evolve": 9,
+    "AddBattlePowerR": 0.7450000047683716,
+    "MaterialValue": 1,
+    "SubStatType": "Precision",
+    "PassiveBuffIds": [
+      4100023004
+    ]
+  },
+  {
+    "DecompositionRate": 11,
+    "ID": 671,
+    "GoldValue": 12000,
+    "ItemId": 200030033,
     "SubStatValue": 4000,
     "UsePassiveBuffCharacterId": 0,
     "AddBattlePower": 0,

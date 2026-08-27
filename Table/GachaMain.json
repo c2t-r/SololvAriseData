@@ -4187,6 +4187,141 @@
   {
     "ResetMileageType": true,
     "DeferRecruitGuaranteeValue": 0,
+    "ShopTabID": 0,
+    "SortOrder": 2,
+    "ID": 3079,
+    "ExperienceHunterID": 8043,
+    "GachaDailyFreeID": 0,
+    "WebProbOpen": true,
+    "ProbabilityViewAvailable": true,
+    "DeferRecruitID": 0,
+    "SelectAble": true,
+    "GachaUnlockCondition": 0,
+    "AbleCash": true,
+    "ExperienceOpen": true,
+    "DeferRecruitGuarantee": 0,
+    "MainBannerGroup": 0,
+    "CountSetGroup": 3000,
+    "AbleSingleGacha": true,
+    "SelectValue": 0,
+    "GachaRateGroup": 3000,
+    "GachaCount": 0,
+    "GachaBonusType": true,
+    "ResetCount": 0,
+    "GachaGroup": 5,
+    "ClosePopUpPrefap": "",
+    "SubBannerChar": "Gacha_PickUp_260827_Sub_Banner_Front",
+    "Name": "GachaMain.Character260827",
+    "AccountType": "Total",
+    "MainBanner": "Gacha_PickUp_260827_Sub_Banner",
+    "SubBanner": "Gacha_PickUp_260827_Sub_Banner_Front",
+    "CloseTitle": "",
+    "GachaTimeEnd": "2026-09-17T09:00:00+09:00",
+    "GachaMainType": "Character",
+    "GachaGoodsGroup": [
+      30791
+    ],
+    "EventDesc": "GachaMain.Character01_Desc00",
+    "Desc1": "",
+    "Desc2": "GachaMain.Character01_Desc02",
+    "CloseDesc": "",
+    "GachaTimeStart": "2026-08-26T09:00:00+09:00",
+    "GachaSubType": "PickUp",
+    "DirectionType": "Normal"
+  },
+  {
+    "ResetMileageType": true,
+    "DeferRecruitGuaranteeValue": 0,
+    "ShopTabID": 0,
+    "SortOrder": 2,
+    "ID": 3080,
+    "ExperienceHunterID": 8039,
+    "GachaDailyFreeID": 0,
+    "WebProbOpen": true,
+    "ProbabilityViewAvailable": true,
+    "DeferRecruitID": 0,
+    "SelectAble": true,
+    "GachaUnlockCondition": 0,
+    "AbleCash": true,
+    "ExperienceOpen": true,
+    "DeferRecruitGuarantee": 0,
+    "MainBannerGroup": 0,
+    "CountSetGroup": 3000,
+    "AbleSingleGacha": true,
+    "SelectValue": 0,
+    "GachaRateGroup": 3000,
+    "GachaCount": 0,
+    "GachaBonusType": true,
+    "ResetCount": 0,
+    "GachaGroup": 5,
+    "ClosePopUpPrefap": "",
+    "SubBannerChar": "Gacha_PickUp_260507_Sub_Banner_Front",
+    "Name": "GachaMain.Character260507",
+    "AccountType": "Total",
+    "MainBanner": "Gacha_PickUp_260507_Sub_Banner",
+    "SubBanner": "Gacha_PickUp_260507_Sub_Banner_Front",
+    "CloseTitle": "",
+    "GachaTimeEnd": "2026-09-10T09:00:00+09:00",
+    "GachaMainType": "Character",
+    "GachaGoodsGroup": [
+      30801
+    ],
+    "EventDesc": "GachaMain.Character01_Desc00",
+    "Desc1": "",
+    "Desc2": "GachaMain.Character01_Desc02",
+    "CloseDesc": "",
+    "GachaTimeStart": "2026-08-26T09:00:00+09:00",
+    "GachaSubType": "PickUp",
+    "DirectionType": "Normal"
+  },
+  {
+    "ResetMileageType": true,
+    "DeferRecruitGuaranteeValue": 0,
+    "ShopTabID": 0,
+    "SortOrder": 2,
+    "ID": 3081,
+    "ExperienceHunterID": 8015,
+    "GachaDailyFreeID": 0,
+    "WebProbOpen": true,
+    "ProbabilityViewAvailable": true,
+    "DeferRecruitID": 0,
+    "SelectAble": true,
+    "GachaUnlockCondition": 0,
+    "AbleCash": true,
+    "ExperienceOpen": true,
+    "DeferRecruitGuarantee": 0,
+    "MainBannerGroup": 0,
+    "CountSetGroup": 3000,
+    "AbleSingleGacha": true,
+    "SelectValue": 0,
+    "GachaRateGroup": 3000,
+    "GachaCount": 0,
+    "GachaBonusType": true,
+    "ResetCount": 0,
+    "GachaGroup": 5,
+    "ClosePopUpPrefap": "",
+    "SubBannerChar": "Gacha_PickUp_241201_Sub_Banner_Front",
+    "Name": "GachaMain.Character1219",
+    "AccountType": "Total",
+    "MainBanner": "Gacha_PickUp_241201_Sub_Banner",
+    "SubBanner": "Gacha_PickUp_241201_Sub_Banner_Front",
+    "CloseTitle": "",
+    "GachaTimeEnd": "2026-09-17T09:00:00+09:00",
+    "GachaMainType": "Character",
+    "GachaGoodsGroup": [
+      30811
+    ],
+    "EventDesc": "GachaMain.Character01_Desc00",
+    "Desc1": "",
+    "Desc2": "GachaMain.Character01_Desc02",
+    "CloseDesc": "",
+    "GachaTimeStart": "2026-09-10T09:00:00+09:00",
+    "GachaSubType": "PickUp",
+    "DirectionType": "Normal"
+  },
+  {
+    "ResetMileageType": true,
+    "DeferRecruitGuaranteeValue": 0,
     "ShopTabID": 20160,
     "SortOrder": 3,
     "ID": 6000,
@@ -7566,7 +7701,7 @@
     "GachaTimeEnd": "2026-09-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7611,7 +7746,7 @@
     "GachaTimeEnd": "2026-10-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7656,7 +7791,7 @@
     "GachaTimeEnd": "2026-10-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7701,7 +7836,7 @@
     "GachaTimeEnd": "2026-11-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7746,7 +7881,7 @@
     "GachaTimeEnd": "2026-11-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7791,7 +7926,7 @@
     "GachaTimeEnd": "2026-12-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7836,7 +7971,7 @@
     "GachaTimeEnd": "2026-12-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7881,7 +8016,7 @@
     "GachaTimeEnd": "2027-01-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7926,7 +8061,7 @@
     "GachaTimeEnd": "2027-01-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -7971,7 +8106,7 @@
     "GachaTimeEnd": "2027-02-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -8016,7 +8151,7 @@
     "GachaTimeEnd": "2027-02-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -8061,7 +8196,7 @@
     "GachaTimeEnd": "2027-03-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -8106,7 +8241,7 @@
     "GachaTimeEnd": "2027-03-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -8151,7 +8286,7 @@
     "GachaTimeEnd": "2027-04-01T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",
@@ -8196,7 +8331,7 @@
     "GachaTimeEnd": "2027-04-16T09:00:00+09:00",
     "GachaMainType": "Selection",
     "GachaGoodsGroup": [
-      9031
+      9032
     ],
     "EventDesc": "GachaMain.DeferCommon_Desc00",
     "Desc1": "",

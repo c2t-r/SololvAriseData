@@ -1,392 +1,1122 @@
 [
   {
-    "PenaltyTier": 1,
-    "ID": 101,
-    "ExtraPowerDisplay": 3000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000101,
+    "ExtraPowerDisplay": 20000,
+    "GroupID": 500001,
     "Index": 1,
     "PenaltyLevel": 1,
-    "ExtraPower": 3000,
+    "ExtraPower": 20000,
     "PenaltyFixID": [
-      30001
+      50000101
     ],
-    "PenaltyGroupName": "PenaltyGroupName.101"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 102,
-    "ExtraPowerDisplay": 6000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000102,
+    "ExtraPowerDisplay": 40000,
+    "GroupID": 500001,
     "Index": 2,
     "PenaltyLevel": 2,
-    "ExtraPower": 6000,
+    "ExtraPower": 40000,
     "PenaltyFixID": [
-      30001
+      50000102
     ],
-    "PenaltyGroupName": "PenaltyGroupName.102"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 103,
-    "ExtraPowerDisplay": 9000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000103,
+    "ExtraPowerDisplay": 60000,
+    "GroupID": 500001,
     "Index": 3,
     "PenaltyLevel": 3,
-    "ExtraPower": 9000,
+    "ExtraPower": 60000,
     "PenaltyFixID": [
-      30001
+      50000103
     ],
-    "PenaltyGroupName": "PenaltyGroupName.103"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 104,
-    "ExtraPowerDisplay": 12000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000104,
+    "ExtraPowerDisplay": 80000,
+    "GroupID": 500001,
     "Index": 4,
     "PenaltyLevel": 4,
-    "ExtraPower": 12000,
+    "ExtraPower": 80000,
     "PenaltyFixID": [
-      30001
+      50000104
     ],
-    "PenaltyGroupName": "PenaltyGroupName.104"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 105,
-    "ExtraPowerDisplay": 15000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000105,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 500001,
     "Index": 5,
     "PenaltyLevel": 5,
-    "ExtraPower": 15000,
+    "ExtraPower": 100000,
     "PenaltyFixID": [
-      30001
+      50000105
     ],
-    "PenaltyGroupName": "PenaltyGroupName.105"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 106,
-    "ExtraPowerDisplay": 18000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000106,
+    "ExtraPowerDisplay": 120000,
+    "GroupID": 500001,
     "Index": 6,
     "PenaltyLevel": 6,
-    "ExtraPower": 18000,
+    "ExtraPower": 120000,
     "PenaltyFixID": [
-      30001
+      50000106
     ],
-    "PenaltyGroupName": "PenaltyGroupName.106"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 107,
-    "ExtraPowerDisplay": 21000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000107,
+    "ExtraPowerDisplay": 140000,
+    "GroupID": 500001,
     "Index": 7,
     "PenaltyLevel": 7,
-    "ExtraPower": 21000,
+    "ExtraPower": 140000,
     "PenaltyFixID": [
-      30001
+      50000107
     ],
-    "PenaltyGroupName": "PenaltyGroupName.107"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 108,
-    "ExtraPowerDisplay": 24000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000108,
+    "ExtraPowerDisplay": 160000,
+    "GroupID": 500001,
     "Index": 8,
     "PenaltyLevel": 8,
-    "ExtraPower": 24000,
+    "ExtraPower": 160000,
     "PenaltyFixID": [
-      30001
+      50000108
     ],
-    "PenaltyGroupName": "PenaltyGroupName.108"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 109,
-    "ExtraPowerDisplay": 27000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000109,
+    "ExtraPowerDisplay": 180000,
+    "GroupID": 500001,
     "Index": 9,
     "PenaltyLevel": 9,
-    "ExtraPower": 27000,
+    "ExtraPower": 180000,
     "PenaltyFixID": [
-      30001
+      50000109
     ],
-    "PenaltyGroupName": "PenaltyGroupName.109"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 110,
-    "ExtraPowerDisplay": 30000,
-    "GroupID": 1,
+    "PenaltyTier": 3,
+    "ID": 50000110,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500001,
     "Index": 10,
     "PenaltyLevel": 10,
-    "ExtraPower": 30000,
+    "ExtraPower": 200000,
     "PenaltyFixID": [
-      30001
+      50000110
     ],
-    "PenaltyGroupName": "PenaltyGroupName.110"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00001",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000201,
+    "ExtraPowerDisplay": 20000,
+    "GroupID": 500002,
+    "Index": 1,
+    "PenaltyLevel": 1,
+    "ExtraPower": 20000,
+    "PenaltyFixID": [
+      50000201
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000202,
+    "ExtraPowerDisplay": 40000,
+    "GroupID": 500002,
+    "Index": 2,
+    "PenaltyLevel": 2,
+    "ExtraPower": 40000,
+    "PenaltyFixID": [
+      50000202
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000203,
+    "ExtraPowerDisplay": 60000,
+    "GroupID": 500002,
+    "Index": 3,
+    "PenaltyLevel": 3,
+    "ExtraPower": 60000,
+    "PenaltyFixID": [
+      50000203
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000204,
+    "ExtraPowerDisplay": 80000,
+    "GroupID": 500002,
+    "Index": 4,
+    "PenaltyLevel": 4,
+    "ExtraPower": 80000,
+    "PenaltyFixID": [
+      50000204
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000205,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 500002,
+    "Index": 5,
+    "PenaltyLevel": 5,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      50000205
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000206,
+    "ExtraPowerDisplay": 120000,
+    "GroupID": 500002,
+    "Index": 6,
+    "PenaltyLevel": 6,
+    "ExtraPower": 120000,
+    "PenaltyFixID": [
+      50000206
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000207,
+    "ExtraPowerDisplay": 140000,
+    "GroupID": 500002,
+    "Index": 7,
+    "PenaltyLevel": 7,
+    "ExtraPower": 140000,
+    "PenaltyFixID": [
+      50000207
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000208,
+    "ExtraPowerDisplay": 160000,
+    "GroupID": 500002,
+    "Index": 8,
+    "PenaltyLevel": 8,
+    "ExtraPower": 160000,
+    "PenaltyFixID": [
+      50000208
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000209,
+    "ExtraPowerDisplay": 180000,
+    "GroupID": 500002,
+    "Index": 9,
+    "PenaltyLevel": 9,
+    "ExtraPower": 180000,
+    "PenaltyFixID": [
+      50000209
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000210,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500002,
+    "Index": 10,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000210
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000301,
+    "ExtraPowerDisplay": 60000,
+    "GroupID": 500003,
+    "Index": 1,
+    "PenaltyLevel": 3,
+    "ExtraPower": 60000,
+    "PenaltyFixID": [
+      50000301
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00003",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000302,
+    "ExtraPowerDisplay": 120000,
+    "GroupID": 500003,
+    "Index": 2,
+    "PenaltyLevel": 6,
+    "ExtraPower": 120000,
+    "PenaltyFixID": [
+      50000302
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00003",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000303,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500003,
+    "Index": 3,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000303
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00003",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000401,
+    "ExtraPowerDisplay": 60000,
+    "GroupID": 500004,
+    "Index": 1,
+    "PenaltyLevel": 3,
+    "ExtraPower": 60000,
+    "PenaltyFixID": [
+      50000401
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00004",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000402,
+    "ExtraPowerDisplay": 120000,
+    "GroupID": 500004,
+    "Index": 2,
+    "PenaltyLevel": 6,
+    "ExtraPower": 120000,
+    "PenaltyFixID": [
+      50000402
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00004",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000403,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500004,
+    "Index": 3,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000403
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00004",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000501,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 500005,
+    "Index": 1,
+    "PenaltyLevel": 5,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      50000501
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00005",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000502,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500005,
+    "Index": 2,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000502
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00005",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000601,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 500006,
+    "Index": 1,
+    "PenaltyLevel": 5,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      50000601
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00006",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000602,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500006,
+    "Index": 2,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000602
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00006",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000701,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 500007,
+    "Index": 1,
+    "PenaltyLevel": 5,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      50000701
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00007",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000702,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500007,
+    "Index": 2,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000702
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00007",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000801,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 500008,
+    "Index": 1,
+    "PenaltyLevel": 5,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      50000801
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00008",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000802,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500008,
+    "Index": 2,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000802
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00008",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50000901,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500009,
+    "Index": 1,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50000901
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00009",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 3,
+    "ID": 50001001,
+    "ExtraPowerDisplay": 200000,
+    "GroupID": 500010,
+    "Index": 1,
+    "PenaltyLevel": 10,
+    "ExtraPower": 200000,
+    "PenaltyFixID": [
+      50001001
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.00010",
+    "PenaltyIconName": ""
   },
   {
     "PenaltyTier": 1,
-    "ID": 201,
-    "ExtraPowerDisplay": 3000,
-    "GroupID": 2,
+    "ID": 51000101,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 510001,
     "Index": 1,
-    "PenaltyLevel": 1,
-    "ExtraPower": 3000,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
     "PenaltyFixID": [
-      30002
+      51000101
     ],
-    "PenaltyGroupName": "PenaltyGroupName.201"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 202,
-    "ExtraPowerDisplay": 6000,
-    "GroupID": 2,
-    "Index": 2,
-    "PenaltyLevel": 2,
-    "ExtraPower": 6000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.202"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 203,
-    "ExtraPowerDisplay": 9000,
-    "GroupID": 2,
-    "Index": 3,
-    "PenaltyLevel": 3,
-    "ExtraPower": 9000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.203"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 204,
-    "ExtraPowerDisplay": 12000,
-    "GroupID": 2,
-    "Index": 4,
-    "PenaltyLevel": 4,
-    "ExtraPower": 12000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.204"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 205,
-    "ExtraPowerDisplay": 15000,
-    "GroupID": 2,
-    "Index": 5,
-    "PenaltyLevel": 5,
-    "ExtraPower": 15000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.205"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 206,
-    "ExtraPowerDisplay": 18000,
-    "GroupID": 2,
-    "Index": 6,
-    "PenaltyLevel": 6,
-    "ExtraPower": 18000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.206"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 207,
-    "ExtraPowerDisplay": 21000,
-    "GroupID": 2,
-    "Index": 7,
-    "PenaltyLevel": 7,
-    "ExtraPower": 21000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.207"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 208,
-    "ExtraPowerDisplay": 24000,
-    "GroupID": 2,
-    "Index": 8,
-    "PenaltyLevel": 8,
-    "ExtraPower": 24000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.208"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 209,
-    "ExtraPowerDisplay": 27000,
-    "GroupID": 2,
-    "Index": 9,
-    "PenaltyLevel": 9,
-    "ExtraPower": 27000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.209"
-  },
-  {
-    "PenaltyTier": 0,
-    "ID": 210,
-    "ExtraPowerDisplay": 30000,
-    "GroupID": 2,
-    "Index": 10,
-    "PenaltyLevel": 10,
-    "ExtraPower": 30000,
-    "PenaltyFixID": [
-      30002
-    ],
-    "PenaltyGroupName": "PenaltyGroupName.210"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.10001",
+    "PenaltyIconName": ""
   },
   {
     "PenaltyTier": 1,
-    "ID": 301,
-    "ExtraPowerDisplay": 3000,
-    "GroupID": 3,
+    "ID": 51000201,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 510002,
     "Index": 1,
-    "PenaltyLevel": 1,
-    "ExtraPower": 3000,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
     "PenaltyFixID": [
-      30003
+      51000201
     ],
-    "PenaltyGroupName": "PenaltyGroupName.301"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.10002",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 302,
-    "ExtraPowerDisplay": 6000,
-    "GroupID": 3,
-    "Index": 2,
-    "PenaltyLevel": 2,
-    "ExtraPower": 6000,
+    "PenaltyTier": 1,
+    "ID": 51000301,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 510003,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
     "PenaltyFixID": [
-      30003
+      51000301
     ],
-    "PenaltyGroupName": "PenaltyGroupName.302"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.10003",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 303,
-    "ExtraPowerDisplay": 9000,
-    "GroupID": 3,
-    "Index": 3,
-    "PenaltyLevel": 3,
-    "ExtraPower": 9000,
+    "PenaltyTier": 1,
+    "ID": 51000401,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 510004,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
     "PenaltyFixID": [
-      30003
+      51000401
     ],
-    "PenaltyGroupName": "PenaltyGroupName.303"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.10004",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 304,
-    "ExtraPowerDisplay": 12000,
-    "GroupID": 3,
-    "Index": 4,
-    "PenaltyLevel": 4,
-    "ExtraPower": 12000,
+    "PenaltyTier": 1,
+    "ID": 51000501,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 510005,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
     "PenaltyFixID": [
-      30003
+      51000501
     ],
-    "PenaltyGroupName": "PenaltyGroupName.304"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.10005",
+    "PenaltyIconName": ""
   },
   {
-    "PenaltyTier": 0,
-    "ID": 305,
-    "ExtraPowerDisplay": 15000,
-    "GroupID": 3,
-    "Index": 5,
-    "PenaltyLevel": 5,
-    "ExtraPower": 15000,
+    "PenaltyTier": 2,
+    "ID": 52000101,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520001,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
     "PenaltyFixID": [
-      30003
+      52000101
     ],
-    "PenaltyGroupName": "PenaltyGroupName.305"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20001",
+    "PenaltyIconName": "EsilRadiru_Boss"
   },
   {
-    "PenaltyTier": 0,
-    "ID": 306,
-    "ExtraPowerDisplay": 18000,
-    "GroupID": 3,
-    "Index": 6,
-    "PenaltyLevel": 6,
-    "ExtraPower": 18000,
+    "PenaltyTier": 2,
+    "ID": 52000201,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520002,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
     "PenaltyFixID": [
-      30003
+      52000201
     ],
-    "PenaltyGroupName": "PenaltyGroupName.306"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20002",
+    "PenaltyIconName": "EsilRadiru_Boss"
   },
   {
-    "PenaltyTier": 0,
-    "ID": 307,
-    "ExtraPowerDisplay": 21000,
-    "GroupID": 3,
-    "Index": 7,
-    "PenaltyLevel": 7,
-    "ExtraPower": 21000,
+    "PenaltyTier": 2,
+    "ID": 52000301,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520003,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
     "PenaltyFixID": [
-      30003
+      52000301
     ],
-    "PenaltyGroupName": "PenaltyGroupName.307"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20003",
+    "PenaltyIconName": "Vulcan_Boss"
   },
   {
-    "PenaltyTier": 0,
-    "ID": 308,
-    "ExtraPowerDisplay": 24000,
-    "GroupID": 3,
-    "Index": 8,
-    "PenaltyLevel": 8,
-    "ExtraPower": 24000,
+    "PenaltyTier": 2,
+    "ID": 52000401,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520004,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
     "PenaltyFixID": [
-      30003
+      52000401
     ],
-    "PenaltyGroupName": "PenaltyGroupName.308"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20004",
+    "PenaltyIconName": "Vulcan_Boss"
   },
   {
-    "PenaltyTier": 0,
-    "ID": 309,
-    "ExtraPowerDisplay": 27000,
-    "GroupID": 3,
-    "Index": 9,
-    "PenaltyLevel": 9,
-    "ExtraPower": 27000,
+    "PenaltyTier": 2,
+    "ID": 52000501,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520005,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
     "PenaltyFixID": [
-      30003
+      52000501
     ],
-    "PenaltyGroupName": "PenaltyGroupName.309"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20005",
+    "PenaltyIconName": "Baran_Boss"
   },
   {
-    "PenaltyTier": 0,
-    "ID": 310,
-    "ExtraPowerDisplay": 30000,
-    "GroupID": 3,
-    "Index": 10,
-    "PenaltyLevel": 10,
-    "ExtraPower": 30000,
+    "PenaltyTier": 2,
+    "ID": 52000601,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520006,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
     "PenaltyFixID": [
-      30003
+      52000601
     ],
-    "PenaltyGroupName": "PenaltyGroupName.310"
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20006",
+    "PenaltyIconName": "Baran_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52000701,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520007,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52000701
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20007",
+    "PenaltyIconName": "Davorka_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52000801,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520008,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52000801
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20008",
+    "PenaltyIconName": "Davorka_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52000901,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520009,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52000901
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20009",
+    "PenaltyIconName": "Deimos_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001001,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520010,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001001
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20010",
+    "PenaltyIconName": "Deimos_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001101,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520011,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001101
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20011",
+    "PenaltyIconName": "Yogumunt_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001201,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520012,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001201
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20012",
+    "PenaltyIconName": "Yogumunt_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001301,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520013,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001301
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20013",
+    "PenaltyIconName": "Cyclops_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001401,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520014,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001401
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20014",
+    "PenaltyIconName": "Cyclops_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001501,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520015,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001501
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20015",
+    "PenaltyIconName": "Baltair_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001601,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520016,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001601
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20016",
+    "PenaltyIconName": "Baltair_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001701,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520017,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001701
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20017",
+    "PenaltyIconName": "Rakpasha_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001801,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520018,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001801
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20018",
+    "PenaltyIconName": "Rakpasha_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52001901,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520019,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52001901
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20019",
+    "PenaltyIconName": "HugeGiant_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002001,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520020,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002001
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20020",
+    "PenaltyIconName": "HugeGiant_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002101,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520021,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002101
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20021",
+    "PenaltyIconName": "Surtur_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002201,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520022,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002201
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20022",
+    "PenaltyIconName": "Surtur_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002301,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520023,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002301
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20023",
+    "PenaltyIconName": "Legia_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002401,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520024,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002401
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20024",
+    "PenaltyIconName": "Legia_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002501,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520025,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002501
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20025",
+    "PenaltyIconName": "Adan_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002601,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520026,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002601
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20026",
+    "PenaltyIconName": "Adan_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002701,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520027,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002701
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20027",
+    "PenaltyIconName": "Adan_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002801,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520028,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002801
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20028",
+    "PenaltyIconName": "Adan_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52002901,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520029,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52002901
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20029",
+    "PenaltyIconName": "Adan_Human_Boss"
+  },
+  {
+    "PenaltyTier": 2,
+    "ID": 52003001,
+    "ExtraPowerDisplay": 150000,
+    "GroupID": 520030,
+    "Index": 1,
+    "PenaltyLevel": 50,
+    "ExtraPower": 150000,
+    "PenaltyFixID": [
+      52003001
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.20030",
+    "PenaltyIconName": "Adan_Human_Boss"
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000101,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530001,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000101
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30001",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000201,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530002,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000201
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30002",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000301,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530003,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000301
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30003",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000401,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530004,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000401
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30004",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000501,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530005,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000501
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30005",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000601,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530006,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000601
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30006",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000701,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530007,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000701
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30007",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000801,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530008,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000801
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30008",
+    "PenaltyIconName": ""
+  },
+  {
+    "PenaltyTier": 1,
+    "ID": 53000901,
+    "ExtraPowerDisplay": 100000,
+    "GroupID": 530009,
+    "Index": 1,
+    "PenaltyLevel": 100,
+    "ExtraPower": 100000,
+    "PenaltyFixID": [
+      53000901
+    ],
+    "PenaltyGroupName": "SysConstStr.MonarchCorridor.30009",
+    "PenaltyIconName": ""
   }
 ]

@@ -3,15 +3,29 @@
     "ID": 101,
     "WorldRankRewardID": 801,
     "ClearPoint": 1000,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 1,
     "Index": 1,
     "StageID": 105,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      1,
-      2,
-      3
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520013,
+      520014,
+      510001,
+      530001,
+      530006,
+      530007,
+      530008,
+      530009
     ],
     "WeakAttribute": [
       1600371999
@@ -21,15 +35,29 @@
     "ID": 102,
     "WorldRankRewardID": 801,
     "ClearPoint": 1200,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 1,
     "Index": 2,
     "StageID": 107,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      2,
-      3,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520019,
+      520020,
+      510001,
+      530001,
+      530002,
+      530003,
+      530004,
+      530005
     ],
     "WeakAttribute": [
       1600301999
@@ -39,15 +67,29 @@
     "ID": 103,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 1,
     "Index": 3,
     "StageID": 201,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520005,
+      520006,
+      510001,
+      530001,
+      530006,
+      530007,
+      530008,
+      530009
     ],
     "WeakAttribute": [
       1600371999
@@ -57,69 +99,119 @@
     "ID": 104,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 2,
     "Index": 1,
     "StageID": 108,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520021,
+      520022,
+      510001,
+      530001,
+      530006,
+      530007,
+      530008,
+      530009
     ],
     "WeakAttribute": [
-      1600371999
+      1600311999
     ]
   },
   {
     "ID": 105,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 2,
     "Index": 2,
     "StageID": 102,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520003,
+      520004,
+      510001,
+      530001,
+      530002,
+      530003,
+      530004,
+      530005
     ],
     "WeakAttribute": [
-      1600371999
+      1600361999
     ]
   },
   {
     "ID": 106,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 2,
     "Index": 3,
     "StageID": 202,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520011,
+      520012,
+      510001,
+      530001,
+      530006,
+      530007,
+      530008,
+      530009
     ],
     "WeakAttribute": [
-      1600371999
+      1600311999
     ]
   },
   {
     "ID": 107,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 3,
     "Index": 1,
     "StageID": 101,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520001,
+      520002
     ],
     "WeakAttribute": [
       1600371999
@@ -129,15 +221,23 @@
     "ID": 108,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 3,
     "Index": 2,
     "StageID": 104,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520009,
+      520010
     ],
     "WeakAttribute": [
       1600371999
@@ -147,15 +247,23 @@
     "ID": 109,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 3,
     "Index": 3,
     "StageID": 205,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520029,
+      520030
     ],
     "WeakAttribute": [
       1600371999
@@ -165,15 +273,23 @@
     "ID": 110,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 4,
     "Index": 1,
     "StageID": 103,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520007,
+      520008
     ],
     "WeakAttribute": [
       1600371999
@@ -183,15 +299,23 @@
     "ID": 111,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 4,
     "Index": 2,
     "StageID": 110,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520027,
+      520028
     ],
     "WeakAttribute": [
       1600371999
@@ -201,15 +325,23 @@
     "ID": 112,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 4,
     "Index": 3,
     "StageID": 203,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520017,
+      520018
     ],
     "WeakAttribute": [
       1600371999
@@ -219,15 +351,23 @@
     "ID": 113,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 5,
     "Index": 1,
     "StageID": 109,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520025,
+      520026
     ],
     "WeakAttribute": [
       1600371999
@@ -237,15 +377,23 @@
     "ID": 114,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 5,
     "Index": 2,
     "StageID": 106,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520015,
+      520016
     ],
     "WeakAttribute": [
       1600371999
@@ -255,15 +403,23 @@
     "ID": 115,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 5,
     "Index": 3,
     "StageID": 204,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520023,
+      520024
     ],
     "WeakAttribute": [
       1600371999
@@ -273,15 +429,23 @@
     "ID": 116,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 6,
     "Index": 1,
     "StageID": 105,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520013,
+      520014
     ],
     "WeakAttribute": [
       1600371999
@@ -291,15 +455,23 @@
     "ID": 117,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 6,
     "Index": 2,
     "StageID": 107,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520019,
+      520020
     ],
     "WeakAttribute": [
       1600371999
@@ -309,15 +481,23 @@
     "ID": 118,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 6,
     "Index": 3,
     "StageID": 201,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520005,
+      520006
     ],
     "WeakAttribute": [
       1600371999
@@ -327,15 +507,23 @@
     "ID": 119,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 7,
     "Index": 1,
     "StageID": 108,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520021,
+      520022
     ],
     "WeakAttribute": [
       1600371999
@@ -345,15 +533,23 @@
     "ID": 120,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 7,
     "Index": 2,
     "StageID": 102,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010,
+      520003,
+      520004
     ],
     "WeakAttribute": [
       1600371999
@@ -363,15 +559,21 @@
     "ID": 121,
     "WorldRankRewardID": 801,
     "ClearPoint": 1500,
-    "ChallengeRewardID": 1,
+    "ChallengeRewardID": 0,
     "GroupID": 7,
     "Index": 3,
     "StageID": 206,
     "GuildRankRewardID": 802,
     "PenaltyGroupID": [
-      3,
-      2,
-      1
+      500001,
+      500002,
+      500003,
+      500004,
+      500005,
+      500006,
+      500007,
+      500009,
+      500010
     ],
     "WeakAttribute": [
       1600371999
