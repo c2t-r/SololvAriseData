@@ -6520,7 +6520,8 @@
     "PlayerSideTeamBuffOff": true,
     "PassiveBuffID": [
       233110020,
-      233110021
+      233110021,
+      233110056
     ],
     "BTName": "BT_Wait",
     "ObjectNameIcon": "",
@@ -6538,7 +6539,8 @@
     "PlayerSideTeamBuffOff": true,
     "PassiveBuffID": [
       233110020,
-      233110022
+      233110022,
+      233110056
     ],
     "BTName": "BT_Wait",
     "ObjectNameIcon": "",
@@ -6556,7 +6558,8 @@
     "PlayerSideTeamBuffOff": true,
     "PassiveBuffID": [
       233110020,
-      233110023
+      233110023,
+      233110056
     ],
     "BTName": "BT_Wait",
     "ObjectNameIcon": "",
@@ -6609,6 +6612,95 @@
       50041102,
       50041103,
       50041104
+    ]
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500496,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      100196006,
+      100196007,
+      100196018
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500497,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      100196006,
+      100196008,
+      100196018
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500498,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      100196006,
+      100196009,
+      100196018
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "PlayerSide",
+    "SkillGroupSet": []
+  },
+  {
+    "DirectionOnly": true,
+    "ObjectNameShow": true,
+    "AttachWeaponGroupID": 0,
+    "BaseInteractionID": 0,
+    "ID": 500499,
+    "NeutralTeamNumber": 0,
+    "Lightweight": true,
+    "PlayerSideTeamBuffOff": true,
+    "PassiveBuffID": [
+      3201002993,
+      100194002,
+      100194003,
+      100194005,
+      100194007,
+      100194009,
+      100194020
+    ],
+    "BTName": "BT_Wait",
+    "ObjectNameIcon": "",
+    "FactionType": "Neutral",
+    "SkillGroupSet": [
+      50049901,
+      50049902,
+      50049903,
+      50049904,
+      50049905,
+      50049906,
+      50049907,
+      50049909
     ]
   },
   {

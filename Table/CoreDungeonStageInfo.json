@@ -16,7 +16,7 @@
     "RewardGroupID": 2501000,
     "RecommendedPower": 100000,
     "DisplayBattlePower": 100000,
-    "GradeGroup_String": "DunString.Rotation.Grade1"
+    "GradeGroup_String": "DunString.Rotation.Grade10"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -35,7 +35,7 @@
     "RewardGroupID": 2502000,
     "RecommendedPower": 200000,
     "DisplayBattlePower": 200000,
-    "GradeGroup_String": "DunString.Rotation.Grade1"
+    "GradeGroup_String": "DunString.Rotation.Grade10"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -54,7 +54,7 @@
     "RewardGroupID": 2503000,
     "RecommendedPower": 300000,
     "DisplayBattlePower": 300000,
-    "GradeGroup_String": "DunString.Rotation.Grade1"
+    "GradeGroup_String": "DunString.Rotation.Grade10"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -73,7 +73,7 @@
     "RewardGroupID": 2504000,
     "RecommendedPower": 800000,
     "DisplayBattlePower": 800000,
-    "GradeGroup_String": "DunString.Rotation.Grade2"
+    "GradeGroup_String": "DunString.Rotation.Grade15"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -92,7 +92,7 @@
     "RewardGroupID": 2505000,
     "RecommendedPower": 1000000,
     "DisplayBattlePower": 1000000,
-    "GradeGroup_String": "DunString.Rotation.Grade2"
+    "GradeGroup_String": "DunString.Rotation.Grade15"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -111,7 +111,7 @@
     "RewardGroupID": 2506000,
     "RecommendedPower": 1200000,
     "DisplayBattlePower": 1200000,
-    "GradeGroup_String": "DunString.Rotation.Grade2"
+    "GradeGroup_String": "DunString.Rotation.Grade15"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -130,7 +130,7 @@
     "RewardGroupID": 2507000,
     "RecommendedPower": 1800000,
     "DisplayBattlePower": 1800000,
-    "GradeGroup_String": "DunString.Rotation.Grade3"
+    "GradeGroup_String": "DunString.Rotation.Grade20"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -149,7 +149,7 @@
     "RewardGroupID": 2508000,
     "RecommendedPower": 2100000,
     "DisplayBattlePower": 2100000,
-    "GradeGroup_String": "DunString.Rotation.Grade3"
+    "GradeGroup_String": "DunString.Rotation.Grade20"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -168,7 +168,7 @@
     "RewardGroupID": 2509000,
     "RecommendedPower": 2400000,
     "DisplayBattlePower": 2400000,
-    "GradeGroup_String": "DunString.Rotation.Grade3"
+    "GradeGroup_String": "DunString.Rotation.Grade20"
   },
   {
     "StageMonsterSkillLevel": 1,
@@ -187,6 +187,101 @@
     "RewardGroupID": 2510000,
     "RecommendedPower": 3000000,
     "DisplayBattlePower": 3000000,
-    "GradeGroup_String": "DunString.Rotation.Grade3"
+    "GradeGroup_String": "DunString.Rotation.Grade20"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "SelectionGroupID": 11001,
+    "IngameStatLevel": 137,
+    "StageMonsterLevel": 137,
+    "AcctExp": 5,
+    "SJWExp": 66450,
+    "Level": 11,
+    "RewardDisplayGroup": 121010,
+    "ID": 11,
+    "RewardChange": true,
+    "RewardCount": 1,
+    "EnterPoint": 5,
+    "GradeGroup": 3,
+    "RewardGroupID": 2511000,
+    "RecommendedPower": 3600000,
+    "DisplayBattlePower": 3600000,
+    "GradeGroup_String": "DunString.Rotation.Grade20"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "SelectionGroupID": 11001,
+    "IngameStatLevel": 140,
+    "StageMonsterLevel": 140,
+    "AcctExp": 5,
+    "SJWExp": 71105,
+    "Level": 12,
+    "RewardDisplayGroup": 121010,
+    "ID": 12,
+    "RewardChange": true,
+    "RewardCount": 1,
+    "EnterPoint": 5,
+    "GradeGroup": 3,
+    "RewardGroupID": 2512000,
+    "RecommendedPower": 4200000,
+    "DisplayBattlePower": 4200000,
+    "GradeGroup_String": "DunString.Rotation.Grade20"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "SelectionGroupID": 11001,
+    "IngameStatLevel": 143,
+    "StageMonsterLevel": 143,
+    "AcctExp": 5,
+    "SJWExp": 71105,
+    "Level": 13,
+    "RewardDisplayGroup": 121010,
+    "ID": 13,
+    "RewardChange": true,
+    "RewardCount": 1,
+    "EnterPoint": 5,
+    "GradeGroup": 4,
+    "RewardGroupID": 2513000,
+    "RecommendedPower": 4800000,
+    "DisplayBattlePower": 4800000,
+    "GradeGroup_String": "DunString.Rotation.Grade25"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "SelectionGroupID": 11001,
+    "IngameStatLevel": 146,
+    "StageMonsterLevel": 146,
+    "AcctExp": 5,
+    "SJWExp": 74315,
+    "Level": 14,
+    "RewardDisplayGroup": 121010,
+    "ID": 14,
+    "RewardChange": true,
+    "RewardCount": 1,
+    "EnterPoint": 5,
+    "GradeGroup": 4,
+    "RewardGroupID": 2514000,
+    "RecommendedPower": 5400000,
+    "DisplayBattlePower": 5400000,
+    "GradeGroup_String": "DunString.Rotation.Grade25"
+  },
+  {
+    "StageMonsterSkillLevel": 1,
+    "SelectionGroupID": 11001,
+    "IngameStatLevel": 150,
+    "StageMonsterLevel": 150,
+    "AcctExp": 5,
+    "SJWExp": 74315,
+    "Level": 15,
+    "RewardDisplayGroup": 121010,
+    "ID": 15,
+    "RewardChange": true,
+    "RewardCount": 1,
+    "EnterPoint": 5,
+    "GradeGroup": 4,
+    "RewardGroupID": 2515000,
+    "RecommendedPower": 6000000,
+    "DisplayBattlePower": 6000000,
+    "GradeGroup_String": "DunString.Rotation.Grade25"
   }
 ]

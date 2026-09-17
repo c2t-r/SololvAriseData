@@ -9,6 +9,8 @@
     "PCGaugeValue2": 2000,
     "PCGaugeValue3": 3000,
     "WaitTime": 5000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
     "MaxPoint": 4000,
     "MonGaugeBuffMax": [
       21101241
@@ -46,6 +48,8 @@
     ],
     "BattleGaugeResource": "BattleGaugeSubview_Rakpasha_Spirit_Boss",
     "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
     "PCGaugeBuffMax": [
       21101141,
       21101143
@@ -61,6 +65,8 @@
     "PCGaugeValue2": 2000,
     "PCGaugeValue3": 3000,
     "WaitTime": 10000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
     "MaxPoint": 4000,
     "MonGaugeBuffMax": [
       21101241
@@ -98,6 +104,8 @@
     ],
     "BattleGaugeResource": "BattleGaugeSubview_Rakpasha_Spirit_Boss",
     "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
     "PCGaugeBuffMax": [
       21101141,
       21101143
@@ -113,6 +121,8 @@
     "PCGaugeValue2": 2000,
     "PCGaugeValue3": 3000,
     "WaitTime": 5000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
     "MaxPoint": 4000,
     "MonGaugeBuffMax": [
       221010241
@@ -150,6 +160,8 @@
     ],
     "BattleGaugeResource": "BattleGaugeSubview_HugeGiant_Boss",
     "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
     "PCGaugeBuffMax": [
       221010141
     ]
@@ -164,6 +176,8 @@
     "PCGaugeValue2": 2000,
     "PCGaugeValue3": 3000,
     "WaitTime": 10000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
     "MaxPoint": 4000,
     "MonGaugeBuffMax": [
       221010241
@@ -201,8 +215,75 @@
     ],
     "BattleGaugeResource": "BattleGaugeSubview_HugeGiant_Boss",
     "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
     "PCGaugeBuffMax": [
       221010141
+    ]
+  },
+  {
+    "MonGaugeValue1": 1000,
+    "MonGaugeValue3": 3000,
+    "MonGaugeValue2": 2000,
+    "ID": 5,
+    "StartValue": 0,
+    "PCGaugeValue1": 1000,
+    "PCGaugeValue2": 2000,
+    "PCGaugeValue3": 3000,
+    "WaitTime": 10000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
+    "MaxPoint": 4000,
+    "MonGaugeBuffMax": [
+      100191251,
+      100191241,
+      100191242,
+      100191243,
+      100191248
+    ],
+    "FightGauge": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "MonGaugeBuff1": [
+      100191251,
+      100191211,
+      100191212,
+      100191213,
+      100191248
+    ],
+    "MonGaugeBuff3": [
+      100191251,
+      100191231,
+      100191232,
+      100191233
+    ],
+    "MonGaugeBuff2": [
+      100191251,
+      100191221,
+      100191222,
+      100191223
+    ],
+    "PCGaugeBuff2": [
+      100191254
+    ],
+    "PCGaugeBuff3": [
+      100191255
+    ],
+    "PCGaugeBuff1": [
+      100191252,
+      100191253
+    ],
+    "PCGaugeBuffMax_Target": [],
+    "BattleGaugeResource": "BattleGaugeSubview_Temperature",
+    "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
+    "PCGaugeBuffMax": [
+      100191256,
+      100191142
     ]
   },
   {
@@ -215,6 +296,8 @@
     "PCGaugeValue2": 2000,
     "PCGaugeValue3": 3000,
     "WaitTime": 10000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
     "MaxPoint": 4000,
     "MonGaugeBuffMax": [
       21101241
@@ -252,6 +335,8 @@
     ],
     "BattleGaugeResource": "BattleGaugeSubview_Rakpasha_Spirit_Boss",
     "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
     "PCGaugeBuffMax": [
       21101141,
       21101143
@@ -267,6 +352,8 @@
     "PCGaugeValue2": 2000,
     "PCGaugeValue3": 3000,
     "WaitTime": 5000,
+    "GaugeOnTime": 0,
+    "GaugeActivateType": 1,
     "MaxPoint": 4000,
     "MonGaugeBuffMax": [
       221010241
@@ -304,8 +391,49 @@
     ],
     "BattleGaugeResource": "BattleGaugeSubview_HugeGiant_Boss",
     "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [],
+    "GaugeReduceFailBuff": [],
     "PCGaugeBuffMax": [
       221010141
     ]
+  },
+  {
+    "MonGaugeValue1": 0,
+    "MonGaugeValue3": 0,
+    "MonGaugeValue2": 0,
+    "ID": 8,
+    "StartValue": 0,
+    "PCGaugeValue1": 0,
+    "PCGaugeValue2": 0,
+    "PCGaugeValue3": 0,
+    "WaitTime": 5000,
+    "GaugeOnTime": 25000,
+    "GaugeActivateType": 2,
+    "MaxPoint": 3000,
+    "MonGaugeBuffMax": [
+      233110043,
+      233110047
+    ],
+    "FightGauge": [
+      47,
+      48
+    ],
+    "MonGaugeBuff1": [],
+    "MonGaugeBuff3": [],
+    "MonGaugeBuff2": [],
+    "PCGaugeBuff2": [],
+    "PCGaugeBuff3": [],
+    "PCGaugeBuff1": [],
+    "PCGaugeBuffMax_Target": [],
+    "BattleGaugeResource": "BattleGaugeSubview_Kiar_Boss",
+    "MonGaugeBuffMax_Target": [],
+    "GaugeReduceSuccessBuff": [
+      233110046,
+      233110041
+    ],
+    "GaugeReduceFailBuff": [
+      233110042
+    ],
+    "PCGaugeBuffMax": []
   }
 ]

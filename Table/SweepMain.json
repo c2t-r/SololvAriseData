@@ -20,7 +20,7 @@
     "PaymentItemIndex": 0,
     "ContentsType": "ChaosDungeon",
     "PaymentItemType": "",
-    "ConditionType": "ClearBattleMissionAll",
+    "ConditionType": "IsClear",
     "ModeType": "SJW"
   },
   {
@@ -32,7 +32,7 @@
     "PaymentItemIndex": 0,
     "ContentsType": "ArtifactDungeon",
     "PaymentItemType": "",
-    "ConditionType": "ClearBattleMissionAll",
+    "ConditionType": "IsClear",
     "ModeType": "Hunter"
   },
   {
@@ -44,7 +44,7 @@
     "PaymentItemIndex": 0,
     "ContentsType": "CoreDungeon",
     "PaymentItemType": "",
-    "ConditionType": "ClearBattleMissionAll",
+    "ConditionType": "IsClear",
     "ModeType": "Hunter"
   },
   {
@@ -69,6 +69,18 @@
     "ContentsType": "DimensionGate",
     "PaymentItemType": "",
     "ConditionType": "ClearLevelHigher",
+    "ModeType": "Hunter"
+  },
+  {
+    "PaymentItemValue": 0,
+    "ID": 7,
+    "ConsumptionType": true,
+    "ConditionValue": 0,
+    "SweepPoint": 0,
+    "PaymentItemIndex": 0,
+    "ContentsType": "IsolationZone",
+    "PaymentItemType": "",
+    "ConditionType": "Disabled",
     "ModeType": "Hunter"
   },
   {

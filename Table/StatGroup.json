@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "Name": "SysConstStr.StatGroupName01",
+    "TargetStats": [
+      "AttR",
+      "ArmR"
+    ],
+    "Icon": "Stat_Attack_Defense_per",
+    "GroupType": "AttArmR"
+  },
+  {
+    "ID": 2,
+    "Name": "SysConstStr.StatGroupName02",
+    "TargetStats": [
+      "AddAtt",
+      "AddArm"
+    ],
+    "Icon": "Stat_Attack_Defense",
+    "GroupType": "AttArmAdd"
+  }
+]

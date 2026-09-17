@@ -88,19 +88,21 @@
     "TransUnlock": 0,
     "ID": 5,
     "ContentMoveTarget": 23,
-    "LevelGroup": 0,
-    "TraitGroup": 0,
-    "ContentsUnlockID": 0,
-    "ReplicaID": 0,
-    "ImgBG": "",
+    "LevelGroup": 5,
+    "TraitGroup": 5,
+    "ContentsUnlockID": 4370,
+    "ReplicaID": 3000005,
+    "ImgBG": "DG_Adan_Boss_Big",
     "TransRate": [],
-    "BossName": "",
-    "ResourcePrefab": "",
-    "SubName": "",
-    "ExpItem": [],
+    "BossName": "SysConstStr.RaidReplica.BossName05",
+    "ResourcePrefab": "Replica_Adan_Boss",
+    "SubName": "SysConstStr.RaidReplica.SubName05",
+    "ExpItem": [
+      10171005
+    ],
     "IsTransLock": [],
     "TransItem": [],
-    "ImgBoss": ""
+    "ImgBoss": "Adan_Human_Boss"
   },
   {
     "UIShow": true,

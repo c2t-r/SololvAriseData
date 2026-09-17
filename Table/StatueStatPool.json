@@ -3,24 +3,27 @@
     "PoolGroup": 1,
     "ID": 101,
     "Weight": 500,
-    "Value": 13,
+    "Value": 100,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
     "PoolGroup": 1,
     "ID": 102,
     "Weight": 500,
-    "Value": 13,
+    "Value": 100,
     "StatType": "ArmR",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
     "PoolGroup": 1,
     "ID": 103,
     "Weight": 500,
-    "Value": 13,
-    "StatType": "MHPR",
+    "Value": 100,
+    "StatType": "",
+    "StatGroupType": "AttArmR",
     "Grade": "E"
   },
   {
@@ -29,6 +32,7 @@
     "Weight": 500,
     "Value": 10,
     "StatType": "AddAtt",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -37,6 +41,7 @@
     "Weight": 500,
     "Value": 10,
     "StatType": "AddMHP",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -45,6 +50,7 @@
     "Weight": 500,
     "Value": 10,
     "StatType": "AddArm",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -53,6 +59,7 @@
     "Weight": 500,
     "Value": 30,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -61,6 +68,7 @@
     "Weight": 500,
     "Value": 30,
     "StatType": "CriDam",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -69,6 +77,7 @@
     "Weight": 500,
     "Value": 30,
     "StatType": "ArmPenP",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -77,6 +86,7 @@
     "Weight": 500,
     "Value": 30,
     "StatType": "Dam",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -85,6 +95,7 @@
     "Weight": 500,
     "Value": 5,
     "StatType": "AddMMP",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -93,6 +104,7 @@
     "Weight": 400,
     "Value": 38,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -101,6 +113,7 @@
     "Weight": 400,
     "Value": 38,
     "StatType": "ArmR",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -109,6 +122,7 @@
     "Weight": 400,
     "Value": 38,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -117,6 +131,7 @@
     "Weight": 400,
     "Value": 35,
     "StatType": "AddAtt",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -125,6 +140,7 @@
     "Weight": 400,
     "Value": 35,
     "StatType": "AddMHP",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -133,6 +149,7 @@
     "Weight": 400,
     "Value": 35,
     "StatType": "AddArm",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -141,6 +158,7 @@
     "Weight": 400,
     "Value": 95,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -149,6 +167,7 @@
     "Weight": 400,
     "Value": 95,
     "StatType": "CriDam",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -157,6 +176,7 @@
     "Weight": 400,
     "Value": 95,
     "StatType": "ArmPenP",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -165,6 +185,7 @@
     "Weight": 400,
     "Value": 95,
     "StatType": "Dam",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -173,6 +194,7 @@
     "Weight": 400,
     "Value": 10,
     "StatType": "AddMMP",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -181,6 +203,7 @@
     "Weight": 300,
     "Value": 64,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -189,6 +212,7 @@
     "Weight": 300,
     "Value": 64,
     "StatType": "ArmR",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -197,6 +221,7 @@
     "Weight": 300,
     "Value": 64,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -205,6 +230,7 @@
     "Weight": 300,
     "Value": 60,
     "StatType": "AddAtt",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -213,6 +239,7 @@
     "Weight": 300,
     "Value": 60,
     "StatType": "AddMHP",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -221,6 +248,7 @@
     "Weight": 300,
     "Value": 60,
     "StatType": "AddArm",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -229,6 +257,7 @@
     "Weight": 300,
     "Value": 155,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -237,6 +266,7 @@
     "Weight": 300,
     "Value": 155,
     "StatType": "CriDam",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -245,6 +275,7 @@
     "Weight": 300,
     "Value": 155,
     "StatType": "ArmPenP",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -253,6 +284,7 @@
     "Weight": 300,
     "Value": 155,
     "StatType": "Dam",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -261,6 +293,7 @@
     "Weight": 300,
     "Value": 20,
     "StatType": "AddMMP",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -269,6 +302,7 @@
     "Weight": 200,
     "Value": 77,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -277,6 +311,7 @@
     "Weight": 200,
     "Value": 77,
     "StatType": "ArmR",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -285,6 +320,7 @@
     "Weight": 200,
     "Value": 77,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -293,6 +329,7 @@
     "Weight": 200,
     "Value": 70,
     "StatType": "AddAtt",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -301,6 +338,7 @@
     "Weight": 200,
     "Value": 70,
     "StatType": "AddMHP",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -309,6 +347,7 @@
     "Weight": 200,
     "Value": 70,
     "StatType": "AddArm",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -317,6 +356,7 @@
     "Weight": 200,
     "Value": 185,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -325,6 +365,7 @@
     "Weight": 200,
     "Value": 185,
     "StatType": "CriDam",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -333,6 +374,7 @@
     "Weight": 200,
     "Value": 185,
     "StatType": "ArmPenP",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -341,6 +383,7 @@
     "Weight": 200,
     "Value": 185,
     "StatType": "Dam",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -349,6 +392,7 @@
     "Weight": 200,
     "Value": 25,
     "StatType": "AddMMP",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -357,6 +401,7 @@
     "Weight": 100,
     "Value": 102,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -365,6 +410,7 @@
     "Weight": 100,
     "Value": 102,
     "StatType": "ArmR",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -373,6 +419,7 @@
     "Weight": 100,
     "Value": 102,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -381,6 +428,7 @@
     "Weight": 100,
     "Value": 90,
     "StatType": "AddAtt",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -389,6 +437,7 @@
     "Weight": 100,
     "Value": 90,
     "StatType": "AddMHP",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -397,6 +446,7 @@
     "Weight": 100,
     "Value": 90,
     "StatType": "AddArm",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -405,6 +455,7 @@
     "Weight": 100,
     "Value": 245,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -413,6 +464,7 @@
     "Weight": 100,
     "Value": 245,
     "StatType": "CriDam",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -421,6 +473,7 @@
     "Weight": 100,
     "Value": 245,
     "StatType": "ArmPenP",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -429,6 +482,7 @@
     "Weight": 100,
     "Value": 245,
     "StatType": "Dam",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -437,6 +491,7 @@
     "Weight": 100,
     "Value": 30,
     "StatType": "AddMMP",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -445,6 +500,7 @@
     "Weight": 80,
     "Value": 128,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -453,6 +509,7 @@
     "Weight": 80,
     "Value": 128,
     "StatType": "ArmR",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -461,6 +518,7 @@
     "Weight": 80,
     "Value": 128,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -469,6 +527,7 @@
     "Weight": 80,
     "Value": 115,
     "StatType": "AddAtt",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -477,6 +536,7 @@
     "Weight": 80,
     "Value": 115,
     "StatType": "AddMHP",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -485,6 +545,7 @@
     "Weight": 80,
     "Value": 115,
     "StatType": "AddArm",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -493,6 +554,7 @@
     "Weight": 80,
     "Value": 310,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -501,6 +563,7 @@
     "Weight": 80,
     "Value": 310,
     "StatType": "CriDam",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -509,6 +572,7 @@
     "Weight": 80,
     "Value": 310,
     "StatType": "ArmPenP",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -517,6 +581,7 @@
     "Weight": 80,
     "Value": 310,
     "StatType": "Dam",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -525,6 +590,7 @@
     "Weight": 80,
     "Value": 40,
     "StatType": "AddMMP",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -533,6 +599,7 @@
     "Weight": 200,
     "Value": 750,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -541,6 +608,7 @@
     "Weight": 200,
     "Value": 3600,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -549,6 +617,7 @@
     "Weight": 66,
     "Value": 500,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "E"
   },
   {
@@ -557,6 +626,7 @@
     "Weight": 100,
     "Value": 1500,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -565,6 +635,7 @@
     "Weight": 100,
     "Value": 1200,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -573,6 +644,7 @@
     "Weight": 33,
     "Value": 1000,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "D"
   },
   {
@@ -581,6 +653,7 @@
     "Weight": 60,
     "Value": 2250,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -589,6 +662,7 @@
     "Weight": 60,
     "Value": 1800,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -597,6 +671,7 @@
     "Weight": 20,
     "Value": 1500,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "C"
   },
   {
@@ -605,6 +680,7 @@
     "Weight": 30,
     "Value": 3000,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -613,6 +689,7 @@
     "Weight": 30,
     "Value": 2400,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -621,6 +698,7 @@
     "Weight": 10,
     "Value": 2000,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "B"
   },
   {
@@ -629,6 +707,7 @@
     "Weight": 12,
     "Value": 4200,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -637,6 +716,7 @@
     "Weight": 12,
     "Value": 3360,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -645,6 +725,7 @@
     "Weight": 5,
     "Value": 2500,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "A"
   },
   {
@@ -653,6 +734,7 @@
     "Weight": 3,
     "Value": 6000,
     "StatType": "MHPR",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -661,6 +743,7 @@
     "Weight": 3,
     "Value": 4800,
     "StatType": "AttR",
+    "StatGroupType": "",
     "Grade": "S"
   },
   {
@@ -669,6 +752,7 @@
     "Weight": 5,
     "Value": 3000,
     "StatType": "Critical",
+    "StatGroupType": "",
     "Grade": "S"
   }
 ]

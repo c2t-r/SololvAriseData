@@ -1,0 +1,24 @@
+[
+  {
+    "ID": 1,
+    "BattleSquadID": 300101,
+    "BossName": "SysConstStr.ChName.ShadowIgris",
+    "ContentsMenuResource": "Icon_QuickMenu_IsolationZone_Igris",
+    "BossDesc": "It.StringDesc.200030016_01",
+    "BossSubName": "It.StringName.11063007",
+    "ContentsSubMenuResource": "Icon_QuickMenuSub_IsolationZone_Igris",
+    "LobbyVideoClip": "IsolationZone_Igris",
+    "BossPortrait": "IsolationZone_Igris_Boss"
+  },
+  {
+    "ID": 2,
+    "BattleSquadID": 300102,
+    "BossName": "SysConstStr.RaidReplica.BossName01",
+    "ContentsMenuResource": "Icon_QuickMenu_IsolationZone_Baran",
+    "BossDesc": "It.StringDesc.200030016_01",
+    "BossSubName": "It.StringName.11063007",
+    "ContentsSubMenuResource": "Icon_QuickMenuSub_IsolationZone_Baran",
+    "LobbyVideoClip": "IsolationZone_Baran",
+    "BossPortrait": "IsolationZone_Baran_Boss"
+  }
+]

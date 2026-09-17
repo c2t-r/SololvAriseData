@@ -44,10 +44,94 @@
     "StageSequence": 2,
     "ID": 2,
     "StageGroupID": 1,
-    "CodeBuffRerollID": 0,
+    "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
     "TriggerIndex": 2,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      60,
+      30,
+      10
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      17,
+      18
+    ],
+    "DunStageID": [
+      4201,
+      4202,
+      4203,
+      4204,
+      4205,
+      4206
+    ],
+    "DimensionStageType": "EliteBattle"
+  },
+  {
+    "StageSequence": 2,
+    "ID": 3,
+    "StageGroupID": 1,
+    "CodeBuffRerollID": 0,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 3,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      100,
+      0,
+      0
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      2,
+      3,
+      17,
+      18
+    ],
+    "DunStageID": [
+      4801,
+      4802,
+      4803,
+      4804
+    ],
+    "DimensionStageType": "Repair"
+  },
+  {
+    "StageSequence": 2,
+    "ID": 4,
+    "StageGroupID": 1,
+    "CodeBuffRerollID": 0,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 4,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       33,
@@ -79,51 +163,13 @@
     "DimensionStageType": "Episode"
   },
   {
-    "StageSequence": 2,
-    "ID": 3,
+    "StageSequence": 3,
+    "ID": 5,
     "StageGroupID": 1,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 3,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4201,
-      4204
-    ],
-    "DimensionStageType": "EliteBattle"
-  },
-  {
-    "StageSequence": 3,
-    "ID": 4,
-    "StageGroupID": 1,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 4,
+    "TriggerIndex": 5,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       100,
@@ -149,48 +195,12 @@
       18
     ],
     "DunStageID": [
-      4901,
-      4902
+      4301,
+      4302,
+      4303,
+      4304
     ],
-    "DimensionStageType": "Shop"
-  },
-  {
-    "StageSequence": 3,
-    "ID": 5,
-    "StageGroupID": 1,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 5,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4202,
-      4205
-    ],
-    "DimensionStageType": "EliteBattle"
+    "DimensionStageType": "HardBattle"
   },
   {
     "StageSequence": 4,
@@ -226,8 +236,11 @@
     ],
     "DunStageID": [
       4501,
+      4502,
       4503,
-      4505
+      4504,
+      4505,
+      4506
     ],
     "DimensionStageType": "HunterBoss"
   },
@@ -241,9 +254,9 @@
     "TriggerIndex": 7,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
-      60,
-      30,
-      10
+      50,
+      25,
+      25
     ],
     "CodeCategory": [
       1,
@@ -264,10 +277,12 @@
       18
     ],
     "DunStageID": [
-      4203,
-      4206
+      4401,
+      4403,
+      4405,
+      4407
     ],
-    "DimensionStageType": "EliteBattle"
+    "DimensionStageType": "BossBattle"
   },
   {
     "StageSequence": 5,
@@ -353,15 +368,15 @@
     "StageSequence": 6,
     "ID": 10,
     "StageGroupID": 1,
-    "CodeBuffRerollID": 1,
+    "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
     "VisbleState": true,
     "TriggerIndex": 10,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
-      100,
-      0,
-      0
+      33,
+      34,
+      33
     ],
     "CodeCategory": [
       1,
@@ -377,20 +392,18 @@
       11,
       12
     ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
+    "DimensionEventObjectID": [],
     "DunStageID": [
-      4301,
-      4302,
-      4303,
-      4304
+      4701,
+      4702,
+      4703,
+      4704,
+      4705
     ],
-    "DimensionStageType": "HardBattle"
+    "DimensionStageType": "Episode"
   },
   {
-    "StageSequence": 7,
+    "StageSequence": 6,
     "ID": 11,
     "StageGroupID": 1,
     "CodeBuffRerollID": 1,
@@ -422,10 +435,10 @@
       18
     ],
     "DunStageID": [
-      4401,
-      4403,
-      4405,
-      4407
+      4402,
+      4404,
+      4406,
+      4408
     ],
     "DimensionStageType": "BossBattle"
   },
@@ -472,52 +485,14 @@
     "DimensionStageType": "Repair"
   },
   {
-    "StageSequence": 7,
-    "ID": 13,
-    "StageGroupID": 1,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 13,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
     "StageSequence": 8,
-    "ID": 14,
+    "ID": 13,
     "StageGroupID": 1,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 14,
-    "ProgressCoinValue": 100,
+    "TriggerIndex": 13,
+    "ProgressCoinValue": 0,
     "CodeGradePriority": [
       0,
       0,
@@ -542,63 +517,25 @@
       18
     ],
     "DunStageID": [
-      4502,
-      4504,
-      4506
+      4601,
+      4602,
+      4603
     ],
-    "DimensionStageType": "HunterBoss"
+    "DimensionStageType": "SJWBoss"
   },
   {
-    "StageSequence": 9,
-    "ID": 15,
-    "StageGroupID": 1,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 15,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 9,
-    "ID": 16,
-    "StageGroupID": 1,
+    "StageSequence": 1,
+    "ID": 14,
+    "StageGroupID": 2,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 16,
+    "TriggerIndex": 1,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
-      50,
-      25,
-      25
+      100,
+      0,
+      0
     ],
     "CodeCategory": [
       1,
@@ -619,21 +556,64 @@
       18
     ],
     "DunStageID": [
-      4402,
-      4404,
-      4406,
-      4408
+      4101,
+      4102,
+      4103,
+      4104,
+      4105
     ],
-    "DimensionStageType": "BossBattle"
+    "DimensionStageType": "NormalBattle"
   },
   {
-    "StageSequence": 10,
-    "ID": 17,
-    "StageGroupID": 1,
+    "StageSequence": 2,
+    "ID": 15,
+    "StageGroupID": 2,
+    "CodeBuffRerollID": 1,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 2,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      60,
+      30,
+      10
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      17,
+      18
+    ],
+    "DunStageID": [
+      4201,
+      4202,
+      4203,
+      4204,
+      4205,
+      4206
+    ],
+    "DimensionStageType": "EliteBattle"
+  },
+  {
+    "StageSequence": 2,
+    "ID": 16,
+    "StageGroupID": 2,
     "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 17,
+    "TriggerIndex": 3,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       100,
@@ -669,14 +649,54 @@
     "DimensionStageType": "Repair"
   },
   {
-    "StageSequence": 11,
-    "ID": 18,
-    "StageGroupID": 1,
+    "StageSequence": 3,
+    "ID": 17,
+    "StageGroupID": 2,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 18,
-    "ProgressCoinValue": 0,
+    "TriggerIndex": 4,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      100,
+      0,
+      0
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      17,
+      18
+    ],
+    "DunStageID": [
+      4301,
+      4302,
+      4303,
+      4304
+    ],
+    "DimensionStageType": "HardBattle"
+  },
+  {
+    "StageSequence": 4,
+    "ID": 18,
+    "StageGroupID": 2,
+    "CodeBuffRerollID": 1,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 5,
+    "ProgressCoinValue": 100,
     "CodeGradePriority": [
       0,
       0,
@@ -701,25 +721,28 @@
       18
     ],
     "DunStageID": [
-      4601,
-      4602,
-      4603
+      4501,
+      4502,
+      4503,
+      4504,
+      4505,
+      4506
     ],
-    "DimensionStageType": "SJWBoss"
+    "DimensionStageType": "HunterBoss"
   },
   {
-    "StageSequence": 1,
+    "StageSequence": 5,
     "ID": 19,
     "StageGroupID": 2,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 1,
+    "TriggerIndex": 6,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
-      100,
-      0,
-      0
+      50,
+      25,
+      25
     ],
     "CodeCategory": [
       1,
@@ -740,251 +763,21 @@
       18
     ],
     "DunStageID": [
-      4101,
-      4102,
-      4103,
-      4104,
-      4105
+      4401,
+      4403,
+      4405,
+      4407
     ],
-    "DimensionStageType": "NormalBattle"
+    "DimensionStageType": "BossBattle"
   },
   {
-    "StageSequence": 2,
+    "StageSequence": 5,
     "ID": 20,
     "StageGroupID": 2,
     "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 2,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 2,
-    "ID": 21,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 3,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4201,
-      4204
-    ],
-    "DimensionStageType": "EliteBattle"
-  },
-  {
-    "StageSequence": 3,
-    "ID": 22,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 4,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      100,
-      0,
-      0
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4901,
-      4902
-    ],
-    "DimensionStageType": "Shop"
-  },
-  {
-    "StageSequence": 3,
-    "ID": 23,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 5,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4202,
-      4205
-    ],
-    "DimensionStageType": "EliteBattle"
-  },
-  {
-    "StageSequence": 4,
-    "ID": 24,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 6,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      0,
-      0,
-      100
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4501,
-      4503,
-      4505
-    ],
-    "DimensionStageType": "HunterBoss"
-  },
-  {
-    "StageSequence": 5,
-    "ID": 25,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
     "TriggerIndex": 7,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4203,
-      4206
-    ],
-    "DimensionStageType": "EliteBattle"
-  },
-  {
-    "StageSequence": 5,
-    "ID": 26,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 8,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       100,
@@ -1020,18 +813,18 @@
     "DimensionStageType": "Repair"
   },
   {
-    "StageSequence": 6,
-    "ID": 27,
+    "StageSequence": 5,
+    "ID": 21,
     "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
+    "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 9,
+    "TriggerIndex": 8,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
-      100,
-      0,
-      0
+      33,
+      34,
+      33
     ],
     "CodeCategory": [
       1,
@@ -1047,21 +840,57 @@
       11,
       12
     ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
+    "DimensionEventObjectID": [],
     "DunStageID": [
-      4301,
-      4302,
-      4303,
-      4304
+      4701,
+      4702,
+      4703,
+      4704,
+      4705
     ],
-    "DimensionStageType": "HardBattle"
+    "DimensionStageType": "Episode"
   },
   {
-    "StageSequence": 7,
-    "ID": 28,
+    "StageSequence": 6,
+    "ID": 22,
+    "StageGroupID": 2,
+    "CodeBuffRerollID": 0,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 9,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      33,
+      34,
+      33
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [],
+    "DunStageID": [
+      4701,
+      4702,
+      4703,
+      4704,
+      4705
+    ],
+    "DimensionStageType": "Episode"
+  },
+  {
+    "StageSequence": 6,
+    "ID": 23,
     "StageGroupID": 2,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
@@ -1092,16 +921,16 @@
       18
     ],
     "DunStageID": [
-      4401,
-      4403,
-      4405,
-      4407
+      4402,
+      4404,
+      4406,
+      4408
     ],
     "DimensionStageType": "BossBattle"
   },
   {
     "StageSequence": 7,
-    "ID": 29,
+    "ID": 24,
     "StageGroupID": 2,
     "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
@@ -1142,210 +971,13 @@
     "DimensionStageType": "Repair"
   },
   {
-    "StageSequence": 7,
-    "ID": 30,
+    "StageSequence": 8,
+    "ID": 25,
     "StageGroupID": 2,
-    "CodeBuffRerollID": 0,
+    "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
     "TriggerIndex": 12,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 8,
-    "ID": 31,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 13,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      0,
-      0,
-      100
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4502,
-      4504,
-      4506
-    ],
-    "DimensionStageType": "HunterBoss"
-  },
-  {
-    "StageSequence": 9,
-    "ID": 32,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 14,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 9,
-    "ID": 33,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 15,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      50,
-      25,
-      25
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4402,
-      4404,
-      4406,
-      4408
-    ],
-    "DimensionStageType": "BossBattle"
-  },
-  {
-    "StageSequence": 10,
-    "ID": 34,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 16,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      100,
-      0,
-      0
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      2,
-      3,
-      17,
-      18
-    ],
-    "DunStageID": [
-      4801,
-      4802,
-      4803,
-      4804
-    ],
-    "DimensionStageType": "Repair"
-  },
-  {
-    "StageSequence": 11,
-    "ID": 35,
-    "StageGroupID": 2,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 17,
     "ProgressCoinValue": 0,
     "CodeGradePriority": [
       0,
@@ -1379,7 +1011,7 @@
   },
   {
     "StageSequence": 1,
-    "ID": 36,
+    "ID": 26,
     "StageGroupID": 3,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
@@ -1420,50 +1052,12 @@
   },
   {
     "StageSequence": 2,
-    "ID": 37,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 2,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 2,
-    "ID": 38,
+    "ID": 27,
     "StageGroupID": 3,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 3,
+    "TriggerIndex": 2,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       60,
@@ -1490,171 +1084,22 @@
     ],
     "DunStageID": [
       4201,
-      4204
-    ],
-    "DimensionStageType": "EliteBattle"
-  },
-  {
-    "StageSequence": 3,
-    "ID": 39,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 4,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      100,
-      0,
-      0
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4901,
-      4902
-    ],
-    "DimensionStageType": "Shop"
-  },
-  {
-    "StageSequence": 3,
-    "ID": 40,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 5,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
       4202,
-      4205
-    ],
-    "DimensionStageType": "EliteBattle"
-  },
-  {
-    "StageSequence": 4,
-    "ID": 41,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 6,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      0,
-      0,
-      100
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4501,
-      4503,
-      4505
-    ],
-    "DimensionStageType": "HunterBoss"
-  },
-  {
-    "StageSequence": 5,
-    "ID": 42,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 7,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      60,
-      30,
-      10
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
       4203,
+      4204,
+      4205,
       4206
     ],
     "DimensionStageType": "EliteBattle"
   },
   {
-    "StageSequence": 5,
-    "ID": 43,
+    "StageSequence": 2,
+    "ID": 28,
     "StageGroupID": 3,
     "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 8,
+    "TriggerIndex": 3,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       100,
@@ -1690,8 +1135,206 @@
     "DimensionStageType": "Repair"
   },
   {
+    "StageSequence": 2,
+    "ID": 29,
+    "StageGroupID": 3,
+    "CodeBuffRerollID": 0,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 4,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      33,
+      34,
+      33
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [],
+    "DunStageID": [
+      4701,
+      4702,
+      4703,
+      4704,
+      4705
+    ],
+    "DimensionStageType": "Episode"
+  },
+  {
+    "StageSequence": 3,
+    "ID": 30,
+    "StageGroupID": 3,
+    "CodeBuffRerollID": 1,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 5,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      100,
+      0,
+      0
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      17,
+      18
+    ],
+    "DunStageID": [
+      4301,
+      4302,
+      4303,
+      4304
+    ],
+    "DimensionStageType": "HardBattle"
+  },
+  {
+    "StageSequence": 4,
+    "ID": 31,
+    "StageGroupID": 3,
+    "CodeBuffRerollID": 1,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 6,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      0,
+      0,
+      100
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      17,
+      18
+    ],
+    "DunStageID": [
+      4501,
+      4502,
+      4503,
+      4504,
+      4505,
+      4506
+    ],
+    "DimensionStageType": "HunterBoss"
+  },
+  {
     "StageSequence": 5,
-    "ID": 44,
+    "ID": 32,
+    "StageGroupID": 3,
+    "CodeBuffRerollID": 1,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 7,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      50,
+      25,
+      25
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [
+      17,
+      18
+    ],
+    "DunStageID": [
+      4401,
+      4403,
+      4405,
+      4407
+    ],
+    "DimensionStageType": "BossBattle"
+  },
+  {
+    "StageSequence": 5,
+    "ID": 33,
+    "StageGroupID": 3,
+    "CodeBuffRerollID": 0,
+    "BattleSquadID": 81,
+    "VisbleState": true,
+    "TriggerIndex": 8,
+    "ProgressCoinValue": 100,
+    "CodeGradePriority": [
+      33,
+      34,
+      33
+    ],
+    "CodeCategory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "DimensionEventObjectID": [],
+    "DunStageID": [
+      4701,
+      4702,
+      4703,
+      4704,
+      4705
+    ],
+    "DimensionStageType": "Episode"
+  },
+  {
+    "StageSequence": 6,
+    "ID": 34,
     "StageGroupID": 3,
     "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
@@ -1729,207 +1372,12 @@
   },
   {
     "StageSequence": 6,
-    "ID": 45,
+    "ID": 35,
     "StageGroupID": 3,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
     "TriggerIndex": 10,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      100,
-      0,
-      0
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4301,
-      4302,
-      4303,
-      4304
-    ],
-    "DimensionStageType": "HardBattle"
-  },
-  {
-    "StageSequence": 7,
-    "ID": 46,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 11,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      50,
-      25,
-      25
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4401,
-      4403,
-      4405,
-      4407
-    ],
-    "DimensionStageType": "BossBattle"
-  },
-  {
-    "StageSequence": 7,
-    "ID": 47,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 12,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 8,
-    "ID": 48,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 13,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      0,
-      0,
-      100
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [
-      17,
-      18
-    ],
-    "DunStageID": [
-      4502,
-      4504,
-      4506
-    ],
-    "DimensionStageType": "HunterBoss"
-  },
-  {
-    "StageSequence": 9,
-    "ID": 49,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 0,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 14,
-    "ProgressCoinValue": 100,
-    "CodeGradePriority": [
-      33,
-      34,
-      33
-    ],
-    "CodeCategory": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "DimensionEventObjectID": [],
-    "DunStageID": [
-      4701,
-      4702,
-      4703,
-      4704,
-      4705
-    ],
-    "DimensionStageType": "Episode"
-  },
-  {
-    "StageSequence": 9,
-    "ID": 50,
-    "StageGroupID": 3,
-    "CodeBuffRerollID": 1,
-    "BattleSquadID": 81,
-    "VisbleState": true,
-    "TriggerIndex": 15,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       50,
@@ -1963,13 +1411,13 @@
     "DimensionStageType": "BossBattle"
   },
   {
-    "StageSequence": 10,
-    "ID": 51,
+    "StageSequence": 7,
+    "ID": 36,
     "StageGroupID": 3,
     "CodeBuffRerollID": 0,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 16,
+    "TriggerIndex": 11,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       100,
@@ -2005,13 +1453,13 @@
     "DimensionStageType": "Repair"
   },
   {
-    "StageSequence": 10,
-    "ID": 52,
+    "StageSequence": 7,
+    "ID": 37,
     "StageGroupID": 3,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 17,
+    "TriggerIndex": 12,
     "ProgressCoinValue": 100,
     "CodeGradePriority": [
       50,
@@ -2045,13 +1493,13 @@
     "DimensionStageType": "BossBattle"
   },
   {
-    "StageSequence": 11,
-    "ID": 53,
+    "StageSequence": 8,
+    "ID": 38,
     "StageGroupID": 3,
     "CodeBuffRerollID": 1,
     "BattleSquadID": 81,
     "VisbleState": true,
-    "TriggerIndex": 18,
+    "TriggerIndex": 13,
     "ProgressCoinValue": 0,
     "CodeGradePriority": [
       0,

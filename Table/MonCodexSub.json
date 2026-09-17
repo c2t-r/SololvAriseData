@@ -970,7 +970,7 @@
     "TransformMonsterResourceID": []
   },
   {
-    "MoveTargetID": 0,
+    "MoveTargetID": 47,
     "MonsterID": 35701,
     "MonsterResourceID": 35700,
     "ID": 108,
@@ -1193,5 +1193,115 @@
     "Name": "SysConstStr.ChName.EmmaLaurent.CoreMonster",
     "Resource": "EmmaLaurent_Core_Dungeon_Boss_Portrait",
     "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 35315,
+    "MonsterResourceID": 35300,
+    "ID": 132,
+    "Name": "SysConstStr.ChName.NagaDoubleTridentElite",
+    "Resource": "Naga_DoubleTrident_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 35809,
+    "MonsterResourceID": 35800,
+    "ID": 133,
+    "Name": "SysConstStr.ChName.DarkElf_Bow_Elite",
+    "Resource": "DarkElf_Bow_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 35909,
+    "MonsterResourceID": 35900,
+    "ID": 134,
+    "Name": "SysConstStr.ChName.Ogre_Elite",
+    "Resource": "Ogre_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 36108,
+    "MonsterResourceID": 36100,
+    "ID": 135,
+    "Name": "SysConstStr.ChName.Troll_Elite",
+    "Resource": "Troll_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 36608,
+    "MonsterResourceID": 36600,
+    "ID": 136,
+    "Name": "SysConstStr.ChName.Ratun_Elite",
+    "Resource": "Ratun_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 36704,
+    "MonsterResourceID": 36700,
+    "ID": 137,
+    "Name": "SysConstStr.ChName.Skar_Elite",
+    "Resource": "Skar_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 36803,
+    "MonsterResourceID": 36800,
+    "ID": 138,
+    "Name": "SysConstStr.ChName.Bultaur_Elite",
+    "Resource": "Bultaur_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 36203,
+    "MonsterResourceID": 36200,
+    "ID": 139,
+    "Name": "SysConstStr.ChName.Yeti_Elite_A",
+    "Resource": "Yeti_Elite_A_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 47,
+    "MonsterID": 36410,
+    "MonsterResourceID": 36400,
+    "ID": 140,
+    "Name": "SysConstStr.ChName.Giant_Elite",
+    "Resource": "Giant_Elite_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 23,
+    "MonsterID": 23310,
+    "MonsterResourceID": 23300,
+    "ID": 141,
+    "Name": "SysConstStr.ChName.Kiar_Boss",
+    "Resource": "Kiar_Boss_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 23,
+    "MonsterID": 23202,
+    "MonsterResourceID": 23200,
+    "ID": 142,
+    "Name": "SysConstStr.ChName.TarrBoss",
+    "Resource": "Tarr_Human_Boss_Portrait",
+    "TransformMonsterResourceID": []
+  },
+  {
+    "MoveTargetID": 23,
+    "MonsterID": 23102,
+    "MonsterResourceID": 23100,
+    "ID": 143,
+    "Name": "SysConstStr.ChName.Adan_Human_Boss",
+    "Resource": "Adan_Beast_Boss_Portrait",
+    "TransformMonsterResourceID": [
+      23000
+    ]
   }
 ]

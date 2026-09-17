@@ -225,6 +225,38 @@
   },
   {
     "CharacterType": 1,
+    "ID": 29,
+    "PointCondition2": 0,
+    "PointCondition1": 100191001,
+    "Point": 700,
+    "PointType": "Buff"
+  },
+  {
+    "CharacterType": 1,
+    "ID": 30,
+    "PointCondition2": 0,
+    "PointCondition1": 100,
+    "Point": 3,
+    "PointType": "Time"
+  },
+  {
+    "CharacterType": 2,
+    "ID": 31,
+    "PointCondition2": 0,
+    "PointCondition1": 100,
+    "Point": 6,
+    "PointType": "Time"
+  },
+  {
+    "CharacterType": 2,
+    "ID": 32,
+    "PointCondition2": 0,
+    "PointCondition1": 100191002,
+    "Point": 1000,
+    "PointType": "Buff"
+  },
+  {
+    "CharacterType": 1,
     "ID": 33,
     "PointCondition2": 0,
     "PointCondition1": 100,
@@ -334,5 +366,21 @@
     "PointCondition1": 221010011,
     "Point": 5000,
     "PointType": "Buff"
+  },
+  {
+    "CharacterType": 1,
+    "ID": 47,
+    "PointCondition2": 0,
+    "PointCondition1": 75,
+    "Point": 300,
+    "PointType": "HP"
+  },
+  {
+    "CharacterType": 2,
+    "ID": 48,
+    "PointCondition2": 0,
+    "PointCondition1": 80,
+    "Point": 6,
+    "PointType": "Time"
   }
 ]

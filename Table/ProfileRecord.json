@@ -221,7 +221,7 @@
     "ID": 401,
     "StepInfo": 1,
     "GroupID": 4,
-    "DisplayPriority": 4,
+    "DisplayPriority": 5,
     "ContentsType": "Raid",
     "DisplayImage": "Img_PlayRecord_Mode3_Baran",
     "GroupTitle": "eUIType.RaidMain",
@@ -233,7 +233,7 @@
     "ID": 402,
     "StepInfo": 2,
     "GroupID": 4,
-    "DisplayPriority": 3,
+    "DisplayPriority": 4,
     "ContentsType": "Raid",
     "DisplayImage": "Img_PlayRecord_Mode4_Yogumunt",
     "GroupTitle": "eUIType.RaidMain",
@@ -245,7 +245,7 @@
     "ID": 403,
     "StepInfo": 3,
     "GroupID": 4,
-    "DisplayPriority": 2,
+    "DisplayPriority": 3,
     "ContentsType": "Raid",
     "DisplayImage": "Img_PlayRecord_Mode3_Rockpasa",
     "GroupTitle": "eUIType.RaidMain",
@@ -257,11 +257,23 @@
     "ID": 404,
     "StepInfo": 4,
     "GroupID": 4,
-    "DisplayPriority": 1,
+    "DisplayPriority": 2,
     "ContentsType": "Raid",
     "DisplayImage": "Img_PlayRecord_Mode3_Legia",
     "GroupTitle": "eUIType.RaidMain",
     "DetailTitle": "Raid.Name07"
+  },
+  {
+    "Order": 5,
+    "GroupSort": 4,
+    "ID": 405,
+    "StepInfo": 5,
+    "GroupID": 4,
+    "DisplayPriority": 1,
+    "ContentsType": "Raid",
+    "DisplayImage": "Img_PlayRecord_Mode3_Adan",
+    "GroupTitle": "eUIType.RaidMain",
+    "DetailTitle": "Raid.Name08"
   },
   {
     "Order": 1,
@@ -289,7 +301,7 @@
   },
   {
     "Order": 1,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 701,
     "StepInfo": 1000,
     "GroupID": 3,
@@ -301,7 +313,7 @@
   },
   {
     "Order": 2,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 702,
     "StepInfo": 2000,
     "GroupID": 3,
@@ -313,7 +325,7 @@
   },
   {
     "Order": 3,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 703,
     "StepInfo": 3000,
     "GroupID": 3,
@@ -325,7 +337,7 @@
   },
   {
     "Order": 4,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 704,
     "StepInfo": 4000,
     "GroupID": 3,
@@ -337,7 +349,7 @@
   },
   {
     "Order": 5,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 705,
     "StepInfo": 7000,
     "GroupID": 3,
@@ -349,7 +361,7 @@
   },
   {
     "Order": 6,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 706,
     "StepInfo": 8000,
     "GroupID": 3,
@@ -361,7 +373,7 @@
   },
   {
     "Order": 7,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 707,
     "StepInfo": 9000,
     "GroupID": 3,
@@ -373,7 +385,7 @@
   },
   {
     "Order": 8,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 708,
     "StepInfo": 10000,
     "GroupID": 3,
@@ -385,7 +397,7 @@
   },
   {
     "Order": 9,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 709,
     "StepInfo": 11000,
     "GroupID": 3,
@@ -397,7 +409,7 @@
   },
   {
     "Order": 10,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 710,
     "StepInfo": 12000,
     "GroupID": 3,
@@ -409,7 +421,7 @@
   },
   {
     "Order": 11,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 711,
     "StepInfo": 13000,
     "GroupID": 3,
@@ -421,7 +433,7 @@
   },
   {
     "Order": 12,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 712,
     "StepInfo": 14000,
     "GroupID": 3,
@@ -433,7 +445,7 @@
   },
   {
     "Order": 13,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 301,
     "StepInfo": 101000,
     "GroupID": 3,
@@ -445,7 +457,7 @@
   },
   {
     "Order": 14,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 302,
     "StepInfo": 102000,
     "GroupID": 3,
@@ -457,7 +469,7 @@
   },
   {
     "Order": 15,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 303,
     "StepInfo": 104000,
     "GroupID": 3,
@@ -469,7 +481,7 @@
   },
   {
     "Order": 16,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 304,
     "StepInfo": 105000,
     "GroupID": 3,
@@ -481,7 +493,7 @@
   },
   {
     "Order": 17,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 305,
     "StepInfo": 106000,
     "GroupID": 3,
@@ -493,7 +505,7 @@
   },
   {
     "Order": 18,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 306,
     "StepInfo": 107000,
     "GroupID": 3,
@@ -505,7 +517,7 @@
   },
   {
     "Order": 19,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 307,
     "StepInfo": 108000,
     "GroupID": 3,
@@ -517,7 +529,7 @@
   },
   {
     "Order": 20,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 308,
     "StepInfo": 109000,
     "GroupID": 3,
@@ -529,7 +541,7 @@
   },
   {
     "Order": 21,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 309,
     "StepInfo": 110000,
     "GroupID": 3,
@@ -541,7 +553,7 @@
   },
   {
     "Order": 22,
-    "GroupSort": 6,
+    "GroupSort": 7,
     "ID": 310,
     "StepInfo": 111000,
     "GroupID": 3,
@@ -673,7 +685,7 @@
   },
   {
     "Order": 1,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1001,
     "StepInfo": 10100,
     "GroupID": 7,
@@ -685,7 +697,7 @@
   },
   {
     "Order": 2,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1002,
     "StepInfo": 10200,
     "GroupID": 7,
@@ -697,7 +709,7 @@
   },
   {
     "Order": 3,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1003,
     "StepInfo": 10300,
     "GroupID": 7,
@@ -709,7 +721,7 @@
   },
   {
     "Order": 4,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1004,
     "StepInfo": 10400,
     "GroupID": 7,
@@ -721,7 +733,7 @@
   },
   {
     "Order": 5,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1005,
     "StepInfo": 10500,
     "GroupID": 7,
@@ -733,7 +745,7 @@
   },
   {
     "Order": 6,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1006,
     "StepInfo": 10600,
     "GroupID": 7,
@@ -745,7 +757,7 @@
   },
   {
     "Order": 7,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1007,
     "StepInfo": 10700,
     "GroupID": 7,
@@ -757,7 +769,7 @@
   },
   {
     "Order": 8,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1008,
     "StepInfo": 10800,
     "GroupID": 7,
@@ -769,7 +781,7 @@
   },
   {
     "Order": 101,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1101,
     "StepInfo": 20100,
     "GroupID": 7,
@@ -781,7 +793,7 @@
   },
   {
     "Order": 102,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1102,
     "StepInfo": 20200,
     "GroupID": 7,
@@ -793,7 +805,7 @@
   },
   {
     "Order": 103,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1103,
     "StepInfo": 20300,
     "GroupID": 7,
@@ -805,7 +817,7 @@
   },
   {
     "Order": 104,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1104,
     "StepInfo": 20400,
     "GroupID": 7,
@@ -817,7 +829,7 @@
   },
   {
     "Order": 105,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1105,
     "StepInfo": 20500,
     "GroupID": 7,
@@ -829,7 +841,7 @@
   },
   {
     "Order": 106,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1106,
     "StepInfo": 20600,
     "GroupID": 7,
@@ -841,7 +853,7 @@
   },
   {
     "Order": 107,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1107,
     "StepInfo": 20700,
     "GroupID": 7,
@@ -853,7 +865,7 @@
   },
   {
     "Order": 108,
-    "GroupSort": 7,
+    "GroupSort": 8,
     "ID": 1108,
     "StepInfo": 20800,
     "GroupID": 7,

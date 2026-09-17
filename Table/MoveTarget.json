@@ -856,7 +856,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       401007
     ],
     "ShortCutType": "Craft_Detail",
@@ -868,7 +868,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       401013
     ],
     "ShortCutType": "Craft_Detail",
@@ -880,7 +880,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       401028
     ],
     "ShortCutType": "Craft_Detail",
@@ -892,7 +892,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      1,
+      2,
       301014
     ],
     "ShortCutType": "Craft_Detail",
@@ -1655,7 +1655,7 @@
     "Title": "MoveTarget.CraftNormal_Title",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0
+      1
     ],
     "ShortCutType": "Main",
     "Desc": "MoveTarget.CraftNormal_Short"
@@ -1666,7 +1666,7 @@
     "Title": "MoveTarget.CraftRelic_Title",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      1
+      2
     ],
     "ShortCutType": "Main",
     "Desc": "MoveTarget.CraftRelic_Short"
@@ -14983,6 +14983,18 @@
     "Desc": ""
   },
   {
+    "ID": 31060,
+    "Value1": 400012106,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      400012106
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -15550,6 +15562,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3079
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40055,
+    "Value1": 3082,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3082
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -17211,6 +17234,72 @@
     "ContentsType": "Event",
     "ShortCutIndexes": [
       670
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50153,
+    "Value1": 671,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      671
+    ],
+    "ShortCutType": "Event_Notice",
+    "Desc": ""
+  },
+  {
+    "ID": 50154,
+    "Value1": 672,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      672
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50155,
+    "Value1": 674,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      674
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50156,
+    "Value1": 10009,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      10009
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50157,
+    "Value1": 675,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      675
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50158,
+    "Value1": 677,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      677
     ],
     "ShortCutType": "Event_Tab",
     "Desc": ""
@@ -19113,7 +19202,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       401011
     ],
     "ShortCutType": "Craft_Detail",
@@ -19125,7 +19214,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      1,
+      2,
       200030010
     ],
     "ShortCutType": "Craft_Detail",
@@ -19137,7 +19226,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403038
     ],
     "ShortCutType": "Craft_Detail",
@@ -19149,7 +19238,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      1,
+      2,
       200030028
     ],
     "ShortCutType": "Craft_Detail",
@@ -20451,7 +20540,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403026
     ],
     "ShortCutType": "Craft_Detail",
@@ -20463,7 +20552,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403027
     ],
     "ShortCutType": "Craft_Detail",
@@ -20475,7 +20564,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403028
     ],
     "ShortCutType": "Craft_Detail",
@@ -20487,7 +20576,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403030
     ],
     "ShortCutType": "Craft_Detail",
@@ -20499,7 +20588,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403029
     ],
     "ShortCutType": "Craft_Detail",
@@ -20511,7 +20600,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403031
     ],
     "ShortCutType": "Craft_Detail",
@@ -20523,7 +20612,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403032
     ],
     "ShortCutType": "Craft_Detail",
@@ -20535,7 +20624,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403033
     ],
     "ShortCutType": "Craft_Detail",
@@ -20547,7 +20636,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403035
     ],
     "ShortCutType": "Craft_Detail",
@@ -20559,7 +20648,7 @@
     "Title": "MoveTarget.Craft_Detail",
     "ContentsType": "Craft",
     "ShortCutIndexes": [
-      0,
+      1,
       403034
     ],
     "ShortCutType": "Craft_Detail",

@@ -618,5 +618,160 @@
       "None"
     ],
     "NextStage": []
+  },
+  {
+    "RaidID": 5,
+    "MaxPlayCount": 1,
+    "IsAndCondition": true,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "ID": 501,
+    "BattleSquadID": 120501,
+    "StageSortType": 1,
+    "Idx": 1,
+    "DungeonStageID": 120501,
+    "OverPowerCount": 0,
+    "BuffAbleStageID": [],
+    "StageBossBanner": "",
+    "UIStageLink": [],
+    "StageTypeResource": "",
+    "StageType": "Common",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": [
+      502,
+      503
+    ]
+  },
+  {
+    "RaidID": 5,
+    "MaxPlayCount": 0,
+    "IsAndCondition": true,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "ID": 502,
+    "BattleSquadID": 120502,
+    "StageSortType": 3,
+    "Idx": 2,
+    "DungeonStageID": 120502,
+    "OverPowerCount": 0,
+    "BuffAbleStageID": [
+      503,
+      504,
+      505,
+      506
+    ],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      501
+    ],
+    "StageTypeResource": "Icon_raid_Bless",
+    "StageType": "Bless",
+    "UIStageSetPosition": [
+      "Left"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 5,
+    "MaxPlayCount": 1,
+    "IsAndCondition": true,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "ID": 503,
+    "BattleSquadID": 120503,
+    "StageSortType": 1,
+    "Idx": 3,
+    "DungeonStageID": 120503,
+    "OverPowerCount": 0,
+    "BuffAbleStageID": [],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      501
+    ],
+    "StageTypeResource": "",
+    "StageType": "Common",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": [
+      504,
+      505
+    ]
+  },
+  {
+    "RaidID": 5,
+    "MaxPlayCount": 0,
+    "IsAndCondition": true,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "ID": 504,
+    "BattleSquadID": 120504,
+    "StageSortType": 3,
+    "Idx": 4,
+    "DungeonStageID": 120504,
+    "OverPowerCount": 0,
+    "BuffAbleStageID": [
+      502,
+      505,
+      506
+    ],
+    "StageBossBanner": "",
+    "UIStageLink": [
+      503
+    ],
+    "StageTypeResource": "Icon_raid_Bless2",
+    "StageType": "Bless",
+    "UIStageSetPosition": [
+      "Right"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 5,
+    "MaxPlayCount": 1,
+    "IsAndCondition": true,
+    "ReverseLink": 506,
+    "UseMultiplePlay": true,
+    "ID": 505,
+    "BattleSquadID": 120505,
+    "StageSortType": 2,
+    "Idx": 5,
+    "DungeonStageID": 120505,
+    "OverPowerCount": 0,
+    "BuffAbleStageID": [],
+    "StageBossBanner": "Img_Raid_Boss_8",
+    "UIStageLink": [
+      503
+    ],
+    "StageTypeResource": "",
+    "StageType": "Boss",
+    "UIStageSetPosition": [
+      "Top"
+    ],
+    "NextStage": []
+  },
+  {
+    "RaidID": 5,
+    "MaxPlayCount": 1,
+    "IsAndCondition": true,
+    "ReverseLink": 0,
+    "UseMultiplePlay": true,
+    "ID": 506,
+    "BattleSquadID": 120506,
+    "StageSortType": 3,
+    "Idx": 6,
+    "DungeonStageID": 120506,
+    "OverPowerCount": 0,
+    "BuffAbleStageID": [],
+    "StageBossBanner": "Img_Raid_Boss_8",
+    "UIStageLink": [],
+    "StageTypeResource": "",
+    "StageType": "Boss",
+    "UIStageSetPosition": [
+      "None"
+    ],
+    "NextStage": []
   }
 ]

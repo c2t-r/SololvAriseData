@@ -15,9 +15,11 @@
     "Limit.GAME_CORE_DECOM_REQ": 500,
     "HunterEnhance.DecompositionItemValueD": 1,
     "DimensionGate.EnhanceMaxCountDefault": 5,
+    "Lobby.EntryPopupDisplayMaxCount": 3,
     "Pvp.ReadyTime": 5000,
     "ShadowGuardBetaTag": true,
     "EnemyGuide.MaxDistance": 999.0,
+    "SeasonalCard.FinishInfoStoreTime": 28,
     "HunterEnhance.DecompositionItemValueE": 1,
     "EventMini.RankListMax": 10,
     "WebCoupon.ItemActive": 900101,
@@ -38,6 +40,7 @@
     "Artifact.UnequipPriceGoldLevelAddLegendary": 2000,
     "HunterEnhance.DecompositionItemValueA": 1,
     "BattleConfig.LockOnCameraChangeDelay": 10.0,
+    "SeasonalCard.JockerPopupAlertTimer": 120,
     "BattleCamConfig.ZoomSensitivityMul_IOS": 0.699999988079071,
     "ShowRewardRate.Raid": true,
     "MonthlyPackage.Default_DimensionGateMultiplay": 2,
@@ -74,6 +77,7 @@
     "IdleReward.InstantReward_MaxTime_Normal": 2880,
     "Artifact.DelayTimeEnhanceStat": 0.20000000298023224,
     "BeginSetting.SetAccountBGID": 11010001,
+    "ContentsMenu.TextScrollTime": 5,
     "BattleConfig.ShadowStat": 100003,
     "EventSkinGacha.MainHighestGacha_Lobby": 8000100,
     "HunterEnhance.DecompositionItemIdD": 1002001,
@@ -102,6 +106,7 @@
     "HunterEnhance.LevelUpMaterialExchangeValue": 100,
     "BattleConfig.SuccessorSJWHunterQTE": 501,
     "Artifact.MaxOptionValueRare": 4,
+    "SeasonalCard.PackOpenMaxCount": 20,
     "BattleConfig.TagInRunTime": 0.25,
     "HunterEnhance.DecompositionItemIdA": 1002003,
     "Gacha.GachaHistoryDate": 90,
@@ -129,6 +134,7 @@
     "MonarchCorridor.EndDelayTime": 5,
     "WorldBoss.TutorialReplay": 975,
     "Common.ShadowCollectCount": 3,
+    "MonthlyPackage.Default_IsolationZoneMultiplePlay": 3,
     "BattleConfig.SuccessorFailEffect": 258000000,
     "HunterOrigin.BtnDisplayLocation.HunterArchive": true,
     "Pvp.WinPoint.Defense": 5,
@@ -162,6 +168,7 @@
     "HunterTraining.SelectClassCurrencyID": 1000003,
     "Common.ApproachEndTime": 10,
     "Inventory.EquipmentsCapacity": 200,
+    "Smash.Cooldown": 15000,
     "DimensionGate.ResultCalculate.RandomBuff.Rarity.1": 135,
     "SJWSkillRune.RuneMixUpgradeProb04": 2000,
     "BattleConfig.AutoSupporterWaitTime": 0.5,
@@ -205,6 +212,7 @@
     "AdventDungeonUnlockOpenLevel": 10,
     "SJWSkillRune.RuneMixMaterialCount04": 3,
     "Artifact.EnchantItemID01": 305000001,
+    "Smash.MaxStack": 3,
     "Sweep.HunterSweep_Count_05": 8,
     "AdventDungeonChallengeUnlockLevel": 30,
     "Dialog.DialogSpeedJapanese": 0.10000000149011612,
@@ -213,7 +221,9 @@
     "Story.DailyKey": 3,
     "AP.Substitution.HunterStory": 1,
     "SJWSkillRune.RuneMixMaterialCount02": 5,
+    "Smash.StackBuffID": 79,
     "TimeAttack.EndTime_extra": 2880,
+    "Union.UseCount": 1,
     "GradeSRate_4": 105,
     "Shadow.ShadowCombinationMaterialID": 10080006,
     "Subscribe.Subscribe_PointItemMax": 20000,
@@ -256,7 +266,7 @@
     "DimensionGate.DifficultyJump": 5,
     "Common.AccountMaxLevel": 200,
     "Common.dummyCheckSkillCasting": true,
-    "DimensionGate.WeeklyPointMax": 1500,
+    "DimensionGate.WeeklyPointMax": 6000,
     "StepMission.FuctionON": true,
     "EventLCPromotion.ContentsUnlockID": 6013,
     "BattleConfig.MaxPG": 1000,
@@ -302,7 +312,7 @@
     "TeamMining.MaxSlot": 17,
     "BattleDeck.MinCount": 1,
     "GamePadCursor.MaxSpeed": 50.0,
-    "Core.MaterialSlotMax": 20,
+    "Core.MaterialSlotMax": 100,
     "BattleDeck.PlayerSupportTutorial": 200023,
     "Common.HunterStatUpgradeNotiDisplay": true,
     "BattleMission.RankingCount": 100,
@@ -363,7 +373,7 @@
     "Artifact.BasicOptionValueCommon": 1,
     "BattleConfig.UpperHPGaugeHitDisappearTime": 90.0,
     "TrainingRoom.DungeonID": 9101,
-    "ShowRewardRate.Core.PageDungeonCount": 2,
+    "ShowRewardRate.Core.PageDungeonCount": 8,
     "Common.RequireEvolveMaterial": 1,
     "Pvp.OpponentRefreshTimer": 5,
     "BeginSetting.RaidEnterPoint": 2,
@@ -465,6 +475,7 @@
     "PersonalPackage.limitDisplay_RewardID": 1000016,
     "MonthlyPackage.Default_GateMultiplePlay": 25,
     "Tower.DefaultTowerEnterPoint": 3,
+    "IsolationZone.EnterPointMax": 4,
     "HunterEnhance.EvolveMaterialHoldValue10": 0,
     "Artifact.UnequipPriceLevelStart": 21,
     "GradeBRate_4": 89,
@@ -503,6 +514,7 @@
     "Guild.GuildBossPlayNumber": 2,
     "BeginSetting.DimensionGateEnterPoint": 2,
     "HunterEnhance.EvolveMaterialHoldValue00": 10,
+    "SeasonalCard.JockerTimelimit": 4320,
     "Gate.RemainTimeAlert": 300,
     "Shop.GuildExchange_Main": 9000,
     "Guild.MaxConnectTime": 72000,
@@ -551,6 +563,7 @@
     "MoveTarget.ExchangeShop_Mine": 30017,
     "Sweep.SJWSweep_Count_B": 50,
     "Penalty.GateAttachPenaltyRate": 3000,
+    "SeasonalCard.SpecialCardRewardItemID": 1000033,
     "Guild.GuildBoss_PersonalCumulativePoint_Reward_Limit": 10,
     "Sweep.SJWSweep_Count_C": 40,
     "Subscribe.Subscribe_Shop_MigrationPoint": 100,
@@ -589,6 +602,7 @@
     "APRecover.APChargeItemID": 20500001,
     "Artifact.MaxOptionValueCommon": 4,
     "Tutorial.StoryChapterID": 1010001,
+    "Smash.SmashDamP": 5000,
     "BattleConfig.LowDeviceSummonEffectRadius": 15.0,
     "WorldBoss.ShowSeasonSystem": true,
     "Common.CashExchangeRatio": 10,
@@ -653,6 +667,7 @@
     "ShowRewardRate.InstanceDungeon.PageDungeonCount": 2,
     "DimensionGate.BlessItemOverlap_Rarity1": 100,
     "DimensionGate.CodeBuffReroll.freeCount": 1,
+    "Lobby.NoticeWebViewHideDay": 7,
     "HunterTraining.RewardCount": 500,
     "CharManagement.SkillSetting.Preset": 5,
     "DimensionGate.BlessItemOverlap_Rarity3": 500,
@@ -711,6 +726,7 @@
     "TimeAttack.RecordSaveBuffer": 10,
     "OtherWorld.ShadowUseDefaultCount": 5,
     "Guild.GuildBossRankGroup": 5,
+    "Smash.AddCrashDuration": 1000,
     "IdleReward.InstantReward_MaxTime_TimeOver": 43200,
     "Gacha.NewGoods_Banner_AutoSkip": 3,
     "BeginSetting.ChaosEnterPoint": 0,
@@ -758,6 +774,7 @@
     "LibraryDungeon.Event.AddDrawSelectionCount": 1,
     "EventHunterGrowthReset.ReturnGoldID": 1000003,
     "Profile.DisplayItem02": 1000021,
+    "BeginSetting.IsolationZoneEnterPoint": 0,
     "BattleConfig.ElementCrashAdvantageP": 1.5,
     "Profile.DisplayItem01": 10200001,
     "Common.RecoverAPPermMin": 5,
@@ -895,6 +912,7 @@
     "Credit.Speed": 3.5,
     "Pvp.UltimateSceneOption": 0,
     "Guild.BasicMember": 50,
+    "Smash.MaxBreakDecrease": 6000,
     "GrowthGuide.GrowthGauge01": 3000,
     "HunterEnhance.DecompositionItemValueSR": 10,
     "DimensionGate.RankingRefreshTerm": 60,
@@ -913,7 +931,7 @@
     "AP.Substitution.Currency": 1000033,
     "Limit.GAME_ITEM_FIXED_TERM_REQ": 999,
     "Story.AutoPlay.RewardWaitTime": 2,
-    "Pvp.ScoreGapPoint": 1,
+    "Pvp.ScoreGapPoint": 0,
     "CostumeEncyclopedia.SJW_MainID": 6,
     "BattleConfig.ExternalPathShowStartEffectDuration": 0.0,
     "LobbySpawnNpc.ProgressPercent": 30,
@@ -934,7 +952,7 @@
     "WeaponArmory.MeritPower_SSR": 1000,
     "Common.RecoverAPAmmount": 1,
     "BattleConfig.AutoModeUSKillDelayMin": 0.0,
-    "ShowRewardRate.ArtifactDungeon.PageDungeonCount": 6,
+    "ShowRewardRate.ArtifactDungeon.PageDungeonCount": 7,
     "BattleConfig.BattlePowerCorretValue02": 100,
     "GachaDeferRecruit.PopUpCloseTime": 3600,
     "Guild.GuildExpLimit": 350000,
@@ -1045,6 +1063,7 @@
     "Artifact.MaxEnhanceRare": 20,
     "ShowRewardRate.ArtifactDungeon": true,
     "SJWEnhance.SungjinwooPassiveSkillSlotOpen02": 1,
+    "SeasonalCard.ShowBuffPanel": true,
     "Pvp.Result.WinningStreak": 1,
     "Pvp.HunterConst.Darg": 200.0,
     "SJWEnhance.SungjinwooPassiveSkillSlotOpen03": 1,
@@ -1076,6 +1095,7 @@
     "CostumeEncyclopedia.SJW_CostumePartsMainID": 1,
     "Pvp.CameraEffectOnOff": true,
     "Pvp.Formula.B": 500,
+    "IsolationZone.Tutorial": 977,
     "Common.PCStatResetCost": 100,
     "Guild.GuildBoss_PersonalCumulativePoint_Rate": 100,
     "Pvp.Mana.Start": 3,
@@ -1128,7 +1148,9 @@
     "WeaponArmory.IconResource": [
       "WeaponArmory_Portrait_Common_1",
       "WeaponArmory_Portrait_Common_2",
-      "WeaponArmory_Portrait_Common_3"
+      "WeaponArmory_Portrait_Common_3",
+      "WeaponArmory_Portrait_Common_4",
+      "WeaponArmory_Portrait_Common_5"
     ],
     "BattleConfig.LockOnCameraTargetEffect1": "_Fx_Bank_LockOnMark_01",
     "BeginSetting.AccountIconID": [
@@ -1160,6 +1182,13 @@
     ],
     "Profile.DefaultIntroduce": "Profile.IntroduceString_Default",
     "ConstLocalization.ResourcePostfix_France": "_fra",
+    "SeasonalCard.DuplicateLimit_Event": [
+      -1,
+      7,
+      5,
+      3,
+      0
+    ],
     "BattleCharConfig.PlayerAIManual": "Hunter AI_Test",
     "Artifact.EnhanceMenuSort": [
       "\"ArtifactEnhance\"",
@@ -1254,7 +1283,9 @@
     ],
     "CoreDungeon.UnlockLevel": [
       3,
-      6
+      6,
+      12,
+      15
     ],
     "MonsterGradeBg.Boss": "ArtifactRarity_Mythical",
     "ReplayTutorialTab.Tab3_SubText": "Tutorial.TabString.Tab3.Context",
@@ -1278,7 +1309,8 @@
       10,
       20,
       30,
-      35
+      35,
+      40
     ],
     "Common.ReqSkillGrowthChaLevel": [
       0,
@@ -1403,6 +1435,7 @@
       422104
     ],
     "LobbySpawnNpc.ProgressIcon": "Icon_Lobby_Progress",
+    "SeasonalCard.StarPointIcon": "Card_Point_Star",
     "ChPCJobMigration.StatPoint": [
       30,
       60,
@@ -1434,7 +1467,16 @@
     "WeaponArmory.PageName": [
       "WeaponArmory.Page1_Title",
       "WeaponArmory.Page2_Title",
-      "WeaponArmory.Page3_Title"
+      "WeaponArmory.Page3_Title",
+      "WeaponArmory.Page4_Title",
+      "WeaponArmory.Page5_Title"
+    ],
+    "SeasonalCard.DuplicateCardPointCount_Event": [
+      1,
+      3,
+      5,
+      7,
+      10
     ],
     "RapidGrowth.UnknownShadow": "Unknown_Common_Portrait",
     "BeginSetting.AccountCardID": [
@@ -1578,7 +1620,17 @@
       10170005,
       10170006
     ],
+    "Pvp.PowerGapPoint": [
+      3,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
     "DefaultResource.SoundPopupClose": "UI_Fx_PopUp_Close_Small_1_1",
+    "SeasonalCard.SpecialCardEffect": "Card_Effect_Special_001",
     "GameOption.Language_De": "Deutsch",
     "GS_RelicEnhance.GSEnhanceDisplayMaterial": [
       10160001,
@@ -1654,6 +1706,7 @@
       "20200012_UseItem_50"
     ],
     "Raid.RaidMainPage.CoomingSoonBG": "BG_Raid_Stage_Black",
+    "SeasonalCard.SpecialCardFrame": "Card_Frame_Special_001",
     "IdleReward.InstantReward_RandomReward_Img": "Item_Package_Epic",
     "ReplayTutorialTab.Tab6_Icon": "Icon_Tutorial_TabBtn_05",
     "BattleDeck.EmptySlotNoti_ExceptionContents": [
@@ -1709,6 +1762,7 @@
       3350,
       4100
     ],
+    "SeasonalCard.PackSkipTimeLineStopGrade": "Grade4",
     "LobbySpawnNpc.RandomIcon": "Icon_Lobby_Random",
     "ConstLocalization.ResourcePostfix_English": "_eng",
     "ArtifactEnhanceReset.TicketType": [
@@ -1748,6 +1802,13 @@
       0.0,
       0.0,
       30.0
+    ],
+    "SeasonalCard.DuplicateCardPointCount_Regular": [
+      1,
+      3,
+      5,
+      7,
+      10
     ],
     "CommonPopup.GameClose.Resource": [
       "Img_GameOver_Deco"
@@ -1832,6 +1893,14 @@
     "BeginSetting.ItemGSList": [
       200010002
     ],
+    "SeasonalCard.DuplicateLimit_Regular": [
+      -1,
+      7,
+      5,
+      3,
+      0
+    ],
+    "SeasonalCard.ExchangeItemIcon": "Item_Coin_Card_01",
     "Tutorial.ItemMixTutorialMaterialCount": [
       100,
       100
@@ -1984,6 +2053,11 @@
     "Core.MaterialFilterRarityMin": "Rare",
     "HunterGradeBg.BaseGradeS": "ArtifactRarity_Mythical",
     "RarityWarning.RelicRarity": "SSR",
+    "Smash.BreakDecrease": [
+      1000,
+      2000,
+      3000
+    ],
     "Mileage.SelectBoxList_Post_Img": "Item_SelectBoxList_Post_Img",
     "TrainingRoom.Spawn.Position.Enemy1": [
       250.0,
@@ -2081,6 +2155,13 @@
       1.0,
       1.0,
       1.0
+    ],
+    "Pvp.WinningStreakList": [
+      3,
+      6,
+      10,
+      15,
+      20
     ],
     "LobbySpawnNpc.FinishRandomIcon": "Icon_Lobby_Random",
     "ArtifactEnhanceReset.TicketID": [
@@ -2240,6 +2321,13 @@
       20
     ],
     "BattleConfig.SuccessorFailTimeline": "SuccessorFail",
+    "Pvp.Result.WinningStreakList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
     "ConstLocalization.ResourcePostfix_Portugal": "_prt",
     "TeamMining.AddSlotTitleStringKey": [],
     "BattleConfig.SupporterOutEffectSound": "Hunter_Common_S_TagOut_1",

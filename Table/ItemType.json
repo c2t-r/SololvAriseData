@@ -444,6 +444,19 @@
   {
     "Stackable": true,
     "MaxStack": 1,
+    "MaxAmount": 99999999,
+    "SortOrder": 919,
+    "ID": 1035,
+    "Lockable": true,
+    "Sellable": true,
+    "ItemSubType": "IsolationZoneEnterPoint",
+    "ItemMainType": "Currency",
+    "GetShortCut": "",
+    "UseShortCut": ""
+  },
+  {
+    "Stackable": true,
+    "MaxStack": 1,
     "MaxAmount": 0,
     "SortOrder": 101,
     "ID": 2001,
@@ -736,6 +749,19 @@
     "Lockable": true,
     "Sellable": true,
     "ItemSubType": "SeasonalCardFrame",
+    "ItemMainType": "NormalItem",
+    "GetShortCut": "",
+    "UseShortCut": ""
+  },
+  {
+    "Stackable": true,
+    "MaxStack": 9999,
+    "MaxAmount": 0,
+    "SortOrder": 510,
+    "ID": 4018,
+    "Lockable": true,
+    "Sellable": true,
+    "ItemSubType": "SeasonalCardJocker",
     "ItemMainType": "NormalItem",
     "GetShortCut": "",
     "UseShortCut": ""

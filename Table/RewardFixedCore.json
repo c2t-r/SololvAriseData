@@ -849,5 +849,44 @@
       -1,
       -1
     ]
+  },
+  {
+    "Level": 10,
+    "ID": 100037,
+    "Option": [
+      "AddAtt",
+      "Critical"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100038,
+    "Option": [
+      "AddArm",
+      "CriDam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "Level": 10,
+    "ID": 100039,
+    "Option": [
+      "AddMHP",
+      "Dam"
+    ],
+    "BuffCondition": "Wind",
+    "StatRate": [
+      -1,
+      -1
+    ]
   }
 ]

@@ -918,5 +918,45 @@
     "Value1": 0,
     "ValueString": "",
     "ConditionType": "ElementATKChoice"
+  },
+  {
+    "TargetCheck": true,
+    "ID": 93,
+    "ChangeTarget": true,
+    "Value2": 0,
+    "Value3": 0,
+    "Value1": 200,
+    "ValueString": "",
+    "ConditionType": "VitCheck"
+  },
+  {
+    "TargetCheck": true,
+    "ID": 94,
+    "ChangeTarget": true,
+    "Value2": 0,
+    "Value3": 0,
+    "Value1": 200,
+    "ValueString": "",
+    "ConditionType": "AgiCheck"
+  },
+  {
+    "TargetCheck": true,
+    "ID": 95,
+    "ChangeTarget": true,
+    "Value2": 0,
+    "Value3": 0,
+    "Value1": 200,
+    "ValueString": "",
+    "ConditionType": "SenCheck"
+  },
+  {
+    "TargetCheck": true,
+    "ID": 96,
+    "ChangeTarget": true,
+    "Value2": 3,
+    "Value3": 1,
+    "Value1": 0,
+    "ValueString": "",
+    "ConditionType": "ElementDEFChoice"
   }
 ]

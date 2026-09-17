@@ -550,5 +550,22 @@
     "StringDesc": "Currency.SweepPointDesc",
     "CurrencyPurchhaseUI": "CurrencyPurchasePopup",
     "StringName": "Currency.SweepPoint"
+  },
+  {
+    "InvenHide": true,
+    "ID": 1000035,
+    "ChargeGroup": 0,
+    "ItemSubType": "IsolationZoneEnterPoint",
+    "MoveTarget": [],
+    "TooltipDisplay": "Weekly",
+    "ItemRarity": "Rare",
+    "ShopIconResourceName": "Currency_IsolationZoneEnterPoint",
+    "ContentsType": [
+      "IsolationZone"
+    ],
+    "IconResourceName": "Currency_IsolationZoneEnterPoint",
+    "StringDesc": "Currency.IsolationZoneEnterPointDesc",
+    "CurrencyPurchhaseUI": "",
+    "StringName": "Currency.IsolationZoneEnterPointName"
   }
 ]
