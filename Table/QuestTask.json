@@ -31916,6 +31916,46 @@
   {
     "DetailValue02": 0,
     "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70205,
+    "IsClientCheck": true,
+    "GoalValue": 1000000,
+    "DescStringID": "Quest.Desc_UsedGold",
+    "MoveTarget": [
+      3
+    ],
+    "TitleStringID": "Quest.Title_UsedGold",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "UsedGold",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
+    "TargetID": 0,
+    "TargetID2": 0,
+    "ID": 70206,
+    "IsClientCheck": true,
+    "GoalValue": 10,
+    "DescStringID": "Quest.Desc_LevelupCore",
+    "MoveTarget": [
+      1085
+    ],
+    "TitleStringID": "Quest.Title_LevelupCore",
+    "DetailValue04": "",
+    "DetailValue03": "",
+    "TargetID3": [],
+    "TargetContents": "",
+    "TaskType": "LevelupCore",
+    "DetailValueList": []
+  },
+  {
+    "DetailValue02": 0,
+    "DetailValue01": 0,
     "TargetID": 904,
     "TargetID2": 0,
     "ID": 90001,
