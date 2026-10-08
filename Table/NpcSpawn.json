@@ -2599,7 +2599,7 @@
     "AlwaysShowNPC": true,
     "AttachWeapon": true,
     "LobbyIdleUse": true,
-    "SpawnRate": 0,
+    "SpawnRate": 500,
     "OriginalCharacterID": 0,
     "DefaultSpawn": true,
     "LinkRandomDialog": 1150,
@@ -2618,7 +2618,7 @@
     "PickSpawnEnd": "",
     "LobbyEffBuffID": [],
     "IconQuickMenu": "",
-    "SpawnSpot": "Successor_Spawn",
+    "SpawnSpot": "",
     "IdleMotion": [
       "Lobby_SungJinWoo_Ashborn_Stand_01"
     ],
@@ -2757,6 +2757,77 @@
     "SpawnSpot": "",
     "IdleMotion": [
       "Lobby_DianaLopez_Stand_01"
+    ],
+    "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 96,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 33000,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1154,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 671,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "SpecialCameraSetting": "",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-10-08T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [],
+    "PickSpawnEnd": "",
+    "LobbyEffBuffID": [],
+    "IconQuickMenu": "",
+    "SpawnSpot": "",
+    "IdleMotion": [
+      "Lobby_GoGunHee_MM_Stand_01"
+    ],
+    "NpcType": "Dialog"
+  },
+  {
+    "PickSpawn": true,
+    "CameraYOffset": 0.0,
+    "ID": 97,
+    "IsStaticObject": true,
+    "LinkProgressDialog": 0,
+    "AlwaysShowNPC": true,
+    "AttachWeapon": true,
+    "LobbyIdleUse": true,
+    "SpawnRate": 33000,
+    "OriginalCharacterID": 0,
+    "DefaultSpawn": true,
+    "LinkRandomDialog": 1155,
+    "CollabID": 0,
+    "IgnoreNavMesh": true,
+    "SpawnCondition": 0,
+    "SpotNpcID": 681,
+    "MenuNpcName": "",
+    "SpawnPlace": "Lobby",
+    "SpecialCameraSetting": "Velvet_Cam_01",
+    "TeleportSpot": "",
+    "PickSpawnStart": "2026-10-08T09:00:00+09:00",
+    "NpcMenuBtn": [],
+    "DlgMotion": [],
+    "ExceptAttackWeapon": [
+      1,
+      2
+    ],
+    "PickSpawnEnd": "",
+    "LobbyEffBuffID": [],
+    "IconQuickMenu": "",
+    "SpawnSpot": "Successor_Spawn",
+    "IdleMotion": [
+      "Lobby_Velvet_Stand_01"
     ],
     "NpcType": "Dialog"
   }
