@@ -1,78 +1,109 @@
 [
   {
-    "StatPoolGroup": 1,
+    "StatPoolGroup": 2,
     "ID": 1,
     "UnlockConditionID": 6101,
-    "ResourceSize": 320,
-    "PassiveBattlePower": 10000,
+    "ResourceSize": 450,
+    "PassiveBattlePower": 100000,
     "PassiveBuffID": [
-      1400017015
+      8300000101
     ],
-    "Name": "SysConstStr.StatueName01",
+    "Name": "SysConstStr.StatueName05",
     "ResourceNames": [
-      "Img_Statue_BlueGolem_01",
-      "Img_Statue_BlueGolem_02",
-      "Img_Statue_BlueGolem_03",
-      "Img_Statue_BlueGolem_04"
+      "Img_Statue_Igris_01",
+      "Img_Statue_Igris_02",
+      "Img_Statue_Igris_03",
+      "Img_Statue_Igris_04"
     ],
-    "Target": "PC",
-    "PassiveTriggerRank": "Silver"
+    "PassiveTriggerRank": "Bronze",
+    "Targets": [
+      "Hunter"
+    ]
   },
   {
     "StatPoolGroup": 1,
     "ID": 2,
     "UnlockConditionID": 6102,
-    "ResourceSize": 320,
-    "PassiveBattlePower": 10000,
+    "ResourceSize": 450,
+    "PassiveBattlePower": 100000,
     "PassiveBuffID": [
-      1400113002
+      8300000201
     ],
-    "Name": "SysConstStr.StatueName02",
+    "Name": "SysConstStr.StatueName06",
     "ResourceNames": [
-      "Img_Statue_BlueGolem_01",
-      "Img_Statue_BlueGolem_02",
-      "Img_Statue_BlueGolem_03",
-      "Img_Statue_BlueGolem_04"
+      "Img_Statue_Kargalgan_01",
+      "Img_Statue_Kargalgan_02",
+      "Img_Statue_Kargalgan_03",
+      "Img_Statue_Kargalgan_04"
     ],
-    "Target": "Hunter",
-    "PassiveTriggerRank": "Silver"
+    "PassiveTriggerRank": "Bronze",
+    "Targets": [
+      "PC",
+      "Successor"
+    ]
   },
   {
-    "StatPoolGroup": 1,
+    "StatPoolGroup": 2,
     "ID": 3,
     "UnlockConditionID": 6103,
     "ResourceSize": 320,
-    "PassiveBattlePower": 10000,
+    "PassiveBattlePower": 100000,
     "PassiveBuffID": [
-      1200131010
+      8300000301
     ],
-    "Name": "SysConstStr.StatueName03",
+    "Name": "SysConstStr.StatueName01",
     "ResourceNames": [
-      "Img_Statue_BlueGolem_01",
-      "Img_Statue_BlueGolem_02",
-      "Img_Statue_BlueGolem_03",
-      "Img_Statue_BlueGolem_04"
+      "Img_Statue_Baran_01",
+      "Img_Statue_Baran_02",
+      "Img_Statue_Baran_03",
+      "Img_Statue_Baran_04"
     ],
-    "Target": "PC",
-    "PassiveTriggerRank": "Silver"
+    "PassiveTriggerRank": "Bronze",
+    "Targets": [
+      "Hunter"
+    ]
   },
   {
     "StatPoolGroup": 1,
     "ID": 4,
     "UnlockConditionID": 6104,
     "ResourceSize": 320,
-    "PassiveBattlePower": 10000,
+    "PassiveBattlePower": 100000,
     "PassiveBuffID": [
-      1400031015
+      8300000401
     ],
-    "Name": "SysConstStr.StatueName04",
+    "Name": "SysConstStr.StatueName02",
     "ResourceNames": [
-      "Img_Statue_BlueGolem_01",
-      "Img_Statue_BlueGolem_02",
-      "Img_Statue_BlueGolem_03",
-      "Img_Statue_BlueGolem_04"
+      "Img_Statue_Yogumunt_01",
+      "Img_Statue_Yogumunt_02",
+      "Img_Statue_Yogumunt_03",
+      "Img_Statue_Yogumunt_04"
     ],
-    "Target": "Hunter",
-    "PassiveTriggerRank": "Silver"
+    "PassiveTriggerRank": "Bronze",
+    "Targets": [
+      "PC",
+      "Successor"
+    ]
+  },
+  {
+    "StatPoolGroup": 2,
+    "ID": 5,
+    "UnlockConditionID": 6105,
+    "ResourceSize": 320,
+    "PassiveBattlePower": 100000,
+    "PassiveBuffID": [
+      8300000501
+    ],
+    "Name": "SysConstStr.StatueName03",
+    "ResourceNames": [
+      "Img_Statue_Rockpasa_01",
+      "Img_Statue_Rockpasa_02",
+      "Img_Statue_Rockpasa_03",
+      "Img_Statue_Rockpasa_04"
+    ],
+    "PassiveTriggerRank": "Bronze",
+    "Targets": [
+      "Hunter"
+    ]
   }
 ]

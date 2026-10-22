@@ -847,6 +847,54 @@
   },
   {
     "StageMonsterSkillLevel": 0,
+    "BaseStatPoint": 30,
+    "GainEmblemSlot": true,
+    "GainReward": 9043,
+    "StageMonsterLevel": 0,
+    "StageRecommendedPower": 0,
+    "JobCostumeID": 201040,
+    "JobStageID": 1017,
+    "ID": 117,
+    "AddBattlePower": 55000,
+    "MainPcGrade": 17,
+    "GainSkillDisplay": 1001901000300,
+    "JobCoreAtkSkill": 1001106000000,
+    "BattleSquadDataID": 0,
+    "AddBattlePowerR": 0.4749999940395355,
+    "JobConVal": 3001005,
+    "GainSkinDisplay": 201040,
+    "MainPcID": 1,
+    "ResourceID": 6,
+    "AutoSetSkill": true,
+    "JobBaseAtkSkill": [
+      1001001000000,
+      1001002000000,
+      1001003000000
+    ],
+    "GainSkillGroupID": [
+      1001901000300
+    ],
+    "JobIconName": "Icon_JobClass_ShadowLord_14",
+    "ExceptSkillGroupID": [],
+    "JobProducionMovieScene": "Levelup_Dungeon_ThroneHall_Cutscenes",
+    "JobGrade": "S",
+    "GainRewardDisplay": [],
+    "JobOpenConID": [
+      2210,
+      2211
+    ],
+    "JobConType": "Achieve",
+    "JobProducionMovie": "Sjw_JobMovie_16",
+    "ConditionString": "SysConstStr.ConditionString.SJW_S_14",
+    "JobDecoIconName": "Icon_JobClass_Tag_ShadowLord_14",
+    "JobStageConID": [
+      2220,
+      2222
+    ],
+    "JobName": "SysConstStr.JobName.SJW_S_14"
+  },
+  {
+    "StageMonsterSkillLevel": 0,
     "BaseStatPoint": 0,
     "GainEmblemSlot": true,
     "GainReward": 0,

@@ -6517,28 +6517,28 @@
   },
   {
     "NameGroupId": 67,
-    "TrainingRoomComboGuide": 67,
+    "TrainingRoomComboGuide": 69,
     "CharEventActionVoiceGroupID": 671,
     "CheatGain": true,
     "AttachWeaponGroupID": 0,
     "UpgradeID": 2200,
     "MaxStack": 0,
-    "UltimateSkill": 2661901000000,
+    "UltimateSkill": 2671901000000,
     "ID": 671,
-    "PassiveSkill10": 2661811000000,
-    "PassiveSkill05": 2661806000000,
-    "PassiveSkill04": 2661805000000,
-    "PassiveSkill07": 2661808000000,
-    "PassiveSkill06": 2661807000000,
-    "PassiveSkill01": 2661802000000,
-    "PassiveSkill03": 2661804000000,
-    "PassiveSkill02": 2661803000000,
-    "PassiveSkill09": 2661810000000,
-    "PassiveSkill08": 2661809000000,
-    "SupportSkill": 2661501000000,
+    "PassiveSkill10": 2671811000000,
+    "PassiveSkill05": 2671806000000,
+    "PassiveSkill04": 2671805000000,
+    "PassiveSkill07": 2671808000000,
+    "PassiveSkill06": 2671807000000,
+    "PassiveSkill01": 2671802000000,
+    "PassiveSkill03": 2671804000000,
+    "PassiveSkill02": 2671803000000,
+    "PassiveSkill09": 2671810000000,
+    "PassiveSkill08": 2671809000000,
+    "SupportSkill": 2671501000000,
     "CodexDisplay": true,
-    "PassiveSkill": 2661801000000,
-    "CoreAttack": 2661101000000,
+    "PassiveSkill": 2671801000000,
+    "CoreAttack": 2671101000000,
     "CollabID": 0,
     "SizeStandard": 2,
     "CodexDisplayTime": "",
@@ -6550,18 +6550,18 @@
     "SupporterDescTemp": "ChHunt.SupporterDescTemp.ID671",
     "BaseGrade": "SSR",
     "SkillGroupSet": [
-      2661001000000,
-      2661002000000,
-      2661003000000,
-      2661401000000,
-      2661402000000,
-      2661403000000,
-      2661601000000,
-      2661602000000
+      2671001000000,
+      2671002000000,
+      2671003000000,
+      2671401000000,
+      2671402000000,
+      2671403000000,
+      2671601000000,
+      2671602000000
     ],
     "ClassType": "Buster",
     "UnionSkill01": [
-      2661502000000
+      2671502000000
     ],
     "GachaAppearResource": "GoGunHee_MM_Gacha_Intro",
     "RecommendedStats3": "CriDam",
@@ -6576,23 +6576,23 @@
     "ActiveSkill04": [],
     "StringDesc": "",
     "ActiveSkill01": [
-      2661201000000
+      2671201000000
     ],
     "ActiveSkill02": [
-      2661301000000
+      2671301000000
     ],
     "ActiveSkill03": [],
     "BTRangeType": "Melee",
     "HunterCategory": [
-      "SpUltimateSkill",
+      "SpNormalSkill",
       "Burst"
     ],
     "setMainSubtitle": "Default",
     "BatteTipSkillLv": [
+      "CoreAttack",
       "UltimateSkill",
       "ActiveSkill02",
       "ActiveSkill01",
-      "CoreAttack",
       "QteSkill",
       "SupportSkill",
       "BaseAttack"
@@ -6603,7 +6603,7 @@
   },
   {
     "NameGroupId": 68,
-    "TrainingRoomComboGuide": 65,
+    "TrainingRoomComboGuide": 10681,
     "CharEventActionVoiceGroupID": 681,
     "CheatGain": true,
     "AttachWeaponGroupID": 681,
@@ -6624,7 +6624,7 @@
     "SupportSkill": 2681501000000,
     "CodexDisplay": true,
     "PassiveSkill": 2681801000000,
-    "CoreAttack": 2681101000000,
+    "CoreAttack": 0,
     "CollabID": 0,
     "SizeStandard": 2,
     "CodexDisplayTime": "2020-01-01T00:00:00+09:00",
@@ -6632,23 +6632,20 @@
     "MainStats": "Att",
     "HunterModeDescTemp": "ChHunt.HunterModeDescTemp.ID681",
     "OriginRank": "S",
-    "Guild": "Ahjin",
+    "Guild": "Unknown",
     "SupporterDescTemp": "ChHunt.SupporterDescTemp.ID681",
     "BaseGrade": "SSR",
     "SkillGroupSet": [
-      2681001000000,
-      2681002000000,
-      2681003000000,
+      2681001000100,
+      2681002000100,
+      2681003000100,
+      2681004000100,
       2681401000000,
       2681402000000,
       2681403000000,
       2681601000000,
       2681601000100,
-      2681601000200,
-      2681812000000,
-      2681812000100,
-      2681812000200,
-      2681812000300
+      2681601000200
     ],
     "ClassType": "Successor",
     "UnionSkill01": [],
@@ -6656,7 +6653,7 @@
     "RecommendedStats3": "CriDam",
     "RecommendedStats2": "Critical",
     "AutoSupporterConditionID": [
-      23,
+      19,
       25,
       26
     ],
@@ -6673,28 +6670,114 @@
     "ActiveSkill03": [],
     "BTRangeType": "Melee",
     "HunterCategory": [
-      "SpCoreAttack",
-      "UniqueMarble",
-      "Shadow"
+      "SpNormalAttack",
+      "UniqueMarble"
     ],
     "setMainSubtitle": "Default",
     "BatteTipSkillLv": [
       "ActiveSkill01",
-      "ActiveSkill02",
+      "ForTimes",
+      "BaseAttack",
+      "8",
       "QteSkill",
-      "ForTimes",
-      "CoreAttack",
-      "4",
-      "ActiveSkill01",
-      "ForTimes",
-      "CoreAttack",
-      "4",
       "ActiveSkill02",
+      "ForTimes",
+      "BaseAttack",
+      "8",
+      "QteSkill",
       "UltimateSkill"
     ],
     "PvpSpell": [],
     "SupporterUIBoldConditionID": [],
     "BTRoleType": "Attacker"
+  },
+  {
+    "NameGroupId": 69,
+    "TrainingRoomComboGuide": 66,
+    "CharEventActionVoiceGroupID": 691,
+    "CheatGain": true,
+    "AttachWeaponGroupID": 691,
+    "UpgradeID": 2500,
+    "MaxStack": 0,
+    "UltimateSkill": 2641901000000,
+    "ID": 691,
+    "PassiveSkill10": 2641811000000,
+    "PassiveSkill05": 2641806000000,
+    "PassiveSkill04": 2641805000000,
+    "PassiveSkill07": 2641808000000,
+    "PassiveSkill06": 2641807000000,
+    "PassiveSkill01": 2641802000000,
+    "PassiveSkill03": 2641804000000,
+    "PassiveSkill02": 2641803000000,
+    "PassiveSkill09": 2641810000000,
+    "PassiveSkill08": 2641809000000,
+    "SupportSkill": 2641501000000,
+    "CodexDisplay": true,
+    "PassiveSkill": 2641801000000,
+    "CoreAttack": 2641101000000,
+    "CollabID": 0,
+    "SizeStandard": 2,
+    "CodexDisplayTime": "2020-01-01T00:00:00+09:00",
+    "CommonEvolveMaterials": [],
+    "MainStats": "MHP",
+    "HunterModeDescTemp": "ChHunt.HunterModeDescTemp.ID691",
+    "OriginRank": "S",
+    "Guild": "Rivera",
+    "SupporterDescTemp": "ChHunt.SupporterDescTemp.ID691",
+    "BaseGrade": "SSR",
+    "SkillGroupSet": [
+      2641001000000,
+      2641002000000,
+      2641003000000,
+      2641401000000,
+      2641402000000,
+      2641403000000,
+      2641601000000
+    ],
+    "ClassType": "Supporter",
+    "UnionSkill01": [
+      2641502000000
+    ],
+    "GachaAppearResource": "ThaliaDeRossi_Gacha_Intro",
+    "RecommendedStats3": "CriDam",
+    "RecommendedStats2": "Critical",
+    "AutoSupporterConditionID": [
+      5,
+      6,
+      7
+    ],
+    "RecommendedStats1": "MHP",
+    "HunterBattleTip": "SysConstStr.BattleTip.691",
+    "ActiveSkill04": [],
+    "StringDesc": "",
+    "ActiveSkill01": [
+      2641201000000
+    ],
+    "ActiveSkill02": [
+      2641301000000
+    ],
+    "ActiveSkill03": [],
+    "BTRangeType": "Support",
+    "HunterCategory": [
+      "SpBuff",
+      "Shield",
+      "HealHP"
+    ],
+    "setMainSubtitle": "Default",
+    "BatteTipSkillLv": [
+      "UltimateSkill",
+      "ActiveSkill01",
+      "ActiveSkill02",
+      "CoreAttack",
+      "QteSkill",
+      "BaseAttack",
+      "SupportSkill"
+    ],
+    "PvpSpell": [],
+    "SupporterUIBoldConditionID": [
+      2
+    ],
+    "BTRoleType": "Support"
   },
   {
     "NameGroupId": 997,

@@ -10159,5 +10159,194 @@
     "UseSkipFadeOut": true,
     "TimeLinePrefab": "Baran_Boss_2_Intro_A",
     "Type": "Intro"
+  },
+  {
+    "ID": 1130,
+    "UseSkip": true,
+    "GroupID": 23801,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Sillad_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1131,
+    "UseSkip": true,
+    "GroupID": 23901,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Sillad_Human_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1132,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_SocialMotion",
+    "Type": "SocialMotion"
+  },
+  {
+    "ID": 1133,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 1134,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 1135,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_LobbyIdle",
+    "Type": "LobbySpawn"
+  },
+  {
+    "ID": 1136,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_TagOut",
+    "Type": "TagOut"
+  },
+  {
+    "ID": 1137,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_LobbyIdle",
+    "Type": "LobbyIdle"
+  },
+  {
+    "ID": 1138,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1139,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 1140,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_Fail_Endloop",
+    "Type": "FailIdle"
+  },
+  {
+    "ID": 1141,
+    "UseSkip": true,
+    "GroupID": 691,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "ThaliaDeRossi_Evolve",
+    "Type": "Evolve"
+  },
+  {
+    "ID": 1142,
+    "UseSkip": true,
+    "GroupID": 36901,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "IceGolem_Elite_Intro",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1143,
+    "UseSkip": true,
+    "GroupID": 36501,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Variant_Elite_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1144,
+    "UseSkip": true,
+    "GroupID": 23601,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Igris_Mutant_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1145,
+    "UseSkip": true,
+    "GroupID": 23501,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Kargalgan_Mutant_Boss_Intro_A",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1146,
+    "UseSkip": true,
+    "GroupID": 1009681,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Velvet_Win",
+    "Type": "Win"
+  },
+  {
+    "ID": 1147,
+    "UseSkip": true,
+    "GroupID": 1009681,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Velvet_Fail",
+    "Type": "Fail"
+  },
+  {
+    "ID": 1148,
+    "UseSkip": true,
+    "GroupID": 1009681,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Velvet_MiniGame_StartAction",
+    "Type": "Intro"
+  },
+  {
+    "ID": 1149,
+    "UseSkip": true,
+    "GroupID": 1009681,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Velvet_Win_Endloop",
+    "Type": "WinIdle"
+  },
+  {
+    "ID": 1150,
+    "UseSkip": true,
+    "GroupID": 1009681,
+    "Index": 0,
+    "UseSkipFadeOut": true,
+    "TimeLinePrefab": "Velvet_Fail_Endloop",
+    "Type": "FailIdle"
   }
 ]

@@ -28,7 +28,7 @@
   {
     "ID": 631,
     "DuplicationRewardGroup": 1601,
-    "GachaEventID": 8000102,
+    "GachaEventID": 0,
     "GrowthBgResourceNames": [
       "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn00",
       "BG_SuccessorGrowthSubview_SungJinWoo_Ashborn01",
@@ -50,5 +50,31 @@
     "WeaponResourceName": "Relic_SungJinWoo_Ashborn",
     "Type": "Monarch",
     "GrowthPrefab": "InventorySuccessorGrowthSubview_SungJinWoo_Ashborn"
+  },
+  {
+    "ID": 681,
+    "DuplicationRewardGroup": 1601,
+    "GachaEventID": 8000103,
+    "GrowthBgResourceNames": [
+      "BG_SuccessorGrowthSubview_Velvet00",
+      "BG_SuccessorGrowthSubview_Velvet01",
+      "BG_SuccessorGrowthSubview_Velvet02",
+      "BG_SuccessorGrowthSubview_Velvet03",
+      "BG_SuccessorGrowthSubview_Velvet04",
+      "BG_SuccessorGrowthSubview_Velvet05"
+    ],
+    "PortraitRotate": [
+      0.0,
+      0.0,
+      -50.0
+    ],
+    "WeaponStory": "It.StringStory.302030059",
+    "SuccessorTitleName": "SysConstStr.SuccessorName.Velvet",
+    "GrowthSpineName": "Successor_Velvet_Spine",
+    "EmblemResourseName": "Icon_Successor_Velvet",
+    "WeaponName": "It.StringName.302030059",
+    "WeaponResourceName": "Relic_Velvet",
+    "Type": "Monarch",
+    "GrowthPrefab": "InventorySuccessorGrowthSubview_Velvet"
   }
 ]

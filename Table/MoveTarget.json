@@ -267,15 +267,6 @@
     "Desc": ""
   },
   {
-    "ID": 32,
-    "Value1": 0,
-    "Title": "MoveTarget.MonCodex_Title",
-    "ContentsType": "MonCodex",
-    "ShortCutIndexes": [],
-    "ShortCutType": "Main",
-    "Desc": "EContentsType.MonCodex"
-  },
-  {
     "ID": 33,
     "Value1": 0,
     "Title": "MoveTarget.Craft_Title",
@@ -379,15 +370,6 @@
     "Value1": 0,
     "Title": "MoveTarget.Card_Title",
     "ContentsType": "Card",
-    "ShortCutIndexes": [],
-    "ShortCutType": "Main",
-    "Desc": ""
-  },
-  {
-    "ID": 45,
-    "Value1": 0,
-    "Title": "MoveTarget.MonCodex_Title",
-    "ContentsType": "MonCodex",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
     "Desc": ""
@@ -703,6 +685,15 @@
     "Desc": ""
   },
   {
+    "ID": 82,
+    "Value1": 0,
+    "Title": "MoveTarget.IsolationZone_Title",
+    "ContentsType": "IsolationZone",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
     "ID": 120,
     "Value1": 0,
     "Title": "",
@@ -837,6 +828,24 @@
     "Value1": 0,
     "Title": "MoveTarget.SeasonalCardCollectBook",
     "ContentsType": "SeasonalCardCollectBook",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 135,
+    "Value1": 671,
+    "Title": "MoveTarget.HunterStory_SpecialStage_Title",
+    "ContentsType": "HunterStory",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 136,
+    "Value1": 681,
+    "Title": "",
+    "ContentsType": "SuccessorStory",
     "ShortCutIndexes": [],
     "ShortCutType": "Main",
     "Desc": ""
@@ -6702,6 +6711,136 @@
       1014801,
       1014801,
       4813
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11253,
+    "Value1": 4901,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014901,
+      1014901,
+      4901
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11254,
+    "Value1": 4907,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014901,
+      1014901,
+      4907
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11255,
+    "Value1": 4910,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014901,
+      1014901,
+      4910
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11256,
+    "Value1": 5001,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5001
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11257,
+    "Value1": 5003,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5003
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11258,
+    "Value1": 5004,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5004
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11259,
+    "Value1": 5005,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5005
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11260,
+    "Value1": 5006,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5006
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11261,
+    "Value1": 5007,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5007
+    ],
+    "ShortCutType": "Story_Mission",
+    "Desc": ""
+  },
+  {
+    "ID": 11262,
+    "Value1": 5008,
+    "Title": "MoveTarget.StoryMission_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1015001,
+      1015001,
+      5008
     ],
     "ShortCutType": "Story_Mission",
     "Desc": ""
@@ -14995,6 +15134,18 @@
     "Desc": ""
   },
   {
+    "ID": 31061,
+    "Value1": 400012206,
+    "Title": "",
+    "ContentsType": "Shop",
+    "ShortCutIndexes": [
+      -1,
+      400012206
+    ],
+    "ShortCutType": "Shop_Goods",
+    "Desc": ""
+  },
+  {
     "ID": 40002,
     "Value1": 6001,
     "Title": "MoveTarget.Gacha_Tab",
@@ -15573,6 +15724,17 @@
     "ContentsType": "Gacha",
     "ShortCutIndexes": [
       3082
+    ],
+    "ShortCutType": "Gacha_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 40056,
+    "Value1": 3085,
+    "Title": "MoveTarget.Gacha_Tab",
+    "ContentsType": "Gacha",
+    "ShortCutIndexes": [
+      3085
     ],
     "ShortCutType": "Gacha_Tab",
     "Desc": ""
@@ -19185,6 +19347,17 @@
     "Desc": ""
   },
   {
+    "ID": 55176,
+    "Value1": 58001,
+    "Title": "",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      58001
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
     "ID": 60001,
     "Value1": 301010,
     "Title": "MoveTarget.Craft_Detail",
@@ -20652,6 +20825,116 @@
       403034
     ],
     "ShortCutType": "Craft_Detail",
+    "Desc": ""
+  },
+  {
+    "ID": 50161,
+    "Value1": 8000103,
+    "Title": "MoveTarget.Event_SuccessorGacha_Velvet",
+    "ContentsType": "SuccessorGacha",
+    "ShortCutIndexes": [
+      8000103
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 50162,
+    "Value1": 682,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      682
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50160,
+    "Value1": 679,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      679
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50163,
+    "Value1": 202800,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      202800
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50164,
+    "Value1": 8002004,
+    "Title": "MoveTarget.Event_Tab",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      8002004
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 50165,
+    "Value1": 1014901,
+    "Title": "MoveTarget.StoryChapter_Normal",
+    "ContentsType": "Story",
+    "ShortCutIndexes": [
+      1014901,
+      1014901
+    ],
+    "ShortCutType": "Story_Chapter",
+    "Desc": ""
+  },
+  {
+    "ID": 50166,
+    "Value1": 684,
+    "Title": "Event.DailyMission.1022.Title",
+    "ContentsType": "Event",
+    "ShortCutIndexes": [
+      684
+    ],
+    "ShortCutType": "Event_Tab",
+    "Desc": ""
+  },
+  {
+    "ID": 70021,
+    "Value1": 681,
+    "Title": "MoveTarget.Collection_Successor",
+    "ContentsType": "Collection",
+    "ShortCutIndexes": [
+      10,
+      681
+    ],
+    "ShortCutType": "Collection_Successor",
+    "Desc": ""
+  },
+  {
+    "ID": 1073,
+    "Value1": 0,
+    "Title": "MoveTarget.MissionRepeat_Title",
+    "ContentsType": "Mission",
+    "ShortCutIndexes": [
+      3
+    ],
+    "ShortCutType": "Main",
+    "Desc": ""
+  },
+  {
+    "ID": 1074,
+    "Value1": 0,
+    "Title": "MoveTarget.IdleSystem_StatueMaterial_Title",
+    "ContentsType": "IdleSystem",
+    "ShortCutIndexes": [],
+    "ShortCutType": "Main",
     "Desc": ""
   }
 ]

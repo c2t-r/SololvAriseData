@@ -5,6 +5,7 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 1,
     "ID": 1001001,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000001
   },
   {
@@ -13,6 +14,7 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 2,
     "ID": 1001002,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000002
   },
   {
@@ -21,6 +23,7 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 3,
     "ID": 1001003,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000003
   },
   {
@@ -29,6 +32,7 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 4,
     "ID": 1001004,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000004
   },
   {
@@ -37,6 +41,7 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 5,
     "ID": 1001005,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000005
   },
   {
@@ -45,6 +50,7 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 6,
     "ID": 1001006,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000006
   },
   {
@@ -53,6 +59,52 @@
     "AttendanceRewardGroup": 1001000,
     "Day": 7,
     "ID": 1001007,
+    "NeedMemberCount": 0,
     "RewardGroupID": 3000007
+  },
+  {
+    "Repeat": true,
+    "IsEmphasis": true,
+    "AttendanceRewardGroup": 1002000,
+    "Day": 0,
+    "ID": 2001001,
+    "NeedMemberCount": 0,
+    "RewardGroupID": 3000008
+  },
+  {
+    "Repeat": true,
+    "IsEmphasis": true,
+    "AttendanceRewardGroup": 1002000,
+    "Day": 0,
+    "ID": 2001002,
+    "NeedMemberCount": 5,
+    "RewardGroupID": 3000009
+  },
+  {
+    "Repeat": true,
+    "IsEmphasis": true,
+    "AttendanceRewardGroup": 1002000,
+    "Day": 0,
+    "ID": 2001003,
+    "NeedMemberCount": 15,
+    "RewardGroupID": 3000010
+  },
+  {
+    "Repeat": true,
+    "IsEmphasis": true,
+    "AttendanceRewardGroup": 1002000,
+    "Day": 0,
+    "ID": 2001004,
+    "NeedMemberCount": 25,
+    "RewardGroupID": 3000011
+  },
+  {
+    "Repeat": true,
+    "IsEmphasis": true,
+    "AttendanceRewardGroup": 1002000,
+    "Day": 0,
+    "ID": 2001005,
+    "NeedMemberCount": 35,
+    "RewardGroupID": 3000012
   }
 ]

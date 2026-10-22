@@ -128,5 +128,31 @@
     "Tab2Text": "",
     "Tab1Prefab": "StageDetailModule_BossAttribute",
     "eBattleEnterType": "MonarchCorridor"
+  },
+  {
+    "PausePage": true,
+    "ID": 12,
+    "Tab4Text": "",
+    "Tab3Text": "",
+    "Tab4Prefab": "",
+    "Tab2Prefab": "StageDetailModule_IsolationZone",
+    "Tab1Text": "SystemConstStr.Glossary.StageDetailBossAttribute",
+    "Tab3Prefab": "",
+    "Tab2Text": "SysConstStr.IsolationZoneMain.SeasonBuff",
+    "Tab1Prefab": "StageDetailModule_BossAttribute",
+    "eBattleEnterType": "IsolationZone"
+  },
+  {
+    "PausePage": true,
+    "ID": 13,
+    "Tab4Text": "",
+    "Tab3Text": "",
+    "Tab4Prefab": "",
+    "Tab2Prefab": "",
+    "Tab1Text": "SystemConstStr.Glossary.StageDetailBossAttribute",
+    "Tab3Prefab": "",
+    "Tab2Text": "",
+    "Tab1Prefab": "StageDetailModule_BossAttribute",
+    "eBattleEnterType": "InfiniteBattlefield"
   }
 ]

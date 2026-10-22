@@ -188,7 +188,7 @@
     "ID": 110002,
     "GoodsBuyLimitResetValue": 2,
     "Unused": true,
-    "GoodsListGroupID": 110003,
+    "GoodsListGroupID": 110002,
     "DisplayOrder": 6,
     "GoodsListType": "Fix",
     "GoodsBuyLimitResetType": "SpecificDayOfWeek",
@@ -622,5 +622,18 @@
     "GoodsListType": "Fix",
     "GoodsBuyLimitResetType": "SpecificDayOfWeek",
     "RefreshTime": "2026-04-09T09:00:00+09:00"
+  },
+  {
+    "RandomShopGroupID": 4000616,
+    "SubscribeType": true,
+    "GoodsListCount": 0,
+    "ID": 4000616,
+    "GoodsBuyLimitResetValue": 0,
+    "Unused": true,
+    "GoodsListGroupID": 4000616,
+    "DisplayOrder": 1,
+    "GoodsListType": "Fix",
+    "GoodsBuyLimitResetType": "None",
+    "RefreshTime": ""
   }
 ]

@@ -1405,6 +1405,34 @@
     "HunterName": "SysConstStr.ChName.DianaLopez"
   },
   {
+    "SPStageMileageLink": 6410001,
+    "RewardBoostGroupID": 64101,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 50,
+    "ID": 50,
+    "OpenLevel": 0,
+    "OpenKey": 0,
+    "EventGroupID": 50,
+    "BonusRewardCap": 8000,
+    "PoinIndex": 6410001,
+    "CollabID": 0,
+    "BGResource": "Levelup_City_HunterAssociation_Loading_Img",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.GoGunHee_MM",
+    "HunterIDs": [
+      671
+    ],
+    "HunterResource": "GoGunHee_MM_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "HunterStoryType": "Hunter",
+    "PointIcon": "Img_Profile_Icon_Hunter0671",
+    "HunterUnlockResource": "GoGunHee_MM",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.GoGunHee_MM"
+  },
+  {
     "SPStageMileageLink": 0,
     "RewardBoostGroupID": 0,
     "IsNew": true,
@@ -1459,5 +1487,33 @@
     "HunterUnlockResource": "SungJinWoo_Ashborn",
     "ListBanner": "",
     "HunterName": "SysConstStr.ChName.SungJinWoo_Ashborn"
+  },
+  {
+    "SPStageMileageLink": 0,
+    "RewardBoostGroupID": 0,
+    "IsNew": true,
+    "OpenStory": 0,
+    "OpenAble": true,
+    "SortOrder": 503,
+    "ID": 503,
+    "OpenLevel": 0,
+    "OpenKey": 0,
+    "EventGroupID": 503,
+    "BonusRewardCap": 0,
+    "PoinIndex": 0,
+    "CollabID": 0,
+    "BGResource": "Adan_Human_Boss_Body",
+    "OpenTime": "2023-04-07T10:00:00+09:00",
+    "EventName": "HunterStory.EventName.Velvet",
+    "HunterIDs": [
+      681
+    ],
+    "HunterResource": "Velvet_Portrait_Body",
+    "EndTime": "2030-10-29T09:59:59+09:00",
+    "HunterStoryType": "Successor",
+    "PointIcon": "",
+    "HunterUnlockResource": "Velvet",
+    "ListBanner": "",
+    "HunterName": "SysConstStr.ChName.Velvet"
   }
 ]

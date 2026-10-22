@@ -57,7 +57,7 @@
     "GachaDirection": "Myro_SuccessorGacha_Direction",
     "GachaDirectionCore": "Myro_SuccessorGacha_DirectionCore",
     "TopMenuDisplayItemIndex": [
-      40000003
+      40000006
     ],
     "RewardDirection": "Special_Myro_Gacha_2",
     "TopMenuDisplayItemSubType": [
@@ -79,7 +79,7 @@
     "GachaDirection": "Myro_SuccessorGacha_Direction",
     "GachaDirectionCore": "Myro_SuccessorGacha_DirectionCore",
     "TopMenuDisplayItemIndex": [
-      40000003
+      40000006
     ],
     "RewardDirection": "Special_Myro_Gacha_2",
     "TopMenuDisplayItemSubType": [
@@ -101,7 +101,7 @@
     "GachaDirection": "Myro_SuccessorGacha_Direction",
     "GachaDirectionCore": "Myro_SuccessorGacha_DirectionCore",
     "TopMenuDisplayItemIndex": [
-      40000003
+      40000006
     ],
     "RewardDirection": "Special_Myro_Gacha_2",
     "TopMenuDisplayItemSubType": [
@@ -123,12 +123,10 @@
     "GachaDirection": "SungJinWoo_Ashborn_SuccessorGacha_Direction",
     "GachaDirectionCore": "SungJinWoo_Ashborn_SuccessorGacha_DirectionCore",
     "TopMenuDisplayItemIndex": [
-      40000003,
-      40000004
+      40000006
     ],
     "RewardDirection": "Special_SungJinWoo_Ashborn_Gacha_2",
     "TopMenuDisplayItemSubType": [
-      "Material",
       "Material"
     ],
     "EnterDirection": "SungJinWoo_Ashborn_SuccessorGacha"
@@ -147,12 +145,10 @@
     "GachaDirection": "SungJinWoo_Ashborn_SuccessorGacha_Direction",
     "GachaDirectionCore": "SungJinWoo_Ashborn_SuccessorGacha_DirectionCore",
     "TopMenuDisplayItemIndex": [
-      40000003,
-      40000004
+      40000006
     ],
     "RewardDirection": "Special_SungJinWoo_Ashborn_Gacha_2",
     "TopMenuDisplayItemSubType": [
-      "Material",
       "Material"
     ],
     "EnterDirection": "SungJinWoo_Ashborn_SuccessorGacha"
@@ -171,14 +167,78 @@
     "GachaDirection": "SungJinWoo_Ashborn_SuccessorGacha_Direction",
     "GachaDirectionCore": "SungJinWoo_Ashborn_SuccessorGacha_DirectionCore",
     "TopMenuDisplayItemIndex": [
-      40000003,
-      40000004
+      40000006
     ],
     "RewardDirection": "Special_SungJinWoo_Ashborn_Gacha_2",
     "TopMenuDisplayItemSubType": [
-      "Material",
       "Material"
     ],
     "EnterDirection": "SungJinWoo_Ashborn_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 1,
+    "ID": 5200,
+    "SkinGachaRewardGroup": 5210,
+    "EventSkinGachaGroup": 5200,
+    "PriceGroup": 5201,
+    "CoreSkinGachaReward": 5200,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Velvet",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha1022_Policy_00",
+    "GachaDirection": "Velvet_SuccessorGacha_Direction",
+    "GachaDirectionCore": "Velvet_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000006
+    ],
+    "RewardDirection": "Special_Velvet_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Velvet_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 2,
+    "ID": 5201,
+    "SkinGachaRewardGroup": 5211,
+    "EventSkinGachaGroup": 5200,
+    "PriceGroup": 5201,
+    "CoreSkinGachaReward": 5201,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Velvet",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha1022_Policy_01",
+    "GachaDirection": "Velvet_SuccessorGacha_Direction",
+    "GachaDirectionCore": "Velvet_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000006
+    ],
+    "RewardDirection": "Special_Velvet_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Velvet_SuccessorGacha"
+  },
+  {
+    "GachaOrder": 3,
+    "ID": 5202,
+    "SkinGachaRewardGroup": 5212,
+    "EventSkinGachaGroup": 5200,
+    "PriceGroup": 5201,
+    "CoreSkinGachaReward": 5202,
+    "CoreGetAllReward": true,
+    "CoreSkinGachaRewardImg": "SuccessorGacha_CharIllust_Velvet",
+    "EventSkinGachaDesc": "SysConstStr.HighestGacha_Main_Desc00",
+    "GachaPolicy": "EventHighestGacha1022_Policy_02",
+    "GachaDirection": "Velvet_SuccessorGacha_Direction",
+    "GachaDirectionCore": "Velvet_SuccessorGacha_DirectionCore",
+    "TopMenuDisplayItemIndex": [
+      40000006
+    ],
+    "RewardDirection": "Special_Velvet_Gacha_2",
+    "TopMenuDisplayItemSubType": [
+      "Material"
+    ],
+    "EnterDirection": "Velvet_SuccessorGacha"
   }
 ]

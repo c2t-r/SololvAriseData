@@ -1269,8 +1269,8 @@
     "BattlePowerCorrection": 0,
     "EStatType": "ElementOverloadPenDam",
     "StatTypeDescMaxValue": "",
-    "Icon": "Stat_Water_Attribue_Damage",
-    "ToolTipText": "",
+    "Icon": "Stat_ElementOverloadPen",
+    "ToolTipText": "SysConstStr.ElementOverloadPenDam.ToolTipText",
     "RecommendStatType": [
       "ElementOverloadPenDam"
     ],
@@ -1291,7 +1291,7 @@
     "BattlePowerCorrection": 0,
     "EStatType": "ElementOverloadPenDamR",
     "StatTypeDescMaxValue": "",
-    "Icon": "Stat_Water_Attribue_Damage",
+    "Icon": "Stat_ElementOverloadPen",
     "ToolTipText": "SysConstStr.ElementOverloadPenDam.ToolTipText",
     "RecommendStatType": [
       "ElementOverloadPenDamR"

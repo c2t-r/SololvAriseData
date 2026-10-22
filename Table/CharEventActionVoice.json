@@ -4128,5 +4128,61 @@
     "GroupID": 681,
     "Priority": 5.0,
     "EventActionVoiceType": "TagIn"
+  },
+  {
+    "ID": 591,
+    "VoiceGroupID": 691001,
+    "GroupID": 691,
+    "Priority": 6.0,
+    "EventActionVoiceType": "Gallop"
+  },
+  {
+    "ID": 592,
+    "VoiceGroupID": 691002,
+    "GroupID": 691,
+    "Priority": 6.0,
+    "EventActionVoiceType": "UltimateSkill"
+  },
+  {
+    "ID": 593,
+    "VoiceGroupID": 691003,
+    "GroupID": 691,
+    "Priority": 1.0,
+    "EventActionVoiceType": "LowHP"
+  },
+  {
+    "ID": 594,
+    "VoiceGroupID": 691004,
+    "GroupID": 691,
+    "Priority": 3.0,
+    "EventActionVoiceType": "NormalMonster"
+  },
+  {
+    "ID": 595,
+    "VoiceGroupID": 691005,
+    "GroupID": 691,
+    "Priority": 3.0,
+    "EventActionVoiceType": "BossMonster"
+  },
+  {
+    "ID": 596,
+    "VoiceGroupID": 691006,
+    "GroupID": 691,
+    "Priority": 7.0,
+    "EventActionVoiceType": "Move"
+  },
+  {
+    "ID": 597,
+    "VoiceGroupID": 691008,
+    "GroupID": 691,
+    "Priority": 2.0,
+    "EventActionVoiceType": "BossPattern"
+  },
+  {
+    "ID": 598,
+    "VoiceGroupID": 691009,
+    "GroupID": 691,
+    "Priority": 5.0,
+    "EventActionVoiceType": "TagIn"
   }
 ]

@@ -2,23 +2,56 @@
   {
     "ID": 1,
     "BattleSquadID": 300101,
-    "BossName": "SysConstStr.ChName.ShadowIgris",
-    "ContentsMenuResource": "Icon_QuickMenu_IsolationZone_Igris",
-    "BossDesc": "It.StringDesc.200030016_01",
-    "BossSubName": "It.StringName.11063007",
-    "ContentsSubMenuResource": "Icon_QuickMenuSub_IsolationZone_Igris",
-    "LobbyVideoClip": "IsolationZone_Igris",
-    "BossPortrait": "IsolationZone_Igris_Boss"
+    "BossName": "SysConstStr.ChName.IgrisMutant_Boss",
+    "ContentsMenuResource": "Img_Contents2_Btn_IsolationZone_Igris",
+    "BossDesc": "IsolationZone.BossNarrative_Igris",
+    "BossSubName": "",
+    "ContentsSubMenuResource": "Img_ContentsMenuSub_IsolationZone_Igris",
+    "LobbyVideoClip": "Iso_Igris",
+    "BossPortrait": "Igris_Mutant_Boss"
   },
   {
     "ID": 2,
     "BattleSquadID": 300102,
-    "BossName": "SysConstStr.RaidReplica.BossName01",
-    "ContentsMenuResource": "Icon_QuickMenu_IsolationZone_Baran",
-    "BossDesc": "It.StringDesc.200030016_01",
-    "BossSubName": "It.StringName.11063007",
-    "ContentsSubMenuResource": "Icon_QuickMenuSub_IsolationZone_Baran",
-    "LobbyVideoClip": "IsolationZone_Baran",
+    "BossName": "SysConstStr.ChName.KargalganMutant_Boss",
+    "ContentsMenuResource": "Img_Contents2_Btn_IsolationZone_Kargalgan",
+    "BossDesc": "IsolationZone.BossNarrative_Kargalgan",
+    "BossSubName": "",
+    "ContentsSubMenuResource": "Img_ContentsMenuSub_IsolationZone_Kargalgan",
+    "LobbyVideoClip": "Iso_Kargalgan",
+    "BossPortrait": "Kargalgan_Mutant_Boss"
+  },
+  {
+    "ID": 3,
+    "BattleSquadID": 300103,
+    "BossName": "",
+    "ContentsMenuResource": "Img_Contents2_Btn_IsolationZone_Vulcan",
+    "BossDesc": "IsolationZone.BossNarrative_Vulcan",
+    "BossSubName": "",
+    "ContentsSubMenuResource": "Img_ContentsMenuSub_IsolationZone_Vulcan",
+    "LobbyVideoClip": "Iso_Vulcan",
+    "BossPortrait": "IsolationZone_Vulcan_Boss"
+  },
+  {
+    "ID": 4,
+    "BattleSquadID": 300104,
+    "BossName": "",
+    "ContentsMenuResource": "Img_Contents2_Btn_IsolationZone_Baran",
+    "BossDesc": "IsolationZone.BossNarrative_Baran",
+    "BossSubName": "",
+    "ContentsSubMenuResource": "Img_ContentsMenuSub_IsolationZone_Baran",
+    "LobbyVideoClip": "Iso_Baran",
     "BossPortrait": "IsolationZone_Baran_Boss"
+  },
+  {
+    "ID": 5,
+    "BattleSquadID": 300105,
+    "BossName": "",
+    "ContentsMenuResource": "Img_Contents2_Btn_IsolationZone_Deimos",
+    "BossDesc": "IsolationZone.BossNarrative_Deimos",
+    "BossSubName": "",
+    "ContentsSubMenuResource": "Img_ContentsMenuSub_IsolationZone_Deimos",
+    "LobbyVideoClip": "Iso_Deimos",
+    "BossPortrait": "IsolationZone_Deimos_Boss"
   }
 ]

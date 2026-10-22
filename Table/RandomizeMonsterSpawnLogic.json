@@ -13642,7 +13642,7 @@
     "KeymobID": 1,
     "TargetShare": true,
     "SpawnLogicGroupID": 70,
-    "ID": 451,
+    "ID": 429,
     "SpawnEliteMonsterCount": 0,
     "DetectingRange": 100.0,
     "SpawnFlagID": 0,
@@ -13673,7 +13673,7 @@
     "KeymobID": 2,
     "TargetShare": true,
     "SpawnLogicGroupID": 70,
-    "ID": 452,
+    "ID": 430,
     "SpawnEliteMonsterCount": 1,
     "DetectingRange": 100.0,
     "SpawnFlagID": 2,
@@ -13704,7 +13704,7 @@
     "KeymobID": 1,
     "TargetShare": true,
     "SpawnLogicGroupID": 71,
-    "ID": 453,
+    "ID": 431,
     "SpawnEliteMonsterCount": 1,
     "DetectingRange": 100.0,
     "SpawnFlagID": 0,
@@ -13735,7 +13735,7 @@
     "KeymobID": 2,
     "TargetShare": true,
     "SpawnLogicGroupID": 71,
-    "ID": 454,
+    "ID": 432,
     "SpawnEliteMonsterCount": 0,
     "DetectingRange": 100.0,
     "SpawnFlagID": 2,
@@ -13758,6 +13758,5214 @@
       1
     ],
     "SpawnSpot": "B_Mob_Spawn_1",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 433,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 51,
+    "TriggerGroupID": 41,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C1",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 434,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 52,
+    "TriggerGroupID": 42,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C2",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 435,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 53,
+    "TriggerGroupID": 43,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C3",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 436,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 54,
+    "TriggerGroupID": 44,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C4",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 437,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 55,
+    "TriggerGroupID": 45,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C5",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 438,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 56,
+    "TriggerGroupID": 46,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C6",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 439,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 57,
+    "TriggerGroupID": 47,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C7",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 440,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 58,
+    "TriggerGroupID": 48,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C8",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 441,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 111,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_015",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 442,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 111,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_016",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 443,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 111,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_016",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 444,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 111,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_019",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 445,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 111,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_022",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 446,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 111,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_022",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 447,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 112,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_014",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 448,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 112,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_015",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 449,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 112,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_015",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 450,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 112,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_020",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 451,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 112,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_022",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 452,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 112,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_022",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 453,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 113,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_014",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 454,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 113,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_014",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 455,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 113,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_017",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 456,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 113,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_021",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 457,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 113,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_022",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 458,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 113,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_022",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 459,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 121,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_028",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 460,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 121,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_029",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 461,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 121,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_029",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 462,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 121,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_032",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 463,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 121,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_036",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 464,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 121,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_038",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 465,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 122,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_029",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 466,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 122,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_030",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 467,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 122,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_035",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 468,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 122,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_037",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 469,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 122,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_037",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 470,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 122,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_039",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 471,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 123,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_029",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 472,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 123,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_031",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 473,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 123,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_031",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 474,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 123,
+    "TriggerGroupID": 11,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_036",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 475,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 123,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_038",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 476,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 123,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_040",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 477,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 131,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_060",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 478,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 131,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_062",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 479,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 131,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_065",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 480,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 131,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_069",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 481,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 131,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_071",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 482,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 131,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_073",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 483,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 132,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_059",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 484,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 132,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_063",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 485,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 132,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_064",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 486,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 132,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_068",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 487,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 132,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_071",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 488,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 132,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_073",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 489,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 133,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_060",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 490,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 133,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_062",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 491,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 133,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_065",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 492,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 133,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_070",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 493,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 133,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_071",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 494,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 133,
+    "TriggerGroupID": 12,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_074",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 495,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_079",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 496,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_081",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 497,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_081",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 498,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_084",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 499,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_089",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 500,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_090",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 501,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_090",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 502,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 141,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_093",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 503,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_079",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 504,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_080",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 505,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_080",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 506,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_083",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 507,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_087",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 508,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_089",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 509,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_089",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 510,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 142,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_091",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 511,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_080",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 512,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_081",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 513,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_081",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 514,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_084",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 515,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_088",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 516,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_091",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 517,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_091",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 518,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 143,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_092",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 519,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 161,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_122",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 520,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 161,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_123",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 521,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 161,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_126",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 522,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 161,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_129",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 523,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 161,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_130",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 524,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 162,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_122",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 525,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 162,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_123",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 526,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 162,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_126",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 527,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 162,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_128",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 528,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 162,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_131",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 529,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 163,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_121",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 530,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 163,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_124",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 531,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 163,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_127",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 532,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 163,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_129",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 533,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 163,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_131",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 534,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_142",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 535,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_144",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 536,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_144",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 537,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_147",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 538,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_149",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 539,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_152",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 540,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_155",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 541,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 171,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_155",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 542,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_143",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 543,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_144",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 544,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_147",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 545,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_149",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 546,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_149",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 547,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_153",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 548,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_155",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 549,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 172,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_155",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 550,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_142",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 551,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_144",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 552,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_144",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 553,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_148",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 554,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_150",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 555,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_150",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 556,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_152",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 557,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 173,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_154",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 558,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 181,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_162",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 559,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 181,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_163",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 560,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 181,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_168",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 561,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 181,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_169",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 562,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 182,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_162",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 563,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 182,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_163",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 564,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 182,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_167",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 565,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 182,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_168",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 566,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 183,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_162",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 567,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 183,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_163",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 568,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 183,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_166",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 569,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 183,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_167",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 570,
+    "SpawnEliteMonsterCount": 1,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 59,
+    "TriggerGroupID": 49,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_DecisionMarker_C9",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 571,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 191,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_180",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 572,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 191,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_183",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 573,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 191,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_187",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 574,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 192,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_180",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 575,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 192,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_183",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 576,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 192,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_187",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 577,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 193,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_180",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 578,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 193,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_183",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 579,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 193,
+    "TriggerGroupID": 15,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_187",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 580,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_097",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 581,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_099",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 582,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_099",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 583,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_102",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 584,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_104",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 585,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L2_106",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 586,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 151,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_113",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 587,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_098",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 588,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_099",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 589,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_104",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 590,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_106",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 591,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_106",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 592,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_109",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 593,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 152,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_113",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 594,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_098",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 595,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L1_100",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 596,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_103",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 597,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L0_105",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 598,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 1,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 0,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MapTrackPoint_AutoRunner_L2_105",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 599,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 13,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L0_108",
+    "RoamingRadius": [
+      0.0
+    ]
+  },
+  {
+    "KeymobID": 0,
+    "TargetShare": true,
+    "SpawnLogicGroupID": 521,
+    "ID": 600,
+    "SpawnEliteMonsterCount": 0,
+    "DetectingRange": 10.0,
+    "SpawnFlagID": 153,
+    "TriggerGroupID": 14,
+    "RepeatCount": 0,
+    "BeforeAIOnActiveType": true,
+    "SpawnNormalMonsterCount": 0,
+    "SpawnCondMonsterCount": 0,
+    "SpawnBossMonsterCount": 1,
+    "AIActiveType": true,
+    "RoamingWait": [
+      0.0
+    ],
+    "SpawnCond": "None",
+    "SpawnDelay": [
+      0.0
+    ],
+    "SpawnZone": "",
+    "SpawnCondGroupID": [
+      0
+    ],
+    "SpawnSpot": "MonsterPoint_AutoRunner_L1_113",
     "RoamingRadius": [
       0.0
     ]
