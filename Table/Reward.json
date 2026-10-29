@@ -154398,8 +154398,8 @@
   {
     "SubGroupID": 650210,
     "ID": 650210,
-    "RewardCountMin": 80,
-    "RewardCountMax": 80,
+    "RewardCountMin": 50,
+    "RewardCountMax": 50,
     "RewardItemRate": 0,
     "RewardID": 10093002,
     "FixedInfo": 0,
@@ -154418,10 +154418,21 @@
     "RewardType": "Material"
   },
   {
+    "SubGroupID": 650210,
+    "ID": 650213,
+    "RewardCountMin": 500,
+    "RewardCountMax": 500,
+    "RewardItemRate": 0,
+    "RewardID": 10093001,
+    "FixedInfo": 0,
+    "RewardCountDisplayType": "Min",
+    "RewardType": "Material"
+  },
+  {
     "SubGroupID": 650220,
     "ID": 650220,
-    "RewardCountMin": 70,
-    "RewardCountMax": 70,
+    "RewardCountMin": 45,
+    "RewardCountMax": 45,
     "RewardItemRate": 0,
     "RewardID": 10093002,
     "FixedInfo": 0,
@@ -154440,10 +154451,21 @@
     "RewardType": "Material"
   },
   {
+    "SubGroupID": 650220,
+    "ID": 650223,
+    "RewardCountMin": 450,
+    "RewardCountMax": 450,
+    "RewardItemRate": 0,
+    "RewardID": 10093001,
+    "FixedInfo": 0,
+    "RewardCountDisplayType": "Min",
+    "RewardType": "Material"
+  },
+  {
     "SubGroupID": 650230,
     "ID": 650230,
-    "RewardCountMin": 60,
-    "RewardCountMax": 60,
+    "RewardCountMin": 40,
+    "RewardCountMax": 40,
     "RewardItemRate": 0,
     "RewardID": 10093002,
     "FixedInfo": 0,
@@ -154462,6 +154484,17 @@
     "RewardType": "Material"
   },
   {
+    "SubGroupID": 650230,
+    "ID": 650233,
+    "RewardCountMin": 400,
+    "RewardCountMax": 400,
+    "RewardItemRate": 0,
+    "RewardID": 10093001,
+    "FixedInfo": 0,
+    "RewardCountDisplayType": "Min",
+    "RewardType": "Material"
+  },
+  {
     "SubGroupID": 650240,
     "ID": 650241,
     "RewardCountMin": 25,
@@ -154475,10 +154508,21 @@
   {
     "SubGroupID": 650240,
     "ID": 650242,
-    "RewardCountMin": 50,
-    "RewardCountMax": 50,
+    "RewardCountMin": 35,
+    "RewardCountMax": 35,
     "RewardItemRate": 0,
     "RewardID": 10093002,
+    "FixedInfo": 0,
+    "RewardCountDisplayType": "Min",
+    "RewardType": "Material"
+  },
+  {
+    "SubGroupID": 650240,
+    "ID": 650243,
+    "RewardCountMin": 350,
+    "RewardCountMax": 350,
+    "RewardItemRate": 0,
+    "RewardID": 10093001,
     "FixedInfo": 0,
     "RewardCountDisplayType": "Min",
     "RewardType": "Material"
@@ -154506,6 +154550,17 @@
     "RewardType": "Material"
   },
   {
+    "SubGroupID": 650250,
+    "ID": 650253,
+    "RewardCountMin": 300,
+    "RewardCountMax": 300,
+    "RewardItemRate": 0,
+    "RewardID": 10093001,
+    "FixedInfo": 0,
+    "RewardCountDisplayType": "Min",
+    "RewardType": "Material"
+  },
+  {
     "SubGroupID": 650260,
     "ID": 650261,
     "RewardCountMin": 15,
@@ -154519,10 +154574,21 @@
   {
     "SubGroupID": 650260,
     "ID": 650262,
-    "RewardCountMin": 10,
-    "RewardCountMax": 10,
+    "RewardCountMin": 20,
+    "RewardCountMax": 20,
     "RewardItemRate": 0,
     "RewardID": 10093002,
+    "FixedInfo": 0,
+    "RewardCountDisplayType": "Min",
+    "RewardType": "Material"
+  },
+  {
+    "SubGroupID": 650260,
+    "ID": 650263,
+    "RewardCountMin": 200,
+    "RewardCountMax": 200,
+    "RewardItemRate": 0,
+    "RewardID": 10093001,
     "FixedInfo": 0,
     "RewardCountDisplayType": "Min",
     "RewardType": "Material"
@@ -561244,10 +561310,10 @@
   {
     "SubGroupID": 2077708,
     "ID": 2077712,
-    "RewardCountMin": 20,
-    "RewardCountMax": 20,
+    "RewardCountMin": 40,
+    "RewardCountMax": 40,
     "RewardItemRate": 125,
-    "RewardID": 20701200,
+    "RewardID": 10093002,
     "FixedInfo": 0,
     "RewardCountDisplayType": "Min",
     "RewardType": "Material"
